@@ -10,51 +10,57 @@ const Page = ({
   footer,
   script,
   _relativeURL,
+  _nav,
   _ID
-}) => (
-  <html>
-    <head>
-      <title>Northern Fury</title>
-      <meta charSet="utf-8" />
-      <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
+}) => {
+  return (
+    <html>
+      <head>
+        <title>Northern Fury</title>
+        <meta charSet="utf-8" />
+        <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-      <link
-        rel="stylesheet"
-        href={_relativeURL(`/assets/css/normalize.css`, _ID)}
-      />
-      <link
-        rel="stylesheet"
-        href={_relativeURL(`/assets/css/skeleton.css`, _ID)}
-      />
-      <link rel="stylesheet" href={_relativeURL(`/assets/css/site.css`, _ID)} />
-      {stylesheet != undefined ? (
         <link
           rel="stylesheet"
-          href={_relativeURL(`/assets/css/${stylesheet}.css`, _ID)}
+          href={_relativeURL(`/assets/css/normalize.css`, _ID)}
         />
-      ) : null}
-    </head>
-    <body>
-      <div className="top">
-        <header>{header}</header>
-        {banner && (
-          <div className="banner">
-            <h1>{banner}</h1>
-          </div>
-        )}
+        <link
+          rel="stylesheet"
+          href={_relativeURL(`/assets/css/skeleton.css`, _ID)}
+        />
+        <link
+          rel="stylesheet"
+          href={_relativeURL(`/assets/css/site.css`, _ID)}
+        />
+        {stylesheet != undefined ? (
+          <link
+            rel="stylesheet"
+            href={_relativeURL(`/assets/css/${stylesheet}.css`, _ID)}
+          />
+        ) : null}
+      </head>
+      <body>
+        <div className="top">
+          <header>{header}</header>
+          {banner && (
+            <div className="banner">
+              <h1>{banner}</h1>
+            </div>
+          )}
 
-        <main>{main}</main>
-      </div>
+          <main>{main}</main>
+        </div>
 
-      <footer>{footer}</footer>
+        <footer>{footer}</footer>
 
-      {script != undefined ? (
-        <script src={_relativeURL(`/assets/js/${script}.js`, _ID)} />
-      ) : null}
-    </body>
-  </html>
-);
+        {script != undefined ? (
+          <script src={_relativeURL(`/assets/js/${script}.js`, _ID)} />
+        ) : null}
+      </body>
+    </html>
+  );
+};
 
 Page.propTypes = {
   /**

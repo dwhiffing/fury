@@ -3,16 +3,12 @@ layout: header
 tabs:
   home:
     label: Home
-    link: /
   about:
     label: About
-    link: /about
   overview:
     label: Overview
-    link: /overview
   nato:
     label: NATO
-    link: /nato
     items:
       - Belgium
       - Canada
@@ -30,7 +26,6 @@ tabs:
       - United States
   warsaw:
     label: WARSAW Pact
-    link: /warsaw
     items:
       - Bulgaria
       - Hungary
@@ -38,10 +33,8 @@ tabs:
       - Soviet Union
   scenarios:
     label: Scenarios
-    link: /scenarios
   contact:
     label: Contact & Support
-    link: /contact
 ---
 
 Northern Fury

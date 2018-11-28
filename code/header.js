@@ -4,19 +4,27 @@ import PropTypes from "prop-types";
 /**
  * Our new book component
  */
-const Header = ({ _body, tabs }) => (
+const Header = ({ _body, _nav, tabs }) => (
   <nav>
     <ul>
       {Object.keys(tabs).map(tabKey => {
         const tab = tabs[tabKey];
+        let path = _nav.index[tabKey] || "";
+        let pathName = typeof path === "string" ? path : tabKey;
         return (
           <li>
-            <a href={tab.link}>{tab.label}</a>
-            {tab.items && (
+            <a href={`/${pathName}`}>{tab.label}</a>
+            {typeof path === "object" && (
               <ul className="dropdown">
                 {tab.items.map(item => (
                   <li>
-                    <a href="#">{item}</a>
+                    <a
+                      href={`/${pathName}/${item
+                        .replace(/ /g, "_")
+                        .toLowerCase()}`}
+                    >
+                      {item}
+                    </a>
                   </li>
                 ))}
               </ul>
