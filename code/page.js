@@ -5,6 +5,7 @@ const Page = ({
   title,
   stylesheet,
   header,
+  banner,
   main,
   footer,
   script,
@@ -36,7 +37,12 @@ const Page = ({
     </head>
     <body>
       <div className="top">
-        <header role="banner">{header}</header>
+        <header>{header}</header>
+        {banner && (
+          <div className="banner">
+            <h1>{banner}</h1>
+          </div>
+        )}
 
         <main>{main}</main>
       </div>
