@@ -14,7 +14,7 @@ const Page = ({
 }) => (
   <html>
     <head>
-      <title>Cuttlebelle - {title}</title>
+      <title>Northern Fury</title>
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
