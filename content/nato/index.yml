@@ -1,0 +1,10 @@
+title: Page 1
+
+header:
+  - /_shared/header.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md
