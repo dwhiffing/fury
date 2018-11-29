@@ -10,20 +10,34 @@ tabs:
   nato:
     label: NATO
     items:
-      - Belgium
-      - Canada
-      - Denmark
-      - France
-      - Germany
-      - Greece
-      - Italy
-      - The Netherlands
-      - Norway
-      - Portugal
-      - Spain
-      - Turkey
-      - United Kingdom
-      - United States
+      - path: be
+        label: Belgium
+      - path: ca
+        label: Canada
+      - path: dk
+        label: Denmark
+      - path: fr
+        label: France
+      - path: de
+        label: Germany
+      - path: gr
+        label: Greece
+      - path: it
+        label: Italy
+      - path: nl
+        label: The Netherlands
+      - path: no
+        label: Norway
+      - path: pt
+        label: Portugal
+      - path: es
+        label: Spain
+      - path: tr
+        label: Turkey
+      - path: uk
+        label: United Kingdom
+      - path: us
+        label: United States
   warsaw:
     label: WARSAW Pact
     items:

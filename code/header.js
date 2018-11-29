@@ -16,17 +16,14 @@ const Header = ({ _body, _nav, tabs }) => (
             <a href={`/${pathName}`}>{tab.label}</a>
             {typeof path === "object" && (
               <ul className="dropdown">
-                {tab.items.map(item => (
-                  <li>
-                    <a
-                      href={`/${pathName}/${item
-                        .replace(/ /g, "_")
-                        .toLowerCase()}`}
-                    >
-                      {item}
-                    </a>
-                  </li>
-                ))}
+                {Object.keys(tab.items).map(itemKey => {
+                  const item = tab.items[itemKey];
+                  return (
+                    <li>
+                      <a href={`/${pathName}/${item.path}`}>{item.label}</a>
+                    </li>
+                  );
+                })}
               </ul>
             )}
           </li>
