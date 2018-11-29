@@ -1,7 +1,9 @@
+label: Germany
+
 header:
   - /_shared/header.md
 
-main: Northern Fury
+main: Germany
 
 footer:
   - /_shared/footer.md

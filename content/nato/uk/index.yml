@@ -1,7 +1,9 @@
+label: United Kingdom
+
 header:
   - /_shared/header.md
 
-main: Northern Fury
+main: United Kingdom
 
 footer:
   - /_shared/footer.md

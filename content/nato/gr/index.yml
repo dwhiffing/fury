@@ -1,7 +1,9 @@
+label: Greece
+
 header:
   - /_shared/header.md
 
-main: Northern Fury
+main: Greece
 
 footer:
   - /_shared/footer.md

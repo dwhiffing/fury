@@ -11,8 +11,16 @@ const Page = ({
   script,
   _relativeURL,
   _nav,
-  _ID
+  _ID,
+  ...props
 }) => {
+  const sidebar = _ID.split("/")[0];
+  const thing = _nav.index.nato[_ID];
+  const value = typeof thing === "string" ? thing.split("/")[1] : "";
+  if (_ID === "index") {
+    console.log(props);
+  }
+
   return (
     <html>
       <head>
@@ -50,6 +58,22 @@ const Page = ({
           )}
 
           <main>{main}</main>
+
+          {sidebar === "nato" && (
+            <div>
+              <ul>
+                {Object.keys(_nav.index.nato).map(key => (
+                  <li>
+                    <a href={`/${key}`}>{props._pages[key].label}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {sidebar === "warsaw" && <span>warsaw</span>}
+
+          {sidebar === "scenarios" && <span>scenarios</span>}
         </div>
 
         <footer>{footer}</footer>
