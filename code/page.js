@@ -1,6 +1,36 @@
 import PropTypes from "prop-types";
 import React from "react";
 
+const SideBar = ({ nav, pages, name }) => (
+  <div>
+    <ul>
+      {Object.keys(nav.index[name]).map(key => {
+        const countryNavData = nav.index[name][key];
+        const page = pages[key];
+
+        return (
+          <li>
+            <a href={`/${key}`}>{page.label}</a>
+
+            {typeof countryNavData === "object" && (
+              <ul>
+                {Object.keys(countryNavData).map(key => {
+                  const page = pages[key];
+                  return (
+                    <li>
+                      <a href={`/${key}`}>{page.label}</a>
+                    </li>
+                  );
+                })}
+              </ul>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+);
+
 const Page = ({
   title,
   stylesheet,
@@ -12,14 +42,12 @@ const Page = ({
   _relativeURL,
   _nav,
   _ID,
-  ...props
+  _pages
 }) => {
-  const sidebar = _ID.split("/")[0];
-  const thing = _nav.index.nato[_ID];
-  const value = typeof thing === "string" ? thing.split("/")[1] : "";
-  if (_ID === "index") {
-    console.log(props);
-  }
+  let sidebar = _ID.split("/")[0];
+  const label = _pages[_ID].label;
+
+  banner = banner || label;
 
   return (
     <html>
@@ -59,21 +87,9 @@ const Page = ({
 
           <main>{main}</main>
 
-          {sidebar === "nato" && (
-            <div>
-              <ul>
-                {Object.keys(_nav.index.nato).map(key => (
-                  <li>
-                    <a href={`/${key}`}>{props._pages[key].label}</a>
-                  </li>
-                ))}
-              </ul>
-            </div>
+          {["nato", "warsaw", "scenarios"].includes(sidebar) && (
+            <SideBar name={sidebar} nav={_nav} pages={_pages} />
           )}
-
-          {sidebar === "warsaw" && <span>warsaw</span>}
-
-          {sidebar === "scenarios" && <span>scenarios</span>}
         </div>
 
         <footer>{footer}</footer>

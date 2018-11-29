@@ -41,12 +41,21 @@ tabs:
   warsaw:
     label: WARSAW Pact
     items:
-      - Bulgaria
-      - Hungary
-      - Rumania
-      - Soviet Union
+      - path: bg
+        label: Bulgaria
+      - path: hu
+        label: Hungary
+      - path: ro
+        label: Rumania
+      - path: ru
+        label: Soviet Union
   scenarios:
     label: Scenarios
+    items:
+      - path: northern
+        label: Northern
+      - path: carribean
+        label: Carribean
   contact:
     label: Contact & Support
 ---

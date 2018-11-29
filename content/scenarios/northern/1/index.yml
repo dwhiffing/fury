@@ -1,9 +1,9 @@
-label: United States Army
+label: Northern Scenario 1
 
 header:
   - /_shared/header.md
 
-main: United States Army
+main: Northern Scenario 1
 
 footer:
   - /_shared/footer.md
