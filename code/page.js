@@ -54,9 +54,11 @@ const Page = ({
         )}
 
         <main>
-          {["nato", "warsaw", "scenarios"].includes(aside) && (
-            <Aside name={aside} nav={_nav} pages={_pages} />
-          )}
+          <aside>
+            {["nato", "warsaw", "scenarios"].includes(aside) && (
+              <Aside name={aside} nav={_nav} pages={_pages} />
+            )}
+          </aside>
 
           <section>
             <article>{main}</article>
