@@ -1,7 +1,7 @@
 label: Northern Scenario 2
 
-header:
-  - /_shared/header.md
+nav:
+  - /_shared/nav.md
 
 main: Northern Scenario 2
 

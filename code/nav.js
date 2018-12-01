@@ -1,12 +1,9 @@
 import React, { Fragment } from "react";
-import PropTypes from "prop-types";
 
-/**
- * Our new book component
- */
-const Header = ({ _body, _nav, tabs }) => (
+const Nav = ({ _nav, tabs }) => (
   <nav>
     <ul>
+      <img className="logo" src="/assets/images/logo.png" />
       {Object.keys(tabs).map(tabKey => {
         const tab = tabs[tabKey];
         let path = _nav.index[tabKey] || "";
@@ -33,4 +30,4 @@ const Header = ({ _body, _nav, tabs }) => (
   </nav>
 );
 
-export default Header;
+export default Nav;

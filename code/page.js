@@ -1,44 +1,17 @@
 import PropTypes from "prop-types";
 import React from "react";
+import Sidebar from "./sidebar";
+import Preheader from "./preheader";
 
-const SideBar = ({ nav, pages, name }) => (
-  <div>
-    <ul>
-      {Object.keys(nav.index[name]).map(key => {
-        const countryNavData = nav.index[name][key];
-        const page = pages[key];
-
-        return (
-          <li>
-            <a href={`/${key}`}>{page.label}</a>
-
-            {typeof countryNavData === "object" && (
-              <ul>
-                {Object.keys(countryNavData).map(key => {
-                  const page = pages[key];
-                  return (
-                    <li>
-                      <a href={`/${key}`}>{page.label}</a>
-                    </li>
-                  );
-                })}
-              </ul>
-            )}
-          </li>
-        );
-      })}
-    </ul>
-  </div>
-);
+const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />;
 
 const Page = ({
-  title,
-  stylesheet,
-  header,
+  nav,
   banner,
   main,
   footer,
   script,
+  stylesheet,
   _relativeURL,
   _nav,
   _ID,
@@ -57,46 +30,45 @@ const Page = ({
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <link
-          rel="stylesheet"
-          href={_relativeURL(`/assets/css/normalize.css`, _ID)}
-        />
-        <link
-          rel="stylesheet"
-          href={_relativeURL(`/assets/css/skeleton.css`, _ID)}
-        />
-        <link
-          rel="stylesheet"
-          href={_relativeURL(`/assets/css/site.css`, _ID)}
-        />
-        {stylesheet != undefined ? (
-          <link
-            rel="stylesheet"
+        <StyleSheet href="https://fonts.googleapis.com/css?family=Exo:300,400,500" />
+        <StyleSheet href="https://fonts.googleapis.com/css?family=Droid+Serif:300,400,500" />
+        <StyleSheet href={_relativeURL("/assets/css/normalize.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/skeleton.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/site.css", _ID)} />
+
+        {stylesheet && (
+          <StyleSheet
             href={_relativeURL(`/assets/css/${stylesheet}.css`, _ID)}
           />
-        ) : null}
+        )}
       </head>
+
       <body>
         <div className="top">
-          <header>{header}</header>
+          <Preheader />
+
+          {nav}
+
           {banner && (
             <div className="banner">
               <h1>{banner}</h1>
             </div>
           )}
 
-          <main>{main}</main>
+          <main>
+            {["nato", "warsaw", "scenarios"].includes(sidebar) && (
+              <Sidebar name={sidebar} nav={_nav} pages={_pages} />
+            )}
 
-          {["nato", "warsaw", "scenarios"].includes(sidebar) && (
-            <SideBar name={sidebar} nav={_nav} pages={_pages} />
-          )}
+            <div className="content">{main}</div>
+          </main>
         </div>
 
         <footer>{footer}</footer>
 
-        {script != undefined ? (
+        {script && (
           <script src={_relativeURL(`/assets/js/${script}.js`, _ID)} />
-        ) : null}
+        )}
       </body>
     </html>
   );

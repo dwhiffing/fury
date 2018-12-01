@@ -1,7 +1,7 @@
 label: United States Air Force
 
-header:
-  - /_shared/header.md
+nav:
+  - /_shared/nav.md
 
 main: United States Air Force
 

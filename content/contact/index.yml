@@ -1,7 +1,7 @@
 banner: Contact Northern Fury
 
-header:
-  - /_shared/header.md
+nav:
+  - /_shared/nav.md
 
 main:
   - body.md

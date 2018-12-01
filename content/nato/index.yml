@@ -1,6 +1,6 @@
 banner: NATO
-header:
-  - /_shared/header.md
+nav:
+  - /_shared/nav.md
 
 main: Northern Fury
 

@@ -1,5 +1,5 @@
 ---
-layout: header
+layout: nav
 tabs:
   home:
     label: Home
