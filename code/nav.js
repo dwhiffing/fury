@@ -17,11 +17,22 @@ const Nav = ({ _nav, tabs }) => (
             <ul className="dropdown">
               {Object.keys(tab.items).map(itemKey => {
                 const item = tab.items[itemKey];
+                const mainHref = `${prefix}/${pathName}/${item.path}`;
                 return (
                   <li>
-                    <a href={`${prefix}/${pathName}/${item.path}`}>
-                      {item.label}
-                    </a>
+                    <a href={mainHref}>{item.label}</a>
+                    {tab.label !== "Scenarios" && (
+                      <ul className="dropdown">
+                        {["Air Force", "Army", "Navy"].map(label => {
+                          const subPath = label.toLowerCase().replace(" ", "_");
+                          return (
+                            <li>
+                              <a href={`${mainHref}/${subPath}`}>{label}</a>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    )}
                   </li>
                 );
               })}

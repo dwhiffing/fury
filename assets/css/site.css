@@ -50,7 +50,7 @@ nav > ul > li {
   float: left;
   position: relative;
   text-decoration: none;
-  padding: 2.9rem 2.5rem;
+  padding: 3rem 2.5rem;
   margin: 0;
 }
 
@@ -75,7 +75,6 @@ nav > ul > li ul {
   margin-top: 1rem;
   left: -20px;
   top: 77px;
-  padding-top: 11px;
   display: none;
 }
 
@@ -95,11 +94,30 @@ nav > ul > li ul:hover {
   display: block;
 }
 
+ul.dropdown li:hover ul.dropdown {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  left: 110px;
+  top: -10px;
+}
+
 nav > ul > li ul li {
   clear: both;
   width: 100%;
   border-bottom: 1px solid #cecece;
-  padding: 0px 0 9px;
+  padding: 9px 0;
+  margin: 0;
+  position: relative;
+}
+
+nav > ul > li ul li ul li {
+  background-color: #ddd;
+  padding: 4px 0;
+}
+
+nav > ul > li ul li ul li a {
+  font-size: 11px;
 }
 
 nav .logo {
