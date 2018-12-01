@@ -1,9 +1,7 @@
-title Scenarios
+title: Scenarios
 
 nav:
   - /_shared/nav.md
 
 main:
   - body.md
-
-

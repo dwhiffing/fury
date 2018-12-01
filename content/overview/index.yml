@@ -1,9 +1,7 @@
-title Northern Fury Overview
+title: Northern Fury Overview
 
 nav:
   - /_shared/nav.md
 
 main:
   - body.md
-
-

@@ -1,9 +1,7 @@
-title WARSAW Pact
+title: WARSAW Pact
 
 nav:
   - /_shared/nav.md
 
 main:
   - body.md
-
-

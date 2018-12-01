@@ -1,9 +1,7 @@
-title Contact Northern Fury
+title: Contact Northern Fury
 
 nav:
   - /_shared/nav.md
 
 main:
   - body.md
-
-
