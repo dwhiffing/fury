@@ -7,8 +7,13 @@
     "babel-runtime": "^6.26.0",
     "turndown": "^5.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
   "scripts": {
+    "build": "NODE_ENV=production cuttlebelle",
+    "start": "cuttlebelle watch",
+    "deploy": "gh-pages -d site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
