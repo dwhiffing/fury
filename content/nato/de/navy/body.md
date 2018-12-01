@@ -1,1 +1,919 @@
-The Bundesmarine is primarily a focused on control of the western Baltic sea, although they have interests in the North Sea and routinely send units to exercise and patrol with NATO forces.\n\n**Marine Destroyers**: Although ageing these ships have been kept updated and are quite capable\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nLocation\n\nTask\n\nRemarks\n\nD 181\n\nHamburg\n\nHamburg\n\nActive\n\nAtlantic\n\nRetained\n\nD 182\n\nSchleswig-Holstein\n\nActive\n\nAtlantic\n\nRetained\n\nD 183\n\nBayern\n\nActive\n\nBaltic\n\nRetained\n\nD 185\n\nLutjens\n\nLütjens\n\nActive\n\nAtlantic\n\nD 186\n\nMölders\n\nActive\n\nBaltic\n\nD 187\n\nRommel\n\nActive\n\nAtlantic\n\n![](images/german navy/FGS-Hamburg.png)\n\nHamburg Class\n\n \n\n![](images/german navy/FGS-lutjens.jpg)\n\nFGS Lutjens\n\n \n\n**Frigates**: The Bremen Class are all quite new with the oldest (F 207) commissioned in 1982, and F 214 being commissioned in 1990. The Brandenburg class is newer yet with the lead ship completing her commissioning 6 months early in Feb 1994.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nLocation\n\nTask\n\nRemarks\n\nF 207\n\nBremen\n\nBremen\n\nActive\n\nAtlantic\n\nF 208\n\nNiedersachsen\n\nActive\n\nBaltic\n\nF 209\n\nRheinland-Pfalz\n\nActive\n\nBaltic\n\nF 210\n\nEmden\n\nActive\n\nMed\n\nF 211\n\nKöln\n\nActive\n\nBaltic\n\nF 212\n\nKarlsruhe\n\nActive\n\nAtlantic\n\nF 213\n\nAugsburg\n\nActive\n\nAtlantic\n\nF 214\n\nLübeck\n\nActive\n\nAtlantic\n\nF 215\n\nBrandenburg\n\nBrandenburg\n\nFitting out\n\nAtlantic\n\n![](images/german navy/FGS-Bremen-768x304.jpg)\n\nBremen Class\n\n \n\n![](images/german navy/FGS-Brandenberg-768x271.jpg)\n\nBrandenberg Class\n\n \n\n**Fast Attack Craft**: Large numbers of these craft are used in the narrow and shallow Baltic sea.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nLocation\n\nTask\n\nRemarks\n\nP 6111\n\nAlbatros\n\nAlbatros\n\nActive\n\nBaltic\n\nS61\n\nP 6112\n\nFalke\n\nActive\n\nBaltic\n\nS62\n\nP 6113\n\nGeier\n\nActive\n\nBaltic\n\nS63\n\nP 6114\n\nBussard\n\nActive\n\nBaltic\n\nS64\n\nP 6115\n\nSperber\n\nActive\n\nBaltic\n\nS65\n\nP 6116\n\nGreif\n\nActive\n\nBaltic\n\nS66\n\nP 6117\n\nKondor\n\nActive\n\nBaltic\n\nS67\n\nP 6118\n\nSeeadler\n\nActive\n\nBaltic\n\nS68\n\nP 6119\n\nHabicht\n\nActive\n\nBaltic\n\nS69\n\nP 6120\n\nKormoran\n\nActive\n\nBaltic\n\nS70\n\nP 6121\n\nGepard\n\nGepard\n\nActive\n\nBaltic\n\nS71\n\nP 6122\n\nPuma\n\nActive\n\nBaltic\n\nS72\n\nP 6123\n\nHermelin\n\nActive\n\nBaltic\n\nS73\n\nP 6124\n\nNerz\n\nActive\n\nBaltic\n\nS74\n\nP 6125\n\nZobel\n\nActive\n\nBaltic\n\nS75\n\nP 6126\n\nFrettchen\n\nActive\n\nBaltic\n\nS76\n\nP 6127\n\nDachs\n\nActive\n\nBaltic\n\nS77\n\nP 6128\n\nOzelot\n\nActive\n\nBaltic\n\nS78\n\nP 6129\n\nWiesel\n\nActive\n\nBaltic\n\nS79\n\nP 6130\n\nHyäne\n\nActive\n\nBaltic\n\nS80\n\nP 6140\n\nTiger\n\nKalypso\n\nActive\n\nBaltic\n\nS40\n\nP 6141\n\nTiger\n\nActive\n\nBaltic\n\nS41\n\nP 6142\n\nIltis\n\nActive\n\nBaltic\n\nS42\n\nP 6143\n\nLuchs\n\nActive\n\nBaltic\n\nS43\n\nP 6144\n\nMarder\n\nActive\n\nBaltic\n\nS44\n\nP 6145\n\nLeopard\n\nActive\n\nBaltic\n\nS45\n\nP 6146\n\nFuchs\n\nActive\n\nBaltic\n\nS46\n\nP 6147\n\nJaguar\n\nActive\n\nBaltic\n\nS47\n\nP 6148\n\nLöwe\n\nActive\n\nBaltic\n\nS48\n\nP 6149\n\nWolf\n\nActive\n\nBaltic\n\nS49\n\nP 6150\n\nPanther\n\nActive\n\nBaltic\n\nS50\n\nP 6151\n\nHäher\n\nActive\n\nBaltic\n\nS51\n\nP 6152\n\nStorch\n\nActive\n\nBaltic\n\nS52\n\nP 6153\n\nPelikan\n\nActive\n\nBaltic\n\nS53\n\nP 6154\n\nElster\n\nActive\n\nBaltic\n\nS54\n\nP 6155\n\nAlk\n\nActive\n\nBaltic\n\nS55\n\nP 6156\n\nDommel\n\nActive\n\nBaltic\n\nS56\n\nP 6157\n\nWeihe\n\nActive\n\nBaltic\n\nS57\n\nP 6158\n\nPinguin\n\nActive\n\nBaltic\n\nS58\n\nP 6159\n\nReiher\n\nActive\n\nBaltic\n\nS59\n\nP 6160\n\nKranich\n\nActive\n\nBaltic\n\nS60\n\n![](images/german navy/FGS-Albatros.jpg)\n\nAlbatros Class\n\n \n\n![](images/german navy/FGS-Gepard.jpg)\n\nGepard Class\n\n \n\n![](images/german navy/FGS-Tiger.jpg)\n\nTiger Class\n\n \n\n**Submarines**\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nLocation\n\nS 180\n\nType 205\n\nU-1\n\nActive\n\nBaltic\n\nS 181\n\nU-2\n\nActive\n\nBaltic\n\nS 182\n\nU-4\n\nActive\n\nBaltic\n\nS 183\n\nU-5\n\nActive\n\nBaltic\n\nS 184\n\nU-6\n\nActive\n\nBaltic\n\nS 185\n\nU-7\n\nActive\n\nBaltic\n\nS 186\n\nU-8\n\nActive\n\nBaltic\n\nS 187\n\nU-9\n\nActive\n\nBaltic\n\nS 188\n\nU-10\n\nActive\n\nBaltic\n\nS 189\n\nType 205A\n\nU-11\n\nActive\n\nBaltic\n\nS 190\n\nType 205B\n\nU-12\n\nActive\n\nBaltic\n\nS 192\n\nType 206\n\nU13\n\nActive\n\nBaltic\n\nS 193\n\nType 206\n\nU14\n\nActive\n\nBaltic\n\nS 194\n\nType 206A\n\nU15\n\nActive\n\nBaltic\n\nS 195\n\nType 206A\n\nU16\n\nActive\n\nBaltic\n\nS 196\n\nType 206A\n\nU17\n\nActive\n\nBaltic\n\nS 197\n\nType 206A\n\nU18\n\nActive\n\nBaltic\n\nS 198\n\nType 206\n\nU19\n\nActive\n\nBaltic\n\nS 199\n\nType 206\n\nU20\n\nActive\n\nBaltic\n\nS 170\n\nType 206\n\nU21\n\nActive\n\nBaltic\n\nS 171\n\nType 206A\n\nU22\n\nActive\n\nBaltic\n\nS 172\n\nType 206A\n\nU23\n\nActive\n\nBaltic\n\nS 173\n\nType 206A\n\nU24\n\nActive\n\nBaltic\n\nS 174\n\nType 206A\n\nU25\n\nActive\n\nBaltic\n\nS 175\n\nType 206A\n\nU26\n\nActive\n\nBaltic\n\nS 176\n\nType 206\n\nU27\n\nActive\n\nBaltic\n\nS 177\n\nType 206A\n\nActive\n\nBaltic\n\nS 178\n\nType 206A\n\nU29\n\nActive\n\nBaltic\n\nS 179\n\nType 206A\n\nU30\n\nActive\n\nBaltic\n\n![](images/german navy/FGS-Type-205-768x380.jpg)\n\nType 205\n\n \n\n![](images/german navy/ger-ype206-01-768x504.jpg)\n\nType 206
+The Bundesmarine is primarily a focused on control of the western Baltic sea, although they have interests in the North Sea and routinely send units to exercise and patrol with NATO forces.
+
+**Marine Destroyers**: Although ageing these ships have been kept updated and are quite capable
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Location
+
+Task
+
+Remarks
+
+D 181
+
+Hamburg
+
+Hamburg
+
+Active
+
+Atlantic
+
+Retained
+
+D 182
+
+Schleswig-Holstein
+
+Active
+
+Atlantic
+
+Retained
+
+D 183
+
+Bayern
+
+Active
+
+Baltic
+
+Retained
+
+D 185
+
+Lutjens
+
+Lütjens
+
+Active
+
+Atlantic
+
+D 186
+
+Mölders
+
+Active
+
+Baltic
+
+D 187
+
+Rommel
+
+Active
+
+Atlantic
+
+![](images/german navy/FGS-Hamburg.png)
+
+Hamburg Class
+
+![](images/german navy/FGS-lutjens.jpg)
+
+FGS Lutjens
+
+**Frigates**: The Bremen Class are all quite new with the oldest (F 207) commissioned in 1982, and F 214 being commissioned in 1990. The Brandenburg class is newer yet with the lead ship completing her commissioning 6 months early in Feb 1994.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Location
+
+Task
+
+Remarks
+
+F 207
+
+Bremen
+
+Bremen
+
+Active
+
+Atlantic
+
+F 208
+
+Niedersachsen
+
+Active
+
+Baltic
+
+F 209
+
+Rheinland-Pfalz
+
+Active
+
+Baltic
+
+F 210
+
+Emden
+
+Active
+
+Med
+
+F 211
+
+Köln
+
+Active
+
+Baltic
+
+F 212
+
+Karlsruhe
+
+Active
+
+Atlantic
+
+F 213
+
+Augsburg
+
+Active
+
+Atlantic
+
+F 214
+
+Lübeck
+
+Active
+
+Atlantic
+
+F 215
+
+Brandenburg
+
+Brandenburg
+
+Fitting out
+
+Atlantic
+
+![](images/german navy/FGS-Bremen-768x304.jpg)
+
+Bremen Class
+
+![](images/german navy/FGS-Brandenberg-768x271.jpg)
+
+Brandenberg Class
+
+**Fast Attack Craft**: Large numbers of these craft are used in the narrow and shallow Baltic sea.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Location
+
+Task
+
+Remarks
+
+P 6111
+
+Albatros
+
+Albatros
+
+Active
+
+Baltic
+
+S61
+
+P 6112
+
+Falke
+
+Active
+
+Baltic
+
+S62
+
+P 6113
+
+Geier
+
+Active
+
+Baltic
+
+S63
+
+P 6114
+
+Bussard
+
+Active
+
+Baltic
+
+S64
+
+P 6115
+
+Sperber
+
+Active
+
+Baltic
+
+S65
+
+P 6116
+
+Greif
+
+Active
+
+Baltic
+
+S66
+
+P 6117
+
+Kondor
+
+Active
+
+Baltic
+
+S67
+
+P 6118
+
+Seeadler
+
+Active
+
+Baltic
+
+S68
+
+P 6119
+
+Habicht
+
+Active
+
+Baltic
+
+S69
+
+P 6120
+
+Kormoran
+
+Active
+
+Baltic
+
+S70
+
+P 6121
+
+Gepard
+
+Gepard
+
+Active
+
+Baltic
+
+S71
+
+P 6122
+
+Puma
+
+Active
+
+Baltic
+
+S72
+
+P 6123
+
+Hermelin
+
+Active
+
+Baltic
+
+S73
+
+P 6124
+
+Nerz
+
+Active
+
+Baltic
+
+S74
+
+P 6125
+
+Zobel
+
+Active
+
+Baltic
+
+S75
+
+P 6126
+
+Frettchen
+
+Active
+
+Baltic
+
+S76
+
+P 6127
+
+Dachs
+
+Active
+
+Baltic
+
+S77
+
+P 6128
+
+Ozelot
+
+Active
+
+Baltic
+
+S78
+
+P 6129
+
+Wiesel
+
+Active
+
+Baltic
+
+S79
+
+P 6130
+
+Hyäne
+
+Active
+
+Baltic
+
+S80
+
+P 6140
+
+Tiger
+
+Kalypso
+
+Active
+
+Baltic
+
+S40
+
+P 6141
+
+Tiger
+
+Active
+
+Baltic
+
+S41
+
+P 6142
+
+Iltis
+
+Active
+
+Baltic
+
+S42
+
+P 6143
+
+Luchs
+
+Active
+
+Baltic
+
+S43
+
+P 6144
+
+Marder
+
+Active
+
+Baltic
+
+S44
+
+P 6145
+
+Leopard
+
+Active
+
+Baltic
+
+S45
+
+P 6146
+
+Fuchs
+
+Active
+
+Baltic
+
+S46
+
+P 6147
+
+Jaguar
+
+Active
+
+Baltic
+
+S47
+
+P 6148
+
+Löwe
+
+Active
+
+Baltic
+
+S48
+
+P 6149
+
+Wolf
+
+Active
+
+Baltic
+
+S49
+
+P 6150
+
+Panther
+
+Active
+
+Baltic
+
+S50
+
+P 6151
+
+Häher
+
+Active
+
+Baltic
+
+S51
+
+P 6152
+
+Storch
+
+Active
+
+Baltic
+
+S52
+
+P 6153
+
+Pelikan
+
+Active
+
+Baltic
+
+S53
+
+P 6154
+
+Elster
+
+Active
+
+Baltic
+
+S54
+
+P 6155
+
+Alk
+
+Active
+
+Baltic
+
+S55
+
+P 6156
+
+Dommel
+
+Active
+
+Baltic
+
+S56
+
+P 6157
+
+Weihe
+
+Active
+
+Baltic
+
+S57
+
+P 6158
+
+Pinguin
+
+Active
+
+Baltic
+
+S58
+
+P 6159
+
+Reiher
+
+Active
+
+Baltic
+
+S59
+
+P 6160
+
+Kranich
+
+Active
+
+Baltic
+
+S60
+
+![](images/german navy/FGS-Albatros.jpg)
+
+Albatros Class
+
+![](images/german navy/FGS-Gepard.jpg)
+
+Gepard Class
+
+![](images/german navy/FGS-Tiger.jpg)
+
+Tiger Class
+
+**Submarines**
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Location
+
+S 180
+
+Type 205
+
+U-1
+
+Active
+
+Baltic
+
+S 181
+
+U-2
+
+Active
+
+Baltic
+
+S 182
+
+U-4
+
+Active
+
+Baltic
+
+S 183
+
+U-5
+
+Active
+
+Baltic
+
+S 184
+
+U-6
+
+Active
+
+Baltic
+
+S 185
+
+U-7
+
+Active
+
+Baltic
+
+S 186
+
+U-8
+
+Active
+
+Baltic
+
+S 187
+
+U-9
+
+Active
+
+Baltic
+
+S 188
+
+U-10
+
+Active
+
+Baltic
+
+S 189
+
+Type 205A
+
+U-11
+
+Active
+
+Baltic
+
+S 190
+
+Type 205B
+
+U-12
+
+Active
+
+Baltic
+
+S 192
+
+Type 206
+
+U13
+
+Active
+
+Baltic
+
+S 193
+
+Type 206
+
+U14
+
+Active
+
+Baltic
+
+S 194
+
+Type 206A
+
+U15
+
+Active
+
+Baltic
+
+S 195
+
+Type 206A
+
+U16
+
+Active
+
+Baltic
+
+S 196
+
+Type 206A
+
+U17
+
+Active
+
+Baltic
+
+S 197
+
+Type 206A
+
+U18
+
+Active
+
+Baltic
+
+S 198
+
+Type 206
+
+U19
+
+Active
+
+Baltic
+
+S 199
+
+Type 206
+
+U20
+
+Active
+
+Baltic
+
+S 170
+
+Type 206
+
+U21
+
+Active
+
+Baltic
+
+S 171
+
+Type 206A
+
+U22
+
+Active
+
+Baltic
+
+S 172
+
+Type 206A
+
+U23
+
+Active
+
+Baltic
+
+S 173
+
+Type 206A
+
+U24
+
+Active
+
+Baltic
+
+S 174
+
+Type 206A
+
+U25
+
+Active
+
+Baltic
+
+S 175
+
+Type 206A
+
+U26
+
+Active
+
+Baltic
+
+S 176
+
+Type 206
+
+U27
+
+Active
+
+Baltic
+
+S 177
+
+Type 206A
+
+Active
+
+Baltic
+
+S 178
+
+Type 206A
+
+U29
+
+Active
+
+Baltic
+
+S 179
+
+Type 206A
+
+U30
+
+Active
+
+Baltic
+
+![](images/german navy/FGS-Type-205-768x380.jpg)
+
+Type 205
+
+![](images/german navy/ger-ype206-01-768x504.jpg)
+
+Type 206

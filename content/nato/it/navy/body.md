@@ -1,1 +1,291 @@
-Italy has a moderate sized navy known as the Marina Militare (MM) which had recently been modernized with some very capable ships, most of the older ships had been retired but some were still held in reserve preservation.\n\n**Aircraft Carrier**: Italy boasts one light Aircraft Carrier; The Giuseppe Garibaldi which is relatively new but holding only a limited air group of 12-16 AV-8B Harrier II+ and 12-18 helicopters of various types. The Harriers, historically delivered between 1994 and 1998 (3 were available for deployment of the Garibaldi in Jan 95), were accelerated into service and, although new with crew under training, they are available for the start of Northern Fury.\n\n![](images/italy navy/incrociatorePA_GiuseppeGaribaldi.jpg)\n\nC 551 Giuseppe Garibaldi\n\n \n\n**Guided Missile Helicopter Cruisers (CGH)**: Similar to the Soviet Moskva or French Jeanne d‘Arc, these ships were primarily focused on leading ASW Task Groups. Of the three, the two Andrea Doria class were tied up in reserve preservation but will make an appearance before the end of the Northern Fury Campaign.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nC 550\n\nVittorio Venito\n\nVittorio Venito\n\nActive\n\nC 553\n\nAndria Doria\n\nAndria Doria\n\nReserve\n\nC 554\n\nCaio Duilio\n\nReserve\n\n![](images/italy navy/C-550-Vittorio_Veneto.jpg)\n\nC 550 Vittorio Veneto\n\n \n\n![](images/italy navy/C-553-Andria-Doria-768x458.jpg)\n\nC 553 Andria Doria\n\n \n\n![](images/italy navy/C-554-Caio-Duilio-768x624.jpg)\n\nC 554 Caio Duilio\n\n \n\n**Destroyers**: Although Italy only had four Destroyers, the Audace Class was considered world class when built, now reaching mid life, this position was taken by the brand new Durand de la Penne class. All four are capable all round ships with excellent air defence, anti surface and ASW capabilities, and superb sensors. The one curiosity is the effectiveness of the AB.212 ASW helicopter.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nD 551\n\nAudace\n\nAudace\n\nD 550\n\nArdito\n\nD 560\n\nDurand de la Penne\n\nDurand de la Penne\n\nD 561\n\nFrancesco Mimbeli\n\n![](images/italy navy/audace_class_l1-768x646.jpg)\n\nAudace Class\n\n \n\n![](images/italy navy/Durand-de-la-Penne.jpg)\n\nDurand de la Penne Class\n\n \n\n**Frigates**: A total of 24 Frigates, Corvettes and Offshore Patrol Vessels (OPV) serve the Marina Militare. The Lupo class which was quite successful in foreign sails with 14 of 18 being sold offshore and four being commissioned. The Lupo‘s were followed by eight Maestrale‘s, another very successful class of ship suitable for diverse duties at home and abroad. The newly commissioned Minerva class FFL or Corvette was an excellent coastal ASW platform and the Cassiopeia class OPV rounded out the fleet.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nF 564\n\nLupo\n\nLupo\n\nPersian Gulf\n\nF 565\n\nSagittario\n\nF 566\n\nPerseo\n\nSTANAVFORLANT\n\nF 567\n\nOrsa\n\nF 570\n\nMaestrale\n\nMaestrale\n\nF 571\n\nGrecale\n\nF 572\n\nLibeccio\n\nF 573\n\nScirocco\n\nF 574\n\nAliseo\n\nPersian Gulf\n\nF 575\n\nEuro\n\nF 576\n\nEspero\n\nF 577\n\nZeffiro\n\nF 580\n\nAlpino\n\nAlpino\n\nF 581\n\nCarabiniere\n\nF 551\n\nMinerva\n\nMinerva\n\nF 552\n\nUrania\n\nF 553\n\nDanaide\n\nF 554\n\nSfinge\n\nF 555\n\nDriade\n\nF 556\n\nChimera\n\nF 557\n\nFenice\n\nF 558\n\nSibilla\n\nP 401\n\nCassiopea\n\nP 402\n\nLibra\n\nPersian Gulf\n\nP 403\n\nSpica\n\nIndian Ocean\n\nP 404\n\nVega\n\n![](images/italy navy/Lupo-Class-768x513.jpg)\n\nLupo Class\n\n \n\n![](images/italy navy/Maestrale-class-768x514.jpg)\n\nMaestrale class\n\n \n\n![](images/italy navy/Alpino-class-768x512.jpg)\n\nAlpino class\n\n \n\n![](images/italy navy/Minerva-Class-FFL.jpg)\n\nMinerva Class FFL\n\n \n\n![](images/italy navy/Cassiopea-Class-OPV-768x364.jpg)\n\nCassiopea Class OPV\n\n \n\n**Submarines**: All submarines in service with the MM were variations of the Sauro class.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nS 518\n\nNazario Sauro\n\nNazario Sauro\n\nS 519\n\nCarlo Fecia di Cossato\n\nS 520\n\nLeonardo da Vinci\n\nLeonardo da Vinci\n\nS 521\n\nGuglielmo Marconi\n\nS 522\n\nSalvatore Pelosi\n\nSalvatore Pelosi\n\nS 523\n\nGiuliano Prini\n\nS 524\n\nPrimo Longobardo\n\nPrimo Longobardo\n\n![](images/italy navy/nazario-sauro-class-768x329.jpg)\n\nSauro Class
+Italy has a moderate sized navy known as the Marina Militare (MM) which had recently been modernized with some very capable ships, most of the older ships had been retired but some were still held in reserve preservation.
+
+**Aircraft Carrier**: Italy boasts one light Aircraft Carrier; The Giuseppe Garibaldi which is relatively new but holding only a limited air group of 12-16 AV-8B Harrier II+ and 12-18 helicopters of various types. The Harriers, historically delivered between 1994 and 1998 (3 were available for deployment of the Garibaldi in Jan 95), were accelerated into service and, although new with crew under training, they are available for the start of Northern Fury.
+
+![](images/italy navy/incrociatorePA_GiuseppeGaribaldi.jpg)
+
+C 551 Giuseppe Garibaldi
+
+**Guided Missile Helicopter Cruisers (CGH)**: Similar to the Soviet Moskva or French Jeanne d‘Arc, these ships were primarily focused on leading ASW Task Groups. Of the three, the two Andrea Doria class were tied up in reserve preservation but will make an appearance before the end of the Northern Fury Campaign.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+C 550
+
+Vittorio Venito
+
+Vittorio Venito
+
+Active
+
+C 553
+
+Andria Doria
+
+Andria Doria
+
+Reserve
+
+C 554
+
+Caio Duilio
+
+Reserve
+
+![](images/italy navy/C-550-Vittorio_Veneto.jpg)
+
+C 550 Vittorio Veneto
+
+![](images/italy navy/C-553-Andria-Doria-768x458.jpg)
+
+C 553 Andria Doria
+
+![](images/italy navy/C-554-Caio-Duilio-768x624.jpg)
+
+C 554 Caio Duilio
+
+**Destroyers**: Although Italy only had four Destroyers, the Audace Class was considered world class when built, now reaching mid life, this position was taken by the brand new Durand de la Penne class. All four are capable all round ships with excellent air defence, anti surface and ASW capabilities, and superb sensors. The one curiosity is the effectiveness of the AB.212 ASW helicopter.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+D 551
+
+Audace
+
+Audace
+
+D 550
+
+Ardito
+
+D 560
+
+Durand de la Penne
+
+Durand de la Penne
+
+D 561
+
+Francesco Mimbeli
+
+![](images/italy navy/audace_class_l1-768x646.jpg)
+
+Audace Class
+
+![](images/italy navy/Durand-de-la-Penne.jpg)
+
+Durand de la Penne Class
+
+**Frigates**: A total of 24 Frigates, Corvettes and Offshore Patrol Vessels (OPV) serve the Marina Militare. The Lupo class which was quite successful in foreign sails with 14 of 18 being sold offshore and four being commissioned. The Lupo‘s were followed by eight Maestrale‘s, another very successful class of ship suitable for diverse duties at home and abroad. The newly commissioned Minerva class FFL or Corvette was an excellent coastal ASW platform and the Cassiopeia class OPV rounded out the fleet.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+F 564
+
+Lupo
+
+Lupo
+
+Persian Gulf
+
+F 565
+
+Sagittario
+
+F 566
+
+Perseo
+
+STANAVFORLANT
+
+F 567
+
+Orsa
+
+F 570
+
+Maestrale
+
+Maestrale
+
+F 571
+
+Grecale
+
+F 572
+
+Libeccio
+
+F 573
+
+Scirocco
+
+F 574
+
+Aliseo
+
+Persian Gulf
+
+F 575
+
+Euro
+
+F 576
+
+Espero
+
+F 577
+
+Zeffiro
+
+F 580
+
+Alpino
+
+Alpino
+
+F 581
+
+Carabiniere
+
+F 551
+
+Minerva
+
+Minerva
+
+F 552
+
+Urania
+
+F 553
+
+Danaide
+
+F 554
+
+Sfinge
+
+F 555
+
+Driade
+
+F 556
+
+Chimera
+
+F 557
+
+Fenice
+
+F 558
+
+Sibilla
+
+P 401
+
+Cassiopea
+
+P 402
+
+Libra
+
+Persian Gulf
+
+P 403
+
+Spica
+
+Indian Ocean
+
+P 404
+
+Vega
+
+![](images/italy navy/Lupo-Class-768x513.jpg)
+
+Lupo Class
+
+![](images/italy navy/Maestrale-class-768x514.jpg)
+
+Maestrale class
+
+![](images/italy navy/Alpino-class-768x512.jpg)
+
+Alpino class
+
+![](images/italy navy/Minerva-Class-FFL.jpg)
+
+Minerva Class FFL
+
+![](images/italy navy/Cassiopea-Class-OPV-768x364.jpg)
+
+Cassiopea Class OPV
+
+**Submarines**: All submarines in service with the MM were variations of the Sauro class.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+S 518
+
+Nazario Sauro
+
+Nazario Sauro
+
+S 519
+
+Carlo Fecia di Cossato
+
+S 520
+
+Leonardo da Vinci
+
+Leonardo da Vinci
+
+S 521
+
+Guglielmo Marconi
+
+S 522
+
+Salvatore Pelosi
+
+Salvatore Pelosi
+
+S 523
+
+Giuliano Prini
+
+S 524
+
+Primo Longobardo
+
+Primo Longobardo
+
+![](images/italy navy/nazario-sauro-class-768x329.jpg)
+
+Sauro Class

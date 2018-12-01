@@ -1,1 +1,235 @@
-The Greek Navy is fairly potent for the likely area of its employment, the Aegean Sea, a small congested area with a lot of traffic.\n\n**Destroyers**: These are modified Ex-American Charles F Adams class DD\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nRemarks\n\nD 218\n\nC.F. Adams\n\nKimon\n\nD 219\n\nNearchos\n\nD 220\n\nFormion\n\nD 221\n\nThemistoklis\n\n![](images/greece navy/Greek20navy20Charles20F20Adams20class_02-768x510.jpg)\n\nD 218 HS Kimon firing a Standard missile\n\n \n\n**Frigates**: The Hellenic Navy was moving away from Destroyers and investing in Frigates, unfortunately the change in political climate curbed the sale of several second hand ships to Greece, leaving her short on capability. The Elli class was a lengthened and modified version of the Dutch Kortenaer Class, the next two ships on the list were the first of six Kortenaer‘s that Greece purchased from the Dutch, the remaining four will remain in Dutch service for this campaign; the first of four Meko 200 class ships, the Hydra was built in Germany while the remaining examples were built in Greece and would be several more years in construction. The purchase of three Knox class from the US was canceled but was used as leverage to carry on with the purchase of F-16‘s, as detailed in the Air Force section.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nRemarks\n\nF 450\n\nElli\n\nElli\n\nKortenaer variant\n\nF 451\n\nLimnos\n\nF 459\n\nKortenaer\n\nAdrias\n\nF 460\n\nAigaion\n\nF 452\n\nMeko 200\n\nHydra\n\n![](images/greece navy/Elli-class-Batch-I-768x432.jpg)\n\nElli Class\n\n \n\n![](images/greece navy/Adrias_F459-768x509.jpg)\n\nF 459 HS Adrias\n\n \n\n![](images/greece navy/Hydra.jpg)\n\nHS Hydra\n\n \n\n**Fast Attack Craft**: In the restricted waters of the Aegean Sea this type of craft become far more powerful than their diminutive size would indicate. With the exception of a batch of La Comattante IIa that Germany retained, the numbers here remain historical.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nRemarks\n\nP 14\n\nLa Combattante II\n\nAnninos\n\nP 15\n\nArliotis\n\nP 16\n\nKonidis\n\nP 17\n\nBatsis\n\nP 18\n\nOsprey 55\n\nArmatolos\n\nP 19\n\nNavmachos\n\nSix La Combattante II a were not transferred from Germany\n\nP 20\n\nLa Combattante III\n\nLaskos\n\nP 21\n\nBlessas\n\nP 22\n\nMikonios\n\nP 23\n\nTroupakis\n\nP 24\n\nLa Combattante III b\n\nKavaloudis\n\nP 25\n\nKostakos\n\nP 26\n\nDegiannis\n\nP 27\n\nXenos\n\nP 28\n\nSimitzopoulos\n\nP 29\n\nStarakis\n\nP 57\n\nOsprey HSY55\n\nPyrpolitis\n\nP 61\n\nPolemistis\n\n![](images/greece navy/hs-simaiforos-768x551.jpg)\n\nLa Combattante IIIb\n\n \n\n**Submarines**: The Hellenic Navy operates some of the newest submarines in the region. The German built Type 209, in both the 1100 and the slightly larger 1200 variants.\n\nPennant\n\nClass\n\nShip\n\nStatus\n\nRemarks\n\nS 111\n\nType 209-1100\n\nNireus\n\nS 112\n\nTriton\n\nS 113\n\nProteus\n\nS 116\n\nType 209-1200\n\nProntos\n\nS 117\n\nAmphitriti\n\nS 118\n\nOkeanos\n\nS 119\n\nPoseidon\n\n![](images/greece navy/HS-Type-209-768x432.jpg)\n\nType 209-1200
+The Greek Navy is fairly potent for the likely area of its employment, the Aegean Sea, a small congested area with a lot of traffic.
+
+**Destroyers**: These are modified Ex-American Charles F Adams class DD
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Remarks
+
+D 218
+
+C.F. Adams
+
+Kimon
+
+D 219
+
+Nearchos
+
+D 220
+
+Formion
+
+D 221
+
+Themistoklis
+
+![](images/greece navy/Greek20navy20Charles20F20Adams20class_02-768x510.jpg)
+
+D 218 HS Kimon firing a Standard missile
+
+**Frigates**: The Hellenic Navy was moving away from Destroyers and investing in Frigates, unfortunately the change in political climate curbed the sale of several second hand ships to Greece, leaving her short on capability. The Elli class was a lengthened and modified version of the Dutch Kortenaer Class, the next two ships on the list were the first of six Kortenaer‘s that Greece purchased from the Dutch, the remaining four will remain in Dutch service for this campaign; the first of four Meko 200 class ships, the Hydra was built in Germany while the remaining examples were built in Greece and would be several more years in construction. The purchase of three Knox class from the US was canceled but was used as leverage to carry on with the purchase of F-16‘s, as detailed in the Air Force section.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Remarks
+
+F 450
+
+Elli
+
+Elli
+
+Kortenaer variant
+
+F 451
+
+Limnos
+
+F 459
+
+Kortenaer
+
+Adrias
+
+F 460
+
+Aigaion
+
+F 452
+
+Meko 200
+
+Hydra
+
+![](images/greece navy/Elli-class-Batch-I-768x432.jpg)
+
+Elli Class
+
+![](images/greece navy/Adrias_F459-768x509.jpg)
+
+F 459 HS Adrias
+
+![](images/greece navy/Hydra.jpg)
+
+HS Hydra
+
+**Fast Attack Craft**: In the restricted waters of the Aegean Sea this type of craft become far more powerful than their diminutive size would indicate. With the exception of a batch of La Comattante IIa that Germany retained, the numbers here remain historical.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Remarks
+
+P 14
+
+La Combattante II
+
+Anninos
+
+P 15
+
+Arliotis
+
+P 16
+
+Konidis
+
+P 17
+
+Batsis
+
+P 18
+
+Osprey 55
+
+Armatolos
+
+P 19
+
+Navmachos
+
+Six La Combattante II a were not transferred from Germany
+
+P 20
+
+La Combattante III
+
+Laskos
+
+P 21
+
+Blessas
+
+P 22
+
+Mikonios
+
+P 23
+
+Troupakis
+
+P 24
+
+La Combattante III b
+
+Kavaloudis
+
+P 25
+
+Kostakos
+
+P 26
+
+Degiannis
+
+P 27
+
+Xenos
+
+P 28
+
+Simitzopoulos
+
+P 29
+
+Starakis
+
+P 57
+
+Osprey HSY55
+
+Pyrpolitis
+
+P 61
+
+Polemistis
+
+![](images/greece navy/hs-simaiforos-768x551.jpg)
+
+La Combattante IIIb
+
+**Submarines**: The Hellenic Navy operates some of the newest submarines in the region. The German built Type 209, in both the 1100 and the slightly larger 1200 variants.
+
+Pennant
+
+Class
+
+Ship
+
+Status
+
+Remarks
+
+S 111
+
+Type 209-1100
+
+Nireus
+
+S 112
+
+Triton
+
+S 113
+
+Proteus
+
+S 116
+
+Type 209-1200
+
+Prontos
+
+S 117
+
+Amphitriti
+
+S 118
+
+Okeanos
+
+S 119
+
+Poseidon
+
+![](images/greece navy/HS-Type-209-768x432.jpg)
+
+Type 209-1200

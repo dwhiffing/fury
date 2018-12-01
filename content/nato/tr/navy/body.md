@@ -1,1 +1,332 @@
-Although the Danish Navy is focused on plugging the exit from the Baltic Sea into the Atlantic through the Skagerrak. The overseas responsibilities that Denmark has for Greenland and the Faroes islands which demand an ocean going navy.\n\nThe most important ships in the Danish Navy are the Niels Juel class Corvettes, actually small Frigates.\n\nPennant\n\nShip\n\nStatus\n\nLocation\n\nF 354\n\nNiels Juel\n\nActive\n\nAtlantic\n\nF 355\n\nOlfert Fischer\n\nActive\n\nAtlantic\n\nF 356\n\nPeter Tordenskiold\n\nActive\n\nAtlantic\n\n![](images/denmark navy/NJ-class-768x576.jpg)\n\nNiels Juel Class\n\n \n\n**Offshore Patrol Vessels**: Essentially Frigates capable of long range, long duration patrols. The singleton ship Beskytteren was followed by the very modern and capable Thetis class.\n\n![](images/denmark navy/Beskytteren.jpg)\n\nHMDS Beskytteren\n\n \n\nPennant\n\nShip\n\nStatus\n\nLocation\n\nTask\n\nF 340\n\nBeskytteren\n\nActive\n\nAtlantic\n\nF 357\n\nThetis\n\nActive\n\nAtlantic\n\nF 358\n\nTriton\n\nActive\n\nAtlantic\n\nF 359\n\nVædderen\n\nActive\n\nAtlantic\n\nF 360\n\nHvidbjørnen\n\nActive\n\nAtlantic\n\n![](images/denmark navy/Thetis.jpg)\n\nThetis Class\n\n \n\n#### Light Forces\n\nIn the confined waters of the Baltic approaches, the cut and thrust of light forces is critical. Using islands and narrow seas to shadow radar signatures, hide ambushing craft and allowing for quick escape lends itself to small, fast and powerful craft.\n\nThe Flyvefisken class was a modern, configurable class which was a new and novel concept for most navies. Built to either be either a Mine Countermeasures ship or a Combat craft, Northern Fury has both Series 1 and 2 completed by January 1994.\n\nPennant\n\nShip\n\nSeries\n\nConfiguration\n\nTask\n\nP550\n\nFlyvefisken \n(Flying fish)\n\nSeries 1\n\nMCM\n\nP551\n\nHajen \n(Shark)\n\nSeries 1\n\nMCM\n\nP552\n\nHavkatten \n(Catfish)\n\nSeries 1\n\nMCM\n\nP553\n\nLaxen \n(Salmon)\n\nSeries 1\n\nMCM\n\nP554\n\nMakrelen \n(Mackerel)\n\nSeries 1\n\nMCM\n\nP555\n\nStøren \n(Sturgeon)\n\nSeries 1\n\nMCM\n\nP556\n\nSvæ rdfisken \n(Swordfish)\n\nSeries 1\n\nMCM\n\nP557\n\nGlenten \n(Kite)\n\nSeries 2\n\nCombat\n\nP558\n\nGribben \n(Vulture)\n\nSeries 2\n\nSurveillance\n\nP559\n\nLommen \n(Loon)\n\nSeries 2\n\nSurveillance\n\nP560\n\nRavnen \n(Raven)\n\nSeries 2\n\nCombat\n\nP561\n\nSkaden \n(European magpie)\n\nSeries 2\n\nCombat\n\nP562\n\nViben \n(Northern lapwing)\n\nSeries 2\n\nCombat\n\n![](images/denmark navy/Skaden1994.jpg)\n\nFlyvefisken class\n\n \n\n**Willemoes Class**: A very potent class of missile craft, each equipped with 8x Harpoon missiles and 2 Torpedo tubes. A lot of firepower for a 24 man crew and able to travel at 38 Knts:\n\nPennant\n\nShip\n\nStatus\n\nLocation\n\nTask\n\nP540\n\nBille\n\nActive\n\nBaltic\n\nP541\n\nBredal\n\nActive\n\nBaltic\n\nP542\n\nHammer\n\nActive\n\nBaltic\n\nP543\n\nHuitfeldt\n\nActive\n\nBaltic\n\nP544\n\nKrieger\n\nActive\n\nBaltic\n\nP545\n\nNorby\n\nActive\n\nBaltic\n\nP546\n\nRodsteen\n\nActive\n\nBaltic\n\nP547\n\nSehested\n\nActive\n\nBaltic\n\nP548\n\nSuenson\n\nActive\n\nBaltic\n\nP549\n\nWillemoes\n\nActive\n\nBaltic\n\n![](images/denmark navy/WILLEMOES.jpg)\n\nWillemoes Class
+Although the Danish Navy is focused on plugging the exit from the Baltic Sea into the Atlantic through the Skagerrak. The overseas responsibilities that Denmark has for Greenland and the Faroes islands which demand an ocean going navy.
+
+The most important ships in the Danish Navy are the Niels Juel class Corvettes, actually small Frigates.
+
+Pennant
+
+Ship
+
+Status
+
+Location
+
+F 354
+
+Niels Juel
+
+Active
+
+Atlantic
+
+F 355
+
+Olfert Fischer
+
+Active
+
+Atlantic
+
+F 356
+
+Peter Tordenskiold
+
+Active
+
+Atlantic
+
+![](images/denmark navy/NJ-class-768x576.jpg)
+
+Niels Juel Class
+
+**Offshore Patrol Vessels**: Essentially Frigates capable of long range, long duration patrols. The singleton ship Beskytteren was followed by the very modern and capable Thetis class.
+
+![](images/denmark navy/Beskytteren.jpg)
+
+HMDS Beskytteren
+
+Pennant
+
+Ship
+
+Status
+
+Location
+
+Task
+
+F 340
+
+Beskytteren
+
+Active
+
+Atlantic
+
+F 357
+
+Thetis
+
+Active
+
+Atlantic
+
+F 358
+
+Triton
+
+Active
+
+Atlantic
+
+F 359
+
+Vædderen
+
+Active
+
+Atlantic
+
+F 360
+
+Hvidbjørnen
+
+Active
+
+Atlantic
+
+![](images/denmark navy/Thetis.jpg)
+
+Thetis Class
+
+#### Light Forces
+
+In the confined waters of the Baltic approaches, the cut and thrust of light forces is critical. Using islands and narrow seas to shadow radar signatures, hide ambushing craft and allowing for quick escape lends itself to small, fast and powerful craft.
+
+The Flyvefisken class was a modern, configurable class which was a new and novel concept for most navies. Built to either be either a Mine Countermeasures ship or a Combat craft, Northern Fury has both Series 1 and 2 completed by January 1994.
+
+Pennant
+
+Ship
+
+Series
+
+Configuration
+
+Task
+
+P550
+
+Flyvefisken
+(Flying fish)
+
+Series 1
+
+MCM
+
+P551
+
+Hajen
+(Shark)
+
+Series 1
+
+MCM
+
+P552
+
+Havkatten
+(Catfish)
+
+Series 1
+
+MCM
+
+P553
+
+Laxen
+(Salmon)
+
+Series 1
+
+MCM
+
+P554
+
+Makrelen
+(Mackerel)
+
+Series 1
+
+MCM
+
+P555
+
+Støren
+(Sturgeon)
+
+Series 1
+
+MCM
+
+P556
+
+Svæ rdfisken
+(Swordfish)
+
+Series 1
+
+MCM
+
+P557
+
+Glenten
+(Kite)
+
+Series 2
+
+Combat
+
+P558
+
+Gribben
+(Vulture)
+
+Series 2
+
+Surveillance
+
+P559
+
+Lommen
+(Loon)
+
+Series 2
+
+Surveillance
+
+P560
+
+Ravnen
+(Raven)
+
+Series 2
+
+Combat
+
+P561
+
+Skaden
+(European magpie)
+
+Series 2
+
+Combat
+
+P562
+
+Viben
+(Northern lapwing)
+
+Series 2
+
+Combat
+
+![](images/denmark navy/Skaden1994.jpg)
+
+Flyvefisken class
+
+**Willemoes Class**: A very potent class of missile craft, each equipped with 8x Harpoon missiles and 2 Torpedo tubes. A lot of firepower for a 24 man crew and able to travel at 38 Knts:
+
+Pennant
+
+Ship
+
+Status
+
+Location
+
+Task
+
+P540
+
+Bille
+
+Active
+
+Baltic
+
+P541
+
+Bredal
+
+Active
+
+Baltic
+
+P542
+
+Hammer
+
+Active
+
+Baltic
+
+P543
+
+Huitfeldt
+
+Active
+
+Baltic
+
+P544
+
+Krieger
+
+Active
+
+Baltic
+
+P545
+
+Norby
+
+Active
+
+Baltic
+
+P546
+
+Rodsteen
+
+Active
+
+Baltic
+
+P547
+
+Sehested
+
+Active
+
+Baltic
+
+P548
+
+Suenson
+
+Active
+
+Baltic
+
+P549
+
+Willemoes
+
+Active
+
+Baltic
+
+![](images/denmark navy/WILLEMOES.jpg)
+
+Willemoes Class
