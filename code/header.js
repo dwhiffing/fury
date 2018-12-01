@@ -1,8 +1,8 @@
 import React from "react";
 
-const Preheader = () => (
-  <div className="pre-header">
-    <div className="wrapper">
+const Header = () => (
+  <header>
+    <div className="container">
       <div className="float-left">
         <p>Alternative Cold War History 1994</p>
       </div>
@@ -14,7 +14,7 @@ const Preheader = () => (
         <a href="https://twitter.com/NorthernFury94">Twitter</a>
       </div>
     </div>
-  </div>
+  </header>
 );
 
-export default Preheader;
+export default Header;

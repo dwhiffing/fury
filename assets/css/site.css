@@ -137,19 +137,19 @@ h1 {
   max-width: 1120px;
 }
 
-.pre-header {
+header {
   background-color: #242b33;
 }
 
-.pre-header .wrapper {
+header .container {
   overflow: hidden;
   max-width: 1150px;
   margin: 0 auto;
   padding: 12px 20px;
 }
 
-.pre-header p,
-.pre-header a,
+header p,
+header a,
 span {
   color: #55616d;
   margin: 0;

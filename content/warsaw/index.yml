@@ -1,7 +1,7 @@
 banner: WARSAW Pact
 
-header:
-  - /_shared/header.md
+nav:
+  - /_shared/nav.md
 
 main:
   - body.md

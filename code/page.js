@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React from "react";
 import Sidebar from "./sidebar";
-import Preheader from "./preheader";
+import Header from "./header";
 
 const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />;
 
@@ -45,7 +45,7 @@ const Page = ({
 
       <body>
         <div className="top">
-          <Preheader />
+          <Header />
 
           {nav}
 
