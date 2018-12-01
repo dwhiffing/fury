@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header = () => (
-  <header>
+  <header className="about">
     <div className="container">
       <div className="float-left">
         <p>Alternative Cold War History 1994</p>

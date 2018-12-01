@@ -1,7 +1,7 @@
 import React from "react";
 
-const Sidebar = ({ nav, pages, name }) => (
-  <div className="sidebar">
+const Aside = ({ nav, pages, name }) => (
+  <aside>
     <ul>
       {Object.keys(nav.index[name]).map(key => {
         const countryNavData = nav.index[name][key];
@@ -27,6 +27,6 @@ const Sidebar = ({ nav, pages, name }) => (
         );
       })}
     </ul>
-  </div>
+  </aside>
 );
-export default Sidebar;
+export default Aside;

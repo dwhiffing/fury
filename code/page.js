@@ -1,13 +1,13 @@
 import PropTypes from "prop-types";
 import React from "react";
-import Sidebar from "./sidebar";
+import Aside from "./aside";
 import Header from "./header";
 
 const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />;
 
 const Page = ({
   nav,
-  banner,
+  title,
   main,
   footer,
   script,
@@ -17,10 +17,10 @@ const Page = ({
   _ID,
   _pages
 }) => {
-  let sidebar = _ID.split("/")[0];
+  let aside = _ID.split("/")[0];
   const label = _pages[_ID].label;
 
-  banner = banner || label;
+  title = title || label;
 
   return (
     <html>
@@ -44,25 +44,25 @@ const Page = ({
       </head>
 
       <body>
-        <div className="top">
-          <Header />
+        <Header />
 
-          {nav}
+        <nav>{nav}</nav>
 
-          {banner && (
-            <div className="banner">
-              <h1>{banner}</h1>
-            </div>
+        {title && (
+          <header className="title">
+            <h1>{title}</h1>
+          </header>
+        )}
+
+        <main>
+          {["nato", "warsaw", "scenarios"].includes(aside) && (
+            <Aside name={aside} nav={_nav} pages={_pages} />
           )}
 
-          <main>
-            {["nato", "warsaw", "scenarios"].includes(sidebar) && (
-              <Sidebar name={sidebar} nav={_nav} pages={_pages} />
-            )}
-
-            <div className="content">{main}</div>
-          </main>
-        </div>
+          <section>
+            <article>{main}</article>
+          </section>
+        </main>
 
         <footer>{footer}</footer>
 
