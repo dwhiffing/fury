@@ -1,0 +1,1 @@
+Italy is one of the founding members of NATO and a significant troop contributor. In addition to military forces, the strategic placement of many of its bases makes Italy a key stakeholder in NATO defence.

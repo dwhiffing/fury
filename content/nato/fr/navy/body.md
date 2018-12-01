@@ -1,0 +1,1 @@
+In addition to maintaining its strategic Nuclear Ballistic Missile Submarines (SSBN) the French Navy stations fleets both in the Atlantic and the Mediterranean as well as routine global deployments. The Naval Air Arm is of significant size but largely consists of older aircraft.
