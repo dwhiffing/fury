@@ -1,6 +1,6 @@
-label: Germany
+label: German
 
 nav:
   - /_shared/nav.md
 
-main: Germany
+main: body.md

@@ -1,0 +1,1 @@
+One of the original 12 nations that formed NATO in 1952, Belgium has a relatively small armed force but is completely integrated in the command structure and hosts NATO HQ in Brussels and SHAPE **(Supreme Headquarters Allied Powers Europe)**.

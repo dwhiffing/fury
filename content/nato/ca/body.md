@@ -1,0 +1,1 @@
+Canada was one of the original 12 NATO countries. The Canadian Armed forces are small and committed on two fronts; Defence of North America through NORAD and domestic responsibilities, and: Defence of Europe through NATO.
