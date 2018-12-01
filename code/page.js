@@ -9,7 +9,6 @@ const Page = ({
   nav,
   title,
   main,
-  footer,
   script,
   stylesheet,
   _relativeURL,
@@ -64,7 +63,7 @@ const Page = ({
           </section>
         </main>
 
-        <footer>{footer}</footer>
+        <footer>© 2017 Northern Fury.</footer>
 
         {script && (
           <script src={_relativeURL(`/assets/js/${script}.js`, _ID)} />
@@ -83,12 +82,7 @@ Page.propTypes = {
   /**
    * main: (partials)(5)
    */
-  main: PropTypes.node.isRequired,
-
-  /**
-   * footer: (partials)(2)
-   */
-  footer: PropTypes.node.isRequired
+  main: PropTypes.node.isRequired
 };
 
 Page.defaultProps = {};

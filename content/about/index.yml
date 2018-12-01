@@ -6,5 +6,3 @@ nav:
 main:
   - body.md
 
-footer:
-  - /_shared/footer.md
