@@ -1,10 +1,6 @@
 ---
 layout: nav
 tabs:
-  home:
-    label: Home
-  about:
-    label: About
   overview:
     label: Overview
   nato:

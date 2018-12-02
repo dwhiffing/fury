@@ -4,7 +4,9 @@ const prefix = process.env.NODE_ENV === "production" ? "/fury" : "";
 
 const Nav = ({ _nav, tabs }) => (
   <ul>
-    <img className="logo" src={`${prefix}/assets/images/logo.png`} />
+    <a href="/">
+      <img className="logo" src={`${prefix}/assets/images/logo.png`} />
+    </a>
     {Object.keys(tabs).map(tabKey => {
       const tab = tabs[tabKey];
       let path = _nav.index[tabKey] || "";
