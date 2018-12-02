@@ -8,13 +8,13 @@ The most important ships in the Danish Navy are the Niels Juel class Corvettes, 
 | F 355   | Olfert Fischer     | Active | Atlantic |
 | F 356   | Peter Tordenskiold | Active | Atlantic |
 
-![](images/denmark navy/NJ-class-768x576.jpg)
+![](/assets/images/nato/denmark navy/NJ-class-768x576.jpg)
 
 Niels Juel Class
 
 **Offshore Patrol Vessels**: Essentially Frigates capable of long range, long duration patrols. The singleton ship Beskytteren was followed by the very modern and capable Thetis class.
 
-![](images/denmark navy/Beskytteren.jpg)
+![](/assets/images/nato/denmark navy/Beskytteren.jpg)
 
 HMDS Beskytteren
 
@@ -26,7 +26,7 @@ HMDS Beskytteren
 | F 359   | Vædderen    | Active | Atlantic |
 | F 360   | Hvidbjørnen | Active | Atlantic |
 
-![](images/denmark navy/Thetis.jpg)
+![](/assets/images/nato/denmark navy/Thetis.jpg)
 
 Thetis Class
 
@@ -49,7 +49,7 @@ The Flyvefisken class was a modern, configurable class which was a new and novel
 | P561    | Skaden (European magpie) | Series 2                  | Combat        |      |
 | P562    | Viben (Northern lapwing) | Series 2                  | Combat        |      |
 
-![](images/denmark navy/Skaden1994.jpg)
+![](/assets/images/nato/denmark navy/Skaden1994.jpg)
 
 Flyvefisken class
 
@@ -68,6 +68,6 @@ Flyvefisken class
 | P548    | Suenson   | Active | Baltic   |      |
 | P549    | Willemoes | Active | Baltic   |      |
 
-![](images/denmark navy/WILLEMOES.jpg)
+![](/assets/images/nato/denmark navy/WILLEMOES.jpg)
 
 Willemoes Class

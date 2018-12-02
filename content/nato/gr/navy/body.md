@@ -9,7 +9,7 @@ The Greek Navy is fairly potent for the likely area of its employment, the Aegea
 | D 220   | Formion      |       |        |         |
 | D 221   | Themistoklis |       |        |         |
 
-![](images/greece navy/Greek20navy20Charles20F20Adams20class_02-768x510.jpg)
+![](/assets/images/nato/greece navy/Greek20navy20Charles20F20Adams20class_02-768x510.jpg)
 
 D 218 HS Kimon firing a Standard missile
 
@@ -23,12 +23,12 @@ D 218 HS Kimon firing a Standard missile
 | F 460   | Aigaion   |        |                   |         |
 | F 452   | Meko 200  | Hydra  |                   |         |
 
-![](images/greece navy/Elli-class-Batch-I-768x432.jpg)|
+![](/assets/images/nato/greece navy/Elli-class-Batch-I-768x432.jpg)|
 Elli Class|
-![](images/greece navy/Adrias_F459-768x509.jpg)|
+![](/assets/images/nato/greece navy/Adrias_F459-768x509.jpg)|
 F 459 HS Adrias|
 
-![](images/greece navy/Hydra.jpg)
+![](/assets/images/nato/greece navy/Hydra.jpg)
 
 HS Hydra
 
@@ -55,7 +55,7 @@ HS Hydra
 | P 57    | Osprey HSY55         | Pyrpolitis                                                |
 | P 61    | Polemistis           |
 
-![](images/greece navy/hs-simaiforos-768x551.jpg)
+![](/assets/images/nato/greece navy/hs-simaiforos-768x551.jpg)
 
 La Combattante IIIb
 
@@ -69,6 +69,6 @@ La Combattante IIIb
 | S 117   | Amphitriti    |         | S 118  | Okeanos |
 | S 119   | Poseidon      |
 
-![](images/greece navy/HS-Type-209-768x432.jpg)
+![](/assets/images/nato/greece navy/HS-Type-209-768x432.jpg)
 
 Type 209-1200

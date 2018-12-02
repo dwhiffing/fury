@@ -1,24 +1,24 @@
 The United States Air Force (USAF) in 1994 had historically been reduced by 30% from a 1986 strength of around 608,000 to 426,000 and was shrinking rapidly. In Northern Fury, due to increased tensions in Europe and around the globe, the strength is reduced from the mid ‘80s but by a much smaller margin. The Northern Fury USAF has about 600,000 personnel in 1994 and this number has been stable for the past two years. Many of the changes implemented by the various BRAC (Base Realignment and Closure Commission) reviews (1988, 1991, 1993) do not occur, realignment where it was reasonable happened but most bases remain open, specifics are noted where it makes a difference. Structurally the changes that occurred historically remain extant because they made sense in an evolving world. The fundamental structure of the USAF looks like this:
 
-![](images/The United States Air Force/image001.png)
+![](/assets/images/nato/The United States Air Force/image001.png)
 
 **Air Combat Command**: Air Combat Command (ACC), headquartered at Langley AFB, Virginia, is the primary provider of combat air forces to reinforce regional commands around the globe or to defend North America. ACC‘s main focus is the training and preparation of combat ready fighter, bomber, reconnaissance, rescue and Battle management forces for rapid deployment or employment. This is a large command with over 230,000 regular and reserve personnel and over 1,000 aircraft.
 
-![](images/The United States Air Force/image002.png)
+![](/assets/images/nato/The United States Air Force/image002.png)
 
 **Air Mobility Command**: Air Mobility Command (AMC) is another very large command which provides the USAF and the US Armed Forces as a whole with global rapid deployment options. This command is constantly busy performing air lift, air refueling, aeromedical evacuations and many other minor tasks every day of the year. With 125,000 personnel and about 925 airframes, this is the second largest command in the Air Force.
 
-![](images/The United States Air Force/image003.png)
+![](/assets/images/nato/The United States Air Force/image003.png)
 
 **Pacific Air Forces**: Pacific Air Forces (PACAF) are the USAF‘s forward deployed combat and support elements in the Pacific theatre. Although relatively small with 46,000 personnel and about 330 aircraft, this still represents a significant force in the region, over 260 of the aircraft being front line combat types. One of the major tasks performed by PACAF, besides deterrence, is to train with Asian and Australian Air Forces as a way of leveraging the combat power of those nations toward a unified command system.
 
-![](images/The United States Air Force/image004.png)
+![](/assets/images/nato/The United States Air Force/image004.png)
 
 **US Air Force in Europe**: US Air Force in Europe (USAFE) with its HQ at Ramstein, Germany, supplies forces to Allied Command Europe (ACE) through dedicated air wings under the control of the various NATO Air Forces. 2 and 4 Allied Tactical Air Force (ATAF) in northern Europe are both under the command of Allied Air Forces Central Europe (AIRCENT), essentially USAFE HQ under a different name. For forces allocated to southern Europe, primarily 16th US Air Force, NATO‘s 5 and 6 ATAF will control operations under the direction of Allied Air Forces Southern Europe (AIRSOUTH) located at Naples Italy.
 
 Unsurprisingly, the most significant impact of Northern Fury‘s changes occur in Europe. Historically, after ‘Peace Dividend‘ reductions, only eight Fighter Squadrons in three wings remained in Europe with about 175 front line combat aircraft. In Northern Fury, there are 12 Fighter Wings remaining in Europe, with 28 Squadrons and another 8 are on immediate recall from the Continental US (CONUS). This totals up as 860 front line aircraft and between 50 and 100 tankers, transport and reconnaissance aircraft in support. USAFE will grow well beyond this as the well-practiced flyover reinforcement program continues, swelling to more than double this number.
 
-![](images/The United States Air Force/image005.png) ![](images/The United States Air Force/image006.png)
+![](/assets/images/nato/The United States Air Force/image005.png) ![](/assets/images/nato/The United States Air Force/image006.png)
 
 **Air Force Special Operation Command**: Based at Hurlburt Field, Florida, the Air Force Special Operation Command (AFSOC) only became a separate command in May of 1990 when the former 23rd Air Force was re-designated to this role. AFSOC has a wide ranging list of tasks including:
 
@@ -33,15 +33,15 @@ Unsurprisingly, the most significant impact of Northern Fury‘s changes occur i
 
 AFSOC is a small, agile organization which runs its own school, test and evaluation unit and deployable Command and Control elements. Operating a fleet of over 100 special mission C-130s, 36 MH-53 heavy lift helicopters and several MH-60‘s, this force can deploy elements globally either as individual aircraft or as mission tailored groups on very short notice.
 
-![](images/The United States Air Force/image007.png)
+![](/assets/images/nato/The United States Air Force/image007.png)
 
 **Air Force Space Command**: Air Force Space Command (AFSPC) is another new command, it was established in 1982 to control all US military satellites, launch vehicles, space tracking and ballistic missile warning systems. The role of AFSPC increased substantially in 1993 when it inherited responsibility for all Intercontinental Ballistic Missiles (ICBM) from the defunct Strategic Air Command (SAC). Additionally, the commander of AFSC is also the commander of the North American Air Defense Command (NORAD), the bi-lateral command between the US and Canada for defending North American airspace from intrusion. This relatively small command has about 39,000 personnel, half of them civilian, but is located in over 80 locations around the world. Two numbered Air Forces in the command coordinate and control 580 ICBMs and over 50 communications, GPS, reconnaissance, ballistic missile warning and weather satellites.
 
-![](images/The United States Air Force/image008.png)
+![](/assets/images/nato/The United States Air Force/image008.png)
 
 **Air Force Reserve**: In 1994, the Air Force Reserve (AFR) is an agency within the Air Force, it does not become a command until 1997. As an element with 80,000 personnel and nearly 500 aircraft however, the Reserve is a major component of the USAF. Many of the wings and squadrons of the AFR are ‘associated‘ with regular USAF wings and squadrons, primarily in AMC where the aircrew often share aircraft or combine regular and reserve on the same crew. Within the AFR structure there are three numbered Air Forces, 37 wings, 128 groups and about 400 squadrons (many without aircraft). There are some minor changes due to the Northern Fury setting but nothing significant. Not all detail is shown in the diagram below:
 
-![](images/The United States Air Force/image009.png)
+![](/assets/images/nato/The United States Air Force/image009.png)
 
 **Air Force National Guard**: Commonly referred to simply as the ‘Air Guard‘ or simply the ‘Guard‘ this is another large element of the USAF with over 111,000 personnel flying in 88 wings from every state of the country. The Air Guard provides trained units and people directly to the other commands. Unlike the ARS, these units belong to the State Governors until federalized for operations. Standing agreements exist for NORAD and many other domestic activities, but special permissions are needed to deploy Air Guard units overseas. No numbered Air Forces are operated by the Air Guard and many wings consist of only one squadron. Northern Fury has some significant changes that impact this element, primarily because the active air force maintains many squadrons that were historically deactivated. By 1994 the Air Guard was receiving a significant number of very new aircraft as regular units closed down, but since that does not happen, the Guard was maintaining many older aircraft until production of newer airframes could catch up to demand. The Air Guard flies over 1,500 aircraft in 109 squadrons as follows:
 
@@ -70,7 +70,7 @@ AFSOC is a small, agile organization which runs its own school, test and evaluat
 
 **Air Force Training and Education Command**: The Training Command (ATEC) is worth noting simply because of the scale at which the USAF conducts training. At any time, there are over 60,000 assigned personnel and around 350,000 students within the command. Although flight training is only one of many functions of ATEC, it operates over 1,500 aircraft in two numbers air forces, including over 350 front line aircraft!
 
-![](images/The United States Air Force/image010.png)
+![](/assets/images/nato/The United States Air Force/image010.png)
 
 **Air Force Materiel Command**: Procurement, life cycle management, testing and evaluation as well as routine logistic support is the role of the AFMC. With over 115,000 personnel and operating 40 different types of aircraft, this is a large command. AFMC also operates the ‘Test Pilot‘ school and works with industry to develop and evolve aircraft.
 

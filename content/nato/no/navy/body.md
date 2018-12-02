@@ -10,7 +10,7 @@
 | F 303   | Stevanger |      | Active | North Patrol |      |
 | F 304   | Narvik    |      | Active | South Maint  |      |
 
-![](images/norway navy/Oslo-768x576.jpg)
+![](/assets/images/nato/norway navy/Oslo-768x576.jpg)
 
 Oslo Class
 
@@ -21,7 +21,7 @@ Oslo Class
 | F 310   | Sleipner | Sleipner | Active |          | South Training |
 | F 311   | Aeger    |          | Active |          | South Training |
 
-![](images/norway navy/Sleipner-768x514.jpg)
+![](/assets/images/nato/norway navy/Sleipner-768x514.jpg)
 
 HNoMS Sleipner
 
@@ -68,21 +68,21 @@ HNoMS Sleipner
 | P 998   | Geir   |       |              |          |      |
 | P 999   | Erle   |       |              |          |      |
 
-![](images/norway navy/Hauk.jpg)
+![](/assets/images/nato/norway navy/Hauk.jpg)
 
 Hauk Class
 
-![](images/norway navy/Snogg.gif)
+![](/assets/images/nato/norway navy/Snogg.gif)
 
 Snogg Class
 
-![](images/norway navy/storm-Class.jpg)
+![](/assets/images/nato/norway navy/storm-Class.jpg)
 
 Storm Class
 
 **Submarines**: Because of the proximity to the Soviet Union, the confined waters and rugged coastlines the Norwegian Navy operated in, the key method of defending was stealth and ambush. The numerous FAC listed above were one method of achieving this tactic, submarines were another.
 
-![](images/norway navy/image001.jpg) **[Ula Class Submarine](http://www.military-today.com/navy/ula_class.htm)**: Built in Germany and known as the Type 210 class, having improvements over the very popular Type 209 class. All six boats were commissioned between 1989 and 1992 and therefore represent some of the most modern submarines available at the start of Northern Fury. These are very stealthy and dangerous boats which would give any enemy surface combatants pause to consider the dangers in Norwegian waters.
+![](/assets/images/nato/norway navy/image001.jpg) **[Ula Class Submarine](http://www.military-today.com/navy/ula_class.htm)**: Built in Germany and known as the Type 210 class, having improvements over the very popular Type 209 class. All six boats were commissioned between 1989 and 1992 and therefore represent some of the most modern submarines available at the start of Northern Fury. These are very stealthy and dangerous boats which would give any enemy surface combatants pause to consider the dangers in Norwegian waters.
 
 | Pennant | Ship    | Status | Location      | Task    |
 | ------- | ------- | ------ | ------------- | ------- |
@@ -93,7 +93,7 @@ Storm Class
 | S304    | Uthaug  | Active | Bergen        | Tied Up |
 | S305    | Uredd   | Active | North Sea     | Patrol  |
 
-![](images/norway navy/image002.jpg) **[Kobben Class](https://en.wikipedia.org/wiki/Kobben-class_submarine)**: These submarines were also built in Germany as the Type 207 class and were an improved version of the Type 205 class. In total 15 boats were delivered to Norway between 1964 and 1967. Due to age, accidents and decommissioning, 8 remain in service at the start of Northern Fury.
+![](/assets/images/nato/norway navy/image002.jpg) **[Kobben Class](https://en.wikipedia.org/wiki/Kobben-class_submarine)**: These submarines were also built in Germany as the Type 207 class and were an improved version of the Type 205 class. In total 15 boats were delivered to Norway between 1964 and 1967. Due to age, accidents and decommissioning, 8 remain in service at the start of Northern Fury.
 
 | Pennant | Ship     | Status | Location      | Task    |
 | ------- | -------- | ------ | ------------- | ------- |
@@ -108,7 +108,7 @@ Storm Class
 
 **Norwegian Coast Guard**: The Coast Guard is part of the Navy and takes responsibility for fisheries and shipping inspection, customs and law enforcement, boarder control, environmental protection and search and rescue. Although it is a small force its wide ranging scope keeps it quite busy. To handle much of the day to day coastal work. there are ten small patrol ships of less than 1000 tones, seven of them are chartered, each has 1x 40mm Bofors gun. The one class of larger ships is the Nordkapp class.
 
-![](images/norway navy/image003.jpg) **[Nordkapp Class](http://www.wikiwand.com/en/Nordkapp-class_offshore_patrol_vessel)**: These three Outer Coast Guard Ships, otherwise called Offshore Patrol Vessels (OPV) are 3300 tones, the size of a Frigate, but have fewer weapons or sensors. Their hulls are strengthened to withstand limited ice crushing, or ice browsing. Although it only carries a 57mm gun and machine guns, it can be fitted with Depth Charges, Penguin anti-ship missiles, torpedoes, 20mm guns and Mistral SAMs in wartime. The peacetime crew is 52 plus 6 for the air detachment, its wartime establishment is 76 and it has bunk space for 109. They each carry a Lynx helicopter, primarily for SAR.
+![](/assets/images/nato/norway navy/image003.jpg) **[Nordkapp Class](http://www.wikiwand.com/en/Nordkapp-class_offshore_patrol_vessel)**: These three Outer Coast Guard Ships, otherwise called Offshore Patrol Vessels (OPV) are 3300 tones, the size of a Frigate, but have fewer weapons or sensors. Their hulls are strengthened to withstand limited ice crushing, or ice browsing. Although it only carries a 57mm gun and machine guns, it can be fitted with Depth Charges, Penguin anti-ship missiles, torpedoes, 20mm guns and Mistral SAMs in wartime. The peacetime crew is 52 plus 6 for the air detachment, its wartime establishment is 76 and it has bunk space for 109. They each carry a Lynx helicopter, primarily for SAR.
 
 | Pennant | Ship     | Status | Location   | Task    |
 | ------- | -------- | ------ | ---------- | ------- |

@@ -11,11 +11,11 @@ The Bundesmarine is primarily a focused on control of the western Baltic sea, al
 | D 186   |         | Mölders            | Active | Baltic   |      |          |
 | D 187   |         | Rommel             | Active | Atlantic |      |          |
 
-![](images/german navy/FGS-Hamburg.png)
+![](/assets/images/nato/german navy/FGS-Hamburg.png)
 
 Hamburg Class
 
-![](images/german navy/FGS-lutjens.jpg)
+![](/assets/images/nato/german navy/FGS-lutjens.jpg)
 
 FGS Lutjens
 
@@ -33,11 +33,11 @@ FGS Lutjens
 | F 214   |             | Lübeck          | Active      | Atlantic |      |         |
 | F 215   | Brandenburg | Brandenburg     | Fitting out | Atlantic |      |         |
 
-![](images/german navy/FGS-Bremen-768x304.jpg)
+![](/assets/images/nato/german navy/FGS-Bremen-768x304.jpg)
 
 Bremen Class
 
-![](images/german navy/FGS-Brandenberg-768x271.jpg)
+![](/assets/images/nato/german navy/FGS-Brandenberg-768x271.jpg)
 
 Brandenberg Class
 
@@ -87,15 +87,15 @@ Brandenberg Class
 | P 6159  |          | Reiher    | Active | Baltic   | S59  |         |
 | P 6160  |          | Kranich   | Active | Baltic   | S60  |         |
 
-![](images/german navy/FGS-Albatros.jpg)
+![](/assets/images/nato/german navy/FGS-Albatros.jpg)
 
 Albatros Class
 
-![](images/german navy/FGS-Gepard.jpg)
+![](/assets/images/nato/german navy/FGS-Gepard.jpg)
 
 Gepard Class
 
-![](images/german navy/FGS-Tiger.jpg)
+![](/assets/images/nato/german navy/FGS-Tiger.jpg)
 
 Tiger Class
 
@@ -133,10 +133,10 @@ Tiger Class
 | S 178   | Type 206A | U29  | Active | Baltic   |
 | S 179   | Type 206A | U30  | Active | Baltic   |
 
-![](images/german navy/FGS-Type-205-768x380.jpg)
+![](/assets/images/nato/german navy/FGS-Type-205-768x380.jpg)
 
 Type 205
 
-![](images/german navy/ger-ype206-01-768x504.jpg)
+![](/assets/images/nato/german navy/ger-ype206-01-768x504.jpg)
 
 Type 206
