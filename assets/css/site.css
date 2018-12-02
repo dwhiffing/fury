@@ -50,7 +50,8 @@ nav > ul > li {
   float: left;
   position: relative;
   text-decoration: none;
-  padding: 2.9rem 2.5rem;
+  padding: 3rem 0;
+  border-top: 3px solid #0d141d;
   margin: 0;
 }
 
@@ -65,7 +66,9 @@ nav > ul > li > a {
   text-decoration: none;
   font-size: 17px;
   font-weight: 300;
+  padding: 30px 26px;
 }
+
 nav > ul > li ul {
   background: #f2f2f2;
   visibility: hidden;
@@ -75,7 +78,6 @@ nav > ul > li ul {
   margin-top: 1rem;
   left: -20px;
   top: 77px;
-  padding-top: 11px;
   display: none;
 }
 
@@ -86,6 +88,9 @@ nav > ul > li ul a {
   font-size: 13px;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
+  padding: 10px 20px;
+  width: 130px;
+  display: block;
 }
 
 nav > ul > li:hover > ul,
@@ -95,11 +100,33 @@ nav > ul > li ul:hover {
   display: block;
 }
 
+ul.dropdown li:hover ul.dropdown {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  left: 140px;
+  top: -10px;
+  min-width: 100px;
+}
+
 nav > ul > li ul li {
   clear: both;
   width: 100%;
   border-bottom: 1px solid #cecece;
-  padding: 0px 0 9px;
+  margin: 0;
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+}
+
+nav > ul > li ul li ul li {
+  background-color: #ddd;
+}
+
+nav > ul > li ul li ul li a {
+  font-size: 11px;
+  padding: 7px 14px;
+  width: 100%;
 }
 
 nav .logo {
