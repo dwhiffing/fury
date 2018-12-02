@@ -33,218 +33,28 @@ Graphically the comparison between the historic goal and the Northern Fury progr
 
 \\>Total Other
 
-USN Fleet size - Northern Fury Campaign vs 600 Ship Plan
-
-**Historic**
-
-**Northern Fury**
-
-1985
-
-Goal
-
-Ready
-
-Reserve
-
-Launching
-
-Total
-
-Notes
-
-CV/CVN
-
-13
-
-15
-
-13
-
-2
-
-1
-
-16
-
-CV-61 to retire when CVN-74 commissions
-
-BB
-
-2
-
-4
-
-4
-
-4
-
-CG/CGN
-
-98
-
-137
-
-54
-
-54
-
-Total of 124, DDG-51s coming online, older CG/CGNs to retire over time
-
-DD/DDG
-
-67
-
-3
-
-70
-
-FF/FFG
-
-108
-
-101
-
-90
-
-11
-
-4
-
-105
-
-First 4 of 12 new OHPs arrives, Brooks to retire
-
-SSN
-
-98
-
-100
-
-100
-
-100
-
-SSN/Sp
-
-9
-
-9
-
-Special purpose, mostly SOF delivery
-
-Small
-
-6
-
-0
-
-0
-
-6
-
-6
-
-Pegasus Class FAC
-
-**Total Combat**
-
-325
-
-357
-
-337
-
-19
-
-8
-
-364
-
-Amphib
-
-62
-
-75
-
-70
-
-70
-
-Mine Warfare
-
-3
-
-31
-
-30
-
-10
-
-40
-
-Replen
-
-53
-
-69
-
-58
-
-58
-
-Mat Support
-
-25
-
-27
-
-26
-
-26
-
-Fleet Support
-
-29
-
-33
-
-29
-
-29
-
-172
-
-235
-
-213
-
-223
-
-SSBN
-
-37
-
-36
-
-36
-
-10
-
-36
-
-**Total All**
-
-534
-
-628
-
-586
-
-29
-
-8
-
-623
+### USN Fleet size - Northern Fury Campaign vs 600 Ship Plan
+
+|                  | 1985\* | Goal\* | Ready | Reserve | Launching | Total | Notes                                                                  |
+| ---------------- | ------ | ------ | ----- | ------- | --------- | ----- | ---------------------------------------------------------------------- |
+| CV/CVN           | 13     | 15     | 13    | 2       | 1         | 16    | CV-61 to retire when CVN-74 commissions                                |
+| BB               | 2      | 4      | 4     |         |           | 4     |                                                                        |
+| CG/CGN           | 98     | 137    | 54    |         |           | 54    | Total of 124, DDG-51s coming online, older CG/CGNs to retire over time |
+| DD/DDG           | 98     | 137    | 67    | 3       | 70        |       |                                                                        |
+| FF/FFG           | 108    | 101    | 90    | 11      | 4         | 105   | First 4 of 12 new OHPs arrives, Brooks to retire                       |
+| SSN              | 98     | 100    | 100   |         |           | 100   |                                                                        |
+| SSN/Sp           |        |        | 9     |         |           | 9     | Special purpose, mostly SOF delivery                                   |
+| Small            | 6      | 0      | 0     | 6       |           | 6     | Pegasus Class FAC                                                      |
+| **Total Combat** | 325    | 357    | 337   | 19      | 8         | 364   |                                                                        |
+| Amphib           | 62     | 75     | 70    |         |           | 70    |                                                                        |
+| Mine Warfare     | 3      | 31     | 30    | 10      |           | 40    |                                                                        |
+| Replen           | 53     | 69     | 58    |         |           | 58    |                                                                        |
+| Mat Support      | 25     | 27     | 26    |         |           | 26    |                                                                        |
+| Fleet Support    | 29     | 33     | 29    |         |           | 29    |                                                                        |
+| 172              | 235    | 213    |       |         | 223       |       |                                                                        |
+| SSBN             | 37     | 36     | 36    | 10      |           | 36    |                                                                        |
+| **Total All**    | 534    | 628    | 586   | 29      | 8         | 623   |                                                                        |
+
+\* Historic
 
 ![](images/USN cover_files/image010.jpg)

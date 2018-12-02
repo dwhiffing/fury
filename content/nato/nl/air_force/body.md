@@ -6,125 +6,17 @@ As a result of the increased tensions in the Northern Fury storyline, upgrade of
 
 In addition to a training squadron in Tucson Arizona, there is a test and evaluation unit stationed at Volkel. Each operational squadron maintains some ‘B‘ model twin seat versions for readiness and refresher training.
 
-Sqn
-
-Name
-
-Location
-
-No.
-
-Type
-
-Remarks
-
-306
-
-Hawk
-
-Volkel
-
-18
-
-F-16A Recon
-
-+4x F-16B
-
-311
-
-Eagle
-
-Volkel
-
-20
-
-F-16A MLU
-
-+4x F-16B
-
-312
-
-Bonzo
-
-Volkel
-
-20
-
-F-16A MLU
-
-+4x F-16B
-
-313
-
-Tiger
-
-Twenthe
-
-20
-
-F-16A
-
-+4x F-16B
-
-314
-
-Redskins
-
-Gilze-Rijen
-
-20
-
-F-16A
-
-+4x F-16B
-
-315
-
-Lion
-
-Twenthe
-
-16
-
-F-16A
-
-+4x F-16B
-
-316
-
-Falcon
-
-Eindhoven
-
-20
-
-F-16A
-
-+4x F-16B
-
-322
-
-Polly Parrot
-
-Leeuwarden
-
-20
-
-F-16A
-
-+4x F-16B
-
-323
-
-Diana
-
-Leeuwarden
-
-20
-
-F-16A
-
-+4x F-16B
+| Sqn | Name         | Location    | No. | Type        | Remarks   |
+| --- | ------------ | ----------- | --- | ----------- | --------- |
+| 306 | Hawk         | Volkel      | 18  | F-16A Recon | +4x F-16B |
+| 311 | Eagle        | Volkel      | 20  | F-16A MLU   | +4x F-16B |
+| 312 | Bonzo        | Volkel      | 20  | F-16A MLU   | +4x F-16B |
+| 313 | Tiger        | Twenthe     | 20  | F-16A       | +4x F-16B |
+| 314 | Redskins     | Gilze-Rijen | 20  | F-16A       | +4x F-16B |
+| 315 | Lion         | Twenthe     | 16  | F-16A       | +4x F-16B |
+| 316 | Falcon       | Eindhoven   | 20  | F-16A       | +4x F-16B |
+| 322 | Polly Parrot | Leeuwarden  | 20  | F-16A       | +4x F-16B |
+| 323 | Diana        | Leeuwarden  | 20  | F-16A       | +4x F-16B |
 
 ![](images/netherlands air force/image002.jpg) **F-5A**: Although the NF-5 was retired from service in 1992, the Netherlands Air Force maintains them in ready reserve. 105 aircraft (75 single seat and 30 double seat) are in storage ready to mobilize. It will likely only take 2-3 weeks to organize reserve pilots into new squadrons.
 

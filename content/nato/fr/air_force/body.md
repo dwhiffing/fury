@@ -4,125 +4,17 @@
 
 ![](images/france air force/image004.jpg) **Mirage IV** - The Mirage IV was twice the weight and 1.5 times the length of its predecessor the Mirage III (more later), which allowed for massive fuel tanks. Even though this aircraft was a bomber - all ordinance was attached externally, that and the extra fuel storage allowed for high speed and long range.
 
-Sqn
-
-Name
-
-Location
-
-Group
-
-No.
-
-Type
-
-EB 1/91
-
-Gascogne
-
-Mont-de-Marsan
-
-CoFAS
-
-9
-
-Mirage IV-P
-
-EB 2/91
-
-Bretagne
-
-Cazaux
-
-CoFAS
-
-9
-
-Mirage IV-P
-
-EB 3/91
-
-Beauvaisis
-
-Creil
-
-CoFAS
-
-12
-
-Mirage IV-R
-
-EB 1/93
-
-Guyenne
-
-Istres
-
-CoFAS
-
-4
-
-KC-135F
-
-EB 2/93
-
-Cevennes
-
-Orange
-
-CoFAS
-
-4
-
-KC-135F
-
-EB 3/93
-
-Sambre
-
-Cambrie
-
-CoFAS
-
-4
-
-KC-135F
-
-EB 1/94
-
-Bourbonnais
-
-Avord
-
-CoFAS
-
-6
-
-Mirage IVA
-
-EB 2/94
-
-Marne
-
-St Dizier
-
-CoFAS
-
-6
-
-Mirage IVA
-
-EB 3/94
-
-Arbois
-
-Luxeuil
-
-CoFAS
-
-4
-
-Mirage IVP
+| Sqn     | Name        | Location       | Group | No. | Type        |
+| ------- | ----------- | -------------- | ----- | --- | ----------- |
+| EB 1/91 | Gascogne    | Mont-de-Marsan | CoFAS | 9   | Mirage IV-P |
+| EB 2/91 | Bretagne    | Cazaux         | CoFAS | 9   | Mirage IV-P |
+| EB 3/91 | Beauvaisis  | Creil          | CoFAS | 12  | Mirage IV-R |
+| EB 1/93 | Guyenne     | Istres         | CoFAS | 4   | KC-135F     |
+| EB 2/93 | Cevennes    | Orange         | CoFAS | 4   | KC-135F     |
+| EB 3/93 | Sambre      | Cambrie        | CoFAS | 4   | KC-135F     |
+| EB 1/94 | Bourbonnais | Avord          | CoFAS | 6   | Mirage IVA  |
+| EB 2/94 | Marne       | St Dizier      | CoFAS | 6   | Mirage IVA  |
+| EB 3/94 | Arbois      | Luxeuil        | CoFAS | 4   | Mirage IVP  |
 
 ![](images/france air force/image005.jpg)
 
@@ -136,173 +28,21 @@ CAFDA operates 4 wings of fighter interceptors focusing on the Air Defence and A
 
 ![](images/france air force/image008.jpg) **Mirage 2000C** - The Mirage 2000C was designed as a modern interceptor with a secondary strike role. This aircraft was meant to be the French answer to the F-16 and has certainly evolved into multiple variants and roles and has been exported to eight other countries, total production is about 600 compared to almost 5000 F-16‘s. Two wings, the 2nd and 5th each have three squadrons of these aircraft.
 
-Sqn
-
-Name
-
-Location
-
-Group
-
-No.
-
-Type
-
-EC 1/2
-
-Cigognes
-
-Dijon
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 2/2
-
-Cote d‘or
-
-Dijon
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 3/2
-
-Alsace
-
-Dijon
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 1/5
-
-Ill de France
-
-Orange
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 2/5
-
-Ill de France
-
-Orange
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 3/5
-
-Ill de France
-
-Orange
-
-CAFDA
-
-18
-
-Mirage 2000C
-
-EC 1/12
-
-Cambresis
-
-Cambrie
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 2/12
-
-Picardie
-
-Cambrie
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 3/12
-
-Comouaile
-
-Cambrie
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 4/12
-
-Balbuzard
-
-Cambrie
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 1/30
-
-Valois
-
-Marsan
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 2/30
-
-Normandie
-
-Marsan
-
-CAFDA
-
-15
-
-Mirage F1C
-
-EC 3/30
-
-Lorraine
-
-Marsan
-
-CAFDA
-
-15
-
-Mirage F1C
+| Sqn     | Name          | Location | Group | No. | Type         |
+| ------- | ------------- | -------- | ----- | --- | ------------ |
+| EC 1/2  | Cigognes      | Dijon    | CAFDA | 18  | Mirage 2000C |
+| EC 2/2  | Cote d‘or     | Dijon    | CAFDA | 18  | Mirage 2000C |
+| EC 3/2  | Alsace        | Dijon    | CAFDA | 18  | Mirage 2000C |
+| EC 1/5  | Ill de France | Orange   | CAFDA | 18  | Mirage 2000C |
+| EC 2/5  | Ill de France | Orange   | CAFDA | 18  | Mirage 2000C |
+| EC 3/5  | Ill de France | Orange   | CAFDA | 18  | Mirage 2000C |
+| EC 1/12 | Cambresis     | Cambrie  | CAFDA | 15  | Mirage F1C   |
+| EC 2/12 | Picardie      | Cambrie  | CAFDA | 15  | Mirage F1C   |
+| EC 3/12 | Comouaile     | Cambrie  | CAFDA | 15  | Mirage F1C   |
+| EC 4/12 | Balbuzard     | Cambrie  | CAFDA | 15  | Mirage F1C   |
+| EC 1/30 | Valois        | Marsan   | CAFDA | 15  | Mirage F1C   |
+| EC 2/30 | Normandie     | Marsan   | CAFDA | 15  | Mirage F1C   |
+| EC 3/30 | Lorraine      | Marsan   | CAFDA | 15  | Mirage F1C   |
 
 **Tactical Air Force (FATac)** - FATac comprises a large segment of the French Air Force, with 25 Squadrons there have been several variations from history in the Northern Fury world. The role of this group is to conduct both conventional and nuclear strike missions in a high threat environment. Thus, not only strike aircraft are required, but reconnaissance, and electronic warfare as well.
 
@@ -320,318 +60,33 @@ Mirage F1C
 
 Sqn Name Location Group No. Type
 
-Sqn
-
-Name
-
-Location
-
-Group
-
-No.
-
-Type
-
-EC 1/3
-
-Navarre
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-EC 2/3
-
-Champagne
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-EC 3/3
-
-Ardennes
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-EC 1/4
-
-Dauphine
-
-Luxeuil
-
-FATac
-
-18
-
-Mirage 2000N
-
-EC 2/4
-
-Lafayette
-
-Luxeuil
-
-FATac
-
-18
-
-Mirage 2000N
-
-EC 3/4
-
-Luxeuil
-
-FATac
-
-18
-
-Mirage 2000N
-
-EC 4/4
-
-Luxeuil
-
-FATac
-
-18
-
-Mirage 2000N
-
-EC 1/6
-
-Colmar
-
-FATac
-
-16
-
-Mirage F1CT
-
-EC 2/6
-
-Colmar
-
-FATac
-
-16
-
-Mirage F1CT
-
-EC 3/6
-
-Colmar
-
-FATac
-
-12
-
-Mirage F1CT
-
-EC 4/6
-
-Vexin
-
-Djibouti
-
-FATac
-
-8
-
-Mirage F1CT
-
-EC 1/7
-
-Provence
-
-St Dizier
-
-FATac
-
-18
-
-Jaguar
-
-EC 2/7
-
-Argonne
-
-St Dizier
-
-FATac
-
-18
-
-Jaguar
-
-EC 3/7
-
-Languedoc
-
-St Dizier
-
-FATac
-
-18
-
-Jaguar
-
-EC 1/11
-
-Roussillon
-
-Toul
-
-FATac
-
-18
-
-Jaguar
-
-EC 2/11
-
-Vosges
-
-Toul
-
-FATac
-
-18
-
-Jaguar
-
-EC 3/11
-
-Corse
-
-Toul
-
-FATac
-
-18
-
-Jaguar
-
-EC 1/13
-
-Artois
-
-Colmar
-
-FATac
-
-15
-
-Mirage 5F
-
-EC 2/13
-
-Alps
-
-Colmar
-
-FATac
-
-15
-
-Mirage 5F
-
-EC 3/13
-
-Colmar
-
-Colmar
-
-FATac
-
-15
-
-Mirage 5F
-
-EC 1/20
-
-Nementcha
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-EC 2/20
-
-Oranie
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-EC 3/20
-
-Ouarsenis
-
-Nancy
-
-FATac
-
-12
-
-Mirage 2000D
-
-CR 1/33
-
-Belfort
-
-Strasbourg
-
-FATac
-
-16
-
-Mirage F.1CR
-
-CR 2/33
-
-Savoie
-
-Strasbourg
-
-FATac
-
-16
-
-Mirage F.1CR
-
-CR 3/33
-
-Mosell
-
-Strasbourg
-
-FATac
-
-16
-
-Mirage F.1CR
+| Sqn     | Name       | Location   | Group | No. | Type         |
+| ------- | ---------- | ---------- | ----- | --- | ------------ |
+| EC 1/3  | Navarre    | Nancy      | FATac | 12  | Mirage 2000D |
+| EC 2/3  | Champagne  | Nancy      | FATac | 12  | Mirage 2000D |
+| EC 3/3  | Ardennes   | Nancy      | FATac | 12  | Mirage 2000D |
+| EC 1/4  | Dauphine   | Luxeuil    | FATac | 18  | Mirage 2000N |
+| EC 2/4  | Lafayette  | Luxeuil    | FATac | 18  | Mirage 2000N |
+| EC 3/4  | Luxeuil    |            | FATac | 18  | Mirage 2000N |
+| EC 4/4  | Luxeuil    |            | FATac | 18  | Mirage 2000N |
+| EC 1/6  | Colmar     |            | FATac | 16  | Mirage F1CT  |
+| EC 2/6  | Colmar     |            | FATac | 16  | Mirage F1CT  |
+| EC 3/6  | Colmar     |            | FATac | 12  | Mirage F1CT  |
+| EC 4/6  | Vexin      | Djibouti   | FATac | 8   | Mirage F1CT  |
+| EC 1/7  | Provence   | St Dizier  | FATac | 18  | Jaguar       |
+| EC 2/7  | Argonne    | St Dizier  | FATac | 18  | Jaguar       |
+| EC 3/7  | Languedoc  | St Dizier  | FATac | 18  | Jaguar       |
+| EC 1/11 | Roussillon | Toul       | FATac | 18  | Jaguar       |
+| EC 2/11 | Vosges     | Toul       | FATac | 18  | Jaguar       |
+| EC 3/11 | Corse      | Toul       | FATac | 18  | Jaguar       |
+| EC 1/13 | Artois     | Colmar     | FATac | 15  | Mirage 5F    |
+| EC 2/13 | Alps       | Colmar     | FATac | 15  | Mirage 5F    |
+| EC 3/13 | Colmar     | Colmar     | FATac | 15  | Mirage 5F    |
+| EC 1/20 | Nementcha  | Nancy      | FATac | 12  | Mirage 2000D |
+| EC 2/20 | Oranie     | Nancy      | FATac | 12  | Mirage 2000D |
+| EC 3/20 | Ouarsenis  | Nancy      | FATac | 12  | Mirage 2000D |
+| CR 1/33 | Belfort    | Strasbourg | FATac | 16  | Mirage F.1CR |
+| CR 2/33 | Savoie     | Strasbourg | FATac | 16  | Mirage F.1CR |
+| CR 3/33 | Mosell     | Strasbourg | FATac | 16  | Mirage F.1CR |
 
 **Air Transport Command (CoTAM)** - CoTAM is a large command with 28 squadrons: ten fixed wing; 12 rotary wing; six overseas based squadrons which were uniquely tailored to the requirements of the post; and a VIP transport element.

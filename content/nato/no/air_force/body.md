@@ -6,129 +6,22 @@ At the start of Northern Fury, 331 Sqn from Bodo is forward based at Bardufoss w
 
 As the photo indicates, encounters with Soviet MiGs in northern Norway were not uncommon.
 
-Sqn
-
-Name
-
-Location
-
-No.
-
-Type
-
-Remarks
-
-331
-
-Lion
-
-Bodo
-
-16
-
-F-16A/B
-
-+4 F-16B
-
-332
-
-Eagle
-
-Regge
-
-16
-
-F-16A/B
-
-334
-
-Cola
-
-Bodo
-
-16
-
-F-16A/B
-
-338
-
-Tiger
-
-Orland
-
-12
-
-F-16A/B
-
-\\+ 4 MLU
+| Sqn | Name  | Location | No. | Type    | Remarks   |
+| --- | ----- | -------- | --- | ------- | --------- |
+| 331 | Lion  | Bodo     | 16  | F-16A/B | +4 F-16B  |
+| 332 | Eagle | Regge    | 16  | F-16A/B |           |
+| 334 | Cola  | Bodo     | 16  | F-16A/B |           |
+| 338 | Tiger | Orland   | 12  | F-16A/B | \\+ 4 MLU |
 
 ![](images/norway air force/image002.jpg) **F-5 Tiger II**: Although Norway was in the process of retiring the F-5 Freedom Fighter, increased tensions changed that plan. Historically by 1994 the only F-5s remaining were 718 Sqn at the Fighter training school (14x F5B), 717 Reconnaissance Sqn (16x RF-5A) and 336 Sqn with 24x F-5A focusing on ground attack. In Northern Fury however, two further squadrons were activated in 1992. Although dated these aircraft were available and airworthy to fill a gap.
 
-Sqn
-
-Name
-
-Location
-
-No.
-
-Type
-
-Remarks
-
-336
-
-Tigers
-
-Rygge
-
-24
-
-F-5 Tiger II
-
-339
-
-Jager
-
-Orland
-
-24
-
-F-5 Tiger II
-
-340
-
-Fox
-
-Gardermoen
-
-24
-
-F-5 Tiger II
-
-717
-
-Raven
-
-Rygge
-
-16
-
-RF-5 Tiger II
-
-Recon
-
-718
-
-Night Owl
-
-Sola
-
-14
-
-F-5B Tiger II
-
-Training
+| Sqn | Name      | Location   | No. | Type          | Remarks  |
+| --- | --------- | ---------- | --- | ------------- | -------- |
+| 336 | Tigers    | Rygge      | 24  | F-5 Tiger II  |          |
+| 339 | Jager     | Orland     | 24  | F-5 Tiger II  |          |
+| 340 | Fox       | Gardermoen | 24  | F-5 Tiger II  |          |
+| 717 | Raven     | Rygge      | 16  | RF-5 Tiger II | Recon    |
+| 718 | Night Owl | Sola       | 14  | F-5B Tiger II | Training |
 
 ![](images/norway air force/image003.jpg) **Falcon 20**: Also under the control of 717 Sqn at Regge were two Falcon 20 Electronic Warfare (EW) aircraft. These were civilian pattern Dassaut Falcon executive jets that were heavily modified and sold to several air forces as a stop-gap area EW platform. The programme was quite successful.
 

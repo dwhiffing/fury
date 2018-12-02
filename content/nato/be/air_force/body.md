@@ -4,157 +4,30 @@ Belgium maintained a powerful Air Force in the later Cold War era, however, they
 
 Historically, Belgium obtained 72 Aim-120 AMRAAM and 12 AGM-65 missiles in 1995. Northern Fury has them acquiring these munitions in 1993, and the quantities increased to 140 AMRAAM and 36 Mavericks.
 
-Sqn
-
-Name
-
-Location
-
-A/C
-
-Type
-
-1
-
-Stingers
-
-Florennes
-
-20
-
-F-16A OCU
-
-2
-
-Comet
-
-Florennes
-
-20
-
-F-16A OCU
-
-23
-
-Devils
-
-Kleine Brogel
-
-24
-
-F-16A
-
-31
-
-Tigers
-
-Kleine Brogel
-
-24
-
-F-16A
-
-349
-
-Mace
-
-Beauvechain
-
-24
-
-F-16A
-
-350
-
-Ambiorix
-
-Beauvechain
-
-24
-
-F-16A
-
-OCU
-
-Vulture
-
-Beauvechain
-
-24
-
-F-16B
+| Sqn | Name     | Location      | A/C | Type      |
+| --- | -------- | ------------- | --- | --------- |
+| 1   | Stingers | Florennes     | 20  | F-16A OCU |
+| 2   | Comet    | Florennes     | 20  | F-16A OCU |
+| 23  | Devils   | Kleine Brogel | 24  | F-16A     |
+| 31  | Tigers   | Kleine Brogel | 24  | F-16A     |
+| 349 | Mace     | Beauvechain   | 24  | F-16A     |
+| 350 | Ambiorix | Beauvechain   | 24  | F-16A     |
+| OCU | Vulture  | Beauvechain   | 24  | F-16B     |
 
 ![](images/belgian air force/belgianAir2.jpg) **Mirage 5**: Two squadrons of Dassault Mirage 5‘s remain active in the Belgian Air Force, one attack squadron and one reconnaissance squadron.
 
-Sqn
-
-Name
-
-Location
-
-A/C
-
-Type
-
-8
-
-Blue Cocotte
-
-Bierset
-
-36
-
-Mirage 5BA
-
-42
-
-Mephisto
-
-Bierset
-
-22
-
-Mirage 5BR
-
-OCU
-
-Bierset
-
-16
-
-Mirage 5BD
+| Sqn | Name         | Location | A/C        | Type       |
+| --- | ------------ | -------- | ---------- | ---------- |
+| 8   | Blue Cocotte | Bierset  | 36         | Mirage 5BA |
+| 42  | Mephisto     | Bierset  | 22         | Mirage 5BR |
+| OCU | Bierset      | 16       | Mirage 5BD |
 
 ![](images/belgian air force/belgianAir3.jpg) **Alpha Jet**: Initial operational training in both air to air and air to ground combat is conducted in the Alpha Jets of 7th and 33rd Squadrons. These units can also be put forward into combat if required.
 
-Sqn
-
-Name
-
-Location
-
-A/C
-
-Type
-
-7
-
-Wolves
-
-St Truiden
-
-16
-
-Alpha Jet
-
-33
-
-Bats
-
-St Truiden
-
-16
-
-Alpha Jet
+| Sqn | Name   | Location   | A/C | Type      |
+| --- | ------ | ---------- | --- | --------- |
+| 7   | Wolves | St Truiden | 16  | Alpha Jet |
+| 33  | Bats   | St Truiden | 16  | Alpha Jet |
 
 **Transport**: The Belgian Air Force operates two transport Squadrons at Melsbroek Air Base: 20th Squadron operates 12x C-130H Hercules, while 21st Squadron operates a mixed fleet of Boeing 727 (x2), Dassault Falcon 20E (x2), Swearingen Merlin (x6), and Hawker Siddeley HS 748s (x3).
 

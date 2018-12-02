@@ -30,145 +30,21 @@ C-212 Avocar
 
 **P3P Orion**: The Portuguese Air Force, which is also responsible for Maritime Patrol and support to the Portuguese Navy has been operating the P-3 Orion since 1985. These six aircraft were surplus Australian P-3Bs upgraded to a ‘C‘ standard. Flown by 601 Squadron Lobos (Wolves) they operate out of Beja but routinely have aircraft at Lejes in the Azores. This unit operates with both American and Spanish P-3‘s conducting ASW duties in the Eastern Atlantic and particularly on the approaches to the Mediterranean Sea.
 
-Sqn
-
-Name
-
-Location
-
-\\# of AC
-
-Type of AC
-
-103
-
-Caracóis
-
-Beja
-
-24
-
-Alpha Jet
-
-201
-
-Falcons
-
-Monte Real
-
-4
-
-F-16A
-
-301
-
-Jaguars
-
-Beja
-
-24
-
-Alpha Jet
-
-302
-
-Royal Eagles
-
-Monte Real
-
-20
-
-A-7P
-
-304
-
-Magnificos
-
-Monte Real
-
-20
-
-A-7P
-
-401
-
-Scientists
-
-Montijo
-
-6
-
-C-212 (MPA, PR, EW)
-
-501
-
-Bison
-
-Montijo
-
-6
-
-C-130H
-
-502
-
-Elephant
-
-Montijo
-
-8
-
-C-212
-
-503
-
-Dolphins
-
-Lajes
-
-8
-
-C-212
-
-504
-
-Lynxes
-
-Lisbon
-
-2
-
-Falcon 50
-
-551
-
-Aligators
-
-Montijo
-
-24
-
-Alouette III SA 319
-
-552
-
-Drones
-
-Beja
-
-24
-
-Alouette III SA 319
-
-601
-
-Lobos
-
-Beja
-
-6
-
-P-3P Orion
+| Sqn | Name         | Location   | \\# of AC | Type of AC          |
+| --- | ------------ | ---------- | --------- | ------------------- |
+| 103 | Caracóis     | Beja       | 24        | Alpha Jet           |
+| 201 | Falcons      | Monte Real | 4         | F-16A               |
+| 301 | Jaguars      | Beja       | 24        | Alpha Jet           |
+| 302 | Royal Eagles | Monte Real | 20        | A-7P                |
+| 304 | Magnificos   | Monte Real | 20        | A-7P                |
+| 401 | Scientists   | Montijo    | 6         | C-212 (MPA, PR, EW) |
+| 501 | Bison        | Montijo    | 6         | C-130H              |
+| 502 | Elephant     | Montijo    | 8         | C-212               |
+| 503 | Dolphins     | Lajes      | 8         | C-212               |
+| 504 | Lynxes       | Lisbon     | 2         | Falcon 50           |
+| 551 | Aligators    | Montijo    | 24        | Alouette III SA 319 |
+| 552 | Drones       | Beja       | 24        | Alouette III SA 319 |
+| 601 | Lobos        | Beja       | 6         | P-3P Orion          |
 
 ![](images/portuguese air force/image011.jpg)
 
