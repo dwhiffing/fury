@@ -56,8 +56,6 @@ tabs:
         label: Northern
       - path: carribean
         label: Carribean
-  contact:
-    label: Contact & Support
 ---
 
 Northern Fury

@@ -7,7 +7,9 @@ const Header = () => (
         <p>Alternative Cold War History 1994</p>
       </div>
       <div className="float-right">
-        <a href="http://northernfury.bhgdesigns.com/blog/">Visit Our Blog</a>
+        <a href="/contact">Contact</a>
+        <span> | </span>
+        <a href="http://northernfury.bhgdesigns.com/blog/">Blog</a>
         <span> | </span>
         <a href="#">Facebook</a>
         <span> | </span>
