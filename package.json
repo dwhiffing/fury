@@ -16,6 +16,11 @@
     "deploy": "gh-pages -d site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "cuttlebelle": {
+    "site": {
+      "markdownRenderer": "markdown.js"
+    }
+  },
   "author": "",
   "license": "ISC"
 }
