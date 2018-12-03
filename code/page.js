@@ -34,6 +34,10 @@ const Page = ({
         <StyleSheet href={_relativeURL("/assets/css/normalize.css", _ID)} />
         <StyleSheet href={_relativeURL("/assets/css/skeleton.css", _ID)} />
         <StyleSheet href={_relativeURL("/assets/css/site.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/main.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/nav.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/text.css", _ID)} />
+        <StyleSheet href={_relativeURL("/assets/css/utils.css", _ID)} />
 
         {stylesheet && (
           <StyleSheet
@@ -56,7 +60,12 @@ const Page = ({
         <main>
           <aside>
             {["nato", "warsaw", "scenarios"].includes(aside) && (
-              <Aside name={aside} nav={_nav} pages={_pages} />
+              <Aside
+                name={aside}
+                nav={_nav}
+                pages={_pages}
+                country={_ID.split("/")[1]}
+              />
             )}
           </aside>
 
@@ -65,7 +74,14 @@ const Page = ({
           </section>
         </main>
 
-        <footer>© 2017 Northern Fury.</footer>
+        <footer>
+          <span>© 2017 Northern Fury.</span>
+          <div>
+            <a href="#">Facebook</a>
+            <span> | </span>
+            <a href="https://twitter.com/NorthernFury94">Twitter</a>
+          </div>
+        </footer>
 
         {script && (
           <script src={_relativeURL(`/assets/js/${script}.js`, _ID)} />

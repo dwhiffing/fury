@@ -1,0 +1,139 @@
+nav {
+  width: 100%;
+  background: #0d141d;
+}
+
+nav > ul {
+  background: #0d141d;
+  list-style: none;
+  padding: 0 5px;
+  max-width: 750px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav > ul > a {
+  width: 20%;
+}
+
+nav > ul > li {
+  color: #fff;
+  background: #0d141d;
+  display: block;
+  position: relative;
+  text-decoration: none;
+  border-top: 3px solid #0d141d;
+  width: 20%;
+  margin: 0;
+}
+
+nav > ul > li:hover {
+  border-top: 3px solid white;
+  cursor: pointer;
+}
+
+nav > ul > li > a {
+  color: #8a989c;
+  font-family: Exo, Arial Helvetica;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 300;
+  display: block;
+  padding: 30px 5px;
+  text-align: center;
+}
+
+nav > ul > li ul {
+  background: #f2f2f2;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 13rem;
+  position: absolute;
+  margin-top: 1rem;
+  left: -30px;
+  top: 77px;
+  display: none;
+}
+
+nav > ul > li ul a {
+  color: #5f5f5f;
+  font-family: "Droid Serif", Arial Helvetica;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  padding: 10px 20px;
+  width: 120px;
+  display: block;
+}
+
+nav > ul > li:hover > ul,
+nav > ul > li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+ul.dropdown li:hover ul.dropdown {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  left: 130px;
+  top: -10px;
+  min-width: 100px;
+}
+
+nav > ul > li ul li {
+  clear: both;
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  margin: 0;
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+}
+
+nav > ul > li ul li ul li {
+  background-color: #ddd;
+}
+
+nav > ul > li ul li ul li a {
+  font-size: 11px;
+  padding: 7px 14px;
+  width: 100%;
+}
+
+nav .logo {
+  padding: 0 5px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  min-width: 70px;
+  max-width: 90%;
+}
+
+@media (max-width: 700px) {
+  nav li.tab-scenarios,
+  nav > ul > li ul {
+    display: none !important;
+    visibility: none !important;
+  }
+
+  nav > ul {
+    max-width: 500px;
+  }
+
+  nav > ul > a {
+    width: 25%;
+  }
+
+  nav > ul > li > a {
+    font-size: 14px;
+  }
+
+  nav > ul > li {
+    width: 25%;
+  }
+}

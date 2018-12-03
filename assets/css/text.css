@@ -1,0 +1,13 @@
+h1 {
+  font-family: Exo, Arial, Helvetica;
+  font-weight: 300;
+  font-size: 50px;
+  letter-spacing: -0.1px;
+}
+
+p {
+  color: #626262;
+  font-family: "Droid Serif", serif;
+  font-size: 13px;
+  line-height: 20px;
+}

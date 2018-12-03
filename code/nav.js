@@ -13,7 +13,7 @@ const Nav = ({ _nav, tabs }) => (
       let pathName = typeof path === "string" ? path : tabKey;
 
       return (
-        <li>
+        <li className={`tab-${pathName}`}>
           <a href={`${prefix}/${pathName}`}>{tab.label}</a>
           {typeof path === "object" && (
             <ul className="dropdown">

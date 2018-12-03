@@ -35,7 +35,7 @@ tabs:
       - path: us
         label: United States
   warsaw:
-    label: WARSAW Pact
+    label: WARSAW
     items:
       - path: bg
         label: Bulgaria
