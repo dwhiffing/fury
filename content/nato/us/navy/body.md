@@ -1,6 +1,6 @@
 The United States Navy has been the undisputed naval powerhouse since the Second World War. Not only is it the only Navy to have global reach and power projection with multiple Supper Carriers, but its submarine fleet is arguably unrivalled, except perhaps but the USSR.
 
-![](/assets/images/nato/USN cover\*files/image001.jpg)
+![](/assets/images/nato/USN cover_files/image001.jpg)
 
 Battle Group Z during the Persian Gulf War
 
