@@ -9,7 +9,7 @@ Canada‘s Navy was primarily focused on ASW work in the North Atlantic, althoug
 | DDH 282 | Athabaskan | Active | Atlantic |               |
 | DDH 283 | Algonquin  | Active | Atlantic | Standing TG   |
 
-![](/assets/images/nato/canada navy/HMCS_Iroquois_DDH_280.jpg)
+![](/assets/images/legacy/canada navy/HMCS_Iroquois_DDH_280.jpg)
 
 The Halifax Class Frigates represented a long awaited infusion of modern capabilities into the RCN. In Northern Fury, four (of 12) member of this class are available, with three more being commissioned three months early and arriving for operations during the campaign. The remaining five will be commissioned beyond the scope of Northern Fury.
 
@@ -28,7 +28,7 @@ The Halifax Class Frigates represented a long awaited infusion of modern capabil
 | FFH 340 | St. John‘s      | Building      | Jun-96   |           |
 | FFH 341 | Ottawa          | Building      | Sep-96   |           |
 
-![](/assets/images/nato/canada navy/HFX-Class-photo-768x511.jpg)
+![](/assets/images/legacy/canada navy/HFX-Class-photo-768x511.jpg)
 
 The ships the Halifax class was replacing were all commissioned in the late ‘50s or early ‘60s and were of marginal capability at best. Representing four different classes these 14 ships were all due for retirement after over 30 years of hard use in the North Atlantic or North Pacific. Essentially they remained active as life support systems for very effective towed array variable depth sonars (VDS) and the Sea King Helicopter carried on 6 of them.
 
@@ -49,25 +49,25 @@ The ships the Halifax class was replacing were all commissioned in the late ‘5
 | DDH 230 | St Laurent      | Margaree     | Tied Up  | Atlantic |
 | DDH 233 | St Laurent      | Fraser       | Active   | Atlantic |
 
-![](/assets/images/nato/canada navy/annapol1-300x233.jpg)
+![](/assets/images/legacy/canada navy/annapol1-300x233.jpg)
 
 Annapolis Class
 
-![](/assets/images/nato/canada navy/Mackenzie.jpg)
+![](/assets/images/legacy/canada navy/Mackenzie.jpg)
 
 Mackenzie Class
 
-![](/assets/images/nato/canada navy/restigou.jpg)
+![](/assets/images/legacy/canada navy/restigou.jpg)
 
 Improved Restigouche Class
 
-![](/assets/images/nato/canada navy/st-Laurent-768x660.jpg)
+![](/assets/images/legacy/canada navy/st-Laurent-768x660.jpg)
 
 St Laurent Class
 
 The RCN is also provided with replenishment oilers, the Provider was the prototype for the other two which are larger and have improved systems:
 
-![](/assets/images/nato/canada navy/provider-300x221.jpg)
+![](/assets/images/legacy/canada navy/provider-300x221.jpg)
 
 HMCS Provider
 
@@ -77,7 +77,7 @@ HMCS Provider
 | AOR 509 | Protecteur | Active | Atlantic |      |
 | AOR 510 | Preserver  | Active | Atlantic |      |
 
-![](/assets/images/nato/canada navy/preserve-300x180.jpg)
+![](/assets/images/legacy/canada navy/preserve-300x180.jpg)
 
 HMCS Preserver
 
@@ -89,6 +89,6 @@ HMCS Preserver
 | S75     | Okanagan | Active | Atlantic |      |
 | S76     | Onondaga | Active | Atlantic |      |
 
-![](/assets/images/nato/canada navy/ojibwa-620.jpg)
+![](/assets/images/legacy/canada navy/ojibwa-620.jpg)
 
 HMCS Ojibwa

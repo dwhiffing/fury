@@ -2,4 +2,4 @@ The UK is one of the founding members of NATO and is arguably the second most im
 
 Territorial commitments, disputes and agreements are too numerous to mention but the UK has global commitments which it struggles to maintain with its reduced military force. However, despite the difficulties since 1982 the British forces have fought and won in the Falklands, the Gulf War, Yugoslavia and Bosnia, along with a continuing commitment to Northern Ireland, Belize, Brunei, Hong Kong, Kenya, Cyprus and Gibraltar.
 
-![](/assets/images/nato/United Kingdom Cover_files/image002.jpg)
+![](/assets/images/legacy/United Kingdom Cover_files/image002.jpg)

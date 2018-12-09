@@ -2,7 +2,7 @@ Italy has a moderate sized navy known as the Marina Militare (MM) which had rece
 
 **Aircraft Carrier**: Italy boasts one light Aircraft Carrier; The Giuseppe Garibaldi which is relatively new but holding only a limited air group of 12-16 AV-8B Harrier II+ and 12-18 helicopters of various types. The Harriers, historically delivered between 1994 and 1998 (3 were available for deployment of the Garibaldi in Jan 95), were accelerated into service and, although new with crew under training, they are available for the start of Northern Fury.
 
-![](/assets/images/nato/italy navy/incrociatorePA_GiuseppeGaribaldi.jpg)
+![](/assets/images/legacy/italy navy/incrociatorePA_GiuseppeGaribaldi.jpg)
 
 C 551 Giuseppe Garibaldi
 
@@ -14,15 +14,15 @@ C 551 Giuseppe Garibaldi
 | C 553   | Andria Doria    | Andria Doria    | Reserve |
 | C 554   | Caio Duilio     |                 | Reserve |
 
-![](/assets/images/nato/italy navy/C-550-Vittorio_Veneto.jpg)
+![](/assets/images/legacy/italy navy/C-550-Vittorio_Veneto.jpg)
 
 C 550 Vittorio Veneto
 
-![](/assets/images/nato/italy navy/C-553-Andria-Doria-768x458.jpg)
+![](/assets/images/legacy/italy navy/C-553-Andria-Doria-768x458.jpg)
 
 C 553 Andria Doria
 
-![](/assets/images/nato/italy navy/C-554-Caio-Duilio-768x624.jpg)
+![](/assets/images/legacy/italy navy/C-554-Caio-Duilio-768x624.jpg)
 
 C 554 Caio Duilio
 
@@ -35,11 +35,11 @@ C 554 Caio Duilio
 | D 560   | Durand de la Penne | Durand de la Penne |        |
 | D 561   | Francesco Mimbeli  |                    |        |
 
-![](/assets/images/nato/italy navy/audace_class_l1-768x646.jpg)
+![](/assets/images/legacy/italy navy/audace_class_l1-768x646.jpg)
 
 Audace Class
 
-![](/assets/images/nato/italy navy/Durand-de-la-Penne.jpg)
+![](/assets/images/legacy/italy navy/Durand-de-la-Penne.jpg)
 
 Durand de la Penne Class
 
@@ -74,23 +74,23 @@ Durand de la Penne Class
 | P 403   |           | Spica       | Indian Ocean  |
 | P 404   |           | Vega        |               |
 
-![](/assets/images/nato/italy navy/Lupo-Class-768x513.jpg)
+![](/assets/images/legacy/italy navy/Lupo-Class-768x513.jpg)
 
 Lupo Class
 
-![](/assets/images/nato/italy navy/Maestrale-class-768x514.jpg)
+![](/assets/images/legacy/italy navy/Maestrale-class-768x514.jpg)
 
 Maestrale class
 
-![](/assets/images/nato/italy navy/Alpino-class-768x512.jpg)
+![](/assets/images/legacy/italy navy/Alpino-class-768x512.jpg)
 
 Alpino class
 
-![](/assets/images/nato/italy navy/Minerva-Class-FFL.jpg)
+![](/assets/images/legacy/italy navy/Minerva-Class-FFL.jpg)
 
 Minerva Class FFL
 
-![](/assets/images/nato/italy navy/Cassiopea-Class-OPV-768x364.jpg)
+![](/assets/images/legacy/italy navy/Cassiopea-Class-OPV-768x364.jpg)
 
 Cassiopea Class OPV
 
@@ -106,6 +106,6 @@ Cassiopea Class OPV
 | S 523   |                   | Giuliano Prini         |        |
 | S 524   | Primo Longobardo  | Primo Longobardo       |        |
 
-![](/assets/images/nato/italy navy/nazario-sauro-class-768x329.jpg)
+![](/assets/images/legacy/italy navy/nazario-sauro-class-768x329.jpg)
 
 Sauro Class
