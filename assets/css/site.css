@@ -68,4 +68,8 @@ footer p {
   .title {
     text-align: center;
   }
+
+  .title h1 {
+    font-size: 36px;
+  }
 }

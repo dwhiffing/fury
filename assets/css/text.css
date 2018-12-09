@@ -6,8 +6,26 @@ h1 {
 }
 
 p {
-  color: #626262;
   font-family: "Droid Serif", serif;
-  font-size: 13px;
-  line-height: 20px;
+}
+
+p,
+li {
+  color: rgb(98, 98, 98);
+  font-style: normal;
+  line-height: 22px;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #ff4141;
+  text-decoration: none;
+  font-family: "Droid Serif", serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a:hover {
+  color: #ff4141;
+  text-decoration: underline;
 }
