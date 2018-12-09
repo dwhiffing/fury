@@ -2,19 +2,19 @@
 
 The **Schleswig-Holstein Territorial Command (SH)** in wartime would take charge of several home defence Brigades and Regiments and operate as a Division or possibly Corps level HQ under **Allied Command Baltic Approaches (BALTAP)**. 6th Panzergrenadier Division would also come under command BALTAP and, depending on the situation, operate independently or under the command of **SH**.
 
-![](/assets/images/legacy/german army/image001.png)
+![](/assets/images/nato/de/am/image001.png)
 
 The pre-unification army had a strength of approximately 340,000 regulars and 717,000 reserves and territorial defence forces. The regular forces could deploy to their wartime (GDP - General Defence Plan) positions within 24 hours and full mobilization of reserves and territorials would happen within 3-4 days.
 
 After unification the Heer merged with the Nationale Volksarmee of the former East Germany, forming a IV Corps headquartered in Potsdam, starting in 1990. Between 1990 and 1994 this fourth Corps was reduced in size until it was replaced in the Berlin/Potsdam area by III Corps. Very little former East German equipment was held, most of it was sold to finance unification. Since the bulk of both armies were conscripts, reduction of the total strength was simply a management issue. Historically however, over this time the structure and size of the Heer changed significantly between 1993 and 1996 - these changes did not happen.
 
-![](/assets/images/legacy/german army/image002.png)
+![](/assets/images/nato/de/am/image002.png)
 
 Leopard II
 
 **Leopard II**: Considered by many to be the finest tank in the world with a 120mm L44 smoothbore gun, a speed of 68 KPH, an operational range of 550Km with internal fuel and excellent armor protection. This tank is at least on par with the British Challenger 2, French Leclerc or the American Abrams. By 1994 the full production run of 2,125 was complete, and retained by the Heer. None of the engineering variants of the Leopard 2 had reached production but the Armored recovery vehicle variant was starting to arrive in units by 1994. Leopard I specialist variants were used instead.
 
-![](/assets/images/legacy/german army/image004.jpg)
+![](/assets/images/nato/de/am/image004.jpg)
 
 Leopard I
 
@@ -26,31 +26,31 @@ Leopard I
 - 36x Bergepanzer 2A1 ARV for engineer vehicles;
 - 140x Badger Engineering vehicles;
 
-![](/assets/images/legacy/german army/image005.jpg)
+![](/assets/images/nato/de/am/image005.jpg)
 
 Gepard
 
-![](/assets/images/legacy/german army/image006.jpg)
+![](/assets/images/nato/de/am/image006.jpg)
 
 Biber Bridge Layer
 
-![](/assets/images/legacy/german army/image007.jpg)
+![](/assets/images/nato/de/am/image007.jpg)
 
 Bergepanzer ARV
 
-![](/assets/images/legacy/german army/image008.jpg)
+![](/assets/images/nato/de/am/image008.jpg)
 
 Badger
 
-![](/assets/images/legacy/german army/image009.png)
+![](/assets/images/nato/de/am/image009.png)
 
 **Luchs Armored Reconnaissance Vehicle**: The German Army used 408 of these 8-wheeled amphibious vehicles in their reconnaissance battalions. With 8-wheel drive and all wheel steering, being equipped with thermal sites, a 20mm cannon and long range radios, it was ideal for the job it was tasked for.
 
-![](/assets/images/legacy/german army/image010.jpg)
+![](/assets/images/nato/de/am/image010.jpg)
 
 **Marder IFV**: Germany was the first NATO country to adopt the IFV (Infantry Fighting Vehicle) concept with the Marder. 2,133 of these vehicles were used in Panzergrenadiere units. In addition to the 20mm Cannon and the Milan ATGM (Anti Tank Guided Missile), the soldiers in the passenger compartment can engage targets from inside the vehicle or quickly dismount and assault. The Marder can carry 12 infantrymen but normally carried a crew of 3 with 7 dismountable soldiers as passengers.
 
-![](/assets/images/legacy/german army/image011.jpg)
+![](/assets/images/nato/de/am/image011.jpg)
 
 **M113 Family**: More than 4,000 of the ubiquitous M113, in addition to thousands used as infantry carriers‘ numerous variants are found in the German Army, including:
 
@@ -66,7 +66,7 @@ Badger
 - Radar carriers;
 - Artillery locating Radar carrier;
 
-![](/assets/images/legacy/german army/image012.jpg)
+![](/assets/images/nato/de/am/image012.jpg)
 
 **Fuchs Series**: The Fuchs is a Six-wheeled Armored Personnel Carrier (APC). The German Heer operated 1,040 of these vehicles in several variants. The basic vehicle was an amphibious and designed to carry a crew of 2 with 10 passengers. Variants include:
 
@@ -75,7 +75,7 @@ Badger
 - 265x fitted with various mission kits;
 - 140x NBC reconnaissance vehicles;
 
-![](/assets/images/legacy/german army/image014.jpg)
+![](/assets/images/nato/de/am/image014.jpg)
 
 Jaguar 1
 
@@ -84,10 +84,10 @@ Jaguar 1
 - 607x Kanonenjagdpanzer, with a 90mm gun;
 - 162x Jaguar 2, a Kanonenjagdpanzer with the gun replaced by a TOW2 ATGM \* 316x Jaguar 1, a similar chassis with a HOT ATGM
 
-![](/assets/images/legacy/german army/image015.jpg)
+![](/assets/images/nato/de/am/image015.jpg)
 
 Jaguar 2
 
-![](/assets/images/legacy/german army/image016.jpg)
+![](/assets/images/nato/de/am/image016.jpg)
 
 Kanonenjagdpanzer

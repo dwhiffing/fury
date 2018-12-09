@@ -1,6 +1,6 @@
 **Portuguese Navy** - The Portuguese Navy (_Marinha de Guerra Portuguesa_) traces its history back to the 12th Century through colonial exploration to the modern day. Unfortunately, most of Portugal‘s ships lightly armed and designed for overseas duties in a low threat environment, although they were effective in exerting influence in former colonies they are rather anemic by European and North Atlantic standards. A agreement with Britain to purchase the Rover Class fleet support tanker (RFA Blue Rover) was not executed in the Northern Fury world, leaving the Portuguese Navy dependent on others for at sea replenishment.
 
-![](/assets/images/legacy/portuguese navy/image001.jpg)
+![](/assets/images/nato/pt/nv/image001.jpg)
 
 Vasco Da Gama Class
 
@@ -12,7 +12,7 @@ Vasco Da Gama Class
 | F331    | Álvares Cabral | Lisbon    |
 | F332    | Corte-Real     | Azors     |
 
-![](/assets/images/legacy/portuguese navy/image004.jpg)
+![](/assets/images/nato/pt/nv/image004.jpg)
 
 João Coutinho Class
 
@@ -27,7 +27,7 @@ João Coutinho Class
 | F484    | Augusto de Castilho   | Lisbon      |
 | F485    | Honório Barreto       | Pacific     |
 
-![](/assets/images/legacy/portuguese navy/image006.jpg)
+![](/assets/images/nato/pt/nv/image006.jpg)
 
 João Belo Class
 
@@ -40,7 +40,7 @@ João Belo Class
 | F482    | Comandante Roberto Ivens       | Refit     |
 | F483    | Comandante Sacadura Cabral     | Lisbon    |
 
-![](/assets/images/legacy/portuguese navy/image008.jpg)
+![](/assets/images/nato/pt/nv/image008.jpg)
 
 Baptista de Andrade Class
 
@@ -53,7 +53,7 @@ Baptista de Andrade Class
 | F488    | Afonso Cerqueira    | Pacific        |
 | F489    | Oliveira e Carmo    | Lisbon         |
 
-![](/assets/images/legacy/portuguese navy/image010.jpg)
+![](/assets/images/nato/pt/nv/image010.jpg)
 
 Cacine Class
 
@@ -72,7 +72,7 @@ Cacine Class
 | P-1160  | Limpopo | Faro     |
 | P-1161  | Save    | Faro     |
 
-![](/assets/images/legacy/portuguese navy/image012.jpg)
+![](/assets/images/nato/pt/nv/image012.jpg)
 
 Albatroz Class
 
@@ -87,7 +87,7 @@ Albatroz Class
 | P-1166  | Condor    | Lisbon     |
 | P-1167  | Cisne     | Lisbon     |
 
-![](/assets/images/legacy/portuguese navy/image014.jpg)
+![](/assets/images/nato/pt/nv/image014.jpg)
 
 Albacora Class
 

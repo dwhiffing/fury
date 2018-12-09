@@ -4,4 +4,4 @@ Spain‘s fractious relationship with the United Kingdom over Gibraltar, Portuga
 
 Other territorial disputes with Morocco have a minor impact on the Spanish Military, in particular Perejil Island in the Strait of Gibraltar, several other small islands and the Spanish held territories of Ceuta and Melilla.
 
-![](/assets/images/legacy/spain/image001.jpg)
+![](/assets/images/nato/es/image001.jpg)

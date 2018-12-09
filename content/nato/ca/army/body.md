@@ -2,14 +2,14 @@ The Canadian army fields a Division sized force with four active Brigade Groups,
 
 The SSF has elements assigned to the AMF (ACE \\[Allied Command Europe\\] Mobile Force) and expected to deploy to North Norway in an emergency, it also has defence of North America and domestic tasks.
 
-![](/assets/images/legacy/canada army/canada_army1.png)
+![](/assets/images/nato/ca/am/canada_army1.png)
 
-![](/assets/images/legacy/canada army/canada_army2.jpg) **Leopard I** - The main battle tank of the Canadian Army is the Leopard IA3. The 114 tanks are primarily in Germany with 78 of them forming the 8th Canadian Hussars. The remainder are in Gagetown New Brunswick as a training Cadre. The Canadian based armoured units are equipped with ‘Cougars‘ but trained on Leopards.
+![](/assets/images/nato/ca/am/canada_army2.jpg) **Leopard I** - The main battle tank of the Canadian Army is the Leopard IA3. The 114 tanks are primarily in Germany with 78 of them forming the 8th Canadian Hussars. The remainder are in Gagetown New Brunswick as a training Cadre. The Canadian based armoured units are equipped with ‘Cougars‘ but trained on Leopards.
 
 **AVGP** - The Armoured Vehicle General Purpose (AVGP) was a family of vehicles based on the Swiss Piranha. Canada purchased 195 ‘Cougar‘ variants with a 76mm low velocity gun, and 274 ‘Grizzly‘ versions to act as Armoured Personnel Carriers, augmenting the fleet of M113s already in service. These vehicles were generally underpowered, lacking in firepower, small and unpopular. They were not meant for service outside of Canada, but there was no effective plan to re-equip the force in times of emergency and they deployed to Bosnia, Croatia, Somalia and Africa on various missions - so they would undoubtedly be deployed to Europe in Northern Fury.
 
-![](/assets/images/legacy/canada army/canada_army3.jpg) ![](/assets/images/legacy/canada army/canada_army4.jpg)
+![](/assets/images/nato/ca/am/canada_army3.jpg) ![](/assets/images/nato/ca/am/canada_army4.jpg)
 
 **M109** - Canada operated 76 M109A4B+ howitzers, with 24 equipping 1st Regiment Royal Canadian Horse Artillery (RCHA) in Germany and two regiments of 18 guns each in Canada supporting the other two Bdes of the Division.
 
-![](/assets/images/legacy/canada army/canada_army5.jpg)
+![](/assets/images/nato/ca/am/canada_army5.jpg)
