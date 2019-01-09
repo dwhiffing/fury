@@ -17,7 +17,8 @@ const Page = ({
   _pages
 }) => {
   let aside = _ID.split("/")[0];
-  const label = _pages[_ID].label;
+  const thing = _pages[_ID];
+  const label = thing.label;
 
   title = title || label;
 
