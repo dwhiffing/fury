@@ -1,0 +1,115 @@
+aside {
+  background-color: rgba(0, 0, 0, 0.01);
+  border-right: 1px solid #eee;
+  min-width: 260px;
+  width: 30%;
+  max-width: 435px;
+  -ms-flex: 0 100px;
+  -webkit-box-flex: 0;
+  -moz-box-flex: 0;
+  -ms-box-flex: 0;
+  box-flex: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 30px;
+  padding-right: 40px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+ul {
+  list-style: none inside none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: #4c4c4c;
+  font-size: 26px;
+  line-height: 16px;
+  display: inline-block;
+  position: relative;
+  top: 5px;
+  width: 16px;
+  margin-left: 15px;
+}
+
+aside ul li::before {
+  width: 16px;
+  margin-left: 0;
+}
+
+aside ul {
+  width: 180px;
+  margin-bottom: 0;
+}
+
+aside > ul > li {
+  margin-left: 30px;
+}
+
+aside ul li,
+aside ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+section {
+  background: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  -ms-flex: 1;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  box-flex: 1;
+  max-width: 720px;
+}
+
+@media (max-width: 700px) {
+  header.about .container {
+    justify-content: space-around;
+    padding: 8px 0;
+  }
+  header.about .container p {
+    display: none;
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+  article {
+    overflow-x: scroll;
+  }
+  aside {
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    justify-content: space-around;
+    border-bottom: 1px solid #ddd;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0 auto;
+  }
+  aside > ul {
+    width: 50%;
+    padding: 20px 0;
+  }
+  aside > ul > li {
+    margin-left: 10px;
+  }
+  aside ul li,
+  aside ul ul {
+    width: 100%;
+    padding: 0 10px 0 10px;
+  }
+  aside ul ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
