@@ -66,6 +66,7 @@ const Page = ({
                 nav={_nav}
                 pages={_pages}
                 country={_ID.split("/")[1]}
+                section={_ID.split("/")[3]}
               />
             )}
           </aside>

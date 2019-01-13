@@ -8,7 +8,7 @@ String.prototype.capitalize = function() {
   return this.charAt(0).toUpperCase() + this.slice(1);
 };
 
-const Aside = ({ nav, pages, name, country }) => {
+const Aside = ({ nav, pages, name, country, section }) => {
   const keys = Object.keys(nav.index[name]);
 
   const renderDeepLinks = data => {
@@ -26,6 +26,8 @@ const Aside = ({ nav, pages, name, country }) => {
           const match = pageLabel.match(regex);
           const label = match ? match[0] : pageLabel;
 
+          const _section = key.split("/")[3];
+
           if (typeof navData === "string") {
             return (
               <li>
@@ -38,7 +40,7 @@ const Aside = ({ nav, pages, name, country }) => {
                 <li>
                   <a href={`${prefix}/${key}`}>{label}</a>
                 </li>
-                {renderDeepLinks(navData)}
+                {(match || _section === section) && renderDeepLinks(navData)}
               </Fragment>
             );
           }
