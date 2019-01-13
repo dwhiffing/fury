@@ -49,13 +49,6 @@ tabs:
         label: Rumania
       - path: ru
         label: Soviet Union
-  scenarios:
-    label: Scenarios
-    items:
-      - path: northern
-        label: Northern
-      - path: carribean
-        label: Carribean
 ---
 
 Northern Fury

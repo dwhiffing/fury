@@ -32,20 +32,18 @@ const Nav = ({ _nav, tabs }) => (
                     return (
                       <li>
                         <a href={mainHref}>{item.label}</a>
-                        {tab.label !== "Scenarios" && (
-                          <ul className="dropdown">
-                            {["Air Force", "Army", "Navy"].map(label => {
-                              const subPath = label
-                                .toLowerCase()
-                                .replace(" ", "_");
-                              return (
-                                <li>
-                                  <a href={`${mainHref}/${subPath}`}>{label}</a>
-                                </li>
-                              );
-                            })}
-                          </ul>
-                        )}
+                        <ul className="dropdown">
+                          {["Air Force", "Army", "Navy"].map(label => {
+                            const subPath = label
+                              .toLowerCase()
+                              .replace(" ", "_");
+                            return (
+                              <li>
+                                <a href={`${mainHref}/${subPath}`}>{label}</a>
+                              </li>
+                            );
+                          })}
+                        </ul>
                       </li>
                     );
                   })}
