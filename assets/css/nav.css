@@ -104,7 +104,7 @@ ul.dropdown li:hover ul.dropdown {
   opacity: 1;
   display: block;
   left: 130px;
-  top: -10px;
+  top: 0px;
   min-width: 100px;
 }
 
