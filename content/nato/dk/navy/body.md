@@ -1,76 +1,41 @@
-Although the Danish Navy is focused on plugging the exit from the Baltic Sea into the Atlantic through the Skagerrak. The overseas responsibilities that Denmark has for Greenland and the Faroes islands which demand an ocean going navy.
+(Danish Submarines – to be added to the Danish Navy page)
 
-The most important ships in the Danish Navy are the Niels Juel class Corvettes, actually small Frigates.
+**Submarines**
 
-| Pennant | Ship               | Status | Location |
-| ------- | ------------------ | ------ | -------- |
-| F 354   | Niels Juel         | Active | Atlantic |
-| F 355   | Olfert Fischer     | Active | Atlantic |
-| F 356   | Peter Tordenskiold | Active | Atlantic |
+The Danish Navy operates two class of submarine, both of German design.
+Both designs are small, maneuverable and very well suited to operating
+in shallow, congested waters. All Danish submarines were based at
+Frederikshaven and two were kept at sea at all times with two more ready
+for immediate deployment.
 
-![](/assets/images/nato/dk/nv/NJ-class-768x576.jpg)
+[**Narhvalen Class**](https://en.wikipedia.org/wiki/Type_205_submarine):
+These two modified Type 205 submarines were acquired in 1970, they were
+very small and with a crew of only 21 personnel, were inexpensive to
+operate. They had a major drawback in that their torpedoes were only
+suitable for surface targets, and not other submarines, this was
+mitigated by operating them in coastal waters where they were supported
+by ASW helicopters.
 
-Niels Juel Class
+| Pennant | Name        | Status | Location                       |
+| ------- | ----------- | ------ | ------------------------------ |
+| S 320   | Narhvalen   | Active | In port                        |
+| S 321   | Nordkaperen | Active | Patrolling off Bornholm Island |
 
-**Offshore Patrol Vessels**: Essentially Frigates capable of long range, long duration patrols. The singleton ship Beskytteren was followed by the very modern and capable Thetis class.
+![](/assets/images/nato/dk/navy/image1.jpg)
 
-![](/assets/images/nato/dk/nv/Beskytteren.jpg)
+**[Tumleren
+class](https://en.wikipedia.org/wiki/Kobben-class_submarine):** These
+three boats were purchased (along with a 4<sup>th</sup> used for spare
+parts) from Norway in 1989-91. This was the Norwegian Kobben class which
+were a customized version of the German Type 205 and designated the Type
+207. Although very similar to the Narhvalen Class, they were slightly
+larger, had a much better maximum dive depth, better sensors, and were
+able to track and target other submarines.
 
-HMDS Beskytteren
+| Pennant | Name       | Status | Location                    |
+| ------- | ---------- | ------ | --------------------------- |
+| S322    | Tumleren   | Active | In port                     |
+| S333    | Saelen     | Refit  |                             |
+| S324    | Springeren | Active | Patrolling in the North Sea |
 
-| Pennant | Ship        | Status | Location | Task |
-| ------- | ----------- | ------ | -------- | ---- |
-| F 340   | Beskytteren | Active | Atlantic |      |
-| F 357   | Thetis      | Active | Atlantic |      |
-| F 358   | Triton      | Active | Atlantic |      |
-| F 359   | Vædderen    | Active | Atlantic |      |
-| F 360   | Hvidbjørnen | Active | Atlantic |      |
-
-![](/assets/images/nato/dk/nv/Thetis.jpg)
-
-Thetis Class
-
-#### Light Forces
-
-In the confined waters of the Baltic approaches, the cut and thrust of light forces is critical. Using islands and narrow seas to shadow radar signatures, hide ambushing craft and allowing for quick escape lends itself to small, fast and powerful craft.
-
-The Flyvefisken class was a modern, configurable class which was a new and novel concept for most navies. Built to either be either a Mine Countermeasures ship or a Combat craft, Northern Fury has both Series 1 and 2 completed by January 1994.
-
-| Pennant | Ship                      | Series   | Configuration | Task |
-| ------- | ------------------------- | -------- | ------------- | ---- |
-| P550    | Flyvefisken (Flying fish) | Series 1 | MCM           |      |
-| P551    | Hajen (Shark)             | Series 1 | MCM           |      |
-| P552    | Havkatten (Catfish)       | Series 1 | MCM           |      |
-| P553    | Laxen (Salmon)            | Series 1 | MCM           |      |
-| P554    | Makrelen (Mackerel)       | Series 1 | MCM           |      |
-| P555    | Støren (Sturgeon)         | Series 1 | MCM           |      |
-| P556    | Svæ rdfisken (Swordfish)  | Series 1 | MCM           |      |
-| P557    | Glenten (Kite)            | Series 2 | Combat        |      |
-| P558    | Gribben (Vulture)         | Series 2 | Surveillance  |      |
-| P559    | Lommen (Loon)             | Series 2 | Surveillance  |      |
-| P560    | Ravnen (Raven)            | Series 2 | Combat        |      |
-| P561    | Skaden (European magpie)  | Series 2 | Combat        |      |
-| P562    | Viben (Northern lapwing)  | Series 2 | Combat        |      |
-
-![](/assets/images/nato/dk/nv/Skaden1994.jpg)
-
-Flyvefisken class
-
-**Willemoes Class**: A very potent class of missile craft, each equipped with 8x Harpoon missiles and 2 Torpedo tubes. A lot of firepower for a 24 man crew and able to travel at 38 Knts:
-
-| Pennant | Ship      | Status | Location | Task |
-| ------- | --------- | ------ | -------- | ---- |
-| P540    | Bille     | Active | Baltic   |      |
-| P541    | Bredal    | Active | Baltic   |      |
-| P542    | Hammer    | Active | Baltic   |      |
-| P543    | Huitfeldt | Active | Baltic   |      |
-| P544    | Krieger   | Active | Baltic   |      |
-| P545    | Norby     | Active | Baltic   |      |
-| P546    | Rodsteen  | Active | Baltic   |      |
-| P547    | Sehested  | Active | Baltic   |      |
-| P548    | Suenson   | Active | Baltic   |      |
-| P549    | Willemoes | Active | Baltic   |      |
-
-![](/assets/images/nato/dk/nv/WILLEMOES.jpg)
-
-Willemoes Class
+![](/assets/images/nato/dk/navy/image2.jpg)
