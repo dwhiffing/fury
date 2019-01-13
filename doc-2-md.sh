@@ -39,7 +39,16 @@ ENDOFFILE
   rm -rf $assetsdir/media
   rm $assetsdir/$filename.md
   
-  rm -rf assets/images/nato/docs
-  mv content/nato/docs/body.md content/nato/body.md
-  rm -rf content/nato/docs/
 done
+
+if [ -d assets/images/nato/docs ]; then
+  rm -rf assets/images/nato/docs
+fi
+
+if [ -f content/nato/docs/body.md ]; then
+  mv content/nato/docs/body.md content/nato/body.md
+fi
+
+if [ -d content/nato/docs/ ]; then
+  rm -rf content/nato/docs/
+fi
