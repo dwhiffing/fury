@@ -9,8 +9,8 @@ for file in $(find ./docs -name '*.docx'); do
   countryname=$(basename $(dirname $file))
   filename=$(basename $file)
   filename="${filename%.*}"
-  assetsdir=assets/images/nato/$dirname
-  markdowndir=content/nato/$dirname
+  assetsdir=assets/images/nato/$dirname/$filename
+  markdowndir=content/nato/$dirname/$filename
 
   if [ ! -d $assetsdir ]; then
     mkdir -p $assetsdir
