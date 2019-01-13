@@ -1,4 +1,4 @@
-![](/assets/images/nato/./docs/image1.png)
+![](/assets/images/nato/image1.png)
 
 **NATO**
 
@@ -49,7 +49,7 @@ of Northern Fury in 1994:
 
   - Spain (1982)
     
-    ![](/assets/images/nato/./docs/image2.png)
+  ![](/assets/images/nato/image2.png)
 
 The reunification of Germany in 1990, meant that the former East Germany
 was drawn into NATO. Between 1989 and 1994 the reunification of Germany
@@ -76,7 +76,7 @@ Atlantic); and Commander-in-Chief Allied Command Channel (CINCCHAN). The
 remainder of the operational portion of the NATO command structure is
 depicted on the chart below:
 
-![](/assets/images/nato/./docs/image3.png)
+![](/assets/images/nato/image3.png)
 
 On the tactical level were dozens of Corps, Air Forces and Fleets,
 however clear distinction below the level depicted becomes complex
