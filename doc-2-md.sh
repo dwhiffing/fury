@@ -40,6 +40,5 @@ ENDOFFILE
 
   mv $assetsdir/media/* $assetsdir
   rm -rf $assetsdir/media
-  rm $assetsdir/$filename.html
   rm $assetsdir/$filename.md
 done
