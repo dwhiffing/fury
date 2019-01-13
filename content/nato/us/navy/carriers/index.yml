@@ -1,0 +1,6 @@
+label: United States Navy
+
+nav:
+  - /_shared/nav.md
+
+main: body.md
