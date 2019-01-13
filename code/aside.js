@@ -6,7 +6,7 @@ const regex = /(Air Force|Navy|Army)/;
 
 const Aside = ({ nav, pages, name, country }) => {
   const keys = Object.keys(nav.index[name]);
-  const doThing = key => {
+  const renderLinks = key => {
     const countryNavData = nav.index[name][key];
     const page = pages[key];
     const shouldRenderDeepLinks =
@@ -35,8 +35,8 @@ const Aside = ({ nav, pages, name, country }) => {
 
   return (
     <Fragment>
-      <ul>{keys.slice(0, 7).map(doThing)}</ul>
-      <ul>{keys.slice(7, 14).map(doThing)}</ul>
+      <ul>{keys.slice(0, keys.length / 2).map(renderLinks)}</ul>
+      <ul>{keys.slice(keys.length / 2, keys.length).map(renderLinks)}</ul>
     </Fragment>
   );
 };
