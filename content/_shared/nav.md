@@ -18,8 +18,12 @@ tabs:
         label: Germany
       - path: gr
         label: Greece
+      - path: is
+        label: Iceland
       - path: it
         label: Italy
+      - path: lx
+        label: Luxembourg
       - path: nl
         label: The Netherlands
       - path: no
