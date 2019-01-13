@@ -70,6 +70,10 @@ section {
   max-width: 720px;
 }
 
+li > p {
+  display: inline;
+}
+
 @media (max-width: 700px) {
   header.about .container {
     justify-content: space-around;
