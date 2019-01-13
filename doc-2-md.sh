@@ -25,6 +25,16 @@ for file in $(find ./docs -name '*.docx'); do
     mkdir -p $markdowndir
   fi
 
+  if [ ! -f $markdowndir/index.yml ]; then
+    cat > $markdowndir/index.yml << ENDOFFILE
+title: NATO
+nav:
+  - /_shared/nav.md
+
+main: body.md
+ENDOFFILE
+  fi
+
   pandoc $file -f docx -t gfm > $assetsdir/"$filename.md" --extract-media $assetsdir
   sed -E "s/(assets)/\/\1/g;s/(media\/)//g" $assetsdir/$filename.md > $markdowndir/body.md
 
