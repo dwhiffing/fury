@@ -6,12 +6,12 @@ for file in $(find ./docs -name '*.docx'); do
   countryname=$(basename $(dirname $file))
   filename=$(basename $file)
   filename="${filename%.*}"
-  assetsdir=assets/images/nato/$dirname/$filename
-  markdowndir=content/nato/$dirname/$filename
+  assetsdir=assets/images/$dirname/$filename
+  markdowndir=content/$dirname/$filename
 
   if [ $filename = "index" ]; then
-    assetsdir=assets/images/nato/$dirname
-    markdowndir=content/nato/$dirname
+    assetsdir=assets/images/$dirname
+    markdowndir=content/$dirname
   fi
 
   if [ ! -d $assetsdir ]; then
@@ -24,7 +24,7 @@ for file in $(find ./docs -name '*.docx'); do
 
   if [ ! -f $markdowndir/index.yml ]; then
     cat > $markdowndir/index.yml << ENDOFFILE
-title: NATO
+title: TITLE
 nav:
   - /_shared/nav.md
 
@@ -38,7 +38,6 @@ ENDOFFILE
   mv $assetsdir/media/* $assetsdir
   rm -rf $assetsdir/media
   rm $assetsdir/$filename.md
-  
 done
 
 if [ -d assets/images/nato/docs ]; then
@@ -52,4 +51,17 @@ fi
 
 if [ -d content/nato/docs/ ]; then
   rm -rf content/nato/docs/
+fi
+
+if [ -d assets/images/wp/docs ]; then
+  mv assets/images/wp/docs/* assets/images/wp/
+  rm -rf assets/images/wp/docs
+fi
+
+if [ -f content/wp/docs/body.md ]; then
+  mv content/wp/docs/body.md content/wp/body.md
+fi
+
+if [ -d content/wp/docs/ ]; then
+  rm -rf content/wp/docs/
 fi

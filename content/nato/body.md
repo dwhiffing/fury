@@ -49,7 +49,7 @@ of Northern Fury in 1994:
 
   - Spain (1982)
     
-  ![](/assets/images/nato/image2.png)
+    ![](/assets/images/nato/image2.png)
 
 The reunification of Germany in 1990, meant that the former East Germany
 was drawn into NATO. Between 1989 and 1994 the reunification of Germany
