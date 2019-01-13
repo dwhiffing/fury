@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# rm -rf ./assets/images/
-# mkdir ./assets/images/
-
 for file in $(find ./docs -name '*.docx'); do
   dirname=$(dirname $file)
   dirname=$(echo ${dirname#./docs/})
@@ -41,4 +38,8 @@ ENDOFFILE
   mv $assetsdir/media/* $assetsdir
   rm -rf $assetsdir/media
   rm $assetsdir/$filename.md
+  
+  rm -rf assets/images/nato/docs
+  mv content/nato/docs/body.md content/nato/body.md
+  rm -rf content/nato/docs/
 done
