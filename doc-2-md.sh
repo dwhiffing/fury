@@ -4,18 +4,21 @@
 # mkdir ./assets/images/
 
 for file in $(find ./docs -name '*.docx'); do
+  dirname=$(dirname $file)
+  dirname=$(echo ${dirname#./docs/})
   countryname=$(basename $(dirname $file))
   filename=$(basename $file)
   filename="${filename%.*}"
-  assetsdir=assets/images/nato/$countryname/$filename
-  markdowndir=content/nato/$countryname/$filename
-  if [ $filename = "index" ]; then
-    assetsdir=assets/images/nato/$countryname
-    markdowndir=content/nato/$countryname
-  fi
-  assetsdir_esc=$(echo $assetsdir | sed -e 's/[\/&]/\\&/g')
+  assetsdir=assets/images/nato/$dirname
+  markdowndir=content/nato/$dirname
 
-  mkdir $assetsdir
+  if [ ! -d $assetsdir ]; then
+    mkdir -p $assetsdir
+  fi
+
+  if [ ! -d $markdowndir ]; then
+    mkdir -p $markdowndir
+  fi
 
   pandoc $file -f docx -t gfm > $assetsdir/"$filename.md" --extract-media $assetsdir
   sed -E "s/(assets)/\/\1/g;s/(media\/)//g" $assetsdir/$filename.md > $markdowndir/body.md
