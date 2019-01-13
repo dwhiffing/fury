@@ -12,6 +12,11 @@ for file in $(find ./docs -name '*.docx'); do
   assetsdir=assets/images/nato/$dirname/$filename
   markdowndir=content/nato/$dirname/$filename
 
+  if [ $filename = "index" ]; then
+    assetsdir=assets/images/nato/$dirname
+    markdowndir=content/nato/$dirname
+  fi
+
   if [ ! -d $assetsdir ]; then
     mkdir -p $assetsdir
   fi
