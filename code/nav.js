@@ -5,13 +5,13 @@ const prefix = process.env.NODE_ENV === "production" ? "/fury" : "";
 const Nav = ({ _nav, tabs }) => (
   <div className="nav-container">
     <div className="mobile-container">
-      <a href={`/${prefix}`}>
+      <a href={`${process.env.NODE_ENV === "production" ? "/fury" : "/"}`}>
         <img className="logo" src={`${prefix}/assets/images/logo.png`} />
       </a>
     </div>
     <ul>
       <li className={`nav-top-button tab-home`}>
-        <a href={`/${prefix}`}>
+        <a href={`${process.env.NODE_ENV === "production" ? "/fury" : "/"}`}>
           <img className="logo" src={`${prefix}/assets/images/logo.png`} />
         </a>
       </li>
