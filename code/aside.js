@@ -4,8 +4,49 @@ const prefix = process.env.NODE_ENV === "production" ? "/fury" : "";
 
 const regex = /(Air Force|Navy|Army)/;
 
+String.prototype.capitalize = function() {
+  return this.charAt(0).toUpperCase() + this.slice(1);
+};
+
 const Aside = ({ nav, pages, name, country }) => {
   const keys = Object.keys(nav.index[name]);
+
+  const renderDeepLinks = data => {
+    return (
+      <ul>
+        {Object.keys(data).map(key => {
+          const navData = data[key];
+          const page = pages[key];
+          const pathArray = key.split("/");
+          const fallbackLabel = pathArray[pathArray.length - 1]
+            .replace("-", " ")
+            .capitalize();
+
+          const pageLabel = page.label || fallbackLabel;
+          const match = pageLabel.match(regex);
+          const label = match ? match[0] : pageLabel;
+
+          if (typeof navData === "string") {
+            return (
+              <li>
+                <a href={`${prefix}/${key}`}>{label}</a>
+              </li>
+            );
+          } else {
+            return (
+              <Fragment>
+                <li>
+                  <a href={`${prefix}/${key}`}>{label}</a>
+                </li>
+                {renderDeepLinks(navData)}
+              </Fragment>
+            );
+          }
+        })}
+      </ul>
+    );
+  };
+
   const renderLinks = key => {
     const countryNavData = nav.index[name][key];
     const page = pages[key];
@@ -16,19 +57,7 @@ const Aside = ({ nav, pages, name, country }) => {
       <li>
         <a href={`${prefix}/${key}`}>{page.label}</a>
 
-        {shouldRenderDeepLinks && (
-          <ul>
-            {Object.keys(countryNavData).map(key => {
-              const match = pages[key].label.match(regex);
-              const label = match ? match[0] : pages[key].label;
-              return (
-                <li>
-                  <a href={`${prefix}/${key}`}>{label}</a>
-                </li>
-              );
-            })}
-          </ul>
-        )}
+        {shouldRenderDeepLinks && renderDeepLinks(countryNavData)}
       </li>
     );
   };
