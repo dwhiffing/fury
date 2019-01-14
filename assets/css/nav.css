@@ -7,7 +7,7 @@
   background: #0d141d;
   list-style: none;
   padding: 0 40px;
-  max-width: 1100px;
+  max-width: 900px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -27,7 +27,7 @@
   display: flex;
   flex-direction: row;
   flex: 4;
-  max-width: 480px;
+  max-width: 340px;
   justify-content: space-around;
 }
 
@@ -146,7 +146,6 @@ ul.dropdown li:hover ul.dropdown {
   .mobile-container {
     display: block;
   }
-  nav li.tab-scenarios,
   .nav-top-button ul {
     display: none !important;
     visibility: none !important;
