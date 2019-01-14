@@ -34,9 +34,7 @@ const Nav = ({ _nav, tabs }) => (
                         <a href={mainHref}>{item.label}</a>
                         <ul className="dropdown">
                           {["Air Force", "Army", "Navy"].map(label => {
-                            const subPath = label
-                              .toLowerCase()
-                              .replace(" ", "_");
+                            const subPath = label.toLowerCase().split(" ")[0];
                             return (
                               <li>
                                 <a href={`${mainHref}/${subPath}`}>{label}</a>
