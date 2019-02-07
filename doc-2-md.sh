@@ -3,7 +3,6 @@
 for file in $(find ./docs -name '*.docx'); do
   dirname=$(dirname $file)
   dirname=$(echo ${dirname#./docs/})
-  countryname=$(basename $(dirname $file))
   filename=$(basename $file)
   filename="${filename%.*}"
   assetsdir=assets/images/$dirname/$filename
@@ -35,9 +34,11 @@ ENDOFFILE
   pandoc $file -f docx -t gfm > $assetsdir/"$filename.md" --extract-media $assetsdir
   sed -E "s/(assets)/\/\1/g;s/(media\/)//g;s/(\.\/docs\/)//g" $assetsdir/$filename.md > $markdowndir/body.md
 
-  mv $assetsdir/media/* $assetsdir
-  rm -rf $assetsdir/media
-  rm $assetsdir/$filename.md
+  if [ -d $assetsdir/media ]; then
+    mv $assetsdir/media/* $assetsdir
+    rm -rf $assetsdir/media
+    rm $assetsdir/$filename.md
+  fi
 done
 
 if [ -d assets/images/nato/docs ]; then
