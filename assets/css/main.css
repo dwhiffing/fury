@@ -119,8 +119,8 @@ li > p {
 }
 
 .country-index {
-  float: left;
-  margin-right: 20px;
+  float: right;
+  margin-left: 20px;
 }
 
 .country-index img {

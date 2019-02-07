@@ -19,7 +19,7 @@ const Page = ({
   let aside = _ID.split('/')[0]
   const thing = _pages[_ID]
   const label = thing.label
-  const key = thing._url.replace('/nato/', '')
+  const key = thing._url.replace('/nato', '')
 
   title = title || label
 
@@ -77,11 +77,11 @@ const Page = ({
               <div className="country-index">
                 <img
                   className="flag"
-                  src={`/assets/images/nato/${key}/flag.png`}
+                  src={`/assets/images/nato${key}/flag.png`}
                 />
                 <img
                   className="map"
-                  src={`/assets/images/nato/${key}/map.jpg`}
+                  src={`/assets/images/nato${key}/map.jpg`}
                 />
               </div>
             )}
