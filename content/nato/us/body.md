@@ -1,17 +1,13 @@
-**United States** ![](/assets/images/nato/us/image1.png)
-
-![](/assets/images/nato/us/image2.gif)
-
-**United States:** The US is one of the founding members of NATO and is
-undoubtedly the important military power in the alliance. Although there
-was significant discussion over military reductions following the
-unification of Germany, the hard line resurgence in the USSR quickly
-stymied that discussion. Internationally, the US has been arguing for
-maintenance of Cold War commitments while many governments are more
-interested in the ‘Peace Dividend’ that was promised in the late ‘80s.
-The divergence of a hawkish response to a resurgent USSR versus
-isolationist voices complaining about lack of foreign spending has given
-rise to some ugly political situations in Washington.
+The US is one of the founding members of NATO and is undoubtedly the
+important military power in the alliance. Although there was significant
+discussion over military reductions following the unification of
+Germany, the hard line resurgence in the USSR quickly stymied that
+discussion. Internationally, the US has been arguing for maintenance of
+Cold War commitments while many governments are more interested in the
+‘Peace Dividend’ that was promised in the late ‘80s. The divergence of
+a hawkish response to a resurgent USSR versus isolationist voices
+complaining about lack of foreign spending has given rise to some ugly
+political situations in Washington.
 
 The US military has undergone some reorganization, minor reductions and
 adjustments but has largely maintained its Cold War capabilities. The

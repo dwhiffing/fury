@@ -6,3 +6,5 @@ nav:
   - /_shared/nav.md
 
 main: body.md
+
+isIndexPage: true

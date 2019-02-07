@@ -1,6 +1,8 @@
-label: Canadian
+label: Canada
 
 nav:
   - /_shared/nav.md
 
 main: body.md
+
+isIndexPage: true

@@ -1,7 +1,8 @@
+**The French Navy**
+
 ![](/assets/images/nato/fr/navy/image1.jpg)
 
-![](/assets/images/nato/fr/navy/image2.jpg)![](/assets/images/nato/fr/navy/image3.jpeg)The
-French Navy is relatively large but stretched thin with global
+The French Navy is relatively large but stretched thin with global
 commitments and is suffering from some dated technology. In addition to
 maintaining its strategic Nuclear Ballistic Missile Submarines (SSBN)
 the French Navy stations fleets both in the Atlantic and the

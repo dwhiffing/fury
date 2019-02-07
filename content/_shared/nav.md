@@ -32,8 +32,6 @@ tabs:
         label: Portugal
       - path: es
         label: Spain
-      - path: tr
-        label: Turkey
       - path: uk
         label: United Kingdom
       - path: us

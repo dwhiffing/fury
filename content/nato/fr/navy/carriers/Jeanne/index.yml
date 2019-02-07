@@ -1,0 +1,5 @@
+title: TITLE
+nav:
+  - /_shared/nav.md
+
+main: body.md

@@ -1,15 +1,11 @@
-**Norway** ![](/assets/images/nato/no/image1.png)
-
-![](/assets/images/nato/no/image2.jpg)
-
-**Norway:** Norway is one of the 12 original members of the NATO
-alliance and was initially the only one to share a boarder directly with
-the Soviet Union. Turkey now shares that distinction since it joined in
-1952. With a population hovering around 5 million people and having a
-long and vulnerable coastline, Norway is dependent on NATO's collective
-defence assurances for its survival. Even though a small country
-economically, Norway routinely spends over 3% of its GDP on defence, 50%
-more than NATO requires.
+Norway is one of the 12 original members of the NATO alliance and was
+initially the only one to share a boarder directly with the Soviet
+Union. Turkey now shares that distinction since it joined in 1952. With
+a population hovering around 5 million people and having a long and
+vulnerable coastline, Norway is dependent on NATO's collective defence
+assurances for its survival. Even though a small country economically,
+Norway routinely spends over 3% of its GDP on defence, 50% more than
+NATO requires.
 
 NATO realized the critical vulnerability of its northern flank and made
 provision for rapid deployment to Norway. AMF (ACE \[Allied Command

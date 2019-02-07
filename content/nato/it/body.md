@@ -1,7 +1,3 @@
-**Italy** ![](/assets/images/nato/it/image1.png)
-
-![](/assets/images/nato/it/image2.jpg)
-
 Italy is an original member of NATO as one of the 12 nations forming the
 alliance in 1949. Italy and NATO however had a complicated relationship;
 between 1946 and 1994 the government changed 61 times. Most of the

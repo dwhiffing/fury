@@ -1,7 +1,3 @@
-**Greece** ![](/assets/images/nato/gr/image1.png)
-
-![](/assets/images/nato/gr/image2.jpg)
-
 Greece has had a somewhat tumultuous relationship with NATO, joining in
 1952 in conjunction with is geographic neighbor and long term rival
 Turkey. In 1974 when NATO refused to act against Turkey over the Turkish

@@ -1,12 +1,8 @@
-**Spain** ![](/assets/images/nato/es/image1.png)
-
-![](/assets/images/nato/es/image2.jpg)
-
-**Spain:** Spain was the last country to join NATO once its democratic
-restoration gained enough momentum, following the Dictator Franco's
-death in 1975, to hold a national referendum on the subject. Although
-strongly opposed by a strong socialist opposition, which came into
-government that year, the plebiscite voted for joining NATO.
+Spain was the last country to join NATO once its democratic restoration
+gained enough momentum, following the Dictator Franco's death in 1975,
+to hold a national referendum on the subject. Although strongly opposed
+by a strong socialist opposition, which came into government that year,
+the plebiscite voted for joining NATO.
 
 Spain has fractious relationships with the United Kingdom over Gibraltar
 and Portugal over the Savage Islands and the town of Olivenza on the
@@ -21,5 +17,3 @@ Other territorial disputes with Morocco have a minor impact on the
 Spanish Military, in particular Perejil Island in the Strait of
 Gibraltar, several other small islands and the Spanish held territories
 of Ceuta and Melilla.
-
-![](/assets/images/nato/es/image3.jpg)

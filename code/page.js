@@ -1,9 +1,9 @@
-import PropTypes from "prop-types";
-import React from "react";
-import Aside from "./aside";
-import Header from "./header";
+import PropTypes from 'prop-types'
+import React from 'react'
+import Aside from './aside'
+import Header from './header'
 
-const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />;
+const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />
 
 const Page = ({
   nav,
@@ -14,13 +14,14 @@ const Page = ({
   _relativeURL,
   _nav,
   _ID,
-  _pages
+  _pages,
 }) => {
-  let aside = _ID.split("/")[0];
-  const thing = _pages[_ID];
-  const label = thing.label;
+  let aside = _ID.split('/')[0]
+  const thing = _pages[_ID]
+  const label = thing.label
+  const key = thing._url.replace('/nato/', '')
 
-  title = title || label;
+  title = title || label
 
   return (
     <html>
@@ -32,13 +33,13 @@ const Page = ({
 
         <StyleSheet href="https://fonts.googleapis.com/css?family=Exo:300,400,500" />
         <StyleSheet href="https://fonts.googleapis.com/css?family=Droid+Serif:300,400,500" />
-        <StyleSheet href={_relativeURL("/assets/css/normalize.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/skeleton.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/site.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/main.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/nav.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/text.css", _ID)} />
-        <StyleSheet href={_relativeURL("/assets/css/utils.css", _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/normalize.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/skeleton.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/site.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/main.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/nav.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/text.css', _ID)} />
+        <StyleSheet href={_relativeURL('/assets/css/utils.css', _ID)} />
 
         {stylesheet && (
           <StyleSheet
@@ -60,18 +61,30 @@ const Page = ({
 
         <main>
           <aside>
-            {["nato", "warsaw", "scenarios"].includes(aside) && (
+            {['nato', 'warsaw', 'scenarios'].includes(aside) && (
               <Aside
                 name={aside}
                 nav={_nav}
                 pages={_pages}
-                country={_ID.split("/")[1]}
-                section={_ID.split("/")[3]}
+                country={_ID.split('/')[1]}
+                section={_ID.split('/')[3]}
               />
             )}
           </aside>
 
           <section>
+            {thing.isIndexPage && (
+              <div className="country-index">
+                <img
+                  className="flag"
+                  src={`/assets/images/nato/${key}/flag.png`}
+                />
+                <img
+                  className="map"
+                  src={`/assets/images/nato/${key}/map.jpg`}
+                />
+              </div>
+            )}
             <article>{main}</article>
           </section>
         </main>
@@ -90,8 +103,8 @@ const Page = ({
         )}
       </body>
     </html>
-  );
-};
+  )
+}
 
 Page.propTypes = {
   /**
@@ -102,9 +115,9 @@ Page.propTypes = {
   /**
    * main: (partials)(5)
    */
-  main: PropTypes.node.isRequired
-};
+  main: PropTypes.node.isRequired,
+}
 
-Page.defaultProps = {};
+Page.defaultProps = {}
 
-export default Page;
+export default Page

@@ -1,117 +1,189 @@
-**Norwegian Navy**: Norway‘s Navy is small but built specifically to operate within the confined and turbulent waters of the North Sea along its rocky and mountainous coastline.
+**Norwegian Navy**: Norway‘s Navy is small but built specifically to
+operate within the confined and turbulent waters of the North Sea along
+its long rocky and mountainous coastline. It is over 1000 miles (1750Km)
+from the North Cape to Stavanger in the south, causing Norway opt for
+many smaller ships as opposed to a few larger and more expensive
+vessels.
 
-**Frigates**: The Oslo Class are small Frigates but have recently been modernized (late 80‘s) and are capable of a wide range of general duties.
+[**Oslo Class**](https://en.wikipedia.org/wiki/Oslo-class_frigate):
+Although they are the largest and most capable ships in the Norwegian
+Navy, they are small Frigates by most standards (1,700 tons). Built in
+the 1960’s they have recently been modernized (late 80‘s) and are
+capable of a wide range of general duties. These ships do not have a
+helicopter but rely on shore based maritime aircraft to support them.
+They carry 6x Penguin Anti-Ship Missiles (ASM) and an 8 cell Sea Sparrow
+launcher, a short-range Surface to Air missiles (SAM) with 24 missiles
+in total. For Anti-submarine warfare (ASW) they have torpedoes and both
+hull and variable depth active sonar.
 
-| Pennant | Class     | Ship | Status | Location     | Task |
-| ------- | --------- | ---- | ------ | ------------ | ---- |
-| F 300   | Oslo      | Oslo | Active | Central Port |      |
-| F 301   | Bergen    |      | Active | North Patrol |      |
-| F 302   | Trondheim |      | Active | Central Port |      |
-| F 303   | Stevanger |      | Active | North Patrol |      |
-| F 304   | Narvik    |      | Active | South Maint  |      |
+| Class | Pennant | Ship      | Location  | Status | Remarks        |
+| ----- | ------- | --------- | --------- | ------ | -------------- |
+| Oslo  | F 300   | Oslo      | Trondheim | Active |                |
+|       | F 301   | Bergen    | Tromso    | Active | High readiness |
+|       | F 302   | Trondheim | Trondheim | Active | Patrol         |
+|       | F 303   | Stevanger | Tromso    | Active | High readiness |
+|       | F 304   | Narvik    | Bergen    | Active | Maintenance    |
 
-![](/assets/images/nato/no/nv/Oslo-768x576.jpg)
+![](/assets/images/nato/no/navy/image1.jpg)
 
-Oslo Class
+**Sleipner Class**: Dating from the same era as the Oslo class but
+largely obsolete. With the exception of an improved sonar installed in
+the late 80‘s, the two Sleipner class Corvettes are and used as training
+ships. They were due for retirement in 1993 but due to the increased
+threat in the Northern Fury world, they were retained in service.
 
-**Corvettes**: Dating from the same era as the Oslo class but with the exception of an improved sonar installed in the late 80‘s, the two Sleipner class Corvettes are largely obsolete and used as training ships.
+| Class    | Pennant | Ship     | Location | Status | Remarks  |
+| -------- | ------- | -------- | -------- | ------ | -------- |
+| Sleipner | F 310   | Sleipner | Bergen   | Active | Training |
+|          | F 311   | Æger     | Oslo     | Active | Training |
 
-| Pennant | Class    | Ship     | Status | Location | Task           |
-| ------- | -------- | -------- | ------ | -------- | -------------- |
-| F 310   | Sleipner | Sleipner | Active |          | South Training |
-| F 311   | Aeger    |          | Active |          | South Training |
+![](/assets/images/nato/no/navy/image2.jpg)
 
-![](/assets/images/nato/no/nv/Sleipner-768x514.jpg)
+**Fast Attack Craft (FAC)**: The most potent arm of the Norwegian Navy
+is its fleet of small, fast and deadly FACs. These boats use the rugged
+and mountainous coastline to hide in waiting for passing targets, using
+the radar shielding to hide until their speed and missiles can deal a
+lethal blow. Operating is small groups using hit and run tactics is
+their main means of survival.
 
-HNoMS Sleipner
+[**Storm
+Class**](https://en.wikipedia.org/wiki/Storm-class_patrol_boat): This
+class of 20 boats displace only 138 tons, but carry 6x Penguin I ASM,
+have a 76mm gun and 40mm auto-cannon. With a 20 man crew they can travel
+at over 30 knots.
 
-**Fast Attack Craft**: The most numerous type of ship in the Norwegian navy. The mountainous and fjord rich coastline provides excellent hiding ground for fast and dangerous craft.
+![](/assets/images/nato/no/navy/image3.jpg)
 
-| Pennant | Class  | Ship  | Status       | Location | Task |
-| ------- | ------ | ----- | ------------ | -------- | ---- |
-| P 961   | Storm  | Blink | 6x Penguin 1 | North    |      |
-| P 962   | Glimt  |       |              |          |      |
-| P 963   | Skjold |       |              | Ctr      |      |
-| P 964   | Trygg  |       |              |          |      |
-| P 965   | Kjekk  |       |              |          |      |
-| P 966   | Djerv  |       |              | Ctr      |      |
-| P 967   | Skudd  |       |              |          |      |
-| P 968   | Arg    |       |              |          |      |
-| P 969   | Steil  |       |              |          |      |
-| P 970   | Brann  |       |              | Ctr      |      |
-| P 971   | Tross  |       |              | Ctr      |      |
-| P 972   | Hvass  |       |              |          |      |
-| P 973   | Traust |       |              |          |      |
-| P 974   | Brott  |       |              |          |      |
-| P 975   | Odd    |       |              | Ctr      |      |
-| P 977   | Brask  |       |              | North    |      |
-| P 978   | Rokk   |       |              | Ctr      |      |
-| P 979   | Gnist  |       |              |          |      |
-| P 980   | Snogg  | Snogg | 4x Penguin 1 | Ctr      |      |
-| P 981   | Rapp   |       |              | North    |      |
-| P 982   | Snar   |       |              |          |      |
-| P 983   | Rask   |       |              | North    |      |
-| P 984   | Kvikk  |       |              |          |      |
-| P 985   | Kjapp  |       |              | North    |      |
-| P 986   | Hauk   | Hauk  | 6x Penguin 2 |          |      |
-| P 987   | Orn    |       |              |          |      |
-| P 988   | Terne  |       |              | North    |      |
-| P 989   | Tjeld  |       |              |          |      |
-| P 990   | Skarv  |       |              | North    |      |
-| P 991   | Teist  |       |              |          |      |
-| P 992   | Jo     |       |              |          |      |
-| P 993   | Lom    |       |              | Ctr      |      |
-| P 994   | Stegg  |       |              |          |      |
-| P 995   | Falk   |       |              | Ctr      |      |
-| P 996   | Ravn   |       |              |          |      |
-| P 997   | Gribb  |       |              | North    |      |
-| P 998   | Geir   |       |              |          |      |
-| P 999   | Erle   |       |              |          |      |
+[**Snogg
+Class**](https://en.wikipedia.org/wiki/Sn%C3%B8gg-class_missile_torpedo_boat):
+Only six boats of this class were built, and they only carried 4x
+Penguin I ASMs, but also 4x Torpedoes and one 40mm auto-cannon. They
+were about the same size as the Storm class and had a crew of 19 and a
+speed of over 30 knots.
 
-![](/assets/images/nato/no/nv/Hauk.jpg)
+![](/assets/images/nato/no/navy/image4.jpg)
 
-Hauk Class
+[**Hauk Class**](https://en.wikipedia.org/wiki/Hauk-class_patrol_boat):
+Larger (160 tons) and faster (32.5 knots) than the older boats, the 14
+Hauk class boats carried 6x Penguin II missiles with a longer range and
+better seeker head. These boats also carry Mistral SAMs, a 40mm
+auto-cannon and 2x Torpedoes.
 
-![](/assets/images/nato/no/nv/Snogg.gif)
+![](/assets/images/nato/no/navy/image5.jpg)
 
-Snogg Class
+| Class | Pennant | Ship   | Location   | Status | Remarks       |
+| ----- | ------- | ------ | ---------- | ------ | ------------- |
+| Storm | P 960   | Storm  | North Cape |        | 6x Penguin I  |
+|       | P 961   | Blink  |            |        |               |
+|       | P 962   | Glimt  |            |        |               |
+|       | P 963   | Skjold | Narvik     |        |               |
+|       | P 964   | Trygg  |            |        |               |
+|       | P 965   | Kjekk  |            |        |               |
+|       | P 966   | Djerv  | Narvik     |        |               |
+|       | P 967   | Skudd  |            |        |               |
+|       | P 968   | Arg    |            | Maint  |               |
+|       | P 969   | Steil  |            |        |               |
+|       | P 970   | Brann  | Narvik     |        |               |
+|       | P 971   | Tross  | Narvik     |        |               |
+|       | P 972   | Hvass  |            |        |               |
+|       | P 973   | Traust | North Cape |        |               |
+|       | P 974   | Brott  |            |        |               |
+|       | P 975   | Odd    |            |        |               |
+|       | P 976   | Pil    |            |        |               |
+|       | P 977   | Brask  | North Cape |        |               |
+|       | P 978   | Rokk   | Narvik     |        |               |
+|       | P 979   | Gnist  |            |        |               |
+| Snogg | P 980   | Snøgg  | Narvik     |        | 4x Penguin I  |
+|       | P 981   | Rapp   | North Cape |        |               |
+|       | P 982   | Snar   |            |        |               |
+|       | P 983   | Rask   | North Cape |        |               |
+|       | P 984   | Kvikk  |            |        |               |
+|       | P 985   | Kjapp  | North Cape |        |               |
+| Hauk  | P 986   | Hauk   |            |        | 6x Penguin II |
+|       | P 987   | Ørn    |            |        |               |
+|       | P 988   | Terne  | North Cape |        |               |
+|       | P 989   | Tjeld  |            |        |               |
+|       | P 990   | Skarv  | North Cape |        |               |
+|       | P 991   | Teist  |            |        |               |
+|       | P 992   | Jo     |            |        |               |
+|       | P 993   | Lom    | Narvik     |        |               |
+|       | P 994   | Stegg  |            | Maint  |               |
+|       | P 995   | Falk   | Narvik     |        |               |
+|       | P 996   | Ravn   |            |        |               |
+|       | P 997   | Gribb  | North Cape |        |               |
+|       | P 998   | Geir   |            |        |               |
+|       | P 999   | Erle   |            |        |               |
 
-![](/assets/images/nato/no/nv/storm-Class.jpg)
+**Submarines:** Because of the proximity to the Soviet Union, the
+confined waters and rugged coastlines, the key method of defending was
+stealth and ambush. The numerous FAC listed above were one method of
+achieving this tactic, submarines were another.
 
-Storm Class
+[**Ula Class
+Submarine**](http://www.military-today.com/navy/ula_class.htm): Built in
+Germany and known as the Type 210 class, these have several improvements
+over the very popular Type 209 class. All six boats were commissioned
+between 1989 and 1992 and therefore are some of the most modern
+submarines available at the start of Northern Fury. These are very
+stealthy and dangerous boats which would give any enemy surface
+combatants pause to consider the dangers in Norwegian waters.
 
-**Submarines**: Because of the proximity to the Soviet Union, the confined waters and rugged coastlines the Norwegian Navy operated in, the key method of defending was stealth and ambush. The numerous FAC listed above were one method of achieving this tactic, submarines were another.
+| Class | Pennant | Ship    | Location      | Status | Remarks |
+| ----- | ------- | ------- | ------------- | ------ | ------- |
+| Ula   | S 300   | Ula     | Bergen        | Active | Tied Up |
+|       | S 301   | Utsira  | North Cape    | Active | Patrol  |
+|       | S 302   | Ulstein | Norwegian Sea | Active | Patrol  |
+|       | S 303   | Utvaer  | Bergen        | Active | Tied Up |
+|       | S 304   | Uthaug  | Bergen        | Active | Tied Up |
+|       | S 305   | Uredd   | North Sea     | Active | Patrol  |
 
-![](/assets/images/nato/no/nv/image001.jpg) **[Ula Class Submarine](http://www.military-today.com/navy/ula_class.htm)**: Built in Germany and known as the Type 210 class, having improvements over the very popular Type 209 class. All six boats were commissioned between 1989 and 1992 and therefore represent some of the most modern submarines available at the start of Northern Fury. These are very stealthy and dangerous boats which would give any enemy surface combatants pause to consider the dangers in Norwegian waters.
+![](/assets/images/nato/no/navy/image6.jpg)
 
-| Pennant | Ship    | Status | Location      | Task    |
-| ------- | ------- | ------ | ------------- | ------- |
-| S300    | Ula     | Active | Bergen        | Tied Up |
-| S301    | Utsira  | Active | North Cape    | Patrol  |
-| S302    | Ulstein | Active | Norwegian Sea | Patrol  |
-| S303    | Utvaer  | Active | Bergen        | Tied Up |
-| S304    | Uthaug  | Active | Bergen        | Tied Up |
-| S305    | Uredd   | Active | North Sea     | Patrol  |
+[**Kobben
+Class**](https://en.wikipedia.org/wiki/Kobben-class_submarine): These
+submarines were also built in Germany as the Type 207 class and were an
+improved version of the Type 205. In total 15 boats were delivered to
+Norway between 1964 and 1967. Due to age, accidents and decommissioning,
+8 remain in service at the start of Northern Fury.
 
-![](/assets/images/nato/no/nv/image002.jpg) **[Kobben Class](https://en.wikipedia.org/wiki/Kobben-class_submarine)**: These submarines were also built in Germany as the Type 207 class and were an improved version of the Type 205 class. In total 15 boats were delivered to Norway between 1964 and 1967. Due to age, accidents and decommissioning, 8 remain in service at the start of Northern Fury.
+| Class  | Pennant | Ship     | Location      | Status | Remarks |
+| ------ | ------- | -------- | ------------- | ------ | ------- |
+| Kobben | S 314   | Sklinna  | Bergen        | Active | Tied Up |
+|        | S 306   | Skolpen  | Bergen        | Refit  | Ready   |
+|        | S 308   | Stord    | North Sea     | Active | Patrol  |
+|        | S 309   | Svenneer | Bergen        | Active | Tied Up |
+|        | S 315   | kaura    | Bergen        | Active | Tied Up |
+|        | S 316   | Kinn     | Norwegian Sea | Active | Patrol  |
+|        | S 318   | Kobben   | North Cape    | Active | Patrol  |
+|        | S 319   | Kunna    | Norwegian Sea | Active | Patrol  |
 
-| Pennant | Ship     | Status | Location      | Task    |
-| ------- | -------- | ------ | ------------- | ------- |
-| S314    | Sklinna  | Active | Bergen        | Tied Up |
-| S306    | Skolpen  | Refit  | Bergen        |         |
-| S308    | Stord    | Active | North Sea     | Patrol  |
-| S309    | Svenneer | Active | Bergen        | Tied Up |
-| S315    | kaura    | Active | Bergen        | Tied Up |
-| S316    | Kinn     | Active | Norwegian Sea | Patrol  |
-| S318    | Kobben   | Active | North Cape    | Patrol  |
-| S319    | Kunna    | Active | Norwegian Sea | Patrol  |
+![](/assets/images/nato/no/navy/image7.jpg)
 
-**Norwegian Coast Guard**: The Coast Guard is part of the Navy and takes responsibility for fisheries and shipping inspection, customs and law enforcement, boarder control, environmental protection and search and rescue. Although it is a small force its wide ranging scope keeps it quite busy. To handle much of the day to day coastal work. there are ten small patrol ships of less than 1000 tones, seven of them are chartered, each has 1x 40mm Bofors gun. The one class of larger ships is the Nordkapp class.
+**Norwegian Coast Guard**: The Coast Guard is part of the Norwegian Navy
+and takes responsibility for fisheries and shipping inspection, customs
+and law enforcement, boarder control, environmental protection and
+search and rescue. The wide ranging scope of duties keeps this very
+small forece quite busy. Much of the day to day work coastal work is
+handled by ten small patrol ships of less than 1000 tones, seven of them
+are chartered, each has 1x 40mm Bofors gun. The one class of larger
+ships is the **Nordkapp** class.
 
-![](/assets/images/nato/no/nv/image003.jpg) **[Nordkapp Class](http://www.wikiwand.com/en/Nordkapp-class_offshore_patrol_vessel)**: These three Outer Coast Guard Ships, otherwise called Offshore Patrol Vessels (OPV) are 3300 tones, the size of a Frigate, but have fewer weapons or sensors. Their hulls are strengthened to withstand limited ice crushing, or ice browsing. Although it only carries a 57mm gun and machine guns, it can be fitted with Depth Charges, Penguin anti-ship missiles, torpedoes, 20mm guns and Mistral SAMs in wartime. The peacetime crew is 52 plus 6 for the air detachment, its wartime establishment is 76 and it has bunk space for 109. They each carry a Lynx helicopter, primarily for SAR.
+[**Nordkapp
+Class**](http://www.wikiwand.com/en/Nordkapp-class_offshore_patrol_vessel):
+These three Outer Coast Guard Ships, otherwise called Offshore Patrol
+Vessels (OPV) are 3300 tones, twice the size of the Oslo class Frigates,
+but have fewer weapons or sensors. Their hulls are strengthened to
+withstand limited ice crushing, or ice browsing. Although it only
+carries a 57mm gun and machine guns, in wartime they can be fitted with
+Depth Charges, Penguin anti-ship missiles, torpedoes, 20mm guns and
+Mistral SAMs. The peacetime crew is 52 plus 6 for the air detachment,
+its wartime establishment is 76 and it has bunk space for 109. They each
+carry a Lynx helicopter, primarily for SAR.
 
-| Pennant | Ship     | Status | Location   | Task    |
-| ------- | -------- | ------ | ---------- | ------- |
-| W320    | Nordkapp | Active | North Cape | Patrol  |
-| W321    | Senja    | Active | Oslo       | Tied up |
-| W322    | Andenes  | Active | North Sea  | Patrol  |
+| Class    | Pennant | Ship     | Location   | Status | Remarks |
+| -------- | ------- | -------- | ---------- | ------ | ------- |
+| Nordkapp | W320    | Nordkapp | North Cape | Active | Patrol  |
+|          | W321    | Senja    | Oslo       | Active | Tied up |
+|          | W322    | Andenes  | North Sea  | Active | Patrol  |
+
+![](/assets/images/nato/no/navy/image8.jpeg)
