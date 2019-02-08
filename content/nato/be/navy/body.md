@@ -27,8 +27,8 @@ Fury.
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------------- |
 | F 910       | [Wielingen](https://www.militaryfactory.com/ships/detail.asp?ship_id=Wielingen-F910-Frigate)                                                               | Active     | Tied Up      |               |
 | F 911       | [Wandelaar](https://translate.google.ca/translate?hl=en&sl=fr&u=http://zm-fn.blogspot.com/2007/10/f911-westdiep-retrait-du-service-de-la.html&prev=search) | Active     | Atlantic     | STANAVFORLANT |
-| F 912       | [Westdiep](https://translate.google.ca/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Westdiep_\(navire\)&prev=search)                              | Active     | Atlantic     |               |
-| F 913       | [Westhinder](https://translate.google.ca/translate?hl=en&sl=fr&u=http://www.marinebelge.be/westhinder.html&prev=search)                                    | Active     | Atlantic     |               |
+| F 912       | [Westdiep](https://translate.google.ca/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Westdiep_navire&prev=search)                                  | Active     | Atlantic     |               |
+| F 913       | [Westhinder](https://translate.google.ca/translate?hl=en&sl=fr&u=http://www.marinebelge.be/westhinder.html&prev=search)                                    | Active     | Atlantic     |               |  |
 
 **Mine Warfare Ships**
 
