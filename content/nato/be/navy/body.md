@@ -8,10 +8,11 @@ tradition of exploring the globe, but has a much shorter and humbler
 history. Within NATO they focus on keeping the English Channel and key
 ports of North West Europe clear of mines.
 
-![](/assets/images/nato/be/navy/image1.jpg)**Frigates**
+![](/assets/images/nato/be/navy/image1.jpeg)**Frigates**
 
-The four Anti Submarine Warfare (ASW) Frigates of the [Wielingen
-class](http://www.seaforces.org/marint/Belgian-Navy/Frigate/Wielingen-class.htm)
+The four Anti Submarine Warfare (ASW) Frigates of the
+[<span class="underline">Wielingen
+class</span>](http://www.seaforces.org/marint/Belgian-Navy/Frigate/Wielingen-class.htm)
 are quite modest in size and armament. At 2,200 tons with a 100mm gun, a
 single Sea Sparrow air defence missile launcher and eight missiles, four
 Exocet anti ship missiles and ASW weapons, these ships are limited in
@@ -23,26 +24,29 @@ between 1993 and 1995 (references vary). She is still on active duty in
 Northern
 Fury.
 
-| **Pennant** | **Ship**                                                                                                                                                   | **Status** | **Location** | **Task**      |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------------- |
-| F 910       | [Wielingen](https://www.militaryfactory.com/ships/detail.asp?ship_id=Wielingen-F910-Frigate)                                                               | Active     | Tied Up      |               |
-| F 911       | [Wandelaar](https://translate.google.ca/translate?hl=en&sl=fr&u=http://zm-fn.blogspot.com/2007/10/f911-westdiep-retrait-du-service-de-la.html&prev=search) | Active     | Atlantic     | STANAVFORLANT |
-| F 912       | [Westdiep](https://translate.google.ca/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Westdiep_navire&prev=search)                                  | Active     | Atlantic     |               |
-| F 913       | [Westhinder](https://translate.google.ca/translate?hl=en&sl=fr&u=http://www.marinebelge.be/westhinder.html&prev=search)                                    | Active     | Atlantic     |               |  |
+|             |                                                                                                                                                                                           |            |              |               |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------------- |
+| **Pennant** | **Ship**                                                                                                                                                                                  | **Status** | **Location** | **Task**      |
+| F 910       | [<span class="underline">Wielingen</span>](https://www.militaryfactory.com/ships/detail.asp?ship_id=Wielingen-F910-Frigate)                                                               | Active     | Tied Up      |               |
+| F 911       | [<span class="underline">Wandelaar</span>](https://translate.google.ca/translate?hl=en&sl=fr&u=http://zm-fn.blogspot.com/2007/10/f911-westdiep-retrait-du-service-de-la.html&prev=search) | Active     | Atlantic     | STANAVFORLANT |
+| F 912       | [<span class="underline">Westdiep</span>](https://translate.google.ca/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Westdiep_\(navire\))                                          | Active     | Atlantic     |               |
+| F 913       | [<span class="underline">Westhinder</span>](https://translate.google.ca/translate?hl=en&sl=fr&u=http://www.marinebelge.be/westhinder.html&prev=search)                                    | Active     | Atlantic     |               |
 
 **Mine Warfare Ships**
 
-![](/assets/images/nato/be/navy/image2.jpg)**Tripartite Class** was
-a joint venture between Belgium, France and the Netherlands to build an
-affordable, robust and interoperable costal mine hunting ship using
+![](/assets/images/nato/be/navy/image2.jpeg)**Tripartite Class**
+was a joint venture between Belgium, France and the Netherlands to build
+an affordable, robust and interoperable costal mine hunting ship using
 modern technology and methods. Belgium purchased 10 of these versatile
 little ships and bases them at Ostend. Each operates two
-[PAP 104](http://www.deagel.com/Protection-Systems/PAP-Mark-5_a002091001.aspx)
+[<span class="underline">PAP
+104</span>](http://www.deagel.com/Protection-Systems/PAP-Mark-5_a002091001.aspx)
 Remotely Operated Vehicles (ROV) which hunt for mines and can either cut
 them or blow them up in place.
 
-| **Pennant** | **Name** | **Location** |
+|             |          |              |
 | ----------- | -------- | ------------ |
+| **Pennant** | **Name** | **Location** |
 | M 915       | Aster    | Ostend       |
 | M 916       | Bellis   | Djibouti     |
 | M 917       | Crocus   | Ostend       |
@@ -54,7 +58,7 @@ them or blow them up in place.
 | M 923       | Narcis   | Ostend       |
 | M 924       | Primula  | Channel      |
 
-![](/assets/images/nato/be/navy/image3.gif)![](/assets/images/nato/be/navy/image4.jpeg)**Aggressive
+![](/assets/images/nato/be/navy/image1.gif)![](/assets/images/nato/be/navy/image3.jpeg)**Aggressive
 (or Agile) Class** is a much more traditional Ocean Minesweeper but with
 added high frequency sonar to allow it to hunt mines as well. The must
 rely on World War One era sweeping gear to destroy the mines however.
@@ -63,8 +67,9 @@ Built by the US in the 50’s, four of the original six vessels survive
 and there were two more acquired from Norway in 1966. They are based at
 Zeebrugge.
 
-| **Pennant** | **Name**      | **Location** |
+|             |               |              |
 | ----------- | ------------- | ------------ |
+| **Pennant** | **Name**      | **Location** |
 | M 902       | Van Haverbeke | North Sea    |
 | M 903       | Dufour        | Skagerrak    |
 | M 904       | DeBrouwer     | Zeebrugge    |
@@ -72,31 +77,34 @@ Zeebrugge.
 | M 908       | Truffaut      | Zeebrugge    |
 | M 909       | Bovesse       | Zeebrugge    |
 
-![](/assets/images/nato/be/navy/image5.gif)[**Adjutant
-Class**](https://en.wikipedia.org/wiki/Adjutant-class_minesweeper) also
-date from the 50’s, built in Belgium with American machinery, the Three
-remaining examples of this class, originally 18 strong, are nearing the
-end of their useful life. Several others remain in service after
-conversion to other purposes. [All
-Three](http://www.navypedia.org/ships/belgium/be_ms_diest.htm) are laid
-up at Zeebrugge.
+![](/assets/images/nato/be/navy/image2.gif)[**<span class="underline">Adjutant
+Class</span>**](https://en.wikipedia.org/wiki/Adjutant-class_minesweeper)
+also date from the 50’s, built in Belgium with American machinery, the
+Three remaining examples of this class, originally 18 strong, are
+nearing the end of their useful life. Several others remain in service
+after conversion to other purposes. [<span class="underline">All
+Three</span>](http://www.navypedia.org/ships/belgium/be_ms_diest.htm)
+are laid up at Zeebrugge.
 
-| **Pennant** | **Name**   | **Location** |
+|             |            |              |
 | ----------- | ---------- | ------------ |
+| **Pennant** | **Name**   | **Location** |
 | M 930       | Rochefort  | Zeebrugge    |
 | M 932       | Nieuwpoort | Zeebrugge    |
 | M 933       | Koksijde   | Zeebrugge    |
 
-![](/assets/images/nato/be/navy/image6.jpeg)
+![](/assets/images/nato/be/navy/image4.jpeg)
 
-[Herstal
-Class](http://aboardtheminesweeper.blogspot.ca/2012/02/minesweeper.html)
+[<span class="underline">Herstal
+Class</span>](http://aboardtheminesweeper.blogspot.ca/2012/02/minesweeper.html)
 Inshore Minesweepers was based on the British Ham class and also hail
-from the 50’s. The remaining seven are laid up in [reserve at
-Antwerp](http://www.navypedia.org/ships/belgium/be_ms_temse.htm).
+from the 50’s. The remaining seven are laid up in
+[<span class="underline">reserve at
+Antwerp</span>](http://www.navypedia.org/ships/belgium/be_ms_temse.htm).
 
-| **Pennant** | **Name** | **Location** |
+|             |          |              |
 | ----------- | -------- | ------------ |
+| **Pennant** | **Name** | **Location** |
 | M478        | Herstal  | Antwerp      |
 | M479        | Huy      | Antwerp      |
 | M480        | Seraing  | Antwerp      |
