@@ -28,9 +28,9 @@ const Aside = ({ nav, pages, name, country, section }) => {
             .replace('-', ' ')
             .capitalize()
 
-          const pageLabel = page.label || fallbackLabel
+          const pageLabel = page.label || page.title || fallbackLabel
           const match = pageLabel.match(regex)
-          const label = match ? match[0] : pageLabel
+          let label = match ? match[0] : pageLabel
 
           const _section = key.split('/')[3]
 
