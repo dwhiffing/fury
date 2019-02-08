@@ -23,7 +23,7 @@ for file in $(find ./docs -name '*.docx'); do
 
   if [ ! -f $markdowndir/index.yml ]; then
     cat > $markdowndir/index.yml << ENDOFFILE
-title: TITLE
+title: $filename
 nav:
   - /_shared/nav.md
 
@@ -37,8 +37,9 @@ ENDOFFILE
   if [ -d $assetsdir/media ]; then
     mv $assetsdir/media/* $assetsdir
     rm -rf $assetsdir/media
-    rm $assetsdir/$filename.md
   fi
+
+  rm $assetsdir/$filename.md
 done
 
 if [ -d assets/images/nato/docs ]; then
