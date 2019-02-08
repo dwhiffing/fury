@@ -28,19 +28,24 @@ const Nav = ({ _nav, tabs }) => (
                 <ul className="dropdown">
                   {tab.items.map(item => {
                     const mainHref = `${prefix}/${pathName}/${item.path}`
+                    const renderDropdown = !['Iceland', 'Luxembourg'].includes(
+                      item.label,
+                    )
                     return (
                       <li>
                         <a href={mainHref}>{item.label}</a>
-                        <ul className="dropdown">
-                          {['Air Force', 'Army', 'Navy'].map(label => {
-                            const subPath = label.toLowerCase().split(' ')[0]
-                            return (
-                              <li>
-                                <a href={`${mainHref}/${subPath}`}>{label}</a>
-                              </li>
-                            )
-                          })}
-                        </ul>
+                        {renderDropdown && (
+                          <ul className="dropdown">
+                            {['Air Force', 'Army', 'Navy'].map(label => {
+                              const subPath = label.toLowerCase().split(' ')[0]
+                              return (
+                                <li>
+                                  <a href={`${mainHref}/${subPath}`}>{label}</a>
+                                </li>
+                              )
+                            })}
+                          </ul>
+                        )}
                       </li>
                     )
                   })}
