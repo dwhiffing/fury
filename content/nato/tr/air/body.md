@@ -1,17 +1,112 @@
-One of the 12 founding members of NATO, Portugal with a population of 10
-million and a low GDP was also the poorest by most measurements.
-Ultra-ideological policies, a transition from colonialism to socialism
-and then finally to a liberal democracy, all left the economy in a state
-of turmoil requiring the International Monetary Fund (IMF) to step in
-with stabilization programs in the 70's and again in the 80's. After
-joining the European Economic Community (EEC) in 1986, the economy
-improved substantially.
+**Turkish Air Force**
 
-The troubled political and economic situation did not leave much room
-for military development. Although one of the smaller forces in NATO,
-Portugal maintains several key bases, critical for security of trans-
-Atlantic commerce, particularly Lejas in the Azors but also the Cape
-Verde Islands and Madeira. Germany also uses the Portuguese base of Baja
-for its air combat training, and the HQ for Commander - in- Chief
-Iberian Atlantic (CINCIBERLANT) is located just west of Lisbon at
-Oeiras.
+The Turkish Air Force maintains a large but mixed inventory; With over
+550 aircraft in operations, about 380 of which are combat types.
+
+**F-16**
+
+Turkey builds its own F-16 under licence after receiving the first eight
+from the US under the Peace Onyx I program. The first batch was F-16
+Block 30 (34 C & 9 D) airframes 1987/90 a mirror of the Greek Peace
+Xenia I program, TUSAS Aerospace Industries (TAI) continued to produce
+F-16 Block 40 to fill out the full order of 132 airframes by adding 102
+C and 15 more D’s. The F-16 has almost completely replaced the F-104G
+and most of the F-5A fleet and conducts both air superiority and ground
+support tasks.
+
+| Sqn | Name    | Wing  | Location   | AC | Type       | Remarks |
+| --- | ------- | ----- | ---------- | -- | ---------- | ------- |
+| 141 | Wolf    | 4 AJU | Murted     | 18 | F-16 Bl 40 |         |
+| 142 | Gazelle | 4 AJU | Murted     | 18 | F-16 Bl 30 |         |
+| 143 | Oncel   | 4 AJU | Murted     | 18 | F-16 Bl 30 |         |
+| 161 | Bat     | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |         |
+| 162 | Harpoon | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |         |
+| 181 | Panther | 8 AJU | Diyarbakir | 18 | F-16 Bl 40 |         |
+| 191 | Cobra   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |         |
+| 192 | Tiger   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |         |
+
+![](/assets/images/nato/tr/air/image1.jpg)
+
+**F-4 Phantom**
+
+The F-4 was widely used in the Turkish Air Force, primarily for Air
+Superiority but also for reconnaissance and now, with the F-16 arriving,
+it is taking up the ground support role.
+
+| Sqn | Name    | Wing  | Location  | AC | Type  | Remarks |
+| --- | ------- | ----- | --------- | -- | ----- | ------- |
+| 111 | Panther | 1 AJU | Eskişehir | 18 | F-4E  |         |
+| 112 | Devil   | 1 AJU | Eskişehir | 18 | F-4E  |         |
+| 113 | Light   | 1 AJU | Eskişehir | 16 | RF-4E | Recce   |
+| 131 | Dragon  | 3 AJU | Konya     | 18 | F-4E  |         |
+| 171 | Corsair | 7 AJU | Malatya   | 18 | F-4E  |         |
+| 172 | Hawk    | 7 AJU | Malatya   | 18 | F-4E  |         |
+| 173 | Dawn    | 7 AJU | Malatya   | 16 | RF-4E | Recce   |
+
+![](/assets/images/nato/tr/air/image2.jpg)
+
+**F-5 Freedom Fighter**
+
+Turkey retained over 100 F-5A/B but did not receive additional airframes
+from Canada, Norway and the Netherlands in the late 80s and early 90s as
+they did historically, therefore these aircraft are nearing the end of
+their usable life. The 133<sup>rd</sup> Filo is the air demonstration
+team, the ‘Turkish Stars’.
+
+| Sqn | Name          | Wing  | Location | AC | Type  | Remarks |
+| --- | ------------- | ----- | -------- | -- | ----- | ------- |
+| 132 | Daggar        | 3 AJU | Konya    | 18 | F-5A  |         |
+| 133 | Turkish Stars | 3 AJU | Konya    | 24 | F-5A  |         |
+| 151 | Bronze        | 5 AJU | Merzifon | 18 | F-5A  |         |
+| 152 | Raider        | 5 AJU | Merzifon | 18 | F-5A  |         |
+| 184 | Sage          | 5 AJU | Merzifon | 18 | RF-5A | Recce   |
+
+![](/assets/images/nato/tr/air/image3.jpg)
+
+**F-104 Starfighter**
+
+One squadron of F-104 Freedom Fighters is planned to retire later in
+1994.
+
+| Sqn | Name | Wing  | Location   | AC | Type    | Remarks |
+| --- | ---- | ----- | ---------- | -- | ------- | ------- |
+| 182 | Hawk | 8 AJU | Diyarbakir | 18 | CF-104D |         |
+
+![](/assets/images/nato/tr/air/image4.jpg)
+
+**Transport Aircraft**
+
+Turkey’s geography demands a fairly large air transport fleet, primarily
+provided by three main types and augmented by a small fleet of executive
+jets. The CN-235s are just coming into service and 36 of an eventual 52
+are in service, in addition to the squadrons listed here, these are
+distributed amongst all other wings and bases to provide liaison and Sea
+Air Rescue (SAR)
+flights.
+
+| Sqn | Name         | Wing   | Location | AC | Type        | Remarks       |
+| --- | ------------ | ------ | -------- | -- | ----------- | ------------- |
+| 211 | Globetrotter | 11 ATU | Ankara   | 12 | CN-235      | Various types |
+| 212 | Eagle        | 11 ATU | Ankara   | 6  | C.550/G.555 | VIP           |
+| 221 | Breeze       | 11 ATU | Ankara   | 10 | C-160       |               |
+| 222 | Flame        | 11 ATU | Ankara   | 7  | C-130       |               |
+| 223 | Wing         | 11 ATU | Ankara   | 10 | C-160       |               |
+
+![](/assets/images/nato/tr/air/image5.jpg)
+
+**Training Aircraft**
+
+Turkey has a large flight training wing located near Izmir that conducts
+the full gamut of flight
+training.
+
+| Sqn | Name     | Wing | Location    | AC | Type    | Remarks             |
+| --- | -------- | ---- | ----------- | -- | ------- | ------------------- |
+| 121 | Bee      | ATC  | Cigli Izmir | 20 | T-38A   | Advanced Flight Trg |
+| 122 | Scorpion | ATC  | Cigli Izmir | 24 | T-37A   | Basic Flight Trg    |
+| 123 | Chick    | ATC  | Cigli Izmir | 40 | SF-260D | Initial Flight Trg  |
+| 124 | Pioneer  | ATC  | Cigli Izmir |    | various | instructor Trg      |
+| 125 | Panther  | ATC  | Cigli Izmir | 4  | CN-235  | Multi engine Trg    |
+| 203 | Aegean   | ATC  | Cigli Izmir | 4  | CN-235  | SAR Training        |
+
+![](/assets/images/nato/tr/air/image6.jpg)
