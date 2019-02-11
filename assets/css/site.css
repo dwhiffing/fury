@@ -29,9 +29,9 @@ header.title {
 
 header.title h1 {
   color: white;
-  margin: 0 auto;
+  margin: 0;
   padding: 24px;
-  max-width: 500px;
+  margin-left: 400px;
 }
 
 main {
@@ -71,5 +71,10 @@ footer p {
 
   .title h1 {
     font-size: 36px;
+    margin-left: 0 !important;
+  }
+
+  main .country-index {
+    float: none;
   }
 }
