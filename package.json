@@ -15,7 +15,7 @@
   "scripts": {
     "build": "NODE_ENV=production cuttlebelle",
     "start": "cuttlebelle watch",
-    "deploy": "gh-pages -d site",
+    "deploy": "NODE_ENV=production cuttlebelle; gh-pages -d site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "cuttlebelle": {
