@@ -17,7 +17,8 @@ const Page = ({
   _ID,
   _pages,
 }) => {
-  let aside = _ID.split('/')[0]
+  const pathArray = _ID.split('/')
+  let aside = pathArray[0]
   const thing = _pages[_ID]
   const label = thing.label
   const key = thing._url.replace('/nato', '')
@@ -67,8 +68,9 @@ const Page = ({
                 name={aside}
                 nav={_nav}
                 pages={_pages}
-                country={_ID.split('/')[1]}
-                section={_ID.split('/')[3]}
+                currentCountry={pathArray[1]}
+                currentSection={pathArray[2]}
+                _ID={pathArray}
               />
             )}
           </aside>
