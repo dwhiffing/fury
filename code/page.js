@@ -32,6 +32,7 @@ const Page = ({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
 
         <StyleSheet href="https://fonts.googleapis.com/css?family=Exo:300,400,500" />
         <StyleSheet href="https://fonts.googleapis.com/css?family=Droid+Serif:300,400,500" />
