@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-runtime": "^6.26.0",
+    "cuttlebelle": "^1.0.0-alpha.60",
     "turndown": "^5.0.1"
   },
   "devDependencies": {
