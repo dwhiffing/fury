@@ -94,11 +94,8 @@ const Page = ({
         </main>
 
         <footer>
-          <span>© 2017 Northern Fury.</span>
           <div>
-            <a href="#">Facebook</a>
-            <span> | </span>
-            <a href="https://twitter.com/NorthernFury94">Twitter</a>
+            <p>©2019 Northern Fury</p>
           </div>
         </footer>
 
