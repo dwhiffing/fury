@@ -74,7 +74,56 @@ li > p {
   display: inline;
 }
 
+.hero {
+  background-image: url(/assets/images/home.jpg);
+  width: 100vw;
+  height: 600px;
+  background-size: 1680px;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  background-position: center;
+}
+
+.hero_logo {
+  min-width: 280px;
+  margin: 0;
+  max-width: 400px;
+  position: relative;
+  left: 20%;
+  width: 100%;
+}
+
+.home-wrapper {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.home-wrapper p.sponsors {
+  text-align: center;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.home-content {
+  flex: 2;
+  padding: 40px;
+  min-width: 600px;
+}
+
 @media (max-width: 760px) {
+  .home-wrapper {
+    flex-direction: column-reverse;
+  }
+  .home-content {
+    min-width: fit-content;
+  }
+  .hero {
+    display: none;
+  }
   header.about .container {
     justify-content: space-around;
     padding: 8px 0;
@@ -123,7 +172,7 @@ li > p {
   aside {
     margin: 0;
     max-width: 100%;
-    padding: 0 150px;
+    padding: 0 20px;
   }
   footer div {
     max-width: 200px;
