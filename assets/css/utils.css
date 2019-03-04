@@ -5,15 +5,3 @@
 .float-right {
   float: right;
 }
-
-@media (max-width: 374px) {
-}
-
-@media (max-width: 500px) {
-}
-
-@media (max-width: 768px) {
-}
-
-@media (max-width: 1080px) {
-}
