@@ -25,6 +25,8 @@ const Page = ({
 
   title = title || label
 
+  const isIndex = pathArray[0] === 'index'
+
   return (
     <html>
       <head>
@@ -63,34 +65,38 @@ const Page = ({
         )}
 
         <main>
-          <aside>
-            {['nato', 'warsaw', 'scenarios'].includes(aside) && (
-              <Aside
-                name={aside}
-                nav={_nav}
-                pages={_pages}
-                currentCountry={pathArray[1]}
-                currentSection={pathArray[2]}
-                _ID={pathArray}
-              />
-            )}
-          </aside>
+          {!isIndex && (
+            <aside>
+              {['nato', 'warsaw', 'scenarios'].includes(aside) &&  (
+                <Aside
+                  name={aside}
+                  nav={_nav}
+                  pages={_pages}
+                  currentCountry={pathArray[1]}
+                  currentSection={pathArray[2]}
+                  _ID={pathArray}
+                />
+              )}
+            </aside>
+          )}
 
-          <section>
-            {thing.isIndexPage && (
-              <div className="country-index">
-                <img
-                  className="flag"
-                  src={`${prefix}/assets/images/nato${key}/flag.png`}
-                />
-                <img
-                  className="map"
-                  src={`${prefix}/assets/images/nato${key}/map.jpg`}
-                />
-              </div>
-            )}
-            <article>{main}</article>
-          </section>
+          {isIndex ? main : (
+            <section>
+              {thing.isIndexPage && (
+                <div className="country-index">
+                  <img
+                    className="flag"
+                    src={`${prefix}/assets/images/nato${key}/flag.png`}
+                  />
+                  <img
+                    className="map"
+                    src={`${prefix}/assets/images/nato${key}/map.jpg`}
+                  />
+                </div>
+              )}
+              <article>{main}</article>
+            </section>
+          )}
         </main>
 
         <footer>
