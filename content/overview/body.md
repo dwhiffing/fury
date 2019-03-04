@@ -1,7 +1,6 @@
 ---
 ---
 
-Northern Fury (Alternate Cold War History)
 On the 19th of August 1991, hard-liners in the Soviet leadership, calling themselves the 'State Emergency Committee', launched the 'August Coup' in order to remove Gorbachev from power and prevent the signing of the new union treaty. Although experiencing some initial setbacks and resounding world condemnation - the coup was a success. The concepts of Perestroika and Glasnost, and the economic and political restructuring they implied, were abolished overnight. Independence movements in 14 states were ruthlessly quashed, including those in Estonia, Latvia, Lithuania and Georgia where self-rule had already been declared. Internal strife reminiscent of the 1920's lasted for just over a month but the iron rule of the reinvigorated Communist Party prevailed in all areas.
 
 NATO watched nervously as their efforts to encourage Eastern European countries away from Dictatorship were methodically dashed. Only Poland and the re-unified Germany managed to avoid the restoration of the Warsaw Pact. Poland has declared itself Neutral and Non-aligned; however significant pro Eastern Bloc movements exist and are in a constant struggle with its emerging Capitalist economy. Germany is in a difficult position as many of its Left Wing political elements have been proposing the abandonment of collective defense as a viable strategy for the future.
