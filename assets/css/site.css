@@ -31,7 +31,7 @@ header.title h1 {
   color: white;
   margin: 0;
   padding: 24px;
-  margin-left: 400px;
+  margin-left: 27%;
 }
 
 main {
@@ -53,15 +53,21 @@ main {
 footer {
   background-color: #eee;
   width: 100%;
-  border-top: 1px solid #bbb;
-  padding: 35px 20px;
-  display: flex;
-  justify-content: space-between;
+  border-top: 1px solid #ddd;
+  padding: 15px;
   box-sizing: border-box;
+}
+
+footer div {
+  max-width: 530px;
+  width: 100%;
+  margin-left: 25%;
+  display: flex;
 }
 
 footer p {
   margin: 0;
+  color: #999;
 }
 
 @media (max-width: 700px) {

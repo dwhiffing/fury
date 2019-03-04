@@ -12,7 +12,6 @@ aside {
   display: flex;
   justify-content: flex-end;
   padding-top: 30px;
-  padding-right: 130px;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -75,7 +74,7 @@ li > p {
   display: inline;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 760px) {
   header.about .container {
     justify-content: space-around;
     padding: 8px 0;
@@ -96,6 +95,7 @@ li > p {
     padding: 0;
     justify-content: space-around;
     border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
     flex-direction: row;
     justify-content: flex-start;
     align-items: flex-start;
@@ -120,6 +120,14 @@ li > p {
     margin-left: auto;
     margin-right: auto;
   }
+  aside {
+    margin: 0;
+    max-width: 100%;
+    padding: 0 150px;
+  }
+  footer div {
+    max-width: 200px;
+  }
 }
 
 .country-index {
@@ -129,7 +137,7 @@ li > p {
 
 .country-index img {
   max-width: 270px;
-  margin: 0;
+  margin: 0 auto;
   margin-bottom: 20px;
   border: 1px solid;
 }
