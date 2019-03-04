@@ -113,11 +113,11 @@ Some of the key areas where Northern Fury strays from the historic are:
 Graphically the comparison between the historic goal and the Northern
 Fury programme looks like
 this:
+**USN Fleet size - Northern Fury Campaign vs 600 Ship Plan**
 
-| **USN Fleet size - Northern Fury Campaign vs 600 Ship Plan** |              |                   |       |         |           |       |                                                                        |
-| ------------------------------------------------------------ | ------------ | ----------------- | ----- | ------- | --------- | ----- | ---------------------------------------------------------------------- |
 |                                                              |              |                   |       |         |           |       |                                                                        |
-|                                                              | **Historic** | **Northern Fury** |       |         |           |       |                                                                        |
+| ------------------------------------------------------------ | ------------ | ----------------- | ----- | ------- | --------- | ----- | ---------------------------------------------------------------------- |
+|  **Name**                                                    | **Historic** | **Northern Fury** |       |         |           |       |                                                                        |
 |                                                              | 1985         | Goal              | Ready | Reserve | Launching | Total | Notes                                                                  |
 | CV/CVN                                                       | 13           | 15                | 13    | 2       | 1         | 16    | CV-61 to retire when CVN-74 commissions                                |
 | BB                                                           | 2            | 4                 | 4     |         |           | 4     |                                                                        |

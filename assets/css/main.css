@@ -41,8 +41,8 @@ aside ul li::before {
   margin-left: 0;
 }
 
-aside ul {
-  width: 210px;
+aside > ul {
+  width: 280px;
   margin-bottom: 0;
 }
 
