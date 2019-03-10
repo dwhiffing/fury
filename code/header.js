@@ -13,7 +13,7 @@ const Header = () => (
         <span> | </span>
         <a href="http://northernfury.bhgdesigns.com/blog/">Blog</a>
         <span> | </span>
-        <a href="northernfury94@gmail.com">Email us</a>  
+        <a href="mailto:northernfury94@gmail.com">Email us</a>  
       </span>
     </div>
   </header>
