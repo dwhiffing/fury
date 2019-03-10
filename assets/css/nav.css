@@ -167,4 +167,8 @@ ul.dropdown li:hover ul.dropdown {
   .nav-top-button {
     width: 25%;
   }
+
+  .tab-container {
+    margin: 0 auto;
+  }
 }
