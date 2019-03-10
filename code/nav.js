@@ -1,16 +1,18 @@
-import React from 'react'
+import React, { Fragment } from 'react'
+
+const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
 
 const Nav = ({ _nav, tabs }) => (
   <div className="nav-container">
     <div className="mobile-container">
       <a href={`${process.env.NODE_ENV === 'production' ? '/fury' : '/'}`}>
-        <img className="logo" src={`/assets/images/logo.png`} />
+        <img className="logo" src={`${prefix}/assets/images/logo.png`} />
       </a>
     </div>
     <ul>
       <li className={`nav-top-button tab-home`}>
         <a href={`${process.env.NODE_ENV === 'production' ? '/fury' : '/'}`}>
-          <img className="logo" src={`/assets/images/logo.png`} />
+          <img className="logo" src={`${prefix}/assets/images/logo.png`} />
         </a>
       </li>
       <div className="tab-container">
@@ -21,11 +23,11 @@ const Nav = ({ _nav, tabs }) => (
 
           return (
             <li key={`nav-${tabKey}`} className={`nav-top-button tab-${pathName}`}>
-              <a href={`/${pathName}`}>{tab.label}</a>
+              <a href={`${prefix}/${pathName}`}>{tab.label}</a>
               {typeof path === 'object' && (
                 <ul className="dropdown">
                   {tab.items.map(item => {
-                    const mainHref = `/${pathName}/${item.path}`
+                    const mainHref = `${prefix}/${pathName}/${item.path}`
                     const renderDropdown = !['Iceland', 'Luxembourg'].includes(
                       item.label,
                     )

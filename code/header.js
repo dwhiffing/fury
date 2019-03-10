@@ -1,5 +1,7 @@
 import React from "react";
 
+const prefix = process.env.NODE_ENV === "production" ? "/fury" : "";
+
 const Header = () => (
   <header className="about">
     <div className="container">
