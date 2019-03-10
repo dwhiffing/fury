@@ -50,6 +50,11 @@ const Page = ({
             href={_relativeURL(`/assets/css/${stylesheet}.css`, _ID)}
           />
         )}
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135922421-1"></script>
+        <script>{`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments)};gtag('js', new Date()); gtag('config', 'UA-135922421-1');`}</script>
+        {_ID === 'index' && <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>}
+        {_ID === 'index' && <script>{`window.dojoRequire(["mojo/signup-forms/Loader"], function(L) {L.start({ "baseUrl":"mc.us20.list-manage.com","uuid":"1bb7df0745216952a7fbf0bb7","lid":"e6b4c91188","uniqueMethods":true })})`}</script>}
       </head>
 
       <body>

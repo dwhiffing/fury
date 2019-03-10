@@ -2,10 +2,7 @@ import PropTypes from "prop-types";
 import React, { Fragment } from "react";
 
 const Home = ({ _body }) => (
-  <div>
-    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
-    <script type="text/javascript" src="/assets/scripts/script.js"></script>
-    
+  <div>    
     <div className="hero" alt="Home">
       <img className="hero_logo" src="/assets/images/home_logo.png" alt="Northern Fury" />
     </div>
