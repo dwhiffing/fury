@@ -103,7 +103,7 @@ conducted by 155mm and heavy artillery.
 
 ![](/assets/images/nato/gr/army/image5.jpeg)
 
-**Air Defence **
+**Air Defence**
 
 The air defence systems as like many other elements in the Hellenic Army
 are dated. The I-Hawk is focused on defencing major infrastructure while

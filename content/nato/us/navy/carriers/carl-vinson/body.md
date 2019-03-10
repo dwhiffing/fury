@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**CVBG Carl Vinson (CVN-70) **
+**CVBG Carl Vinson (CVN-70)**
 
 When the Carl Vinson came out of Comprehensive Overhaul (COH) in April
 of 1993, she was re-based from San Diego to Norfolk to address the gap

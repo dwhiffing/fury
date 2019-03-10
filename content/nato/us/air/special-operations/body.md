@@ -115,7 +115,7 @@ in the inventory. A history of the Pave Low helicopters is
 
 ![](/assets/images/nato/us/air/special-operations/image5.jpg)
 
-**[MH-60G Pave Hawk](https://fas.org/man/dod-101/sys/ac/uh-60.htm) **
+**[MH-60G Pave Hawk](https://fas.org/man/dod-101/sys/ac/uh-60.htm)**
 
 ![](/assets/images/nato/us/air/special-operations/image6.jpg)This
 helicopter from the UH-60 Blackhawk family augments the MH-53’s in both

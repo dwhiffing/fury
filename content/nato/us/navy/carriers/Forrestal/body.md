@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**USS Forrestal (AVT-59) **
+**USS Forrestal (AVT-59)**
 
 The USS Forrestal moved to Naval Air Station Pensacola to replace the
 USS Lexington as the Navy’s training carrier in September of 92 when she

@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**CVBG Eisenhower (CVN-69) **
+**CVBG Eisenhower (CVN-69)**
 
 The Eisenhower starts the war on patrol in the Western Mediterranean on
 a routine patrol with 6th Fleet.  After spending three days of intense

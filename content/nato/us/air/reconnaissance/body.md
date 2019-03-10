@@ -1,4 +1,4 @@
-**Reconnaissance/Early Warning Aircraft **
+**Reconnaissance/Early Warning Aircraft**
 
 [**SR-71 Blackbird**](https://fas.org/irp/program/collect/sr-71.htm)
 

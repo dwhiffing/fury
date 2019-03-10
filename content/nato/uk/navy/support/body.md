@@ -1,4 +1,4 @@
-**Royal Navy Support Ships **
+**Royal Navy Support Ships**
 
 [**Fort Victoria Class
 AOR**](https://en.wikipedia.org/wiki/Fort_Victoria-class_replenishment_oiler)

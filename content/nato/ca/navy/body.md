@@ -52,7 +52,7 @@ for very effective towed array variable depth sonars (VDS) and the Sea
 King Helicopter carried on Annapolis and St Laurent classes (6
 Ships).
 
-| **Pennant** | **Class**           | **ship**         | **Status ** | **Location** |
+| **Pennant** | **Class**           | **ship**         | **Status**  | **Location** |
 | ----------- | ------------------- | ---------------- | ----------- | ------------ |
 | **DDH 265** | **Annapolis**       | **Annapolis**    | **Active**  | **Pacific**  |
 | **DDH 266** | **Annapolis**       | **Nipigon**      | **Active**  | **Atlantic** |

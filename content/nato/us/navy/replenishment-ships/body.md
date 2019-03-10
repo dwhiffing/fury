@@ -74,8 +74,8 @@ consideration in high risk areas.
 of these very high end ships, four *Sacramento Class* and three new
 *Supply Class*.
 
-**[Supply Class](https://fas.org/man/dod-101/sys/ship/aoe-6.htm):
-**
+**[Supply
+Class](https://fas.org/man/dod-101/sys/ship/aoe-6.htm):**
 
 ![](/assets/images/nato/us/navy/replenishment-ships/image2.jpeg)Historically,
 *USS Supply* was commissioned in Feb 94 and two of her sisters *USNS
@@ -464,7 +464,7 @@ ships was ordered between 91-94 and is building with the first ship
 canceled.
 
 ![](/assets/images/nato/us/navy/replenishment-ships/image10.jpeg)**[Suribachi/Nitro
-Class](https://fas.org/man/dod-101/sys/ship/ae-21.htm): **
+Class](https://fas.org/man/dod-101/sys/ship/ae-21.htm):**
 
 Sometimes considered two separate classes, the two Suribachi’s and three
 slightly larger Nitro’s are nearly identical in appearance and
@@ -532,7 +532,7 @@ weapons.
 
 ![](/assets/images/nato/us/navy/replenishment-ships/image13.jpg)
 
-**[Sirius Class:](https://fas.org/man/dod-101/sys/ship/tafs-8.htm) **
+**[Sirius Class:](https://fas.org/man/dod-101/sys/ship/tafs-8.htm)**
 
 Originally built as Fleet Auxiliaries for the Royal Navy (Lyness Class)
 about the same time as the Mars class, these three ships were purchased

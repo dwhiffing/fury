@@ -103,7 +103,7 @@ Olympics.
 
 ![](/assets/images/nato/no/army/image6.jpeg)![](/assets/images/nato/no/army/image7.png)
 
-**Leopard 1 **
+**Leopard 1**
 
 Like many other nations, Norway decided to purchase the Leopard 1 Main
 Battle Tank (MBT). A total of 172 MBTs were acquired in addition to

@@ -52,7 +52,7 @@ Division and the Panzerinfantrie Brigades of the 5<sup>th</sup>
 Division. Also many of the Leopard 1 variants were used by the Dutch,
 including the Bridglayer, and the Armored Recovery Vehicles (ARV).
 
-**Infantry Fighting Vehicles (IFV) **
+**Infantry Fighting Vehicles (IFV)**
 
 ![](/assets/images/nato/nl/army/image5.jpg)Although there were
 about 500 M113’s and up to 900 YP-408’s (an 8-wheeled Dutch design from

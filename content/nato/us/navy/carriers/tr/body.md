@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**CVBG Theodore Roosevelt (CVN-71) **
+**CVBG Theodore Roosevelt (CVN-71)**
 
 The USS Theodore Roosevelt (CVN-71) is finishing up a four month
 Scheduled ‘Selected Restricted Availability’ (SRA) maintenance period at

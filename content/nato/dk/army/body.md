@@ -2,7 +2,7 @@ Danish Army
 
 ![](/assets/images/nato/dk/army/image1.png)
 
-**Leopard 1DK **
+**Leopard 1DK**
 
 Denmark initially acquired 120 Leopard 1A3 in the 70’s and upgraded them
 to the ‘A5’ level as well as purchasing a further 110 to replace its

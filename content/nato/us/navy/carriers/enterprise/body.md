@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**CVBG Enterprise (CVN-65) **
+**CVBG Enterprise (CVN-65)**
 
 The Enterprise rushed through here Complex overhaul and refueling,
 putting to sea for initial tests in late Jan 94. She and elements of her

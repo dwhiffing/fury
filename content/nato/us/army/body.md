@@ -253,7 +253,7 @@ intervals and routinely train with Kuwaiti and Saudi forces.
 
 ![](/assets/images/nato/us/army/image9.png)
 
-**US Army Special Operations Command **
+**US Army Special Operations Command**
 
 The US Army Special Operations Command (USA SOC) is a relatively new
 organization, formed in 1989 when all Special Forces were place under
@@ -281,7 +281,7 @@ a large portion of the Army Reserve are logistics units.
 
 ![](/assets/images/nato/us/army/image11.png)
 
-**The US Army National Guard **
+**The US Army National Guard**
 
 The National Guard (NG) represents 25% of the deployable army and is a
 fundamental element in the ability of the US Army to succeed in battle.
@@ -360,7 +360,7 @@ battalions and brigades as well as the armored battalions in independent
 infantry brigades and armored cavalry regiments are equipped with the
 M1IP. The remaining formations are a mix of basic M1 MBTs and M60A3s.
 
-**Armored support vehicles **
+**Armored support vehicles**
 
 All armored support vehicles are based on the M60 chassis. Although some
 support vehicles based on the M1 are in development, they are several

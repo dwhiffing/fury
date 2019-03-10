@@ -1,6 +1,6 @@
 NATO/US Navy/US Navy CVBGs
 
-**CVBG John F Kennedy (CV-67) **
+**CVBG John F Kennedy (CV-67)**
 
 USS John F Kennedy was the newest conventionally powered Aircraft
 Carrier in the American Fleet, and at 25 years of service had emerged

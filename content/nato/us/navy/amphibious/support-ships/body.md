@@ -350,7 +350,7 @@ Cargo Ship List:
 <td>LASH</td>
 <td>Green Valley</td>
 <td>T-AK 2049</td>
-<td><a href="http://fas.org/man/dod-101/sys/ship/tak-2049.htm">Green Valley </a></td>
+<td><a href="http://fas.org/man/dod-101/sys/ship/tak-2049.htm">Green Valley</a></td>
 <td>Army MPS</td>
 <td>Diego Garcia</td>
 <td>88 Barges </td>
@@ -359,7 +359,7 @@ Cargo Ship List:
 <td> </td>
 <td> </td>
 <td>T-AK 2064</td>
-<td><a href="http://fas.org/man/dod-101/sys/ship/tak-2049.htm">Green Harbour </a></td>
+<td><a href="http://fas.org/man/dod-101/sys/ship/tak-2049.htm">Green Harbour</a></td>
 <td>Army MPS</td>
 <td>Diego Garcia</td>
 <td>88 Barges</td>
@@ -422,7 +422,7 @@ Cargo Ship List:
 <td> </td>
 <td> </td>
 <td>T-AK 3004</td>
-<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3000.htm">PVT Franklin J. Phillips </a></td>
+<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3000.htm">PVT Franklin J. Phillips</a></td>
 <td>MPS Sqn 2</td>
 <td>Diego Garcia</td>
 <td> </td>
@@ -431,7 +431,7 @@ Cargo Ship List:
 <td> </td>
 <td>Sgt. Matej Kocak</td>
 <td>T-AK 3005</td>
-<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3005.htm">SGT Matej Kocak </a></td>
+<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3005.htm">SGT Matej Kocak</a></td>
 <td>MPS Sqn 1</td>
 <td>Europe</td>
 <td> </td>
@@ -467,7 +467,7 @@ Cargo Ship List:
 <td> </td>
 <td> </td>
 <td>T-AK 3009</td>
-<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3008.htm">PFC D.T. Williams </a></td>
+<td><a href="http://fas.org/man/dod-101/sys/ship/tak-3008.htm">PFC D.T. Williams</a></td>
 <td>MPS Sqn 3</td>
 <td>Guam</td>
 <td> </td>

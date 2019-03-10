@@ -21,7 +21,7 @@ Danish commitments to NATO both in the Atlantic and the Mediterranean.
 
 ![](/assets/images/nato/dk/navy/image1.jpg)
 
-**Offshore Patrol Vessels (OPV): **
+**Offshore Patrol Vessels (OPV):**
 
 Although armed, these ships are designed for long duration fisheries and
 Coast Guard patrols in the Greenland and Faroes Islands areas. They each

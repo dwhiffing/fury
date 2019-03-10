@@ -24,7 +24,7 @@ and supporting Coalition operations in the Persian Gulf.
 
 ![](/assets/images/nato/fr/army/image1.png)
 
-**Leclerc **
+**Leclerc**
 
 **The French Army was in the initial stages of re-equipping its forces
 with this new Main Battle Tank (MBT) when Northern Fury occurs. This
@@ -91,7 +91,7 @@ can penetrated the side of a Soviet MBT at 2000 meters. The
 hydropneumatic suspension is adaptive and allows for both high speeds
 and a low profile when needed.
 
-**Armoured Personnel Carriers (APC) **
+**Armoured Personnel Carriers (APC)**
 
 ![](/assets/images/nato/fr/army/image8.jpg)Like most French
 vehicles, their APCs were all French designed and built, with a mind for

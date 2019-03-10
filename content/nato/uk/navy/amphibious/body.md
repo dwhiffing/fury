@@ -1,4 +1,4 @@
-**Royal Navy Amphibious **
+**Royal Navy Amphibious**
 
 [**HMS Ocean (L12)**](https://en.wikipedia.org/wiki/HMS_Ocean_\(L12\))
 
