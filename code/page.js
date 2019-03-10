@@ -4,7 +4,6 @@ import Aside from './aside'
 import Header from './header'
 
 const StyleSheet = ({ href }) => <link rel="stylesheet" href={href} />
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
 
 const Page = ({
   nav,
@@ -86,11 +85,11 @@ const Page = ({
                 <div className="country-index">
                   <img
                     className="flag"
-                    src={`${prefix}/assets/images/nato${key}/flag.png`}
+                    src={`/assets/images/nato${key}/flag.png`}
                   />
                   <img
                     className="map"
-                    src={`${prefix}/assets/images/nato${key}/map.jpg`}
+                    src={`/assets/images/nato${key}/map.jpg`}
                   />
                 </div>
               )}

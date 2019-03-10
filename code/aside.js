@@ -1,7 +1,5 @@
 import React, { Fragment } from 'react'
 
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
-
 const regex = /(Air Force|Navy|Army)/
 
 String.prototype.capitalize = function() {
@@ -43,7 +41,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
           const link = (
             <li>
               <a
-                href={`${prefix}/${key}`}
+                href={`/${key}`}
                 style={{
                   fontWeight: isActive ? 'bold' : 'normal'
                 }}
@@ -78,7 +76,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
 
     return (
       <li>
-        <a style={{ fontWeight: isActive ? 'bold' : 'normal' }} href={`${prefix}/${key}`}>{page.label}</a>
+        <a style={{ fontWeight: isActive ? 'bold' : 'normal' }} href={`/${key}`}>{page.label}</a>
 
         {shouldRenderDeepLinks && renderDeepLinks(countryNavData)}
       </li>
