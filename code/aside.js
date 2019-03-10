@@ -39,7 +39,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
           const shouldRenderDeepLinks = pathArray.length < 4 || _ID[3] === pathArray[3]
 
           const link = (
-            <li>
+            <li key={`link-${key}`}>
               <a
                 href={`/${key}`}
                 style={{
@@ -55,7 +55,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
             return link
           } else {
             return (
-              <Fragment>
+              <Fragment key={`link-${key}`}>
                 {link}
                 {/* need to fix MEF being weird due to extra nesting */}
                 {(isActive && shouldRenderDeepLinks || _ID[4] === 'mef') && renderDeepLinks(navData)}
@@ -75,7 +75,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
       typeof countryNavData === 'object' && isActive
 
     return (
-      <li>
+      <li key={`link-${key}`}>
         <a style={{ fontWeight: isActive ? 'bold' : 'normal' }} href={`/${key}`}>{page.label}</a>
 
         {shouldRenderDeepLinks && renderDeepLinks(countryNavData)}

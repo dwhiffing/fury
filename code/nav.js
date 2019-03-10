@@ -20,7 +20,7 @@ const Nav = ({ _nav, tabs }) => (
           let pathName = typeof path === 'string' ? path : tabKey
 
           return (
-            <li className={`nav-top-button tab-${pathName}`}>
+            <li key={`nav-${tabKey}`} className={`nav-top-button tab-${pathName}`}>
               <a href={`/${pathName}`}>{tab.label}</a>
               {typeof path === 'object' && (
                 <ul className="dropdown">
@@ -30,14 +30,14 @@ const Nav = ({ _nav, tabs }) => (
                       item.label,
                     )
                     return (
-                      <li>
+                      <li key={`inner-nav-${tabKey}-${item.path}`}>
                         <a href={mainHref}>{item.label}</a>
                         {renderDropdown && (
                           <ul className="dropdown">
                             {['Air Force', 'Army', 'Navy'].map(label => {
                               const subPath = label.toLowerCase().split(' ')[0]
                               return (
-                                <li>
+                                <li key={`inner-inner-nav-${tabKey}-${item.path}-${label}`}>
                                   <a href={`${mainHref}/${subPath}`}>{label}</a>
                                 </li>
                               )

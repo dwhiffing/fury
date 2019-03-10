@@ -112,18 +112,4 @@ const Page = ({
   )
 }
 
-Page.propTypes = {
-  /**
-   * title: Homepage
-   */
-  title: PropTypes.string.isRequired,
-
-  /**
-   * main: (partials)(5)
-   */
-  main: PropTypes.node.isRequired,
-}
-
-Page.defaultProps = {}
-
 export default Page
