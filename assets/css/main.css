@@ -76,7 +76,6 @@ li > p {
 
 .hero {
   background-image: url(/assets/images/home.jpg);
-  width: 100vw;
   height: 600px;
   background-size: 1680px;
   background-repeat: no-repeat;
