@@ -3,6 +3,8 @@
 - need to fix issue with deeplinks not highlighting properly
 - add position to ymls to allow custom sorting within aside
 - write compile and upload script (Test script by uploading to infinite ramble)
+- mailchimp and google analytics
+- get pandoc installed
 
 # Nice to have:
 
@@ -15,3 +17,33 @@
 - finish home page (swap out image for new cover)
 
 no later than the 15th
+
+
+# Readme
+
+## Required tools
+
+- VS Code (https://code.visualstudio.com/)
+- Node (https://nodejs.org/en/)
+- Git (https://git-scm.com/)
+- pandoc (https://pandoc.org/installing.html)
+
+# Get started
+
+- Make sure all required tools are installed first
+- Open VS Code
+- Clone repo (ctrl+shift+p, type in clone, hit enter, paste this url: https://github.com/dwhiffing/fury.git)
+
+# To update site
+
+- Modify word docs
+- Run doc-2-md.sh
+- run cuttlebelle to generate new site output
+- upload site output to server
+
+# To add a new section
+
+- Add word doc in appropriate folder
+- Run doc-2-md.sh
+- Modify index.yml in new directory created within 'content'
+
