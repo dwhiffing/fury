@@ -3,6 +3,9 @@ import React, { Fragment } from "react";
 
 const Home = ({ _body }) => (
   <div>
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+    <script type="text/javascript" src="/assets/scripts/script.js"></script>
+    
     <div className="hero" alt="Home">
       <img className="hero_logo" src="/assets/images/home_logo.png" alt="Northern Fury" />
     </div>
@@ -12,7 +15,7 @@ const Home = ({ _body }) => (
         {_body}
       </div>
 
-      <div style={{ flex: '1' }}>
+      <div style={{ flex: '1', justifyContent: 'center' }}>
         <img src="/assets/images/cover.jpg" alt="Cover" />
         <p className="sponsors">More information on COMMAND Modern Air/Naval Operations can be found at:</p>
 

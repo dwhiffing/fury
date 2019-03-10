@@ -2,13 +2,14 @@
 
 - need to fix issue with deeplinks not highlighting properly
 - add position to ymls to allow custom sorting within aside
-- write compile and upload script (Test script by uploading to infinite ramble)
-- mailchimp and google analytics
+- upload script
+- Set up google analytics
+- have bart set up mailchimp account and configure a modal
+- discuss best trigger point for mailchimp email subscribe
+- Test on various viewports
 
 # Nice to have:
 
 - Add facebook twitter logos
-- Test on various viewports
-- Add google analytics
 
 no later than the 15th

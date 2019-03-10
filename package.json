@@ -13,9 +13,9 @@
     "mammoth": "^1.4.7"
   },
   "scripts": {
-    "build": "./doc-2-md.sh; cuttlebelle; mv site html",
+    "build": "./doc-2-md.sh; cuttlebelle; rm -r html; mv site html",
     "start": "cuttlebelle watch",
-    "deploy": "npm run build; gh-pages -d site",
+    "deploy": "gh-pages -d html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "cuttlebelle": {
