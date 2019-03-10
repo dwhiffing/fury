@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Updating content from word documents..."
+
 for file in $(find ./docs -name '*.docx'); do
   dirname=$(dirname $file)
   dirname=$(echo ${dirname#./docs/})
@@ -41,6 +43,8 @@ ENDOFFILE
 
   rm $assetsdir/$filename.md
 done
+
+echo "Cleaning up after updating content..."
 
 if [ -d assets/images/nato/docs ]; then
   mv assets/images/nato/docs/* assets/images/nato/
