@@ -75,7 +75,7 @@ li > p {
 }
 
 .hero {
-  background-image: url(assets/images/home.jpg);
+  background-image: url(../../assets/images/home.jpg);
   height: 600px;
   background-size: 1680px;
   background-repeat: no-repeat;
@@ -84,6 +84,7 @@ li > p {
   justify-content: flex-start;
   box-sizing: border-box;
   background-position: center;
+  width: 100vw;
 }
 
 .hero_logo {

@@ -133,7 +133,7 @@ ul.dropdown li:hover ul.dropdown {
   padding: 0 5px;
   width: 100%;
   height: auto;
-  margin: 0 auto 20px;
+  margin: 0 auto;
   min-width: 70px;
   max-width: 130px;
 }
