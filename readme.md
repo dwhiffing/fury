@@ -17,10 +17,11 @@
 
 - hit ctrl+shift+p, type 'pull' and hit enter
 - Modify/Add word docs as necessary
-- Run `npm build` to generate the content and html
+- Run `npm run generate` to generate the content
+- Run `npm run build-html` to generate the html
 - Open the 'fork' tab on the left side of VS Code
   - confirm all of your changes look as expected
   - update any index.yml files for positioning or labels, and discard any unwanted changes
   - add message at top and hit ctrl + enter to commit
   - Once all changes are commited, hit ctrl+shift+p, type 'push' and hit enter (make sure this is successful before proceeding, if it fails, it could be due to not pulling before making changes)
-- Run `npm deploy` to copy changed files to server
+- Copy any changes over to your server
