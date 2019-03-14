@@ -1,3 +1,4 @@
+import Footer from './components/footer'
 import React from 'react'
 import Head from './components/head'
 import Aside from './components/aside'
@@ -15,20 +16,12 @@ const Page = ({ nav, label, main, _relativeURL, _nav, _ID, _pages }) => {
       <Head _relativeURL={_relativeURL} _ID={_ID} />
 
       <body>
-        <Header />
-
-        <nav>{nav}</nav>
-
-        {label && (
-          <header className="title">
-            <h1>{label}</h1>
-          </header>
-        )}
+        <Header nav={nav} label={label} />
 
         <main>
           {_ID !== 'index' && (
             <aside>
-              {['nato', 'warsaw', 'scenarios'].includes(pathArray[0]) && (
+              {['nato', 'warsaw'].includes(pathArray[0]) && (
                 <Aside nav={_nav} pages={_pages} pathArray={pathArray} />
               )}
             </aside>
@@ -43,11 +36,7 @@ const Page = ({ nav, label, main, _relativeURL, _nav, _ID, _pages }) => {
           )}
         </main>
 
-        <footer>
-          <div>
-            <p>©2019 Northern Fury</p>
-          </div>
-        </footer>
+        <Footer />
       </body>
     </html>
   )
