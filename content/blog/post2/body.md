@@ -1,7 +1,3 @@
-## Welcome to Northern Fury
-
-01 May, 2018 | [General News]()
-
 Bart Gauvin and Joel Radunzel are excited to announce that we’ve partnered to write a series of alternate history “Cold War goes-hot” novels. The first novel in the series, Northern Fury: H-Hour, will be available in winter of 2018\. Read on for the details!
 
 Welcome to the Northern Fury world. This is a story of what might have happened if the Cold War had continued another five short years; the Warsaw Pact is disintegrating, NATO is fragile, a hardline resurgence in the Soviet Union is feeling strangled by western sanctions and threatened by the continuation of NATO as an alliance. What could possibly go wrong? Bart Gauvin (AKA Gunner98) and Joel Radunzel (AKA Airborne Rifles) have combined forces to translate a fascinating historical "what if" into a story that is gripping, believable, and compelling. We created Northern Fury: H-Hour, the first in our series of World War III novels, through a unique process.

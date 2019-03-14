@@ -42,8 +42,9 @@ aside ul li::before {
 }
 
 aside > ul {
-  width: 280px;
+  width: 260px;
   margin-bottom: 0;
+  padding-right: 20px;
 }
 
 aside ul li,
@@ -159,7 +160,10 @@ li > p {
     padding: 0 0 0 10px;
     box-sizing: border-box;
     margin: 0;
-    font-size: 14px;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   aside ul ul {
     margin-left: auto;

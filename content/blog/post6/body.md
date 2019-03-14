@@ -1,12 +1,8 @@
-## Story to Book, Part II: How does a scenario become a scene in the book?
-
-21 May, 2018 | [Scenario News]()
-
 ![undefined](https://secure.i.telegraph.co.uk/multimedia/archive/02925/Soldier-writing-le_2925884b.jpg)
 
 _(Writing, the timeless pastime of soldiers.)_
 
-Last week [Bart wrote](/blog/index.php?controller=post&action=view&id_post=5) about how we tell the _Northern Fury_ story through scenarios in _Command: Modern Air/Naval Operations_. In this post I (Joel) will talk about how we take the scenarios and turn them into the narrative fiction that forms the core of our novels.
+Last week [Bart wrote](/blog/post5) about how we tell the _Northern Fury_ story through scenarios in _Command: Modern Air/Naval Operations_. In this post I (Joel) will talk about how we take the scenarios and turn them into the narrative fiction that forms the core of our novels.
 
 _Playing the scenario_
 

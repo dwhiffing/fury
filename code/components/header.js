@@ -10,7 +10,7 @@ const Header = ({ nav, label }) => (
           <span> | </span>
           <a href="https://twitter.com/NorthernFury94">Twitter</a>
           <span> | </span>
-          <a href="/blog">Blog</a>
+          <a href="/blog/post2">Blog</a>
           <span> | </span>
           <a href="mailto:northernfury94@gmail.com">Email us</a>
         </span>

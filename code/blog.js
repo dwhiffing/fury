@@ -6,7 +6,33 @@ import Article from './components/article'
 
 const numbers = Array.apply(null, { length: 17 }).map(Number.call, Number)
 
-const Blog = ({ nav, label, main, _relativeURL, _ID, _pages }) => {
+const Blog = ({
+  nav,
+  label,
+  main,
+  _relativeURL,
+  _ID,
+  _pages,
+  title,
+  date,
+  _nav,
+  category,
+}) => {
+  const posts = Object.values(_nav.index.blog)
+    .sort((a, b) => {
+      const dateA = new Date(_pages[a].date)
+      const dateB = new Date(_pages[b].date)
+      return dateA < dateB ? 1 : -1
+    })
+    .map(key => {
+      const [blog, postNum] = key.split('/')
+      return (
+        <li>
+          <a href={`/${key}`}>{_pages[key].title}</a>
+        </li>
+      )
+    })
+
   return (
     <html>
       <Head _relativeURL={_relativeURL} _ID={_ID} />
@@ -16,16 +42,17 @@ const Blog = ({ nav, label, main, _relativeURL, _ID, _pages }) => {
 
         <main>
           <aside>
-            <ul>
-              {numbers.map(n => (
-                <li>
-                  <a href={`/blog/post${n + 2}`}>Post {n + 2}</a>
-                </li>
-              ))}
-            </ul>
+            <ul>{posts.slice(0, posts.length / 2)}</ul>
+            <ul>{posts.slice(posts.length / 2, posts.length)}</ul>
           </aside>
 
-          <Article url={_pages[_ID]._url}>{main}</Article>
+          <Article url={_pages[_ID]._url}>
+            <h2>{title}</h2>
+            <p>
+              {date} | {category}
+            </p>
+            {main}
+          </Article>
         </main>
 
         <Footer />
