@@ -3,6 +3,7 @@ import React from 'react'
 import Head from './components/head'
 import Header from './components/header'
 import Article from './components/article'
+import { PREFIX } from './page'
 
 const numbers = Array.apply(null, { length: 17 }).map(Number.call, Number)
 
@@ -24,14 +25,11 @@ const Blog = ({
       const dateB = new Date(_pages[b].date)
       return dateA < dateB ? 1 : -1
     })
-    .map(key => {
-      const [blog, postNum] = key.split('/')
-      return (
-        <li>
-          <a href={`/${key}`}>{_pages[key].title}</a>
-        </li>
-      )
-    })
+    .map(key => (
+      <li key={`blog-item-${key}`}>
+        <a href={`${PREFIX}/${key}`}>{_pages[key].title}</a>
+      </li>
+    ))
 
   return (
     <html>

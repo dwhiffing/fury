@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react'
+import { PREFIX } from '../page'
 
 const Header = ({ nav, label }) => (
   <Fragment>
@@ -10,7 +11,7 @@ const Header = ({ nav, label }) => (
           <span> | </span>
           <a href="https://twitter.com/NorthernFury94">Twitter</a>
           <span> | </span>
-          <a href="/blog/post2">Blog</a>
+          <a href={`${PREFIX}/blog/post2`}>Blog</a>
           <span> | </span>
           <a href="mailto:northernfury94@gmail.com">Email us</a>
         </span>
