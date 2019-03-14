@@ -1,20 +1,25 @@
-import React, { Fragment } from 'react'
+import React from 'react'
+import Dropdown from './components/Dropdown'
 
 const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
+
+const Logo = () => (
+  <a href={`${prefix}/`}>
+    <img className="logo" src={`${prefix}/assets/images/logo.png`} />
+  </a>
+)
 
 const Nav = ({ _nav, tabs }) => (
   <div className="nav-container">
     <div className="mobile-container">
-      <a href={`${process.env.NODE_ENV === 'production' ? '/fury' : '/'}`}>
-        <img className="logo" src={`${prefix}/assets/images/logo.png`} />
-      </a>
+      <Logo />
     </div>
+
     <ul>
       <li className={`nav-top-button tab-home`}>
-        <a href={`${process.env.NODE_ENV === 'production' ? '/fury' : '/'}`}>
-          <img className="logo" src={`${prefix}/assets/images/logo.png`} />
-        </a>
+        <Logo />
       </li>
+
       <div className="tab-container">
         {Object.keys(tabs).map(tabKey => {
           const tab = tabs[tabKey]
@@ -22,34 +27,13 @@ const Nav = ({ _nav, tabs }) => (
           let pathName = typeof path === 'string' ? path : tabKey
 
           return (
-            <li key={`nav-${tabKey}`} className={`nav-top-button tab-${pathName}`}>
+            <li
+              key={`nav-${tabKey}`}
+              className={`nav-top-button tab-${pathName}`}>
               <a href={`${prefix}/${pathName}`}>{tab.label}</a>
+
               {typeof path === 'object' && (
-                <ul className="dropdown">
-                  {tab.items.map(item => {
-                    const mainHref = `${prefix}/${pathName}/${item.path}`
-                    const renderDropdown = !['Iceland', 'Luxembourg'].includes(
-                      item.label,
-                    )
-                    return (
-                      <li key={`inner-nav-${tabKey}-${item.path}`}>
-                        <a href={mainHref}>{item.label}</a>
-                        {renderDropdown && (
-                          <ul className="dropdown">
-                            {['Air Force', 'Army', 'Navy'].map(label => {
-                              const subPath = label.toLowerCase().split(' ')[0]
-                              return (
-                                <li key={`inner-inner-nav-${tabKey}-${item.path}-${label}`}>
-                                  <a href={`${mainHref}/${subPath}`}>{label}</a>
-                                </li>
-                              )
-                            })}
-                          </ul>
-                        )}
-                      </li>
-                    )
-                  })}
-                </ul>
+                <Dropdown tab={tab} pathName={pathName} />
               )}
             </li>
           )

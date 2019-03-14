@@ -1,20 +1,6 @@
 import React, { Fragment } from 'react'
-import { sanitizeLabel, getShouldRenderDeepLinks } from './utils'
-
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
-
-const Link = ({ label, linkKey, isActive, displayDeeplinkIcon, children }) => {
-  return (
-    <li>
-      <a
-        href={`${prefix}/${linkKey}`}
-        style={{ fontWeight: isActive ? 'bold' : 'normal' }}>
-        {sanitizeLabel(label)}{displayDeeplinkIcon ? ' +' : ''}
-      </a>
-      {children}
-    </li>
-  )
-}
+import { getShouldRenderDeepLinks } from '../utils'
+import { Link } from './link'
 
 const Aside = ({ nav, pages, pathArray }) => {
   const [name, pathCountry] = pathArray
@@ -24,10 +10,12 @@ const Aside = ({ nav, pages, pathArray }) => {
     if (typeof data !== 'object') {
       return null
     }
-    
+
     const deepLinks = Object.keys(data).sort((a, b) => {
-      const pageAPosition = typeof pages[a].position === 'number' ? pages[a].position : 0
-      const pageBPosition = typeof pages[b].position === 'number' ? pages[b].position : 0
+      const pageAPosition =
+        typeof pages[a].position === 'number' ? pages[a].position : 0
+      const pageBPosition =
+        typeof pages[b].position === 'number' ? pages[b].position : 0
       return pageAPosition > pageBPosition ? 1 : -1
     })
 
@@ -37,11 +25,15 @@ const Aside = ({ nav, pages, pathArray }) => {
           <Fragment key={`link-${key}`}>
             <Link
               linkKey={key}
-              isActive={key.split('/')[key.split('/').length - 1] === pathArray[key.split('/').length - 1]}
+              isActive={
+                key.split('/')[key.split('/').length - 1] ===
+                pathArray[key.split('/').length - 1]
+              }
               label={pages[key].label}
               displayDeeplinkIcon={typeof data[key] === 'object'}
             />
-            {getShouldRenderDeepLinks(pathArray, key.split('/')) && renderDeepLinks(data[key])}
+            {getShouldRenderDeepLinks(pathArray, key.split('/')) &&
+              renderDeepLinks(data[key])}
           </Fragment>
         ))}
       </ul>
@@ -59,16 +51,18 @@ const Aside = ({ nav, pages, pathArray }) => {
         key={`link-${linkKey}`}
         linkKey={linkKey}
         isActive={linkKey.split('/')[1] === pathCountry}
-        label={pages[linkKey].label}
-      >
-        {linkKey.split('/')[1] === pathCountry && renderDeepLinks(nav.index[name][linkKey])}
+        label={pages[linkKey].label}>
+        {linkKey.split('/')[1] === pathCountry &&
+          renderDeepLinks(nav.index[name][linkKey])}
       </Link>
     ))
 
   return (
     <Fragment>
       <ul>{renderedLinks.slice(0, renderedLinks.length / 2)}</ul>
-      <ul>{renderedLinks.slice(renderedLinks.length / 2, renderedLinks.length)}</ul>
+      <ul>
+        {renderedLinks.slice(renderedLinks.length / 2, renderedLinks.length)}
+      </ul>
     </Fragment>
   )
 }

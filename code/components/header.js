@@ -1,6 +1,4 @@
-import React from "react";
-
-const prefix = process.env.NODE_ENV === "production" ? "/fury" : "";
+import React from 'react'
 
 const Header = () => (
   <header className="about">
@@ -11,12 +9,12 @@ const Header = () => (
         <span> | </span>
         <a href="https://twitter.com/NorthernFury94">Twitter</a>
         <span> | </span>
-        <a href="http://northernfury.bhgdesigns.com/blog/">Blog</a>
+        <a href="/blog">Blog</a>
         <span> | </span>
-        <a href="mailto:northernfury94@gmail.com">Email us</a>  
+        <a href="mailto:northernfury94@gmail.com">Email us</a>
       </span>
     </div>
   </header>
-);
+)
 
-export default Header;
+export default Header
