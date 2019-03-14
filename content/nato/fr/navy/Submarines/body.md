@@ -30,7 +30,7 @@ are commissioned beginning in
 | S 615       | Redoutable | Invlexible  | Active     | Patrol       | Deterrence |
 
 ![C:\\Users\\Bart\\Pictures\\NF
-Web\\le\_redoutable\_class.jpg](/assets/images/nato/fr/navy/Submarines/image1.jpeg)
+Web\\le\_redoutable\_class.jpg](/assets/images/nato/fr/navy/submarines/image1.jpeg)
 
 [**Rubis Class**](http://www.military-today.com/navy/rubis_class.htm):
 The smallest SSNs ever built, these are based on the same hull design as
@@ -56,7 +56,7 @@ Anti-Ship Missile
 | S 607       | Amethyste | Turquoise   | Building   | March 94      |               |
 | S 608       | Amethyste | Diamant     | Building   | June 95       |               |
 
-![](/assets/images/nato/fr/navy/Submarines/image2.jpg)
+![](/assets/images/nato/fr/navy/submarines/image2.jpg)
 
 [***Agosta*
 class**](http://www.military-today.com/navy/agosta_class.htm): These
@@ -75,4 +75,4 @@ Dock Shelter
 | S 622       | *Agosta*  | La Praya  | Active     | Port         |                |
 | S 623       | *Agosta*  | Ouessant  | Active     | Atlantic     | Azors          |
 
-![](/assets/images/nato/fr/navy/Submarines/image3.jpg)
+![](/assets/images/nato/fr/navy/submarines/image3.jpg)

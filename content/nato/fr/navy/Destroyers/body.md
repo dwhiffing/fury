@@ -22,7 +22,7 @@ designed and produced missiles that are unique to this class of ship.
 | D 602       | Suffren   | Suffren  | Active     | Med          | AD       | Clem BG  |
 | D 603       | Suffren   | Duquesne | Active     | Med          | AD       | Foch BG  |
 
-![](/assets/images/nato/fr/navy/Destroyers/image1.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image1.jpg)
 
 [**Aconit**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/D-609-FS-Aconit.htm):
 This ship was to be the lead ship in a class of five and was designed
@@ -39,7 +39,7 @@ Groups.
 | ----------- | --------- | -------- | ---------- | ------------ | -------- | -------- |
 | D 609       | Aconit    | Aconit   | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/Destroyers/image2.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image2.jpg)
 
 **[Tourville
 Class](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Tourville-class.htm):**
@@ -55,7 +55,7 @@ ships.
 | D 611       | Tourville | Duguay-Trouin | Active     | Atlantic     | ASW      |          |
 | D 612       | Tourville | De Grasse     | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/Destroyers/image3.png)
+![](/assets/images/nato/fr/navy/destroyers/image3.png)
 
 [**Cassard
 Class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Cassard-class.htm):
@@ -77,7 +77,7 @@ independently.
 | D 614       | Cassard   | Cassard   | Active     | Med          | AAW      | Foch BG  |
 | D 615       | Cassard   | Jean Bart | Active     | Med          | AAW      | Clem BG  |
 
-![](/assets/images/nato/fr/navy/Destroyers/image4.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image4.jpg)
 
 [***Georges Leygues*
 class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Georges-Leygues-class.htm):
@@ -97,4 +97,4 @@ roles.
 | D 645       | Georges   | Lamotte-Picquet   | Active     | Atlantic     | ASW      |          |
 | D 646       | Georges   | Latouche-Treville | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/Destroyers/image5.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image5.jpg)

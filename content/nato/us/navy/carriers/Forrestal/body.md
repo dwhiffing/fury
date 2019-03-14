@@ -13,7 +13,7 @@ fully operational as AVT-59.
 Flight operations are conducted by VT-86 Saberhawks equipped with the 24
 of the new T-45C Goshawk.
 
-![](/assets/images/nato/us/navy/carriers/Forrestal/image1.jpg)
+![](/assets/images/nato/us/navy/carriers/forrestal/image1.jpg)
 
 AVT Forrestal
 
@@ -25,6 +25,6 @@ Training Air Wing 6
 
   - VT-86 Saberhawks T-45C Goshawk
 
-![](/assets/images/nato/us/navy/carriers/Forrestal/image2.jpeg)
+![](/assets/images/nato/us/navy/carriers/forrestal/image2.jpeg)
 
-![](/assets/images/nato/us/navy/carriers/Forrestal/image3.jpeg)
+![](/assets/images/nato/us/navy/carriers/forrestal/image3.jpeg)

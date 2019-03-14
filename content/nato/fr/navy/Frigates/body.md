@@ -21,7 +21,7 @@ extensive.
 | ----------- | ---------- | ---------- | ---------- | ------------ | -------- | -------- |
 | F 710       | La Fayette | La Fayette | Active     | Persian Gulf | Patrol   | CTF 150  |
 
-![](/assets/images/nato/fr/navy/Frigates/image1.jpg)
+![](/assets/images/nato/fr/navy/frigates/image1.jpg)
 
 [**Floreal
 Class**](https://en.wikipedia.org/wiki/Floréal-class_frigate): These
@@ -43,7 +43,7 @@ situation.
 | F 734       | Floreal   | Vendemiaire | Active     | Pacific       | Patrol   |          |
 | F 735       | Floreal   | Germinal    | Active     | Atlantic      | Patrol   |          |
 
-![](/assets/images/nato/fr/navy/Frigates/image2.jpg)
+![](/assets/images/nato/fr/navy/frigates/image2.jpg)
 
 [***D'Estienne
 d'Orves*-class**](https://en.wikipedia.org/wiki/D%27Estienne_d%27Orves-class_aviso):
