@@ -8,7 +8,7 @@ const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
 
 const Page = ({
   nav,
-  title,
+  label,
   main,
   script,
   stylesheet,
@@ -19,12 +19,8 @@ const Page = ({
 }) => {
   const pathArray = _ID.split('/')
   let aside = pathArray[0]
-  const thing = _pages[_ID]
-  const label = thing.label
-  const key = thing._url.replace('/nato', '')
-
-  title = title || label
-
+  const page = _pages[_ID]
+  const key = page._url.replace('/nato', '')
   const isIndex = pathArray[0] === 'index'
 
   return (
@@ -63,9 +59,9 @@ const Page = ({
 
         <nav>{nav}</nav>
 
-        {title && (
+        {label && (
           <header className="title">
-            <h1>{title}</h1>
+            <h1>{label}</h1>
           </header>
         )}
 
@@ -87,7 +83,7 @@ const Page = ({
 
           {isIndex ? main : (
             <section>
-              {thing.isIndexPage && (
+              {page.isIndexPage && (
                 <div className="country-index">
                   <img
                     className="flag"

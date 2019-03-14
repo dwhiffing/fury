@@ -25,7 +25,7 @@ for file in $(find ./docs -name '*.docx'); do
 
   if [ ! -f $markdowndir/index.yml ]; then
     cat > $markdowndir/index.yml << ENDOFFILE
-title: $filename
+label: $filename
 nav:
   - /_shared/nav.md
 
