@@ -1,6 +1,6 @@
 import React from 'react'
+import { PREFIX } from '../page'
 
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
 const WIDOW_COUNTRIES = ['Iceland', 'Luxembourg']
 const GROUP_LABELS = [['Air Force', 'air'], ['Army', 'army'], ['Navy', 'navy']]
 
@@ -14,7 +14,7 @@ const Item = ({ label, href, children }) => (
 const Dropdown = ({ tab, pathName }) => (
   <ul className="dropdown">
     {tab.items.map(({ label, path }) => {
-      const href = `${prefix}/${pathName}/${path}`
+      const href = `${PREFIX}/${pathName}/${path}`
 
       return (
         <Item key={`inner-nav-${href}`} label={label} href={href}>

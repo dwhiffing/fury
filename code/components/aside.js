@@ -1,6 +1,20 @@
 import React, { Fragment } from 'react'
-import { getShouldRenderDeepLinks } from '../utils'
 import { Link } from './link'
+
+const getShouldRenderDeepLinks = (currentPath, keyPath) => {
+  const [name, pathCountry, pathGroup, pathGroup2] = currentPath
+  const [name2, keyCountry, keyGroup, keyGroup2] = keyPath
+
+  if (keyGroup2) {
+    return pathGroup2 === keyGroup2
+  }
+
+  if (keyGroup) {
+    return pathGroup === keyGroup
+  }
+
+  return pathCountry === keyCountry
+}
 
 const Aside = ({ nav, pages, pathArray }) => {
   const [name, pathCountry] = pathArray

@@ -4,6 +4,8 @@ import Aside from './components/aside'
 import Header from './components/header'
 import Article from './components/article'
 
+export const PREFIX = process.env.NODE_ENV === 'production' ? '/fury' : ''
+
 const Page = ({ nav, label, main, _relativeURL, _nav, _ID, _pages }) => {
   const pathArray = _ID.split('/')
   const page = _pages[_ID]

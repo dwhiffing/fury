@@ -1,7 +1,12 @@
 import React from 'react'
-import { sanitizeLabel } from '../utils'
+import { PREFIX } from '../page'
 
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
+const sanitizeLabel = label => {
+  const match = label.match(/(Air Force|Navy|Army)/)
+  const sanitizedLabel = match ? match[0] : label
+
+  return sanitizedLabel.replace(/Naval Aviation |MEF |Amphibious /, '')
+}
 
 export const Link = ({
   label,
@@ -13,7 +18,7 @@ export const Link = ({
   return (
     <li>
       <a
-        href={`${prefix}/${linkKey}`}
+        href={`${PREFIX}/${linkKey}`}
         style={{ fontWeight: isActive ? 'bold' : 'normal' }}>
         {sanitizeLabel(label)}
         {displayDeeplinkIcon ? ' +' : ''}

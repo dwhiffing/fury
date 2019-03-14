@@ -1,11 +1,10 @@
 import React from 'react'
 import Dropdown from './components/Dropdown'
-
-const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
+import { PREFIX } from './page'
 
 const Logo = () => (
-  <a href={`${prefix}/`}>
-    <img className="logo" src={`${prefix}/assets/images/logo.png`} />
+  <a href={`${PREFIX}/`}>
+    <img className="logo" src={`${PREFIX}/assets/images/logo.png`} />
   </a>
 )
 
@@ -30,7 +29,7 @@ const Nav = ({ _nav, tabs }) => (
             <li
               key={`nav-${tabKey}`}
               className={`nav-top-button tab-${pathName}`}>
-              <a href={`${prefix}/${pathName}`}>{tab.label}</a>
+              <a href={`${PREFIX}/${pathName}`}>{tab.label}</a>
 
               {typeof path === 'object' && (
                 <Dropdown tab={tab} pathName={pathName} />
