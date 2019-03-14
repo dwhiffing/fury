@@ -13,11 +13,13 @@
     "mammoth": "^1.4.7"
   },
   "scripts": {
-    "generate": "./doc-2-md.sh",
+    "generate": "doc-2-md.sh",
     "build-html": "cuttlebelle; rm -r html; mv site html",
-    "build": "npm run generate; npm run build-html",
+    "build": ".\\doc-2-md.sh; npm run build-html",
     "start": "cuttlebelle watch",
-    "deploy": "gh-pages -d html",
+    "deploy-gh": "gh-pages -d html",
+    "deploy": "rsync -avuz html/ gunner9898@northern-fury.us:/var/html",
+    "deploy-ramble": "rsync -avuz fury/ infinite-ramble.com:/usr/share/nginx/html/fury/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "cuttlebelle": {
