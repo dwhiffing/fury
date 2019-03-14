@@ -9,12 +9,6 @@ String.prototype.capitalize = function() {
 }
 
 const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
-  const sortedKeys = Object.keys(nav.index[name]).sort((a, b) => {
-    const pageALabel = pages[a].label.replace('The ', '')
-    const pageBLabel = pages[b].label.replace('The ', '')
-    return pageALabel[0] > pageBLabel[0] ? 1 : -1
-  })
-
   const renderDeepLinks = data => {
     let list = Object.keys(data)
 
@@ -23,7 +17,6 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
       const pageBPosition = pages[b].position || -1
       return pageAPosition > pageBPosition ? 1 : -1
     })
-
 
     return (
       <ul>
@@ -39,15 +32,15 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
           const pageLabel = page.label || page.title || fallbackLabel
           const match = pageLabel.match(regex)
           let label = match ? match[0] : pageLabel
-          const sanitizedLabel = label.replace(/MEF|Amphibious|Naval Aviation/g, '').trim()
-          if (sanitizedLabel !== '') {
-            label = sanitizedLabel
-          }
+          // const sanitizedLabel = label.replace(/MEF|Amphibious|Naval Aviation/g, '').trim()
+          // if (sanitizedLabel !== '') {
+          //   label = sanitizedLabel
+          // }
 
           const isActiveSection = pathArray[2] === currentSection && pathArray.length < 4
           const isActivePage = _ID[_ID.length - 1] === pathArray[pathArray.length - 1]
           const isActive = isActiveSection || isActivePage
-          const shouldRenderDeepLinks = pathArray.length < 4 || _ID[3] === pathArray[3]
+          const shouldRenderDeepLinks = true || pathArray.length < 4 || _ID[3] === pathArray[3]
 
           const link = (
             <li key={`link-${key}`}>
@@ -80,27 +73,31 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
 
   const renderLinks = key => {
     const countryNavData = nav.index[name][key]
-    const page = pages[key]
+    const label = pages[key].label
     const isActive = key.split('/')[1] === currentCountry
-    const shouldRenderDeepLinks =
-      typeof countryNavData === 'object' && isActive
 
     return (
       <li key={`link-${key}`}>
-        <a style={{ fontWeight: isActive ? 'bold' : 'normal' }} href={`${prefix}/${key}`}>{page.label}</a>
+        <a style={{ fontWeight: isActive ? 'bold' : 'normal' }} href={`${prefix}/${key}`}>{label}</a>
 
-        {shouldRenderDeepLinks && renderDeepLinks(countryNavData)}
+        {typeof countryNavData === 'object' && isActive && renderDeepLinks(countryNavData)}
       </li>
     )
   }
 
+  const renderedLinks = Object.keys(nav.index[name]).sort((a, b) => {
+    const pageALabel = pages[a].label.replace('The ', '')
+    const pageBLabel = pages[b].label.replace('The ', '')
+    return pageALabel[0] > pageBLabel[0] ? 1 : -1
+  }).map(renderLinks)
+
   return (
     <Fragment>
-      <ul>{sortedKeys.slice(0, sortedKeys.length / 2).map(renderLinks)}</ul>
       <ul>
-        {sortedKeys
-          .slice(sortedKeys.length / 2, sortedKeys.length)
-          .map(renderLinks)}
+        {renderedLinks.slice(0, renderedLinks.length / 2)}
+      </ul>
+      <ul>
+        {renderedLinks.slice(renderedLinks.length / 2, renderedLinks.length)}
       </ul>
     </Fragment>
   )
