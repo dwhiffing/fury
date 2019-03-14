@@ -46,10 +46,6 @@ aside > ul {
   margin-bottom: 0;
 }
 
-aside > ul > li {
-  margin-left: 30px;
-}
-
 aside ul li,
 aside ul ul {
   margin-top: 0;
