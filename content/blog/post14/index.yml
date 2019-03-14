@@ -1,0 +1,7 @@
+layout: blog
+
+main:
+  - body.md
+
+nav:
+  - /_shared/nav.md
