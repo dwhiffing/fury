@@ -8,7 +8,9 @@ String.prototype.capitalize = function() {
   return this.charAt(0).toUpperCase() + this.slice(1)
 }
 
-const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
+const Aside = ({ nav, pages, pathArray }) => {
+  const [name, currentCountry, currentSection] = pathArray
+
   const renderDeepLinks = data => {
     let list = Object.keys(data)
 
@@ -23,8 +25,8 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
         {list.map(key => {
           const navData = data[key]
           const page = pages[key]
-          const pathArray = key.split('/')
-          const renderedPage = pathArray[pathArray.length - 1]
+          const splitKey = key.split('/')
+          const renderedPage = splitKey[splitKey.length - 1]
           const fallbackLabel = renderedPage
             .replace('-', ' ')
             .capitalize()
@@ -32,15 +34,15 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
           const pageLabel = page.label || page.title || fallbackLabel
           const match = pageLabel.match(regex)
           let label = match ? match[0] : pageLabel
-          // const sanitizedLabel = label.replace(/MEF|Amphibious|Naval Aviation/g, '').trim()
-          // if (sanitizedLabel !== '') {
-          //   label = sanitizedLabel
-          // }
+          const sanitizedLabel = label.replace(/MEF|Amphibious|Naval Aviation/g, '').trim()
+          if (sanitizedLabel !== '') {
+            label = sanitizedLabel
+          }
 
-          const isActiveSection = pathArray[2] === currentSection && pathArray.length < 4
-          const isActivePage = _ID[_ID.length - 1] === pathArray[pathArray.length - 1]
+          const isActiveSection = splitKey[2] === currentSection && splitKey.length < 4
+          const isActivePage = pathArray[pathArray.length - 1] === splitKey[splitKey.length - 1]
           const isActive = isActiveSection || isActivePage
-          const shouldRenderDeepLinks = true || pathArray.length < 4 || _ID[3] === pathArray[3]
+          const shouldRenderDeepLinks = splitKey.length < 4 || pathArray[3] === splitKey[3]
 
           const link = (
             <li key={`link-${key}`}>
@@ -50,7 +52,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
                   fontWeight: isActive ? 'bold' : 'normal'
                 }}
               >
-                {label} {pathArray.length > 2 && typeof navData === 'object' && '+'}
+                {label} {splitKey.length > 2 && typeof navData === 'object' && '+'}
               </a>
             </li>
           )
@@ -62,7 +64,7 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
               <Fragment key={`link-${key}`}>
                 {link}
                 {/* need to fix MEF being weird due to extra nesting */}
-                {(isActive && shouldRenderDeepLinks || _ID[4] === 'mef') && renderDeepLinks(navData)}
+                {(isActive && shouldRenderDeepLinks || pathArray[4] === 'mef') && renderDeepLinks(navData)}
               </Fragment>
             )
           }
