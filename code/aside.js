@@ -16,9 +16,18 @@ const Aside = ({ nav, pages, name, currentCountry, currentSection, _ID }) => {
   })
 
   const renderDeepLinks = data => {
+    let list = Object.keys(data)
+
+    list = list.sort((a, b) => {
+      const pageAPosition = pages[a].position || -1
+      const pageBPosition = pages[b].position || -1
+      return pageAPosition > pageBPosition ? 1 : -1
+    })
+
+
     return (
       <ul>
-        {Object.keys(data).map(key => {
+        {list.map(key => {
           const navData = data[key]
           const page = pages[key]
           const pathArray = key.split('/')
