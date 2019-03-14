@@ -3,13 +3,13 @@ import { sanitizeLabel, getShouldRenderDeepLinks } from './utils'
 
 const prefix = process.env.NODE_ENV === 'production' ? '/fury' : ''
 
-const Link = ({ label, linkKey, isActive, children }) => {
+const Link = ({ label, linkKey, isActive, displayDeeplinkIcon, children }) => {
   return (
     <li>
       <a
         href={`${prefix}/${linkKey}`}
         style={{ fontWeight: isActive ? 'bold' : 'normal' }}>
-        {label}
+        {sanitizeLabel(label)}{displayDeeplinkIcon ? ' +' : ''}
       </a>
       {children}
     </li>
@@ -33,25 +33,17 @@ const Aside = ({ nav, pages, pathArray }) => {
 
     return (
       <ul>
-        {deepLinks.map(key => {
-          const navData = data[key]
-          const keyPath = key.split('/')
-          const isActivePage = keyPath[keyPath.length - 1] === pathArray[keyPath.length - 1]
-
-          return (
-            <Fragment key={`link-${key}`}>
-              <li>
-                <a
-                  href={`${prefix}/${key}`}
-                  style={{ fontWeight: isActivePage ? 'bold' : 'normal' }}
-                >
-                  {sanitizeLabel(pages[key].label)} {keyPath.length > 2 && typeof navData === 'object' && '+'}
-                </a>
-              </li>
-              {getShouldRenderDeepLinks(pathArray, keyPath) && renderDeepLinks(navData)}
-            </Fragment>
-          )
-        })}
+        {deepLinks.map(key => (
+          <Fragment key={`link-${key}`}>
+            <Link
+              linkKey={key}
+              isActive={key.split('/')[key.split('/').length - 1] === pathArray[key.split('/').length - 1]}
+              label={pages[key].label}
+              displayDeeplinkIcon={typeof data[key] === 'object'}
+            />
+            {getShouldRenderDeepLinks(pathArray, key.split('/')) && renderDeepLinks(data[key])}
+          </Fragment>
+        ))}
       </ul>
     )
   }
