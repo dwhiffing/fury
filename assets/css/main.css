@@ -107,8 +107,8 @@ li > p {
 
 .home-content {
   flex: 2;
-  padding: 40px;
-  min-width: 600px;
+  padding: 40px 15px 40px;
+  min-width: 490px;
 }
 
 @media (max-width: 760px) {

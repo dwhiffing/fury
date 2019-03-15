@@ -48,6 +48,7 @@ main {
   -moz-box-orient: horizontal;
   -ms-box-orient: horizontal;
   box-orient: horizontal;
+  overflow-x: hidden;
 }
 
 footer {
