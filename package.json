@@ -6,6 +6,8 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "cuttlebelle": "^1.0.0-alpha.60",
+    "dotenv": "^7.0.0",
+    "rsyncwrapper": "^3.0.1",
     "turndown": "^5.0.1"
   },
   "devDependencies": {
@@ -18,7 +20,7 @@
     "build": ".\\doc-2-md.sh; npm run build-html",
     "start": "cuttlebelle watch",
     "deploy-gh": "gh-pages -d html",
-    "deploy": "rsync -avuz html/ gunner9898@northern-fury.us:/var/html",
+    "deploy": "node deploy.js",
     "deploy-ramble": "rsync -avuz fury/ infinite-ramble.com:/usr/share/nginx/html/fury/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -2,3 +2,5 @@
 node_modules/
 site/
 html/
+fury/
+.env
