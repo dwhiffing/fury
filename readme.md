@@ -25,3 +25,11 @@
   - add message at top and hit ctrl + enter to commit
   - Once all changes are commited, hit ctrl+shift+p, type 'push' and hit enter (make sure this is successful before proceeding, if it fails, it could be due to not pulling before making changes)
 - Copy any changes over to your server
+
+* Git pull
+* add or change all the word documents
+* run `npm run build`
+* Go through all the changes in the fork tab, update any index.yml files to get correct labels/positioning
+* Commit all the changes
+* Do a git push
+* Syncronize build folder via WINscp

@@ -45,8 +45,14 @@ tabs:
         label: Hungary
       - path: ro
         label: Rumania
-      - path: ru
+      - path: rs
+        label: Serbia
+      - path: su
         label: Soviet Union
+      - path: cz
+        label: Czechoslovakia
+      - path: po
+        label: Poland
 ---
 
 Northern Fury
