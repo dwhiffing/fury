@@ -1,0 +1,5 @@
+label: carriers
+nav:
+  - /_shared/nav.md
+
+main: body.md
