@@ -16,4 +16,4 @@ log(
 )
 
 log('Remember to exit this terminal when you are done.')
-shell.exec('cuttlebelle', ['watch'])
+shell.exec('npm run watch')

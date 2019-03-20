@@ -7,15 +7,14 @@
     "babel-runtime": "^6.26.0",
     "cuttlebelle": "^1.0.0-alpha.60",
     "dotenv": "^7.0.0",
-    "rsyncwrapper": "^3.0.1",
-    "turndown": "^5.0.1"
+    "rsyncwrapper": "^3.0.1"
   },
   "devDependencies": {
-    "mammoth": "^1.4.7",
     "shelljs": "^0.8.3",
     "spawn-watch": "^0.1.2"
   },
   "scripts": {
+    "watch": "cuttlebelle watch",
     "generate": ".\\doc-2-md.sh",
     "start": "node start.js",
     "build": "node build.js",
