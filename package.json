@@ -17,8 +17,8 @@
   "scripts": {
     "generate": "./doc-2-md.sh",
     "build-html": "cuttlebelle; rm -r html; mv site html",
-    "build": ".\\doc-2-md.sh; npm run build-html",
-    "start": ".\\doc-2-md.sh; cuttlebelle watch",
+    "build": "npm run build-html",
+    "start": "cuttlebelle watch",
     "deploy-gh": "gh-pages -d html",
     "deploy": "node deploy.js",
     "deploy-ramble": "rsync -avuz fury/ infinite-ramble.com:/usr/share/nginx/html/fury/",
