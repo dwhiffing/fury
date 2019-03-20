@@ -5,5 +5,5 @@ const shell = require('shelljs')
 
 shell.exec(`.${platformSlashes}doc-2-md.sh`)
 shell.exec('cuttlebelle')
-shell.rm('-rf', 'html')
+shell.rm('-r', 'html')
 shell.mv('site', 'html')
