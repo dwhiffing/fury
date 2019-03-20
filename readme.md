@@ -17,10 +17,11 @@
 
 - Git pull (to make sure all recent changes are in)
 - Add or change all the word documents
-- Run `npm run build; npm run start`
+- Open terminal if not already open(ctrl+~) and run `npm run generate` and then `npm run start`
 - Wait for build to finish, IE will open when its done
 - Go through all the changes in the git tab, update any index.yml files to get correct labels/positioning (while confirming changes in IE as they are made)
-- Run `npm run build`
+- Open terminal if not already open(ctrl+~) and run `npm run generate` and then `npm run build`
 - Commit all the changes
 - Do a git push
+- Rename "site" directory to "html"
 - Syncronize build folder via WINscp
