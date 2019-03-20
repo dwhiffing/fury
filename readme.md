@@ -15,21 +15,12 @@
 
 # To update site
 
-- hit ctrl+shift+p, type 'pull' and hit enter
-- Modify/Add word docs as necessary
-- Run `npm run generate` to generate the content
-- Run `npm run build-html` to generate the html
-- Open the 'fork' tab on the left side of VS Code
-  - confirm all of your changes look as expected
-  - update any index.yml files for positioning or labels, and discard any unwanted changes
-  - add message at top and hit ctrl + enter to commit
-  - Once all changes are commited, hit ctrl+shift+p, type 'push' and hit enter (make sure this is successful before proceeding, if it fails, it could be due to not pulling before making changes)
-- Copy any changes over to your server
-
-* Git pull
-* add or change all the word documents
-* run `npm run build`
-* Go through all the changes in the fork tab, update any index.yml files to get correct labels/positioning
-* Commit all the changes
-* Do a git push
-* Syncronize build folder via WINscp
+- Git pull (to make sure all recent changes are in)
+- Add or change all the word documents
+- Run `npm run build; npm run start`
+- Wait for build to finish, IE will open when its done
+- Go through all the changes in the git tab, update any index.yml files to get correct labels/positioning (while confirming changes in IE as they are made)
+- Run `npm run build`
+- Commit all the changes
+- Do a git push
+- Syncronize build folder via WINscp

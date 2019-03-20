@@ -20,15 +20,15 @@ forces remain in place in both Bosnia and Croatia, but the Soviet veto
 in the UN Security council has blunted the teeth of their mandates,
 hence there is a much less aggressive NATO stance and reduced forces.
 
-![](/assets/images/warsaw/cs/army/image1.png)
+![](/assets/images/warsaw/rs/army/image1.png)
 
 The armies of the VSCG are arrayed as depicted in the map obtained at
 the CIA link
 above:
 
-![](/assets/images/warsaw/cs/army/image2.png)
+![](/assets/images/warsaw/rs/army/image2.png)
 
-![](/assets/images/warsaw/cs/army/image3.jpg)
+![](/assets/images/warsaw/rs/army/image3.jpg)
 
 | MBT    | T-72   | M-84           | 27   |                                                                               |
 | ------ | ------ | -------------- | ---- | ----------------------------------------------------------------------------- |
@@ -79,4 +79,4 @@ above:
 |        | SA-16  | 9K38           | 226  |                                                                               |
 | SSMs   | FROG-7 |                | 16   |                                                                               |
 
-![](/assets/images/warsaw/cs/army/image4.jpg)
+![](/assets/images/warsaw/rs/army/image4.jpg)
