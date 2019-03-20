@@ -13,11 +13,12 @@
   "devDependencies": {
     "mammoth": "^1.4.7",
     "mv": "^2.1.1",
-    "rimraf": "^2.6.3"
+    "rimraf": "^2.6.3",
+    "spawn-watch": "^0.1.2"
   },
   "scripts": {
     "generate": ".\\doc-2-md.sh",
-    "start": "cuttlebelle watch",
+    "start": "node start.js",
     "build": "node build.js",
     "deploy": "node deploy.js"
   },
