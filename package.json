@@ -10,8 +10,7 @@
     "rsyncwrapper": "^3.0.1"
   },
   "devDependencies": {
-    "shelljs": "^0.8.3",
-    "spawn-watch": "^0.1.2"
+    "shelljs": "^0.8.3"
   },
   "scripts": {
     "watch": "cuttlebelle watch",
