@@ -30,7 +30,7 @@ acting as a last ditch Close in Weapons System (CIWS).
 | Koni  | VPBR-31 | Beograd   | Active |         |
 |       | VPBR-32 | Podgorica | Active |         |
 
-![](/assets/images/warsaw/cs/navy/image1.jpg)
+![](/assets/images/warsaw/rs/navy/image1.jpg)
 
 **[Kotor
 Class](http://www.balkanwarhistory.com/2016/05/kotor-class-frigate.html)**
@@ -44,7 +44,7 @@ are 9 meters shorter.
 | Kotor | VPBR-33 | Kotor    | Active |         |
 |       | VPBR-34 | Novi Sad | Active |         |
 
-![](/assets/images/warsaw/cs/navy/image2.jpg)
+![](/assets/images/warsaw/rs/navy/image2.jpg)
 
 **Missile Boats**
 
@@ -69,7 +69,7 @@ use as the
 |        | RTOP-405 | Jordan Nikolov Orce  | Active   |                  |
 |        | RTOP-406 | Ante Banina          | Active   |                  |
 
-![](/assets/images/warsaw/cs/navy/image3.jpeg)
+![](/assets/images/warsaw/rs/navy/image3.jpeg)
 
 **[Osa
 Class](http://russianships.info/eng/warfareboats/project_205.htm)** The
@@ -92,7 +92,7 @@ ship.
 |       | RC-309  | Franc Rozman-Stane      | Active   |                             |
 |       | RC-310  | Velimir Škorpik         | Sunk     | Captured and sunk as target |
 
-![](/assets/images/warsaw/cs/navy/image4.jpg)
+![](/assets/images/warsaw/rs/navy/image4.jpg)
 
 **Torpedo Boats**
 
@@ -122,7 +122,7 @@ instead.
 |          | TČ-223  | Napredak      | Active   |                             |
 |          | TČ-224  | Pionir II     | Active   |                             |
 
-![](/assets/images/warsaw/cs/navy/image5.jpeg)
+![](/assets/images/warsaw/rs/navy/image5.jpeg)
 
 **Patrol Boats**
 
@@ -146,9 +146,9 @@ built.
 |       | PČ-180  | Cer         | Captured | Croatian OB-03 Cavtat              |
 |       | PČ-181  | Durmitor    | Captured | Croatian OB-04 Hrvatska Kostajnica |
 
-![](/assets/images/warsaw/cs/navy/image6.jpeg)
+![](/assets/images/warsaw/rs/navy/image6.jpeg)
 
-![](/assets/images/warsaw/cs/navy/image7.jpg)**Submarines**
+![](/assets/images/warsaw/rs/navy/image7.jpg)**Submarines**
 
 **[Heroj
 Class](http://www.balkanwarhistory.com/2017/10/heroj-class-submarine.html)**
@@ -162,7 +162,7 @@ the time and remains unserviceable.
 |       | P-822   | Janak | Active |         |
 |       | P-823   | Uskok | Active |         |
 
-![](/assets/images/warsaw/cs/navy/image8.jpg)**[Sava
+![](/assets/images/warsaw/rs/navy/image8.jpg)**[Sava
 Class](https://en.wikipedia.org/wiki/Sava-class_submarine)** These 2
 boats were developed after the Heroj class and represent an improvement
 on the design with more armaments, two additional torpedo tubes and
