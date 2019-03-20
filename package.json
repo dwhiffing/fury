@@ -12,8 +12,7 @@
   },
   "devDependencies": {
     "mammoth": "^1.4.7",
-    "mv": "^2.1.1",
-    "rimraf": "^2.6.3",
+    "shelljs": "^0.8.3",
     "spawn-watch": "^0.1.2"
   },
   "scripts": {
