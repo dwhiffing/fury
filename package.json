@@ -16,7 +16,7 @@
   },
   "scripts": {
     "generate": "./doc-2-md.sh",
-    "build-html": "cuttlebelle; rm -r html; mv site html",
+    "build-html": "cuttlebelle",
     "build": "npm run build-html",
     "start": "cuttlebelle watch",
     "deploy-gh": "gh-pages -d html",

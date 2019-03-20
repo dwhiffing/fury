@@ -23,4 +23,5 @@
 - Open terminal if not already open(ctrl+~) and run `npm run generate` and then `npm run build`
 - Commit all the changes
 - Do a git push
+- Rename "site" directory to "html"
 - Syncronize build folder via WINscp
