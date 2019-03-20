@@ -1,5 +1,6 @@
-label: Ranger
+label: CV-61 Ranger
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3

@@ -1,5 +1,6 @@
-label: George Washington
+label: CVN-73 George Washington
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 15

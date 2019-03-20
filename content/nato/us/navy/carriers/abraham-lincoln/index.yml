@@ -1,5 +1,6 @@
-label: Abraham Lincoln
+label: CVN-72 Abraham Lincoln
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 14

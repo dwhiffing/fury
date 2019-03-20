@@ -1,5 +1,6 @@
-label: JFK
+label: CV-67 John F. Kennedy
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 9

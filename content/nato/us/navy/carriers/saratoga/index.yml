@@ -1,5 +1,6 @@
-label: Saratoga
+label: CV-60 Saratoga
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 2

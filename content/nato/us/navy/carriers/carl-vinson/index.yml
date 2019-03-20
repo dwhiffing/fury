@@ -1,5 +1,6 @@
-label: Carl Vinson
+label: CVN-70 Carl Vinson
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 12

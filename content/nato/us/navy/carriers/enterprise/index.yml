@@ -1,5 +1,6 @@
-label: Enterprise
+label: CVN-65 Enterprise
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 7

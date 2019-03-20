@@ -1,5 +1,6 @@
-label: America
+label: CV-66 America
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 8

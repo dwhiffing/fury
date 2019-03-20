@@ -1,5 +1,6 @@
-label: Constellation
+label: CV-64 Constellation
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 6

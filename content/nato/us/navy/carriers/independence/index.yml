@@ -1,5 +1,6 @@
-label: Independence
+label: CV-62 Independence
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 4
