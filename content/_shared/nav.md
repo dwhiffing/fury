@@ -49,10 +49,6 @@ tabs:
         label: Serbia
       - path: su
         label: Soviet Union
-      - path: cz
-        label: Czechoslovakia
-      - path: po
-        label: Poland
 ---
 
 Northern Fury
