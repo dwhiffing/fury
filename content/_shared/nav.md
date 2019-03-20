@@ -39,6 +39,8 @@ tabs:
   warsaw:
     label: WARSAW
     items:
+      - path: su
+        label: Soviet Union
       - path: bg
         label: Bulgaria
       - path: hu
@@ -47,8 +49,6 @@ tabs:
         label: Rumania
       - path: rs
         label: Serbia
-      - path: su
-        label: Soviet Union
 ---
 
 Northern Fury
