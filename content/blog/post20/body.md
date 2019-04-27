@@ -4,7 +4,7 @@ Note that this is fictional background to the scenarios for Command:
 Modern Air & Naval Operations. Events depicted here many not be exactly
 the same as in the books.
 
-![](/assets/images/blogs/post20/image1.jpg)
+![](/assets/images/blog/post20/image1.jpg)
 
 The short Caribbean series represent events running parallel to the
 early days of Northern Fury. The Soviet Foreign Service has been
@@ -36,7 +36,7 @@ withdraw of the expatriate community. The coup in May of 91 was widely
 anticipated but a forgone conclusion with the former President and
 family already living at their palatial residence near Portland Oregon.
 
-![](/assets/images/blogs/post20/image2.jpg)
+![](/assets/images/blog/post20/image2.jpg)
 
 Following the coups’ in Honduras and Nicaragua, a militaristic
 anti-American movement gained momentum and these new governments started
@@ -99,17 +99,17 @@ security agencies but it is unclear what was unloaded, indications are
 that it was not missiles, but probably aircraft, munitions and support
 equipment of various types.
 
-![](/assets/images/blogs/post20/image3.jpg)
+![](/assets/images/blog/post20/image3.jpg)
 
 **US Reaction**: In response to the increased tension in the region the
 US military has stationed about 20 ships including the aircraft carrier
-_USS John F. Kennedy (CV-67)_ and its Battle Group in the area. The
+*USS John F. Kennedy (CV-67)* and its Battle Group in the area. The
 Carrier is temporarily based at Gulfport Mississippi while many of the
 other ships are based in Mayport Florida and Corpus Christy Texas.
 Additionally, forces and activities in Panama, Guantanamo Bay and other
 areas of the Gulf and Caribbean are at higher than normal levels.
 
-![](/assets/images/blogs/post20/image4.jpg)
+![](/assets/images/blog/post20/image4.jpg)
 
 **<span class="underline">Security Assessments:</span>**
 

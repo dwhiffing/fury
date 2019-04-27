@@ -15,7 +15,7 @@ wouldn’t be focusing our attention or our militaries here. The Indian
 Ocean region would quickly become a backwater as vital forces are pulled
 into the major fighting in the north Atlantic and north Pacific areas.
 
-![](/assets/images/blogs/post21/image1.jpg)
+![](/assets/images/blog/post21/image1.jpg)
 
 Therefore, the region is fertile ground for developing interesting
 situations where resources of all types are at a premium. The Soviet
@@ -27,7 +27,7 @@ will be trying to establish a balance; minimizing forces committed here
 while ensuring that they maintain freedom of navigation and a reliable
 flow of commerce - particularly oil.
 
-![](/assets/images/blogs/post21/image2.jpg)
+![](/assets/images/blog/post21/image2.jpg)
 
 Geographically the Indian Ocean is massive, representing 20% of the
 world’s ocean surface. While not as large as the Atlantic or Pacific –
@@ -73,51 +73,51 @@ reality:
 So, based on the above and some other factors the key points that impact
 the Indian Ocean region are:
 
-- Gulf War happened as it did historically, Iraq is neutered and
-  unable to exert too much influence. Operation Southern and Northern
-  Watch are ongoing with deployment of Coalition forces continuing
-  roughly in line with historic deployments.
+  - Gulf War happened as it did historically, Iraq is neutered and
+    unable to exert too much influence. Operation Southern and Northern
+    Watch are ongoing with deployment of Coalition forces continuing
+    roughly in line with historic deployments.
 
-- Hard(er) line government in Iran. Evidence of Soviet funding and
-  refurbishment of equipment
+  - Hard(er) line government in Iran. Evidence of Soviet funding and
+    refurbishment of equipment
 
-- Saudi Arabia is less ‘in bed’ with the west due to continued western
-  support of Egypt and other Gulf states, and a desire to keep Soviet
-  benevolence as an option
+  - Saudi Arabia is less ‘in bed’ with the west due to continued western
+    support of Egypt and other Gulf states, and a desire to keep Soviet
+    benevolence as an option
 
-- Conflict in Somalia, the civil war, UN mission, battle of Mogadishu
-  and withdraw of forces happened as they did in reality.
+  - Conflict in Somalia, the civil war, UN mission, battle of Mogadishu
+    and withdraw of forces happened as they did in reality.
 
-- Eastern Africa is unsettled; the continued influence of the Soviet
-  Union is in direct conflict with China’s attempt to make inroads
-  into African politics. Compounded by a general lack of interest in
-  the West, this ongoing friction is leaving opportunities for
-  exploitation by an aggressive Soviet foreign policy.
+  - Eastern Africa is unsettled; the continued influence of the Soviet
+    Union is in direct conflict with China’s attempt to make inroads
+    into African politics. Compounded by a general lack of interest in
+    the West, this ongoing friction is leaving opportunities for
+    exploitation by an aggressive Soviet foreign policy.
 
-- Apparent sponsorship of piracy is starting to gain momentum. The
-  going rates in this history for 1994 is \~ \$10/Ton, so a bounty of
-  \~2-3 Million USD is not uncommon. The ships are run aground, the
-  crews freed and the cargo is sometimes sold as a bonus, or just
-  looted locally. CTF 150 is patrolling off of Somalia but so far it’s
-  a losing battle.
+  - Apparent sponsorship of piracy is starting to gain momentum. The
+    going rates in this history for 1994 is \~ $10/Ton, so a bounty of
+    \~2-3 Million USD is not uncommon. The ships are run aground, the
+    crews freed and the cargo is sometimes sold as a bonus, or just
+    looted locally. CTF 150 is patrolling off of Somalia but so far it’s
+    a losing battle.
 
-- CTF 151 is established in the Gulf of Aden in an effort to curb
-  Piracy there, but also out of concern for a deteriorating situation
-  in Yemen
+  - CTF 151 is established in the Gulf of Aden in an effort to curb
+    Piracy there, but also out of concern for a deteriorating situation
+    in Yemen
 
-- CTF 149 in the Northern Persian Gulf continues as it historically
-  did.
+  - CTF 149 in the Northern Persian Gulf continues as it historically
+    did.
 
-- NATO establishes a standing Mine Countermeasures group at Djibouti
-  to counter the persistent appearance of mines in the Bab-el Mandeb
-  (BEM) (SNMCMG 3).
+  - NATO establishes a standing Mine Countermeasures group at Djibouti
+    to counter the persistent appearance of mines in the Bab-el Mandeb
+    (BEM) (SNMCMG 3).
 
-- The US establishes 5th Fleet HQ in Bahrain in Dec 1993, about 18
-  months earlier than it did historically.
+  - The US establishes 5th Fleet HQ in Bahrain in Dec 1993, about 18
+    months earlier than it did historically.
 
-- The French have reinforced their position in Djibouti somewhat.
+  - The French have reinforced their position in Djibouti somewhat.
 
-- Tensions between India and Pakistan are very high
+  - Tensions between India and Pakistan are very high
 
 **Sub-Regions:** The following is a quick roundup of the situation by
 nation, running roughly clockwise around the region.
@@ -152,7 +152,7 @@ a turbulent succession of governance since then (30 Coups or attempts
 between 1975 and 2008). There is no military to speak of but the French
 Foreign Legion barracks remains on the Island of Mayotte.
 
-![](/assets/images/blogs/post21/image3.jpg)
+![](/assets/images/blog/post21/image3.jpg)
 
 **<span class="underline">East Central Africa:</span>** Instability
 fueled by Soviet Foreign Policy.
@@ -226,7 +226,7 @@ staunchly loyal, and is Soviet equipped and trained.
 convenience) - Now since reality and fiction cross - this is a direct
 lift from Wiki:
 
-_On 30 June 1989, Colonel Omar al-Bashir led a bloodless military coup.
+*On 30 June 1989, Colonel Omar al-Bashir led a bloodless military coup.
 The new military government suspended political parties and introduced
 an Islamic legal code on the national level. Later al-Bashir carried out
 purges and executions in the upper ranks of the army, the banning of
@@ -234,12 +234,12 @@ associations, political parties, and independent newspapers, and the
 imprisonment of leading political figures and journalists. On 16 October
 1993, al-Bashir appointed himself "President" and disbanded the
 Revolutionary Command Council. The executive and legislative powers of
-the council were taken by al-Bashir._
+the council were taken by al-Bashir.*
 
 The only thing to add from a Northern Fury perspective - Bashir is on
 the Soviet funding list and is keeping his military up to date.
 
-![](/assets/images/blogs/post21/image4.png)
+![](/assets/images/blog/post21/image4.png)
 
 **<span class="underline">Arabian Peninsula/Gulf States</span>**: Rich
 and getting richer.
