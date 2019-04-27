@@ -1,0 +1,15 @@
+layout: blog
+
+main:
+  - body.md
+
+nav:
+  - /_shared/nav.md
+
+title: Carribean Fury Background
+
+date: April 26, 2019
+
+category: General News
+
+tag: The Scenarios

@@ -103,7 +103,7 @@ equipment of various types.
 
 **US Reaction**: In response to the increased tension in the region the
 US military has stationed about 20 ships including the aircraft carrier
-*USS John F. Kennedy (CV-67)* and its Battle Group in the area. The
+_USS John F. Kennedy (CV-67)_ and its Battle Group in the area. The
 Carrier is temporarily based at Gulfport Mississippi while many of the
 other ships are based in Mayport Florida and Corpus Christy Texas.
 Additionally, forces and activities in Panama, Guantanamo Bay and other
