@@ -46,7 +46,7 @@ tabs:
       - path: hu
         label: Hungary
       - path: ro
-        label: Rumania
+        label: Romania
       - path: rs
         label: Serbia
 ---
