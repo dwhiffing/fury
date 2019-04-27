@@ -6,23 +6,25 @@ NATO tasks with a wing of CF-18s in Germany, to maritime patrol, Anti
 Submarine Warfare (ASW) and search and rescue working with the Canadian
 Navy, to providing the Army with its tactical aviation.
 
+![](/assets/images/nato/ca/air/image1.jpeg)
+
 **CF-18**
 
-![](/assets/images/nato/ca/air/image1.jpeg)In the 80’s Canada took
-delivery of all 138 CF-18’s (98 CF-18A and 40 twin seat CF-18B). The two
-main roles for these aircraft were NORAD patrols in Canada’s arctic and
-the standing NATO deployment in Baden Sollingen Germany.
+In the 1980’s Canada took delivery of 138 CF-18’s (98 CF-18A and 40 twin
+seat CF-18B). The two main roles for these aircraft were NORAD patrols
+in Canada’s arctic and the standing NATO deployment in Baden Sollingen
+Germany.
 
 1<sup>st</sup> Canadian Air Division (1 CAD) based in Baden Sollingen
-Germany consisted of two wings operated under control of Fourth Allied
-Tactical Air Force. 4 Wing was permanently established in Baden and
-consisted of three squadrons while 3 Wing was a ‘Flyover’ wing which was
-to deploy regularly or in periods of tension, consisting of two
-squadrons, one each from Cold Lake and Bagotville.
+Germany consisted of two wings operated under control of **Fourth Allied
+Tactical Air Force** **(4 ATAF)**. 4 Wing was permanently established in
+Baden and consisted of three squadrons while 3 Wing was a ‘Flyover’ wing
+which was to deploy regularly or in periods of tension, consisting of
+two squadrons, one each from Cold Lake Alberta and Bagotville Quebec.
 
-The NORAD Squadrons would be operating under the control of the Canadian
-NORAD Region (CANR) and would disperse to Arctic and bases on each coast
-in groups of six aircraft (6-Pack)
+The **NORAD** Squadrons would operate under the control of the
+**Canadian NORAD Region (CANR)** and would disperse to the Arctic and
+bases on each coast in groups of six aircraft (6-Pack)
 each.
 
 | Formation | Wing   | Sqn | Name                | A/C | Type  | Base       | Deploy     | Remarks |
@@ -36,22 +38,24 @@ each.
 |           |        | 441 | Silver Fox          | 18  | CF-18 | Cold Lake  | West Coast | 2 hrs   |
 | Training  | 2 Wing | 410 | Cougars             | 10  | CF-18 | Cold Lake  |            |         |
 
+![](/assets/images/nato/ca/air/image2.jpg)
+
 [**CF-5**](http://www.joebaugher.com/usaf_fighters/f5_21.html)
 
-![](/assets/images/nato/ca/air/image2.jpg)Introduced in the late
-60’s the CF-5 Freedom Fighter was due to be replaced by the CF-18.
-Only two squadrons remain even though 135 examples were initially built.
-In 1988 23x CF-5A and 33x CF-5D received a major upgrade and structural
-overhaul, and in 1990, a further Avionics Upgrade (AUP) was provided to
-46 aircraft (13 CF-5A, 33 CF-5D). Historically this second upgrade was
-terminated after 37 aircraft were complete but in Northern Fury they
-were all completed. Both remaining squadrons (434 Sqn was historically
-disbanded in 89 but remains here) fly a multitude of missions: Advanced
-fighter training and lead-in training for CF-18 pilots; Close Air
-Support (CAS) for the Army, Dissimilar Air Combat Training (DACT)
-against the CF-18s and aggressor training against the Navy. Each
-squadron operates about 26 of the strengthened aircraft, more than half
-of them dual seat ‘D’ versions, mostly AUP versions.
+Introduced in the late 60’s the CF-5 Freedom Fighter was due to be
+replaced by the CF-18. Only two squadrons remain even though 135
+examples were initially built. In 1988 23x CF-5A and 33x CF-5D received
+a major upgrade and structural overhaul, and in 1990, a further Avionics
+Upgrade (AUP) was provided to 46 aircraft (13 CF-5A, 33 CF-5D).
+Historically this second upgrade was terminated after 37 aircraft were
+complete but in Northern Fury they were all completed. Both remaining
+squadrons (434 Sqn was historically disbanded in 89 but remains here)
+fly a multitude of missions: Advanced fighter training and lead-in
+training for CF-18 pilots; Close Air Support (CAS) for the Army,
+Dissimilar Air Combat Training (DACT) against the CF-18s and aggressor
+training against the Navy. Each squadron operates about 26 of the
+strengthened aircraft, more than half of them dual seat ‘D’ versions,
+mostly with the AUP upgrade.
 
 | Sqn | Name     | A/C | Type        | Base       |
 | --- | -------- | --- | ----------- | ---------- |
@@ -62,10 +66,10 @@ of them dual seat ‘D’ versions, mostly AUP versions.
 
 **CP-140 Aurora**
 
-The Canadian version of the US P-3 which also mounts the electronics
-suite of the S-3 Viking to allow for a more varied mission set. 18
-CP-140s were built plus 3 CP-140A Arcturus used primarily for training
-and fisheries patrols.
+The Canadian version of the ubiquitous P-3 Orion also mounts the
+electronics suite of the S-3 Viking allowing for a more varied mission
+set. 18 CP-140s were built plus 3 CP-140A Arcturus used primarily for
+training and fisheries patrols.
 
 <table>
 <thead>
@@ -84,7 +88,7 @@ and fisheries patrols.
 <td>Buffalo</td>
 <td>5</td>
 <td>CP-140</td>
-<td>Greenwood NS</td>
+<td>Greenwood</td>
 <td>OTU</td>
 </tr>
 <tr class="even">
@@ -92,7 +96,7 @@ and fisheries patrols.
 <td>Eagle</td>
 <td>5</td>
 <td>CP-140</td>
-<td>Greenwood NS</td>
+<td>Greenwood</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -100,7 +104,7 @@ and fisheries patrols.
 <td>Demon</td>
 <td>5</td>
 <td>CP-140</td>
-<td>Comox BC</td>
+<td>Comox</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -110,16 +114,35 @@ and fisheries patrols.
 <p>3</p></td>
 <td><p>CP-140</p>
 <p>CP-140A</p></td>
-<td>Greenwood NS</td>
+<td>Greenwood</td>
 <td>Testing &amp; Eval</td>
 </tr>
 </tbody>
 </table>
 
-![](/assets/images/nato/ca/air/image4.jpeg)**Transport**
+![](/assets/images/nato/ca/air/image4.jpeg)
+
+**Transport**
 
 The Canadian Air Force operates a wide variety of transport aircraft
 including about 60 CC-130 Hercules, 15 CC-115 Buffalo, 18 CC-144
-Challenger, 5 CC-150 Airbus, and various other aircraft.
+Challenger, 5 CC-150 Airbus (3 configured as tankers), and various other
+aircraft.
 
 ![](/assets/images/nato/ca/air/image5.jpeg)
+
+**Maritime Helicopter**
+
+Canada operates a fleet of Sikorsky CH-124 Sea King in the ship-borne
+Anti-Submarine Warfare (ASW) role. In total 41 aircraft were in
+operation all of them upgraded in the mid 1980’s. Historically six were
+fitted with a Magnetic Anomaly Detection (MAD) system for deployment to
+the Gulf war, this was designated as the CH-124B and in Northern Fury 12
+have been converted.
+
+| Sqn | Name      | A/C | Type    | Base       | Remarks          |
+| --- | --------- | --- | ------- | ---------- | ---------------- |
+| 406 | Lynx      | 15  | CH-124A | Shearwater | OTU & West Coast |
+| 423 | Eagle     | 12  | CH-124A | Shearwater |                  |
+| 443 | Hornet    | 12  | CH-124B | Shearwater |                  |
+| 415 | Swordfish | 2   | CH-124A | Greenwood  | Test & Eval      |

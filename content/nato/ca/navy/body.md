@@ -4,10 +4,11 @@ Canada’s Navy was primarily focused on ASW work in the North Atlantic,
 although a Squadron was always available in the Pacific to patrol the
 west coast and work with the US 7th Fleet and Asian allies.
 
-**Tribal Class Destroyers**: These four ships had just finished a
-mid-life modernization program (TRUMP - Tribal Update and Modernization
-Project), making them quite capable. These ships routinely operated as a
-flagship for ASW task groups or within the ASW escort of a US CVBG.
+![](/assets/images/nato/ca/navy/image1.jpg)**Tribal Class
+Destroyers**: These four ships had just finished a mid-life
+modernization program (TRUMP - Tribal Update and Modernization Project),
+making them quite capable. They routinely operated as a flagship for ASW
+task groups or within the ASW escort of a US CVBG.
 
 | **Pennant** | **Ship**   | **Status** | **Location** | **Task**      |
 | ----------- | ---------- | ---------- | ------------ | ------------- |
@@ -16,7 +17,7 @@ flagship for ASW task groups or within the ASW escort of a US CVBG.
 | DDH 282     | Athabaskan | Active     | Atlantic     |               |
 | DDH 283     | Algonquin  | Active     | Atlantic     | Standing TG   |
 
-![](/assets/images/nato/ca/navy/image1.jpg)
+![](/assets/images/nato/ca/navy/image2.jpg)
 
 **Halifax (City) Class Frigates** represented a long awaited infusion of
 modern capabilities into the RCN. In Northern Fury, four (of 12) members
@@ -40,16 +41,16 @@ Fury.
 | FFH 340     | St. John‘s      | Building      | Jun-96       |               |
 | FFH 341     | Ottawa          | Building      | Sep-96       |               |
 
-![](/assets/images/nato/ca/navy/image2.jpg)
+![](/assets/images/nato/ca/navy/image3.jpg)
 
-![](/assets/images/nato/ca/navy/image3.jpg)**The Steamers:** The
-ships the Halifax class was replacing were all commissioned in the late
-‘50s or early ‘60s and were of marginal capability at best.
-Representing four different classes these 14 ships were all due for
-retirement after over 30 years of hard use in the North Atlantic or
-North Pacific. Essentially they remained active as life support systems
-for very effective towed array variable depth sonars (VDS) and the Sea
-King Helicopter carried on Annapolis and St Laurent classes (6
+**The Steamers:** The ships the Halifax class was replacing were all
+commissioned in the late ‘50s or early ‘60s and were of marginal
+capability at best. Representing four different classes these 14 ships
+were all due for retirement after over 30 years of hard use in the North
+Atlantic or North Pacific. Essentially they remained active as life
+support systems for very effective towed array variable depth sonars
+(VDS) and the Sea King Helicopter carried on Annapolis and St Laurent
+classes (6
 Ships).
 
 | **Pennant** | **Class**           | **ship**         | **Status**  | **Location** |
@@ -69,25 +70,28 @@ Ships).
 | **DDH 230** | **St Laurent**      | **Margaree**     | **Tied Up** | **Atlantic** |
 | **DDH 233** | **St Laurent**      | **Fraser**       | **Active**  | **Atlantic** |
 
-![](/assets/images/nato/ca/navy/image4.jpg)![](/assets/images/nato/ca/navy/image5.jpg)
+![](/assets/images/nato/ca/navy/image4.jpg)
 
-Improved Restigouche Class Mackenzie Class
+Improved Restigouche Class
+
+![](/assets/images/nato/ca/navy/image5.jpg)
+
+Mackenzie Class
 
 ![](/assets/images/nato/ca/navy/image6.jpg)
 
 St Laurent Class
 
-**Support Ships**
+![](/assets/images/nato/ca/navy/image7.jpg)
 
-![](/assets/images/nato/ca/navy/image7.jpg)**Provider Class** The
-RCN also operated three replenishment oilers (AO), the Provider was the
-prototype for the other two which are larger and have improved systems,
-generally speaking there was one on each coast with the third on the
-Atlantic coast either undergoing refit or committed to NATO operations.
-These ships had strengthened hulls for operations in icy waters but they
-were not icebreakers, they also have accommodation for a Flag Officer
-and staff as well as an 8-bed hospital and facilities for 3x CH-124 Sea
-King helicopters (Provider has
+**Provider Class** The RCN also operated three replenishment oilers
+(AO), the Provider was the prototype for the other two which are larger
+and have improved systems, generally speaking there was one on each
+coast with the third on the Atlantic coast either undergoing refit or
+committed to NATO operations. These ships had strengthened hulls for
+operations in icy waters but they were not icebreakers, they also have
+accommodation for a Flag Officer and staff as well as an 8-bed hospital
+and facilities for 3x CH-124 Sea King helicopters (Provider has
 2).
 
 | **Pennant** | **Ship**                                                                | **Status** | **Location** | **Task** |
@@ -98,7 +102,7 @@ King helicopters (Provider has
 
 ![](/assets/images/nato/ca/navy/image8.jpg)
 
-**Submarines**
+![](/assets/images/nato/ca/navy/image9.jpg)**Submarines**
 
 The RCN operated three Oberon Class submarines
 ‘[O-Boats](https://maritime.org/doc/oberon/index.htm)’. All had
@@ -108,13 +112,11 @@ built to Royal Navy (RN) standards and modified before commissioning
 while the other two were built from the keel up as Canadian Boats.
 Historically two more O-Boats were acquired but not commissioned: HMS
 Olympus for training and HMS Osiris for spare parts. While the Olympus
-arrived in 1989, Osiris remains in service with the RN. All three boats
-are based in Halifax.
+arrived in 1989, Osiris remains in service with the RN. All three active
+boats are based in Halifax.
 
 | **Pennant** | **Ship** | **Status** | **Location** | **Task** |
 | ----------- | -------- | ---------- | ------------ | -------- |
 | S74         | Ojibwa   | Active     | Atlantic     |          |
 | S75         | Okanagan | Active     | Atlantic     |          |
 | S76         | Onondaga | Active     | Atlantic     |          |
-
-![](/assets/images/nato/ca/navy/image9.jpg)

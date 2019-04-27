@@ -7,5 +7,5 @@ maintaining Germany as a NATO partner.
 
 Belgium’s armed forces are completely integrated in the NATO command
 structure. Indeed, **NATO HQ** in Brussels and **SHAPE** (Supreme
-Headquarters Allied Powers Europe) near mons hosts the leadership of all
+Headquarters Allied Powers Europe) near Mons hosts the leadership of all
 allied nations.

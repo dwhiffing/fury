@@ -15,14 +15,17 @@ also has defence of North America and domestic tasks.
 
 ![](/assets/images/nato/ca/army/image1.png)
 
+![](/assets/images/nato/ca/army/image2.jpg)
+
 **Leopard I**
 
-![](/assets/images/nato/ca/army/image2.jpg)The main battle tank of
-the Canadian Army is the Leopard IA3. The 114 tanks are primarily in
-Germany with 78 of them forming the 8<sup>th</sup> Canadian Hussars. The
-remainder are in Gagetown New Brunswick as a training Cadre. The
-Canadian based armoured units are equipped with ‘Cougars’ but trained on
-Leopards.
+The main battle tank of the Canadian Army is the Leopard IA3. The 114
+tanks are primarily in Germany with 78 of them forming the
+8<sup>th</sup> Canadian Hussars. The remainder are in Gagetown New
+Brunswick as a training Cadre. The Canadian based armoured units are
+equipped with ‘Cougars’ but trained on Leopards.
+
+![](/assets/images/nato/ca/army/image3.jpg)
 
 **AVGP**
 
@@ -33,8 +36,7 @@ Personnel Carriers, augmenting the fleet of M113s already in service.
 These vehicles were generally underpowered, lacking in firepower, small
 and unpopular. They were not meant for service outside of Canada, but
 there was no effective plan to re-equip the force in times of emergency
-and they deployed to Bosnia, Croatia, Somalia and
-![](/assets/images/nato/ca/army/image3.jpg)Africa on various
+and they deployed to Bosnia, Croatia, Somalia and Africa on various
 missions - so they would undoubtedly be deployed to Europe in Northern
 Fury.
 

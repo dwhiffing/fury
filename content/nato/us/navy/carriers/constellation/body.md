@@ -1,54 +1,51 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups
+CVBG Constellation (CV-64)
 
-The US Navy has a very flexible system of providing credible power
-projection anywhere on the globe by using a combination of its Aircraft
-Carriers and Amphibious forces. The USMC provides a considerable part of
-this power projection in the form of its Marine Air/Ground Task Forces
-([MAGTF](https://marinecorpsconceptsandprograms.com/organizations/marine-air-ground-task-force/marine-air-ground-task-force-magtf)).
+USS Constellation, or Connie was commissioned in 1961, but the
+33-year-old carrier had completed a 3-year long Service Life Extension
+Program (SLEP) in March of 1993 which prepared her for another 20 years
+of sailing. When war breaks out she is conducting a training exercise
+with the Philippine Navy and Air Force after spending several months
+visiting various western Pacific countries. She was due to return to San
+Diego in late February but was re-tasked to support USS Independence
+(CV-62) instead. Here air group takes a beating in the first days of the
+war and she is withdrawn to the West Coast to reconstitute.
 
-In the 1980’s the USMC transitioned from its more traditional
-‘Amphibious’ force to the modern ‘Expeditionary’ force. Thus the
-development of a more comprehensive combined arms doctrine was needed
-and this resulted in the evolution of ‘Expeditionary’ elements which
-were more self sustained and cohesive than the previous ‘Amphibious’
-elements. This evolution was linked to the development of pre-positioned
-equipment in key locations around the globe and a gradual change in
-organization.
+![](/assets/images/nato/us/navy/carriers/constellation/image1.jpg)
 
-A MAGTF is completely scalable from as small as a few hundred Marines to
-as large as a 32000-man Marine Expeditionary Force (MEF). Whatever the
-size however, there are always four elements to a MAGTF:
+CVBG Constellation
 
-  - **Command Element (CE)** to provide command, control,
-    communications, intelligence and to coordinate joint effects in
-    support of the mission.
+  - CV-64 Constellation (FLAG)
 
-  - **Ground Combat Element (GCE)** providing the combined arms effects
-    needed for the mission.
+  - CVWR 2
 
-  - **Aviation Combat Element (ACE)** which is task tailored to provide
-    all air effects necessary for the accomplishment of the mission.
+  - VF-1 Wolfpack F-14A
 
-  - **Logistics Combat Element (LCE)** organized to provide all logistic
-    functions to both the ground and aviation combat elements.
+  - VF-2 Bounty Hunters F-14A
 
-In 1994 there were three main sizes of MAGTF’s which roughly correspond
-to Army unit sizes, but are much more powerful and flexible due to the
-integration of the ACE.
+  - VFA-151 Vigilantes F/A-18C (N)
 
-  - **Marine Expeditionary Unit** **(MEU):** Based on a Battalion sized
-    GCE with a combined arms complement of approximately 2,200 marines.
-    
-      - **CE** is small but able to coordinate the effects of all combat
-        elements of the MEU
-    
-      - **GCE** is based on a Battalion with attached artillery, armor,
-        combat engineer, both armored and light reconnaissance and
-        amphibious vehicles. The GCE represents about half of the MEU’s
-        personnel.
-    
-      - **ACE** is based on a composite squadron of transport
-        helicopters, Attack helicopters and Harriers.
-    
-      - **LCE** provides all combat service support required to sustain
-        the MEU for approximately 15 days.
+  - VMFA-323 Death Rattlers F/A-18D
+
+  - VAQ-131 Lancers EA-6B
+
+  - VAW-116 Sun Kings E-2C
+
+  - VS-31 Topcats S-3B
+
+  - HS-16 Bullfrogs SH-3H
+
+  - VQ-5(El) Sea Shadows ES-3A
+
+  - CG-21 Gridley
+
+  - CG-49 Vincennes
+
+  - CG-70 Lake Erie
+
+  - DD-965 Kinkaid
+
+  - DD-990 Ingersoll
+
+  - FFG-27 Mahlon S. Tisdale
+
+  - AO-180 Willamette
