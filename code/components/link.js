@@ -1,7 +1,8 @@
 import React from 'react'
 import { PREFIX } from '../page'
 
-const captitalize = string => string.charAt(0).toUpperCase() + string.slice(1)
+export const capitalize = string =>
+  string.charAt(0).toUpperCase() + string.slice(1)
 
 const sanitizeLabel = label => {
   const match = label.match(/(Air Force|Navy|Army)/)
@@ -10,7 +11,7 @@ const sanitizeLabel = label => {
     return 'Air Force'
   }
 
-  return captitalize(
+  return capitalize(
     sanitizedLabel.replace(/Naval Aviation |MEF |Amphibious /, '')
   )
 }

@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 import { PREFIX } from '../page'
+import { capitalize } from './link'
 
 const Header = ({ nav, label }) => (
   <Fragment>
@@ -22,7 +23,7 @@ const Header = ({ nav, label }) => (
 
     {label && (
       <header className="title">
-        <h1>{label}</h1>
+        <h1>{capitalize(label)}</h1>
       </header>
     )}
   </Fragment>
