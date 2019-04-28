@@ -49,6 +49,10 @@ tabs:
         label: Romania
       - path: rs
         label: Serbia
+      - path: pl
+        label: Poland
+      - path: cz
+        label: Czechoslovakia
 ---
 
 Northern Fury
