@@ -1,7 +1,3 @@
-**Romania** ![](/assets/images/warsaw/ro/image1.gif)
-
-![](/assets/images/warsaw/ro/image2.jpg)
-
 **Romania** is one of the five remaining Warsaw Pact countries and is
 the clear winner in the re-shuffling of power within the alliance.
 Ceausescu the longtime dictator has clearly ingratiated himself with the

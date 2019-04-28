@@ -1,7 +1,3 @@
-**Poland** ![](/assets/images/warsaw/pl/image1.png)
-
-![](/assets/images/warsaw/pl/image2.jpg)
-
 **Poland** is no longer a member of the Warsaw Pact, it relinquished its
 status in January 1991 after the Communist government was overthrown by
 the Solidarity movement and Lech Walesa was elected as president on 9

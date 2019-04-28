@@ -1,7 +1,3 @@
-**Czechoslovakia** ![](/assets/images/warsaw/cz/image1.png)
-
-![](/assets/images/warsaw/cz/image2.jpg)
-
 **Czechoslovakia** is one of the five remaining countries forming the
 Warsaw Pact, a situation that is complicated by over 350,000 Soviet
 troops currently stationed in a country about the same geographic size

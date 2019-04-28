@@ -1,7 +1,3 @@
-**Serbia** ![](/assets/images/warsaw/rs/image1.png)
-
-![](/assets/images/warsaw/rs/image2.gif)
-
 **Serbia** is the newest member of the Warsaw Pact and has gravitated
 into the Soviet sphere as the dissolution of the former Republic of
 Yugoslavia (FRY) partitioned the population and geography into an

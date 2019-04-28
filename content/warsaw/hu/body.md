@@ -1,7 +1,3 @@
-**Hungary** ![](/assets/images/warsaw/hu/image1.gif)
-
-![](/assets/images/warsaw/hu/image2.gif)
-
 **Hungary** is one of the five remaining countries forming the Warsaw
 Pact but is a government at odds with its people. The current regime
 relies on Soviet assistance, both militarily and economically to remain

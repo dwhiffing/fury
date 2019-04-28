@@ -1,7 +1,3 @@
-**Bulgaria** ![](/assets/images/warsaw/bg/image1.gif)
-
-![](/assets/images/warsaw/bg/image2.jpg)
-
 **Bulgaria** is one of the five remaining countries forming the Warsaw
 Pact but largely stays because of a fear that instability in the former
 Yugoslavia will spill over its borders. The Soviets have provided some
