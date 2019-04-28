@@ -1,11 +1,18 @@
 import React from 'react'
 import { PREFIX } from '../page'
 
+const captitalize = string => string.charAt(0).toUpperCase() + string.slice(1)
+
 const sanitizeLabel = label => {
   const match = label.match(/(Air Force|Navy|Army)/)
   const sanitizedLabel = match ? match[0] : label
+  if (sanitizedLabel.match(/air/)) {
+    return 'Air Force'
+  }
 
-  return sanitizedLabel.replace(/Naval Aviation |MEF |Amphibious /, '')
+  return captitalize(
+    sanitizedLabel.replace(/Naval Aviation |MEF |Amphibious /, '')
+  )
 }
 
 export const Link = ({
