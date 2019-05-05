@@ -1,4 +1,4 @@
-Danish Air Force
+**Danish Air Force**
 
 The Royal Danish Air Force (RDAF) is primarily focused on defence of the
 Baltic Approaches and will be largely detached to under command of
@@ -9,15 +9,16 @@ Warsaw Pact surface forces access to the North Sea. To do this the bulk
 of the RDAF is focused on four squadrons of F-16s and two squadrons of
 F-35 Drakan’s.
 
-**F-16**
+![](/assets/images/nato/dk/air/image1.jpeg)
 
-![](/assets/images/nato/dk/air/image1.jpeg)Denmark is one of the
-four European nations to participate in the production of F-16s in
-Belgium and the Netherlands. In total the Danes acquired 70 (54 F-16As
-and 16 F-16Bs) examples, all are of the Block 10 standard with a Danish
-built chafe dispenser system. They are organized in four squadrons and
-reside in two bases, 723 Squadron has the added role of conducting
-initial and continuation training.
+[**F-16**](http://www.f-16.net/f-16_users_article3.html)
+
+Denmark is one of four European nations to participate in the production
+of F-16s in Belgium and the Netherlands. In total the Danes acquired 70
+examples, (54 F-16As and 16 F-16Bs) all are of the Block 10/15 standard
+with a Danish built chaff dispenser system. They are organized in four
+squadrons and reside in two bases, 723 Squadron has the added role of
+conducting initial and continuation training.
 
 | Sqn | Name     | Location   | AC   | Type    |
 | --- | -------- | ---------- | ---- | ------- |
@@ -26,7 +27,9 @@ initial and continuation training.
 | 727 | Craven   | Skrydstrup | 16   | F-16A   |
 | 730 | Birdsong | Skrydstrup | 16   | F-16A   |
 
-![](/assets/images/nato/dk/air/image2.jpg)F-35 Draken
+![](/assets/images/nato/dk/air/image2.jpg)
+
+[**F-35 Draken**](https://en.wikipedia.org/wiki/Saab_35_Draken)
 
 To fulfill the surface strike role, Denmark purchased a heavily modified
 version of the Swedish SAAB 35 Draken. The SAAB 35 XD or to Denmark the
@@ -44,6 +47,8 @@ Northern Fury.
 | --- | ------ | -------- | -- | ----- |
 | 725 | Dragon | Karup    | 20 | F-35  |
 | 729 | Eagle  | Karup    | 20 | RF-35 |
+
+**Transport/SAR/AD**
 
 Other elements of the RDAF include 721 ‘Buffalo’ Squadron flying 3x
 C-130H Hercules, 722 ‘Sea Lions’ Search and Rescue Squadron flying 8x

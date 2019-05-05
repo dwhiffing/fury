@@ -2,10 +2,10 @@
 
 With the long and tortuous delays in building the Nuclear powered fleet
 carrier ***'Charles De Gaulle'***, France's existing Aircraft Carrier
-fleet has proceeded into obsolescence.
+fleet has lingered into obsolescence.
 
-The two Clemenceau class carrier were commissioned in the early 60's and
-have already served 30 years. Less than half the size of American
+The two Clemenceau class carriers were commissioned in the early 60's
+and have already served 30 years. Less than half the size of American
 Aircraft Carriers, and with dated air wings, these ships are suitable
 for secondary roles only and are of limited value against a Soviet
 threat. Both were based at Toulon on the Mediterranean.

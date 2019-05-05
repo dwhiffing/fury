@@ -1,5 +1,3 @@
-NATO/France/Navy/Aircraft Carriers/CVG Clemenceau
-
 **FS Clemenceau (R 98)**
 
 The Clemenceau was tied up at Toulon at war start undergoing routine

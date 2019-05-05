@@ -1,4 +1,12 @@
-Danish Army
+**Danish Army**
+
+The Danish army is roughly two divisions in size split into two distinct
+regions. The Jutland Division in the west being dedicated to the NATO
+Command of LANDJUT, the commander responsible for the defence of
+Schleswig-Holstein Germany and the Jutland peninsula of Denmark. In the
+east, largely on Zealand, the Corps level HQ becomes NATO’s LANDZEALAND
+command defending the islands in the Baltic including Zealand, Fyn,
+Bornholm and many others.
 
 ![](/assets/images/nato/dk/army/image1.png)
 
@@ -20,7 +28,7 @@ War Two light tank, with 41 examples providing armored support for the
 ‘Bornholm’ Battle Group. Although modernized and equipped with
 improved fire control, a laser range finder and thermal site, better
 ammunition, fire suppression system and defence against Nuclear,
-Biological, and Chemical (NBC) threats, it was still an old tank.
+Biological, and Chemical (NBC) threats; it was still an old tank.
 However, in theory the only armed force these tanks would face if this
 isolated island was invaded, would be the Soviet ‘PT-76’ light tank or
 perhaps airborne BMD or amphibious BMP Infantry Fighting Vehicles, so
@@ -40,5 +48,3 @@ derivatives.
 ![](/assets/images/nato/dk/army/image4.jpg)
 
 ![](/assets/images/nato/dk/army/image5.jpg)![](/assets/images/nato/dk/army/image6.jpg)
-
-M113 A2DK with 25mm gun

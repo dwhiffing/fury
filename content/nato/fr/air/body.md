@@ -10,21 +10,24 @@ Missiles), bombers and refueling aircraft; Tactical Air Force (FATac)
 operates most of the strike aircraft; Aid Defense Command (CAFDA)
 operating Fighter Interceptors; and Air Transport Command (CoTAM)
 operating transport and helicopter squadrons. Centrally controlled are 4
-E-3F
-AWACS.
+E-3F AWACS.
 
-![](/assets/images/nato/fr/air/image1.jpg)**<span class="underline">Strategic
-Air Force (CoFAS)</span>**
+**Strategic Air Force (CoFAS)**
 
-![](/assets/images/nato/fr/air/image2.jpg)CoFAS operates the 91st
-bombardment wing with two squadrons of Mirage IV-P (18) nuclear bombers
-and one squadron of Mirage IV-R (12) in the reconnaissance role, the
-94<sup>th</sup> bombardment wing providing training and conversion with
-Mirage IV-A (12) and IV-P(4), and an IRBM wing of two squadrons (18
-silos). Supporting the Mirage IV-P was an air refueling wing of 3
-KC-135F Squadrons (12 total).
+![](/assets/images/nato/fr/air/image1.jpg)
+
+![](/assets/images/nato/fr/air/image2.jpg)
+
+CoFAS operates the 91st bombardment wing with two squadrons of Mirage
+IV-P (18) nuclear bombers and one squadron of Mirage IV-R (12) in the
+reconnaissance role, the 94<sup>th</sup> bombardment wing providing
+training and conversion with Mirage IV-A (12) and IV-P(4), and an IRBM
+wing of two squadrons (18 silos). Supporting the Mirage IV-P was an air
+refueling wing of 3 KC-135F Squadrons (12 total).
 
 **Mirage IV**
+
+![](/assets/images/nato/fr/air/image3.jpg)
 
 The Mirage IV was twice the weight and 1.5 times the length of its
 predecessor the Mirage III (more later), which allowed for massive fuel
@@ -44,18 +47,15 @@ speed and long range.
 | EB 2/94 | Marne       | St Dizier      | CoFAS | 6   | Mirage IVA  |
 | EB 3/94 | Arbois      | Luxeuil        | CoFAS | 4   | Mirage IVP  |
 
-![](/assets/images/nato/fr/air/image3.jpg)
-
-Mirage IV
-
 **<span class="underline">Aid Defense Command (CAFDA)</span>**
 
-![](/assets/images/nato/fr/air/image4.jpeg)CAFDA operates 4 wings
-of fighter interceptors focusing on the Air Defence and Air Superiority
-tasks. Comprising 13 squadrons (escadron de chasse, translated ‘Pursuit
-Squadron’ or EC) equipped with two versions of Dassault Mirage aircraft,
-this force also had expeditionary tasks to Djibouti and the Persian
-Gulf.
+CAFDA operates 4 wings of fighter interceptors focusing on the Air
+Defence and Air Superiority tasks. Comprising 13 squadrons (escadron de
+chasse, translated ‘Pursuit Squadron’ or EC) equipped with two versions
+of Dassault Mirage aircraft, this force also had expeditionary tasks to
+Djibouti and the Persian Gulf.
+
+![](/assets/images/nato/fr/air/image4.jpeg)
 
 **Mirage F1C & F1C-200**
 
@@ -73,8 +73,8 @@ squadrons.
 
 The Mirage 2000C was designed as a modern interceptor with a secondary
 strike role. This aircraft was meant to be the French answer to the F-16
-and has certainly evolved into multiple variants and roles and has been
-exported to eight other countries, total production is about 600
+and has certainly evolved into multiple variants and roles being
+exported to eight other countries; total production is about 600
 compared to almost 5000 F-16’s. Two wings, the 2<sup>nd</sup> and
 5<sup>th</sup> each have three squadrons of these aircraft.
 
@@ -103,39 +103,44 @@ conventional and nuclear strike missions in a high threat environment.
 Thus, not only strike aircraft are required, but reconnaissance, and
 electronic warfare as well.
 
+![](/assets/images/nato/fr/air/image6.jpg)
+
 **Mirage F1CR**
 
-![](/assets/images/nato/fr/air/image6.jpg)A reconnaissance version
-of the baseline interceptor, this aircraft has a secondary ground attack
-role. 64 were built and they equipped three squadrons of the
-33<sup>rd</sup> wing at Strasbourg.
+A reconnaissance version of the baseline interceptor, this aircraft has
+a secondary ground attack role. 64 were built and they equipped three
+squadrons of the 33<sup>rd</sup> wing at Strasbourg.
 
 **Mirage F1CT**
 
-Yet another version of the Mirage F1, 55 of the CT or strike variants
+Yet another version of the Mirage F1; 55 of the CT or strike variants
 were converted from the F1C-200’s in 91-92. Historically they replaced a
 Jaguar wing but in Northern Fury they formed a new wing, the
 6<sup>th</sup> which also took on the role of providing the contingent
 in Djibouti. These aircraft look identical to the reconnaissance
 version.
 
-![](/assets/images/nato/fr/air/image7.jpg)**Mirage 5F**
+![](/assets/images/nato/fr/air/image7.jpg)
+
+**Mirage 5F**
 
 This aircraft, a derivative of the Mirage III was meant for export, in
-particular to Israel. Do to political tension over the 1967 Arab/Israeli
-war, France embargoed the sale of these aircraft. Although Israel had
-paid for the jets, and several attempts to obtain them were made, the 50
-aircraft were eventually adopted into the Armée de l'air as the Mirage
-5F. They were designed for the clear weather ground attack role and were
-operated by the 13<sup>th</sup> wing at Colmar.
+particular to Israel but do to political tension over the 1967
+Arab/Israeli war, France embargoed the sale of these aircraft. Although
+Israel had paid for the jets, and several attempts to obtain them were
+made, the 50 aircraft were eventually adopted into the Armée de l'air as
+the Mirage 5F. They were designed for the clear weather ground attack
+role and were operated by the 13<sup>th</sup> wing at Colmar.
+
+![](/assets/images/nato/fr/air/image8.jpeg)
 
 **Mirage 2000N**
 
-This is two seat version of the basic fighter and is designed
-specifically for tactical nuclear weapon delivery. Its wings are
-strengthened for low level flight, an electronic countermeasures suite,
-and it has a precision navigation system with terrain avoidance radar.
-75 of this version were produced and operated by four squadrons of the
+A two seat version of the basic fighter which is designed specifically
+for tactical nuclear weapon delivery. Its wings are strengthened for low
+level flight, an electronic countermeasures suite is added, and it has a
+precision navigation system with terrain avoidance radar. 75 of this
+version were produced and operated by four squadrons of the
 4<sup>th</sup> wing at Luxeuil
 
 **Mirage 2000D**
@@ -145,13 +150,14 @@ design and very similar to the 2000N. This aircraft is designed for
 delivering conventional munitions and has been modernized from the 2000N
 with improved radar and a digital cockpit. Historically it entered
 service in 1994/95 but in Northern Fury it arrives three years earlier
-and 72 of a planned 96 have been built. Both wings
-![](/assets/images/nato/fr/air/image8.jpeg)equipped with this
+and 72 of a planned 96 have been built. Both wings equipped with this
 aircraft are housed at Nancy, the 3<sup>rd</sup> was historically the
 first wing converted and also a new wing, the 20<sup>th</sup> forming to
 allow yet another Jaguar wing to be retained.
 
-![](/assets/images/nato/fr/air/image9.jpg)**SEPECAT Jaguar**
+![](/assets/images/nato/fr/air/image9.jpg)
+
+**SEPECAT Jaguar**
 
 Unique in the Armée de l'air’s fighter aircraft, the Jaguar was not
 produced by Dessault\! SEPECAT is a consortium of Breguet and British
@@ -195,3 +201,5 @@ they have been retained in the Northern Fury world.
 CoTAM is a large command with 28 squadrons: ten fixed wing; 12 rotary
 wing; six overseas based squadrons which were uniquely tailored to the
 requirements of the post; and a VIP transport element.
+
+![](/assets/images/nato/fr/air/image10.jpg)

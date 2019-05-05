@@ -7,6 +7,8 @@ The terms Destroyer and Frigate are also used interchangeably with the
 title of Frigate belonging to what other navies would term Offshore
 Patrol Vessels.
 
+![](/assets/images/nato/fr/navy/destroyers/image1.jpg)
+
 [**Suffren
 Class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Suffren-class.htm):
 Built in the 1960s from the ground up as Air Defence ships, the primary
@@ -14,7 +16,7 @@ role of these two large ships is to protect the Clemenceau class
 aircraft carriers. Both were modernized between 1989 and 1991 and carry
 48 MASURCA Surface to Air Missiles (SAM), these are medium range French
 designed and produced missiles that are unique to this class of ship.
-(They were retrofitted onto the cruiser *Colbert* but that retired in
+(They were retrofitted onto the cruiser *Colbert* which retired in
 1991).
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Role** | **Task** |
@@ -22,7 +24,7 @@ designed and produced missiles that are unique to this class of ship.
 | D 602       | Suffren   | Suffren  | Active     | Med          | AD       | Clem BG  |
 | D 603       | Suffren   | Duquesne | Active     | Med          | AD       | Foch BG  |
 
-![](/assets/images/nato/fr/navy/destroyers/image1.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image2.jpg)
 
 [**Aconit**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/D-609-FS-Aconit.htm):
 This ship was to be the lead ship in a class of five and was designed
@@ -39,14 +41,14 @@ Groups.
 | ----------- | --------- | -------- | ---------- | ------------ | -------- | -------- |
 | D 609       | Aconit    | Aconit   | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/destroyers/image2.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image3.png)
 
 **[Tourville
 Class](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Tourville-class.htm):**
-These three ships are optimized for ASW and were essentially an larger
+These three ships are optimized for ASW and were essentially a larger
 evolution of the Aconit class, equipped with two ASW helicopters and
-fitted with the Crotale SAM system. Focusing on ASW work in the North
-Atlantic where they performed admirably in company with NATO
+fitted with the Crotale SAM system. They focus on ASW work in the North
+Atlantic where they routinely perform admirably in company with NATO
 ships.
 
 | **Pennant** | **Class** | **Ship**      | **Status** | **Location** | **Role** | **Task** |
@@ -55,7 +57,7 @@ ships.
 | D 611       | Tourville | Duguay-Trouin | Active     | Atlantic     | ASW      |          |
 | D 612       | Tourville | De Grasse     | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/destroyers/image3.png)
+![](/assets/images/nato/fr/navy/destroyers/image4.jpg)
 
 [**Cassard
 Class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Cassard-class.htm):
@@ -77,12 +79,12 @@ independently.
 | D 614       | Cassard   | Cassard   | Active     | Med          | AAW      | Foch BG  |
 | D 615       | Cassard   | Jean Bart | Active     | Med          | AAW      | Clem BG  |
 
-![](/assets/images/nato/fr/navy/destroyers/image4.jpg)
+![](/assets/images/nato/fr/navy/destroyers/image5.jpg)
 
 [***Georges Leygues*
 class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Georges-Leygues-class.htm):
 Sharing the same hull as the Cassard class, the seven ships of this ASW
-oriented class replace the medium range SAMs for shorter ranged Crotale
+oriented design replace the medium range SAMs for shorter ranged Crotale
 SAMs, a Towed Array Sonar and a second helicopter. These are well
 rounded general purpose ships which are used in many
 roles.
@@ -96,5 +98,3 @@ roles.
 | D 644       | Georges   | Primauguet        | Active     | Atlantic     | ASW      |          |
 | D 645       | Georges   | Lamotte-Picquet   | Active     | Atlantic     | ASW      |          |
 | D 646       | Georges   | Latouche-Treville | Active     | Atlantic     | ASW      |          |
-
-![](/assets/images/nato/fr/navy/destroyers/image5.jpg)

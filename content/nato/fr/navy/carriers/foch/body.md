@@ -1,9 +1,7 @@
-NATO/France/Navy/Aircraft Carriers/CVG Foch
-
 **FS Foch (R 99)**
 
 The Foch is conducting trials using borrowed USN F/A-18A as a possible
-replacement for the much delayed and problematic Rafale which was
+replacement for the much delayed and problematic Rafale, which was
 encountering yet more problems in development. The Foch’s Battle Group
 escorts are somewhat dispersed at war start, either in port of
 conducting other tasks off the south coast of France.
@@ -18,7 +16,7 @@ Battle Group on 13 Feb 1994
     
       - Flottille 13F – 15x Super Etendard Mod
     
-      - Flottille 12F – 8x F/A-18A - on Loan from US for training
+      - Flottille 12F – 8x F/A-18A - on Loan from US
     
       - Flottille 4F – 8x BR.1050 Alize ALM
     

@@ -35,7 +35,8 @@ Historically however, over this time the structure and size of the
 *Heer* changed significantly between 1993 and 1996 – these changes did
 not happen.
 
-**Leopard II**
+[**Leopard
+II**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
 
 ![](/assets/images/nato/de/army/image2.png)Considered by many to be
 the finest tank in the world with a 120mm L44 smoothbore gun, a speed of
@@ -47,7 +48,8 @@ of the engineering variants of the Leopard 2 had reached production but
 the Armored recovery vehicle variant was starting to arrive in units by
 1994. Leopard I specialist variants were used instead.
 
-**Leopard I**
+[**Leopard
+I**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
 
 ![](/assets/images/nato/de/army/image3.jpg) The Leopard I was used
 widely throughout Europe and Canada as well. The German Army operated a
@@ -66,27 +68,38 @@ production were large numbers of specialist vehicles such as:
 
   - 36x Bergepanzer 2A1 ARV for engineer vehicles;
 
-  - 140x Badger Engineering
-vehicles;
+  - 140x Badger Engineering vehicles;
 
-![](/assets/images/nato/de/army/image4.jpeg)![](/assets/images/nato/de/army/image5.jpeg)
+![](/assets/images/nato/de/army/image4.jpeg)
 
-Gepard Biber Bridge
-Layer
+Gepard
 
-![](/assets/images/nato/de/army/image6.jpg)![](/assets/images/nato/de/army/image7.jpg)
+![](/assets/images/nato/de/army/image5.jpeg)
 
-Bergepanzer ARV Badger
+Biber Bridge Layer
 
-![](/assets/images/nato/de/army/image8.png)**Luchs Armored
-Reconnaissance Vehicle**
+![](/assets/images/nato/de/army/image6.jpg)
+
+Bergepanzer ARV
+
+![](/assets/images/nato/de/army/image7.jpg)
+
+Badger
+
+[**Luchs Armored Reconnaissance
+Vehicle**](http://www.military-today.com/apc/luchs.htm)
+
+![](/assets/images/nato/de/army/image8.png)
 
 The German Army used 408 of these 8-wheeled amphibious vehicles in their
 reconnaissance battalions. With 8-wheel drive and all wheel steering,
 being equipped with thermal sites, a 20mm cannon and long range radios,
-it was ideal for the job it was tasked for.
+it was ideal for the job it was tasked for. It had two driving positions
+for rapid reverse.
 
-**Marder IFV**
+[**Marder IFV**](http://www.military-today.com/apc/marder.htm)
+
+![](/assets/images/nato/de/army/image9.jpg)
 
 Germany was the first NATO country to adopt the IFV (Infantry Fighting
 Vehicle) concept with the Marder. 2,133 of these vehicles were used in
@@ -96,20 +109,19 @@ compartment can engage targets from inside the vehicle or quickly
 dismount and assault. The Marder can carry 12 infantrymen but normally
 carried a crew of 3 with 7 dismountable soldiers as passengers.
 
-![](/assets/images/nato/de/army/image9.jpg)
-
 **M113 Family**
 
-More than 4,000 of the ubiquitous M113, in addition to thousands used as
-infantry carriers’ numerous variants are found in the German Army,
-including:
+![](/assets/images/nato/de/army/image10.jpg)
+
+More than 4,000 of the ubiquitous M113 were in use, in addition to
+thousands used as infantry carriers’ numerous variants are found in the
+German Army, including:
 
   - \+220x M577 Command Post;
 
   - \+500x Panzermorser 120 – 120mm Self Propelled Mortar;
 
-  - ![](/assets/images/nato/de/army/image10.jpg)154x Artillery Fire
-    Control variants;
+  - 154x Artillery Fire Control variants;
 
   - 320x Beobachtungs Panzer Artillery observation vehicles;
 
@@ -127,13 +139,15 @@ including:
 
   - Artillery locating Radar carrier;
 
-**Fuchs Series**
+[**Fuchs
+Series**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/TPZ-Fuchs.php)
 
-![](/assets/images/nato/de/army/image11.jpg)The Fuchs is a
-Six-wheeled Armored Personnel Carrier (APC). The German *Heer* operated
-1,040 of these vehicles in several variants. The basic vehicle was an
-amphibious and designed to carry a crew of 2 with 10 passengers.
-Variants include:
+![](/assets/images/nato/de/army/image11.jpg)
+
+The Fuchs is a Six-wheeled Armored Personnel Carrier (APC). The German
+*Heer* operated 1,040 of these vehicles in several variants. The basic
+vehicle was an amphibious and designed to carry a crew of 2 with 10
+passengers. Variants include:
 
   - 550x Standard Fuchs 1;
 
@@ -150,14 +164,25 @@ was that these had the firepower of a tank but neither the
 maneuverability nor the protection. By 1994 they didn’t have the
 firepower either.
 
-  - 607x Kanonenjagdpanzer, with a 90mm gun;
+  - 607x
+    [Kanonenjagdpanzer](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Kanonenjagdpanzer-90.php),
+    with a 90mm gun;
+
+  - 316x
+    [Jaguar 1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Raketenjagdpanzer-I.php),
+    a similar chassis with a HOT ATGM;
 
   - 162x Jaguar 2, a Kanonenjagdpanzer with the gun replaced by a TOW2
     ATGM
 
-  - ![](/assets/images/nato/de/army/image12.jpg)![](/assets/images/nato/de/army/image13.jpeg)316x
-    Jaguar 1, a similar chassis with a HOT ATGM
-
-![](/assets/images/nato/de/army/image14.jpg)
+![](/assets/images/nato/de/army/image12.jpg)
 
 Kanonenjagdpanzer
+
+![](/assets/images/nato/de/army/image13.jpg)
+
+Jaguar 1
+
+![](/assets/images/nato/de/army/image14.jpeg)
+
+*Jaguar 2*

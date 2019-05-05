@@ -1,4 +1,4 @@
-**Soviet SS/SSNs**
+**Soviet SSN/SSK**
 
 With well over 200 attack submarines, both nuclear and conventionally
 powered Soviet Navy has more than twice as many as the US Navy and
@@ -186,58 +186,153 @@ compared to the Improved Los Angeles class.
 
 **SSK**
 
-[**Echo II class**](https://en.wikipedia.org/wiki/Echo-class_submarine)
+With 141 active and 54 in reserve, the Soviet Navy maintains – by far –
+the largest fleet of Diesel/Electric boats in the world. Following the
+Soviet penchant for keeping things beyond their time however, over half
+of the active boats should be retired, and those in reserve should
+probably be scrapped. Still, the 56 Kilo and Tango boats are very modern
+and capable, they alone represent a significant threat the NATO both on
+and under the waves.
 
-These obsolete and accident prone boats are considered ‘First
-Generation’ SSGNs. The preceding Echo I class were all retired by 1994
-but all surviving Echo IIs remain active in the Northern Fury campaign.
-These boats must surface to launch their missiles, and must remain in
-that vulnerable state until the missiles receive mid-course guidance
-updates – up to 20 minutes. Modern submariners would consider this as
-suicidal. These boats have gone through a series of upgrades to carry
-more modern missiles, the original boats carried eight [SS-N-3a
-"Shaddock"](https://en.wikipedia.org/wiki/SS-N-3_Shaddock) anti-ship
-missiles, 14 were converted to carry the [P-500 Bazalt SS-N-12
-"Sandbox",](https://en.wikipedia.org/wiki/P-500_Bazalt) and of five of
-these (3 historically) were converted to the improved P-1000 version
-with a better radar and extended range. Of the 29 boats, one has been
-sunk in a collision but there have been 13 major collisions, fires, or
-reactor accidents involving these boats. Three boats had been converted
-to receive targeting data directly from satellites, and historically,
-one of the boats was converted to support divers and Special Forces, in
-Northern Fury four of the original boats have undergone this
-conversion.
+[**Kilo Class**](http://www.military-today.com/navy/kilo_class.htm)
 
-| Class       | Pennant | Name           | Fleet    | SSM    | Remarks                   |
-| ----------- | ------- | -------------- | -------- | ------ | ------------------------- |
-| Echo II ST  | K-1     |                | Northern |        | Sat Tgt                   |
-| Echo II M   | K-127   |                | Northern | P-500  |                           |
-|             | K-10    |                |          |        | Sunk in collision, 1982   |
-| Echo II ST  | K-22    | Krasnovardeets | Northern |        | Sat Tgt                   |
-|             | K-23    |                | Pacific  |        |                           |
-| Echo II M   | K-428   |                | Pacific  | P-500  |                           |
-|             | K-431   |                | Northern |        | Reactor accident, Reserve |
-| Echo II M   | K-134   | Kefal          | Northern | P-500  |                           |
-| Echo II ST  | K-35    |                | Northern |        | Sat Tgt                   |
-| Echo II SOF | K-47    |                | Northern |        | SOF                       |
-| Echo II MKV | K-48    |                | Northern | P-1000 |                           |
-|             | K-56    |                | Pacific  |        |                           |
-| Echo II M   | K-557   |                | Northern | P-500  |                           |
-| Echo II MKV | K-74    |                | Northern | P-1000 |                           |
-| Echo II SOF | K-86    |                | Northern |        | SOF                       |
-| Echo II M   | K-90    |                | Pacific  | P-500  |                           |
-| Echo II SOF | K-94    |                | Pacific  |        | SOF                       |
-| Echo II M   | K-144   |                | Pacific  | P-500  |                           |
-| Echo II MKV | K-108   |                | Northern | P-1000 |                           |
-|             | K-116   |                | Pacific  |        | Reactor accident, Reserve |
-| Echo II M   | K-125   |                | Northern | P-500  |                           |
-| Echo II MKV | K-128   |                | Pacific  | P-1000 |                           |
-| Echo II M   | K-135   |                | Northern | P-500  |                           |
-| Echo II SOF | K-166   |                | Pacific  |        | SOF                       |
-| Echo II M   | K-172   |                | Northern | P-500  |                           |
-|             | K-175   |                | Pacific  |        |                           |
-| Echo II MKV | K-184   |                | Pacific  | P-1000 |                           |
-|             | K-189   |                | Pacific  |        |                           |
-|             | K-192   |                | Pacific  |        | Reactor accident, Reserve |
+The Soviet Fleet operates a total of 38 of these very capable (Project
+877) subs, a significant increase of the 24 they obtained historically.
+Most of the increase was achieved through curtailing foreign sales but
+also through slightly accelerating construction. The only exports
+authorized were to Algeria (2), Iran (2), Poland (1), Romania (1) and
+Syria (2 not historic), although many of these retained Soviet advisors.
+The boats destined for India (8 by 1994), and China (2) were not
+delivered or the transactions terminated in various ways. The net
+difference in exports by 1994 was 8. There were also four boats
+historically scrapped or not completed in 1994, and two with very slow
+construction, but in Northern Fury these were completed in time for the
+campaign. These are quiet, efficient boats able to use a variety of
+weapons and present a significant challenge to NATO forces who often
+call them the ‘Black Hole’ because they are so difficult to
+find.
 
-![](/assets/images/warsaw/su/navy/subs/ssn/image7.png)
+| Class    | Pennant | Name                | Fleet     | Remarks           |
+| -------- | ------- | ------------------- | --------- | ----------------- |
+| Kilo     | B-248   |                     | Northern  |                   |
+|          | B-177   |                     | Black Sea |                   |
+|          | B-187   |                     | Pacific   |                   |
+|          | B-190   |                     | Pacific   |                   |
+|          | B-220   |                     | Baltic    |                   |
+|          | B-224   |                     | Baltic    |                   |
+|          | B-227   | Vyborg              | Northern  |                   |
+|          | B-229   |                     | Northern  |                   |
+|          | B-260   | Chita               | Pacific   |                   |
+|          | B-345   | Mogocha             | Pacific   |                   |
+|          | B-354   |                     | Black Sea | Divert from India |
+| Imp Kilo | B-394   | Tadjkistana         | Baltic    | Divert from India |
+|          | B-401   | Novosibirsk         | Northern  |                   |
+|          | B-402   | Vologda             | Pacific   |                   |
+|          | B-404   |                     | Pacific   |                   |
+|          | B-405   | Tyumensky           | Northern  |                   |
+|          | B-425   |                     | Northern  | Divert from India |
+|          | B-437   | Yaroslavl\`         | Pacific   | Divert from India |
+|          | B-439   |                     | Northern  |                   |
+|          | B-445   | Svyatitel           | Pacific   |                   |
+|          | B-459   | Vladikavkaz         | Pacific   |                   |
+|          | B-464   | Ust\`-Kamchatsk     | Northern  |                   |
+|          | B-468   |                     | Northern  |                   |
+|          | B-470   |                     | Northern  | Completed         |
+|          | B-471   | Magnitogorsky       | Northern  |                   |
+|          | B-494   | Ust\`-Bol\`sheretck | Northern  |                   |
+|          | B-800   | Vologodsky          | Northern  |                   |
+|          | B-806   | Dmitrov             | Northern  |                   |
+|          | B-871   | Alrosa              | Northern  | Pump Jet          |
+|          | B-880   | Del'fin             | Northern  | Divert from India |
+|          | B-903   |                     | Black Sea | Divert from India |
+|          | B-917   |                     | Pacific   | Divert from China |
+|          | B-922   |                     | Pacific   | Divert from China |
+|          | B-351   |                     | Northern  | Divert from India |
+|          | B-944   |                     | Northern  | Divert from India |
+|          | B-947   |                     | Northern  | Completed         |
+|          | B-955   |                     | Pacific   | Not Scrapped      |
+|          | B-960   |                     | Northern  | Not Scrapped      |
+
+![](/assets/images/warsaw/su/navy/subs/ssn/image7.jpg)
+
+[**Tango Class**](https://en.wikipedia.org/wiki/Tango-class_submarine)
+
+The 18 boats of the Project 641B (Tango) class were meant as an
+improvement on the previous Foxtrot class and indeed proved to be a
+significantly more capable submarine. Very quiet, able to remain
+submerged for more than a week before snorkeling to recharge its
+batteries and with a rubber sound absorbing coating these boats were
+hard to find. Coupled with improved armament, sonars, targeting systems
+and communications systems, the Tango class was very capable and caused
+NATO ASW forces great concern.
+
+| Class | Pennant | Name          | Fleet     | Remarks |
+| ----- | ------- | ------------- | --------- | ------- |
+| Tango | B-380   | Gorkovsky     | Northern  |         |
+|       | B-30    |               | Northern  |         |
+|       | B-97    |               | Pacific   |         |
+|       | B-146   | Kazakhstana   | Northern  |         |
+|       | B-215   |               | Northern  |         |
+|       | B-225   |               | Med       |         |
+|       | B-290   |               | Northern  |         |
+|       | B-303   |               | Black Sea |         |
+|       | B-307   |               | Northern  |         |
+|       | B-312   |               | Med       |         |
+|       | B-319   | Chuvashii     | Northern  |         |
+|       | B-443   | Magnitogorsky | Baltic    |         |
+|       | B-474   |               | Northern  |         |
+|       | B-498   |               | Northern  |         |
+|       | B-504   | Novosibirsky  | Pacific   |         |
+|       | B-519   |               | Northern  |         |
+|       | B-546   |               | Northern  |         |
+|       | B-597   |               | Northern  |         |
+
+![](/assets/images/warsaw/su/navy/subs/ssn/image8.jpg)
+
+[**Foxtrot
+Class**](https://en.wikipedia.org/wiki/Foxtrot-class_submarine)
+
+Built from 1957 until 1983 the original 58 Project 641 boats were
+noisier than most contemporary submarines but capable of long distance
+sustained operations. They were also slow, averaging just 2-3 knots
+submerged, but could remain below the surface for almost 10 days,
+impressive for the era. Four have been scrapped or sunk and the 54
+remaining submarines were obsolete by the late 1970’s, even though they
+were still building into 1983 and used to the year 2000.
+
+![](/assets/images/warsaw/su/navy/subs/ssn/image9.jpeg)
+
+[**Romeo Class**](https://en.wikipedia.org/wiki/Romeo-class_submarine)
+
+The Soviet Navy only operated 20 of the 133 boats of this class that
+were built. Originaly planning to deploy more than 50, they were
+canceled with advent of nuclear powered SSNs, but were still very useful
+in the export market. Representing the ultimate evolution of the Whiskey
+Class these were even more obsolete than the Foxtrot class by 1994.
+
+![](/assets/images/warsaw/su/navy/subs/ssn/image10.jpg)
+
+[**Whiskey
+Class**](http://russianships.info/eng/submarines/project_613.htm)Designed
+in World War II and then influenced by captured German Type XXI U-Boats.
+Called Project 613, there were five major variants and an astounding 215
+built in the Soviet Union by 1958. In addition to 21 built in China and
+41 exported to various countries, the Soviets were still operating 45 in
+the 80s with 15 in reserve. Most were retired in 1990 but six were still
+active in 1994 as well as 54 in reserve. Many boats were converted over
+time to test various systems and some were converted into Guided Missile
+Submarines (SSG) but the six *Whiskey Long Bin* and seven *Whiskey Twin
+Cylinder*, as well as the four radar picket *Whiskey Canvas Bag*
+variants were all retired. All remaining boats were a relatively
+universal design with six torpedo tubes and although unlikely, some may
+have had one, two or 25mm anti-aircraft
+guns.
+
+|         | Northern     | Pacific      | Black       | Baltic      | Total        |
+| ------- | ------------ | ------------ | ----------- | ----------- | ------------ |
+| Foxtrot | 22           | 18           | 6           | 8           | 54           |
+| Romeo   | 9            | 8            | 2           | 2           | 21           |
+| Whiskey | 3            | 1            |             | 2           | 6            |
+| Whiskey | 24 (Reserve) | 16 (Reserve) | 8 (Reserve) | 6 (Reserve) | 54 (Reserve) |
+
+![](/assets/images/warsaw/su/navy/subs/ssn/image11.jpg)

@@ -3,9 +3,10 @@
 Although the Danish Navy’s main focus in wartime is plugging the exit
 from the Baltic Sea into the Atlantic through the Skagerrak, its
 overseas responsibilities for Greenland and the Faroes islands demand an
-ocean going navy. Thus Denmark needs to divide its naval efforts on two
-fronts, a far ranging ocean going arm, and a branch dedicated to
-operating in restricted coastal waters which will be highly contested.
+ocean going element to the navy. Thus Denmark needs to divide its naval
+efforts on two fronts, a far ranging ocean going arm, and a branch
+dedicated to operating in restricted coastal waters which will be highly
+contested.
 
 [**Niels Juel
 class**](http://www.navalhistory.dk/English/TheShips/N/NielsJuel\(1980\).htm):
@@ -28,19 +29,21 @@ Coast Guard patrols in the Greenland and Faroes Islands areas. They each
 host an unarmed Lynx Mk.80 or 80A
 helicopter.
 
+![](/assets/images/nato/dk/navy/image2.jpg)
+
 **[Beskytteren](http://www.navalhistory.dk/English/TheShips/B/Beskytteren\(1976\).htm):**
 This is a single ship built in the mid-1970s but is still serving (until
 2000) augmenting the newer Thetis Class.
 
-![](/assets/images/nato/dk/navy/image2.jpg)
+![](/assets/images/nato/dk/navy/image3.jpg)
 
 [**Thetis
 Class**](http://www.navalhistory.dk/English/TheShips/Classes/Thetis_Class\(1991\).htm):
 These four ships are all newly commissioned (between 1991 and 1993) and
 have excellent modern sensors and communications capabilities.
 Displacing twice as much as the Niels Juel Class but with 30% fewer
-crew, these ships are double hulled to protect against ice damage and
-can break through 30 inches of solid ice.
+crew, theyare double hulled to protect against ice damage and can break
+through 30 inches of solid ice.
 
 | **Pennant** | **Ship**    | **Status** | **Location** | **Task** |
 | ----------- | ----------- | ---------- | ------------ | -------- |
@@ -50,8 +53,6 @@ can break through 30 inches of solid ice.
 | F 359       | Vædderen    | Active     | Greenland    |          |
 | F 360       | Hvidbjørnen | Active     | Atlantic     |          |
 
-![](/assets/images/nato/dk/navy/image3.jpg)
-
 **Light Forces**
 
 In the confined waters of the Baltic approaches, the cut and thrust of
@@ -59,14 +60,17 @@ light forces is critical. Using islands and narrow seas to shadow radar
 signatures, hide ambushing craft and allowing for quick escape lends
 itself to small, fast and powerful craft.
 
-![](/assets/images/nato/dk/navy/image4.jpg)[**Flyvefisken
+![](/assets/images/nato/dk/navy/image4.jpg)
+
+[**Flyvefisken
 class**](http://www.navalhistory.dk/English/TheShips/F/Flyvefisken\(1989\).htm):
 This is a modern, configurable class which was a new and novel concept
 for most navies. Able to switch from a surveillance vessel, a Mine
-Countermeasures ship or a Combat Missile Boat configuration within
-hours. Built in three ‘Series’ all but one of the boats are available
-for Northern Fury, both Series 1 and 2 are completed by January 1994
-with the single ship 3<sup>rd</sup> Series still
+Countermeasures ship or a Combat Missile Boat configuration within hours
+provides a high degree of flexibility. Built in three ‘Series’ all but
+one of the boats are available for Northern Fury, both Series 1 and 2
+are completed by January 1994 with the single ship 3<sup>rd</sup> Series
+still
 building.
 
 | **Pennant** | **Ship**                  | **Series** | **Configuration** | **Task** |
@@ -114,10 +118,12 @@ in shallow, congested waters. All Danish submarines were based at
 Frederikshaven and two were kept at sea at all times with two more ready
 for immediate deployment.
 
+![](/assets/images/nato/dk/navy/image6.jpg)
+
 [**Narhvalen Class**](https://en.wikipedia.org/wiki/Type_205_submarine):
 These two modified Type 205 submarines were acquired in 1970, they were
-very small and with a crew of only 21 personnel, were inexpensive to
-operate. They had a major drawback in that their torpedoes were only
+very small and with a crew of only 21 personnel were inexpensive to
+operate. A major drawback however, was that their torpedoes were only
 suitable for surface targets, and not other submarines, this was
 mitigated by operating them in coastal waters where they were supported
 by ASW helicopters.
@@ -127,9 +133,9 @@ by ASW helicopters.
 | S 320   | Narhvalen   | Active | In port                        |
 | S 321   | Nordkaperen | Active | Patrolling off Bornholm Island |
 
-![](/assets/images/nato/dk/navy/image6.jpg)
+![](/assets/images/nato/dk/navy/image7.jpg)
 
-![](/assets/images/nato/dk/navy/image7.jpg)**[Tumleren
+**[Tumleren
 class](https://en.wikipedia.org/wiki/Kobben-class_submarine):** These
 three boats were purchased (along with a 4<sup>th</sup> used for spare
 parts) from Norway in 1989-91. This was the Norwegian Kobben class which

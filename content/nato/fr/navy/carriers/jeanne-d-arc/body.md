@@ -1,5 +1,3 @@
-NATO/France/Navy/Aircraft Carriers/CVG Jeanne d’Arc
-
 **FS Jeanne d’Arc (R 97)**
 
 The venerable Jeanne d’Arc conducts an annual world cruse as a training

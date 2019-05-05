@@ -5,6 +5,8 @@ for overseas patrols in a low threat environment. France has many
 overseas possessions and to adequately patrol the protect its economic
 interests around the world it uses these small and versatile ships.
 
+![](/assets/images/nato/fr/navy/frigates/image1.jpg)
+
 [**La Fayette
 Class**](https://en.wikipedia.org/wiki/La_Fayette-class_frigate): In the
 Northern Fury world the La Fayette class was started 2 years earlier
@@ -21,13 +23,13 @@ extensive.
 | ----------- | ---------- | ---------- | ---------- | ------------ | -------- | -------- |
 | F 710       | La Fayette | La Fayette | Active     | Persian Gulf | Patrol   | CTF 150  |
 
-![](/assets/images/nato/fr/navy/frigates/image1.jpg)
+![](/assets/images/nato/fr/navy/frigates/image2.jpg)
 
 [**Floreal
 Class**](https://en.wikipedia.org/wiki/Floréal-class_frigate): These
 ships are small and inexpensive, built to commercial and not military
 standards, they are not meant for warfighting and have only a modest
-weapons suite, they are Offshore Patrol Vessels (OPV) more than
+weapons suite; they are Offshore Patrol Vessels (OPV) more than
 Frigates. The two Exocet ASMs could not hope to succeed overcoming the
 defences to sink a warship, but they are enough to fend of pirates or
 commerce raiders. They can host a helicopter which is a major asset in
@@ -43,7 +45,7 @@ situation.
 | F 734       | Floreal   | Vendemiaire | Active     | Pacific       | Patrol   |          |
 | F 735       | Floreal   | Germinal    | Active     | Atlantic      | Patrol   |          |
 
-![](/assets/images/nato/fr/navy/frigates/image2.jpg)
+![](/assets/images/nato/fr/navy/frigates/image3.jpg)
 
 [***D'Estienne
 d'Orves*-class**](https://en.wikipedia.org/wiki/D%27Estienne_d%27Orves-class_aviso):

@@ -1,10 +1,10 @@
 **Greek Air Force**
 
-The Hellenic Air Force maintains a large but mixed inventory; some very
-capable modern aircraft are entering service but many less capable and
-border line obsolete aircraft remain.
+The Hellenic Air Force (HAF) maintains a large but mixed inventory; some
+very capable modern aircraft are entering service but many less capable
+and almost obsolete aircraft remain.
 
-**F-16**
+[**F-16**](http://www.f-16.net/f-16_users_article5.html)
 
 Greece received 40x F-16 Block 30 (34 C & 6 D) airframes 1988/90 under
 the Peace Xenia I program, the last foreign sale of this type the US
@@ -22,7 +22,7 @@ Lárissa.
 
 ![](/assets/images/nato/gr/air/image1.jpg)
 
-**Mirage 2000**
+[**Mirage 2000**](http://www.military-today.com/aircraft/dassault_mirage_2000bc.htm)
 
 As part of the general modernization of the Greek air force in the 1980s
 40 Mirage 2000Es (4 were two seat ‘BG’ trainers) were purchased. These
@@ -39,7 +39,8 @@ F.1CG.
 
 ![](/assets/images/nato/gr/air/image2.jpg)
 
-**Mirage F.1**
+[**Mirage
+F.1**](http://www.military-today.com/aircraft/dassault_mirage_f1.htm)
 
 The Mirage F.1 was rushed into service in response to the Turkish
 invasion of Cyprus and the Greek withdrawal from NATO which quickly
@@ -58,12 +59,12 @@ focus on the bombing role.
 
 ![](/assets/images/nato/gr/air/image3.jpg)
 
-**F-4 Phantom**
+[**F-4 Phantom**](https://www.haf.gr/en/equipment/f-4e-phantom-ii/)
 
 The F-4 was another 3<sup>rd</sup> Generation multi role fighter which
 was acquired quickly in the early ‘70s, significantly modernizing the
-air force capability. Greece started receiving the first of 56 new build
-F-4E Phantom IIs in 1974, and then received 28 ex USAF F-4Es in 1991. In
+HAFs capability. Greece started receiving the first of 56 new build F-4E
+Phantom IIs in 1974, and then received 28 ex USAF F-4Es in 1991. In
 addition, the initial arrangement provided for six RF-4Es which were
 augmented by ex-Luftwaffe aircraft in 1993. In total four squadrons in
 two wings operate the F-4E and one squadron operates the
@@ -79,9 +80,10 @@ RF-4E.
 
 ![](/assets/images/nato/gr/air/image4.jpeg)
 
-**F-5 Freedom Fighter**
+[**F-5 Freedom
+Fighter**](http://www.the-northrop-f-5-enthusiast-page.info/AirForces/GreeceAF.html)
 
-Due for retirement and replacement by the F-16, some of these have been
+Due for retirement and replacement by the F-16, some F-5s have been
 retained to counter the growing threat in Bulgaria. By 1994 about half
 of the F-5s originally operated by the Greek air force were still in
 operation.
@@ -94,7 +96,8 @@ operation.
 
 ![](/assets/images/nato/gr/air/image5.jpg)
 
-**F-104 Starfighter**
+[**F-104
+Starfighter**](http://greek-war-equipment.blogspot.com/2009/05/f-104-starfighter.html)
 
 Another aircraft retained beyond its planned retirement date of 1993 was
 the F-104 Starfighter. As the Greek government tries to find solutions
@@ -107,14 +110,14 @@ the Italian F-104 ASM is being entertained.
 
 ![](/assets/images/nato/gr/air/image6.jpg)
 
-**A-7 Corsair II**
+[**A-7 Corsair II**](https://www.airvectors.net/ava7.html#m5)
 
 One veteran aircraft the Greek air force has no intention of retiring is
 the A-7H Corsair II. The SLUF (Short Little Ugly Fellow) is a venerable
 bomb truck with a massive range. Greece was the only country to receive
 new production Corsairs and the first foreign country to operate them in
 1975. There were 60 newly built plus an additional 36 surplus A-7Es in
-the early ‘90s.
+service by the early ‘90s.
 
 | Sqn      | Name    | Wing          | Location | AC | Type | Remarks |
 | -------- | ------- | ------------- | -------- | -- | ---- | ------- |

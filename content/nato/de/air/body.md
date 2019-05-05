@@ -1,6 +1,6 @@
 **German Air Force**
 
-The modern Luftwaffe, although named the same as its forbearers of World
+The modern Luftwaffe, while named the same as its forbearers of World
 War Two does not draw any continuity earlier than 1956. Although
 struggling after unification and some internal strife, the Germans
 retain over 500 front line combat aircraft. Some like the modernized F-4
@@ -12,35 +12,37 @@ grouped in wings, geschwader or Marineflieger with two squadrons
 
 Upon reunification of Germany in 1990 a significant reorganization took
 place. Most of the aircraft of the former German Democratic Republic
-(GDR, or East Germany) were passes to Czechoslovakia to hole, in an
+(GDR, or East Germany) were passes to Czechoslovakia to hold, in an
 agreement with the Soviet Union – pending final disposition. Since then
 over 250 MiG 21’s, 65 MiG-23’s, 50 Su-22’s, 50 L-39’s, almost 200
 helicopters and over 250 SAM systems have found their way into other
 militaries mostly in Africa but also in South and Central America. The
 key exception was the two dozen modern MiG-29s which the GDR received
-only a year before the collapse of its government, these have been fully
+only a year before the collapse of its government; these have been fully
 integrated into the Luftwaffe and have been used extensively by the US
 and other NATO nations for training. The German MiG pilots are probably
 the best in the world after four years of force on force training
 against the finest air forces in the alliance.
 
-**MiG-29**
+[**MiG-29**](https://www.16va.be/mig-29_experience.htm)
 
-![](/assets/images/nato/de/air/image1.jpg)The Soviet build MiG-29’s
-are the most modern aircraft in the German inventory. They are highly
-maneuverable multi-role aircraft which have done outstanding service
-conducting DACT (Dissimilar Air Combat Training) with many NATO nations.
-Used as aggressors on almost every major NATO exercise since 1990, the
-pilots of Jagdgeschwader 73 (Fighter Wing 73) became extremely adept at
-air to air combat. All 24 of these aircraft, including 4 twin seat
-training variants were maintained in the 1<sup>st</sup> Squadron 73 JG
-(1/73 JG)
+![](/assets/images/nato/de/air/image1.jpg)
 
-**Panavia Tornado**
+The Soviet built MiG-29’s are the most modern aircraft in the German
+inventory. They are highly maneuverable multi-role aircraft which have
+done outstanding service conducting DACT (Dissimilar Air Combat
+Training) with many NATO nations. Used as aggressors on almost every
+major NATO exercise since 1990, the pilots of Jagdgeschwader(JG) 73
+(Fighter Wing 73) became extremely adept at air to air combat. All 24 of
+these aircraft, including 4 twin seat training variants were maintained
+in the 1<sup>st</sup> Squadron 73 JG (1/73 JG)
+
+[**Panavia
+Tornado**](http://www.military-today.com/aircraft/panavia_tornado_ids.htm)![](/assets/images/nato/de/air/image2.jpeg)
 
 The Tornado is a result of a Tri-national (British, German and Italian)
 effort to replace aging, primarily American aircraft in the 80’s and
-early 90’s. This was a highly successful effort with almost 1000
+early 90’s. This was a highly successful endeavour with almost 1000
 aircraft produced in three variants. The Luftwaffe procured 160 Tornado
 IDS (Interdiction/Strike) and 34 Tornado ECR (Electronic
 Combat/Reconnaissance), while the German Navy (Bundesmarine) acquired
@@ -48,15 +50,14 @@ Combat/Reconnaissance), while the German Navy (Bundesmarine) acquired
 (ADV) were purchased by Germany who were banking on the Eurofighter
 Typhoon for the air superiority role. That aircraft was yet to make its
 first flight (March 1994). The intention was that the IDS version would
-replace all Alpha Jets an F-4F Phantoms in the Fighter Bomber, however
-due to increased tensions one wing of Phantoms was retained and
-![](/assets/images/nato/de/air/image2.jpeg)two wings of Alpha Jets
-were kept in front line service. Fighter bomber wings are named
-Jagdbombergeschwader (JBG)
+replace all Alpha Jets an F-4F Phantoms in the Fighter Bomber role,
+however due to increased tensions one wing of Phantoms was retained and
+two wings of Alpha Jets were kept in front line service. Fighter bomber
+wings are named Jagdbombergeschwader (JBG)
 
 The Bundesmarine maintains two wings (Marineflieger or MFG) of 48
-aircraft each, specializing in the marine role with AS.34 Kormoran
-Anti-ship missiles.
+aircraft each, specializing in the marine strike role with AS.34
+Kormoran Anti-ship missiles.
 
 The Operational Conversion Unit for this type is maintained in the US at
 Holloman AFB.
@@ -79,7 +80,9 @@ Holloman AFB.
 | 1/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
 | 2/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
 
-**Alpha Jet**
+[**Alpha Jet**](https://fas.org/man/dod-101/sys/ac/row/alpha-jet.htm)
+
+![](/assets/images/nato/de/air/image3.jpg)
 
 Primarily an advanced jet trainer, the Luftwaffe chose to us this
 aircraft in the light attack role to replace the Fiat G91. Although used
@@ -98,31 +101,31 @@ maintained in front line service.
 | 2/43 JBG | Oldenburg        | 18  | Alpha Jet |
 | 1/44 JBG | Beja Portugal    | 18  | Alpha Jet |
 
-![](/assets/images/nato/de/air/image3.jpg)
+[**F-4 Phantom**](http://www.joebaugher.com/usaf_fighters/f4_43.html)
 
-**F-4 Phantom**
+![](/assets/images/nato/de/air/image4.jpeg)
 
-![](/assets/images/nato/de/air/image4.jpeg)Germany used the F-4
-extensively from 1971 onwards, originally operating 175 F-4F’s and 88
-RF-4E’s operationally and several F-4E’s for training in the US. In
-order to fill the critical Air-to-Air shortfall in the Luftwaffe while
-the Eurofighter was being developed the venerable F-4F underwent a
-modernization program – ICE, meaning Improved Combat Efficiency. The two
-most significant improvements were the addition of the modern APG-65
-radar and the ability to fire AIM-120 AMRAAM BVR (Beyond Visual Range)
-missiles. 110 conversions were authorized and by the start of Northern
-Fury 80 had been completed, slightly quicker than historic where 70 had
-been converted by the end of 94. The major drawback however was the lack
-of the AIM-120 missile, Germany only ordered 96 for delivery in 2005,
-leaving the Phantoms to use AIM-7 Sparrows and AIM-9L Sidewinders. Two
-and a half wings of the ICE were in operations (JG 73 operating one
-Staffel of MiG-29 and one of F-4 ICE) while three other wings were using
-the un-modified F-4F’s.
+Germany used the F-4 extensively from 1971 onwards, originally operating
+175 F-4F’s and 88 RF-4E’s operationally and several F-4E’s for training
+in the US. In order to fill the critical Air-to-Air shortfall in the
+Luftwaffe while the Eurofighter was being developed the venerable F-4F
+underwent a modernization program – ICE (Improved Combat Efficiency).
+The two most significant improvements were the addition of the modern
+APG-65 radar and the ability to fire AIM-120 AMRAAM BVR (Beyond Visual
+Range) missiles. 110 conversions were authorized and by the start of
+Northern Fury 80 had been completed, slightly quicker than historic
+where 70 had been converted by the end of 94. The major drawback however
+was the lack of the AIM-120 missile, Germany only ordered 96 for
+delivery in 2005, leaving the Phantoms to use AIM-7 Sparrows and AIM-9L
+Sidewinders. Two and a half wings of Phantom-ICE were in operations (JG
+73 operating one Staffel of MiG-29 and one of F-4 ICE) while three other
+wings were using the un-modified F-4F’s.
 
-The other key role of the Phantom was that of reconnaissance. Two full
-wings of RF-4E were relied on to provide intelligence and BDA (Bomb
-Damage Assessment) using photo, Infrared and SLAR (Side Looking Airborne
-Radar). The preferred method of operation was low and fast.
+The other key roles of the Phantom were strike bombing and
+reconnaissance. Two full wings of RF-4E were relied on to provide
+intelligence and BDA (Bomb Damage Assessment) using photo, Infrared and
+SLAR (Side Looking Airborne Radar). The preferred method of operation
+was low and fast.
 
 | Sqn      | Name       | Location   | No. | Type     |
 | -------- | ---------- | ---------- | --- | -------- |
@@ -142,7 +145,10 @@ Radar). The preferred method of operation was low and fast.
 | 1/74 JG  | Molders    | Neuburg    | 16  | F-4F ICE |
 | 2/74 JG  | Molders    | Neuburg    | 16  | F-4F ICE |
 
-![](/assets/images/nato/de/air/image5.jpg)**HFB-320 ECM**
+[**HFB-320
+ECM**](http://www.vanwageningen.net/picture/4744-20110727_058_german_air_force_hamburger_flugzeugbau_hfb_320_ecm_hansa_jet_1626_luftwaffenmuseum_de/tags/5583-1626)
+
+![](/assets/images/nato/de/air/image5.jpg)
 
 Eight of these rather odd business jets were used by the Luftwaffe for
 Electronic Countermeasures training and operations from the early 70’s.
@@ -154,15 +160,15 @@ based at Lechfeld.
 
 This twin engine tactical transport produced by France and Germany.
 Carrying almost as much as a C-130 Hercules, but over much shorter
-ranges it was perfectly suited the intra-theater transport tasks it was
+ranges, it was perfectly suited the intra-theater transport tasks it was
 designed for. The Luftwaffe acquired 90 of the ‘D’ models (another 20
 went to Turkey) in the late 60’s and grouped them in three transport
 wings (*Lufttransportgeschwader, or LTG)*.
-
-![](/assets/images/nato/de/air/image6.jpeg)
 
 | Wing   | Location | No. | Type  |
 | ------ | -------- | --- | ----- |
 | 61 LTG | Penzing  | 24  | C-160 |
 | 62 LTG | Wunsdorf | 24  | C-160 |
 | 63 LTG | Hohn     | 24  | C-160 |
+
+![](/assets/images/nato/de/air/image6.jpeg)
