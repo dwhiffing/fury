@@ -1,6 +1,6 @@
 **Mine Countermeasures Craft**
 
-In addition to the new Min Hunters listed hear, the Italian Navy has
+In addition to the new Mine Hunters listed hear, the Italian Navy has
 about 30 older minesweepers of 1950’s vintage that were retired in the
 past decade or indeed are still in commission but not often used.
 
@@ -11,7 +11,7 @@ Remotely Operated Vehicles, a hyperbaric chamber and specialist divers
 to actively hunt and destroy mines as opposed to the classic mine
 sweepers. They routinely serve one of the three Standing NATO Mine
 Countermeasures Groups (SNMCMG) but focus on SNMCMG 2 in the Adriatic
-with one ship supporting SNMCMG 3 at Djbouti.
+with one ship supporting the new SNMCMG 3 at Djbouti.
 
 | Class  | Pennant | Name    | Task        | Remarks  |
 | ------ | ------- | ------- | ----------- | -------- |
@@ -70,12 +70,13 @@ purpose here.
 
 [**Stromboli
 Class**:](https://en.wikipedia.org/wiki/Stromboli-class_replenishment_oiler)
-These two oilers are designed primarily to support small Italian task
-groups in the Mediterranean. They are small – 20% of the size of the big
-US AORs – but are capable of assisting combat ships to stay at sea long,
-which is their job. They carry diesel, a small amount of aviation fuel
-and about 300 tons of dry goods, certainly not enough to resupply the
-***Giuseppe Garibaldi but adequate for an ASW Task Group.***
+These two oilers are designed primarily to support Italian task groups
+in the Mediterranean. They are small, about 20% of the size of the big
+US AORs – but are capable of assisting combat ships to stay at sea
+longer, which is their job. They carry diesel, a small amount of
+aviation fuel and about 300 tons of dry goods, certainly not enough to
+resupply the ***Giuseppe Garibaldi but adequate for an ASW Task
+Group.***
 
 | Class     | Pennant | Name      | Task     | Remarks |
 | --------- | ------- | --------- | -------- | ------- |

@@ -4,7 +4,7 @@
 
 *C-550 Vittorio Venito*
 
-The *Vittorio Venito* is due to start a patrol as part of NATO’s
+The ***Vittorio Venito*** is due to start a patrol as part of NATO’s
 ***Operation Maritime Guard*** off the coast of the Former Republic of
 Yugoslavia (FRY). Although she doesn’t have the striking power of the
 *Giuseppe Garibaldi but here helicopters will prove very useful in

@@ -4,7 +4,7 @@ The Italian Navy (Marina Militare) is new to operating fixed wing
 aircraft from ships, although it has had hybrid helicopter cruisers
 since the early 1960s. With the acquisition of AV-8B Harriers the role
 of the navy is expanding to more of an expeditionary force as opposed to
-conducting Anti-Submarine Warfare (ASW) operation primarily in the
+conducting Anti-Submarine Warfare (ASW) operations primarily in the
 Mediterranean. Italy has two active and two reserve carriers available
 although the Giuseppe Garibaldi is the only truly modern ship.
 
@@ -16,19 +16,19 @@ although the Giuseppe Garibaldi is the only truly modern ship.
 deck*.
 
 The *Giuseppe Garibaldi* is the Flagship of the Italian Fleet. Built as
-an Anti-Submarine Warfare (ASW) carrier it was launched in 1985 with the
-capability to operate Short Take Off and Landing (STOL) or Vertical Take
-Off and Landing (VTOL) aircraft. This was a significant departure from
-post WW2 Italian policy and historically there was significant delay in
-receiving its full complement of AV-8B Harriers. In Northern Fury
-however, this purchase was expedited and the Italian Navy had 12 of its
-16 Harriers operational by the end of 1993. Although this was 18 months
-faster than the historic timeline it was still 8 years after they were
-needed. The addition of the Harriers allowed the Italian Navy much more
-flexibility in roles and freedom of action within its traditional area
-of interest – the Mediterranean Sea and Indian Ocean. At war start she
-is preparing for a cruise through the Indian Ocean and is ready to sail
-with her task group within 24 hours.
+an ASW carrier it was launched in 1985 with the capability to operate
+Short Take Off and Landing (STOL) or Vertical Take Off and Landing
+(VTOL) aircraft. This was a significant departure from post WW2 Italian
+policy and historically there was significant delay in receiving its
+full complement of AV-8B Harriers. In Northern Fury however, this
+purchase was expedited and the Italian Navy had 12 of its 16 Harriers
+operational by the end of 1993. Although this was 18 months faster than
+the historic timeline it was still 8 years after they were needed. The
+addition of the Harriers allowed the Italian Navy much more flexibility
+in roles and freedom of action within its traditional area of interest –
+the Mediterranean Sea and Indian Ocean. At war start she is preparing
+for a cruise through the Indian Ocean and is ready to sail with her task
+group within 24 hours.
 
 **C-550 Vittorio Venito**
 

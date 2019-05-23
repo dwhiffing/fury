@@ -5,13 +5,13 @@ contains all relevant capabilities.
 
 **[Breguet Br.1150
 Atlantic](https://en.wikipedia.org/wiki/Breguet_Atlantic#Current_operators):
-These were the fixed wing Maritime Patrol Aircraft (MPA) operated
-jointly, owned by the Italian Air Force and commanded by the Navy with a
-mix of Air and Navy crew. There were 18 operated by the *88<sup>th</sup>
-Gruppo* flying out of Decimomannu Sardinia and Sigonella Sicily.
-Acquired in the 1970s, these aircraft routinely conduct 12-hour
-surveillance and Anti-Submarine Warfare (ASW) patrols across the
-Mediterranean and further afield.**
+These fixed wing Maritime Patrol Aircraft (MPA) were operated jointly,
+owned by the Italian Air Force and commanded by the Navy with a mix of
+Air and Navy crew. There were 18 used by the *88<sup>th</sup> Gruppo*
+flying out of Decimomannu Sardinia and Sigonella Sicily. Acquired in the
+1970s, these aircraft routinely conduct 12-hour surveillance and
+Anti-Submarine Warfare (ASW) patrols across the Mediterranean and
+further afield.**
 
 ![](/assets/images/nato/it/navy/carriers/naval-aviation/image1.jpg)
 
@@ -50,7 +50,7 @@ shore installations and from the carriers ***Giuseppe Garibaldi*** and
 
 For ASW in Italian service, the SH-3D is called the AS-61B and there are
 24 of them working in four squadrons (Gruppo). In the 1980s, 12 more ASW
-versions were added, these were the SH-60H (AS-61D) although they are
+versions were added, these were the SH-3H (AS-61D) although they are
 used interchangeably with the earlier versions. ***1\* Gruppo***, ***2\*
 Gruppo*** and ***3\* Gruppo*** operate these aircraft exclusively while
 ***4\* Gruppo*** also operate AB-212s.

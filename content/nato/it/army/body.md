@@ -24,8 +24,8 @@ Italy purchased 200 of these tanks from Germany and produced another
 520, most were of the A2 standard but 120 were of the A5 variant. Italy
 also operated 136 ARV (Armored Recovery Vehicles), 40 AEV (Armored
 Engineer Vehicles), and 64 AVLB (Armored Vehicle Launched Bridges).
-Besides Germany, Italy was the largest user of this tank which was used
-in all formations except the *Ariete* and *Mameli* armored and
+Besides Germany, Italy was the largest user of this tank which was
+employed in all formations except the *Ariete* and *Mameli* armored and
 *Garibaldi* mechanized
 Brigades.
 
@@ -38,7 +38,7 @@ mechanized Brigades.
 
 [**M47
 Patton**](http://www.tanks-encyclopedia.com/coldwar/US/M47_Patton.php):
-Italy operated about 2,500 M47s but they are all either in storage or
+Italy held about 2,500 M47s but they are all either in storage or
 scrapped. Probably about 400 are in ready reserve.
 
 **Tank Destroyer**
@@ -49,7 +49,7 @@ This eight wheeled armored vehicle was designed to provide firepower to
 reconnaissance elements. The fully stabilized 105mm high velocity gun
 has a full range of ammunition types and can engage targets out to 3000
 meters. The Centauro entered service in 1991 and all 400 were produced
-by 1996. An estimate of 250 is available for Northern Fury.
+by 1996. An estimate of 250 are available for Northern Fury.
 
 ![](/assets/images/nato/it/army/image3.jpg)
 
@@ -64,9 +64,9 @@ provided. 560 were available for the Italian Army.
 
 ![](/assets/images/nato/it/army/image4.jpg)
 
-[**VCC-2**](http://tanknutdave.com/the-italian-vcc-1-apc/): A
-modification on the VCC-1 with applique armor, firing ports and an
-improved crew compartment. About 12300 of these were
+[**VCC-2**](http://tanknutdave.com/the-italian-vcc-1-apc/): A lesser
+version of the VCC-1 which improved on an M113 by having applique armor,
+firing ports and an improved crew compartment. About 1,760 of these were
 built.
 
 [**AMX-VCI**](http://www.tanks-encyclopedia.com/coldwar/France/AMX-VCI.php):
@@ -74,8 +74,8 @@ About 450 of these are in reserve stocks.
 
 **Armoured Personnel Carriers** (APC)
 
-**M113:** About 3300 M113s are in service within the Italian Army broken
-down as follows:
+**M113:** About 3,300 M113s are in service within the Italian Army
+broken down as follows:
 
   - 2,400 personnel carriers
 
@@ -105,8 +105,10 @@ produced in Italy and marketed throughout the world. Close support units
 generally have three batteries of six guns each per brigade (18) with a
 gun system appropriate to the maneuverability of that brigade. General
 support organizations are held in the Corps Artillery Groups and are
-mostly composed of FH-70 howitzers. The territorial formations tend to
-have the older towed 155 systems and the heavy artillery units.
+mostly composed of FH-70 howitzers and the heavy artillery units using a
+mix of 175mm, 8” (203mm) or rocket systems including the impressive
+FIROS-30 MLR (Multiple Launch Rocket). The territorial formations tend
+to have the older towed 155 systems
 
   - 360 M.56 105/24mm pack howitzers
 
@@ -137,14 +139,16 @@ have the older towed 155 systems and the heavy artillery units.
     
     ![](/assets/images/nato/it/army/image5.jpg)
 
-![](/assets/images/nato/it/army/image6.jpg)**Air Defence**
+**Air Defence**
 
 Italy is in the midst of upgrading many of its air defence systems the
 OTO-Breda SIDAM-25 is a good example of innovation. Both the Mistral and
 SPADA systems are European based and very modern. Although the [Nike
 Hercules](https://theaviationist.com/2010/06/09/the-nike-hercules-of-the-italian-air-force-museum/)
 was in the process of retiring, Italy was the last user of the system
-and used them until 2006.
+employing them until 2006.
+
+![](/assets/images/nato/it/army/image6.jpg)
 
   - 109 M55, 12.7mm towed Quad AAA
 

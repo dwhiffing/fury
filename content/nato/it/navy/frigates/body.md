@@ -1,9 +1,9 @@
 **Italian Frigates**
 
-Italy operates Six classes of Frigates and Offshore Patrol Vessels (OPV)
+Italy operates Six classes of Frigate and Offshore Patrol Vessels (OPV)
 comprising 30 ships. Used primarily for Anti-Submarine Warfare (ASW)
-work and in peacetime, showing the flag around the globe. These ships
-are generally modern and quite capable, only the Alpino class could be
+escort work and showing the flag around the globe. These ships are
+generally modern and quite capable, only the Alpino class could be
 considered nearing obsolescence and they had many systems modernized in
 the 1980s, most others are less than 20 or even 10 years old. All but
 the Minerva class operate ASW helicopters. Sparviero-class patrol boats
@@ -19,7 +19,7 @@ air missiles (SAM) augmented by 20mm and 40mm cannon. In addition to the
 127mm gun, these ships use four Italian designed Otomat Mk2 Surface to
 Surface Missiles (SSM) for anti-ship targeting. ASW work is carried out
 by two AB-212 Anti-Submarine Warfare (ASW) helicopters backed up by
-onboard torpedo and sonar.
+onboard torpedos and sonar.
 
 | Class     | Pennant | Name      | Task         | Remarks |
 | --------- | ------- | --------- | ------------ | ------- |
@@ -37,7 +37,7 @@ onboard torpedo and sonar.
 [**Lupo/Artigliere
 Class**:](https://en.wikipedia.org/wiki/Lupo-class_frigate) The Lupo was
 a general purpose ASW frigate commissioned into the Italian Navy in the
-late ‘80s, that enjoyed some commercial success, Peru acquiring four and
+late ‘80s, it enjoyed some commercial success, Peru acquiring four and
 Venezuela purchasing another six. The Artigliere class were originally
 destined for Iraq as the Soldati class but they were seized during the
 Gulf war and outfitted as OPVs with all ASW equipment removed.
@@ -47,10 +47,10 @@ commissioned by the end of 1993. For air defense they have the Aspide
 short range SAMs augmented by 40mm cannon. For anti-ship targeting there
 are eight Otomat Mk2 SSM and a the 127mm gun. ASW work on the Lupo ships
 is carried out by an AB-212 Anti-Submarine Warfare (ASW) helicopters
-backed up by onboard torpedo and sonar. The Artigliere ships have double
-the number of Aspide SAMs but no sonar or onboard torpedoes, they do
-have a helicopter which can carry out ASW work but it is primarily for
-maritime patrolling.
+backed up by onboard torpedos and sonar. The Artigliere ships have
+double the number of Aspide SAMs but no sonar or onboard torpedoes, they
+do have a helicopter which can carry out ASW work but it is primarily
+for maritime patrolling.
 
 | Class      | Pennant | Name        | Task          | Remarks |
 | ---------- | ------- | ----------- | ------------- | ------- |
@@ -59,7 +59,7 @@ maritime patrolling.
 |            | F-566   | Perseo      | STANAVFORLANT |         |
 |            | F-567   | Orsa        |               |         |
 | Artigliere | F-582   | Artigliere  |               |         |
-|            | F-583   | Aviere      | Black Sea     |         |
+|            | F-583   | Aviere      | Adriatic Sea  |         |
 |            | F-584   | Bersagliere | Philippines   |         |
 |            | F-585   | Granatiere  |               |         |
 
@@ -80,7 +80,7 @@ guns.
 
 ![](/assets/images/nato/it/navy/frigates/image3.jpeg)
 
-**Minerva Class**: This is a class of coastal ASW ship that is probably
+**Minerva Class**: This is a class of coastal ASW ship that are probably
 better described as a Corvette due to their small size of 1,200 tons.
 They all carry a single Oto-Melara 76mm gun, and onboard sonars and
 Torpedoes while four of them carry eight Aspide SAMs in an Albatross
@@ -104,7 +104,7 @@ OPV**](https://www.militaryfactory.com/ships/detail.asp?ship_id=cassiopea-class-
 These four ships are all less than five years old but are small at 1,500
 tons and designed for long endurance cruising as opposed to fighting in
 a high intensity war zone. The only weapons are a single Oto-Melara 76mm
-gun and two 25mm cannon and some machine guns. They operate an AB-212
+gun, two 25mm cannon and some machine guns. They operate an AB-212
 helicopter.
 
 | Class     | Pennant | Name      | Task         | Remarks |
