@@ -6,6 +6,8 @@ layout:  home
 
 ## **Get it on [Amazon](https://www.amazon.com/dp/B07R7BVQ31?ref_=pe_3052080_276849420)**
 
+### Watch a scenario play through and listen to an interviw on [Twitch](https://www.twitch.tv/videos/427260603)
+
 ##### Scenario Play for Modern Air/Naval Operations
 
 This site serves as a collection of information that forms the background storyline for Northern Fury - an Alternative History of the Cold War gone Hot.

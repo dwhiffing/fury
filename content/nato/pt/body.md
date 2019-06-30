@@ -9,9 +9,8 @@ improved substantially.
 
 The troubled political and economic situation did not leave much room
 for military development. Although one of the smaller forces in NATO,
-Portugal maintains several key bases, critical for security of trans-
-Atlantic commerce, particularly Lejas in the Azors but also the Cape
-Verde Islands and Madeira. Germany also uses the Portuguese base of Baja
-for its air combat training, and the HQ for Commander - in- Chief
-Iberian Atlantic (CINCIBERLANT) is located just west of Lisbon at
-Oeiras.
+Portugal maintains several key bases, critical for security of
+Trans-Atlantic commerce, particularly Lejas in the Azors but also the
+Cape Verde Islands and Madeira. Germany uses the Portuguese base of Baja
+for its air combat training, and the HQ for Commander-in-Chief Iberian
+Atlantic (CINCIBERLANT) is located just west of Lisbon at Oeiras.

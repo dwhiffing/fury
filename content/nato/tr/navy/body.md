@@ -7,20 +7,20 @@ Perry class later in the decade. Of course these ships were not
 forthcoming because the USN was holding onto them. The Germans did sell
 Turkey their old Koln class Frigates (Classified as destroyers in
 Turkey), but the general lack of hulls available meant holding onto
-three Yucetepe class ships which are already beyond their usable life.
+three Yucetepe class ships which are already well beyond their usable
+life.
 
 **Destroyers**
 
-![](/assets/images/nato/tr/navy/image1.jpeg)**Ex Gearing Class**:
-Ten of the original 13 Gearing class Destroyers received from the US in
-the 1970s and early 80s remain in service. Many of these are World War
-Two veterans and are approaching 40 years old, although tired they have
-been modernized and Turkey holds ships that generally fall into three
-sub classes. The Fleet Rehabilitation and Modernization (FRAM) program
-produced two main variants: The FRAM I ships of the Yucetep Class
-focused on Anti-Surface warfare (ASuW) while the one remaining FRAM II
-ship and the two of the Alcitepe (Carpenter) class focused on
-Anti-Submarine Warfare (ASW) operations.
+**Ex Gearing Class**: Ten of the original 13 Gearing class Destroyers
+received from the US in the 1970s and early 80s remain in service. Some
+of these are World War Two veterans and are approaching 50 years old,
+although tired they have been modernized and Turkey holds ships that
+generally fall into three sub classes. The Fleet Rehabilitation and
+Modernization (FRAM) program produced two main variants: The FRAM I
+ships of the Yucetep Class focused on Anti-Surface warfare (ASuW) while
+the one remaining FRAM II ship and the two of the Alcitepe (Carpenter)
+class focused on Anti-Submarine Warfare (ASW) operations.
 
 | Class    | Pennant | Name           | Status    | Remarks           |
 | -------- | ------- | -------------- | --------- | ----------------- |
@@ -34,6 +34,8 @@ Anti-Submarine Warfare (ASW) operations.
 | Kocatepe | D 354   | Kocatepe       | On Patrol | Mediterranean Sea |
 | Alcitepe | D 346   | Alcitepe       | Tied Up   |                   |
 |          | D 347   | Anittepe       | On Patrol | Black Sea         |
+
+![](/assets/images/nato/tr/navy/image1.jpeg)
 
 **Gelibolu Class**: These two Ex Koln class ships arrived from Germany
 in the 1980s. Turkey ended up purchasing four of this six ship class
@@ -52,17 +54,16 @@ their ASW suites are reasonable.
 
 **Frigates**
 
-![](/assets/images/nato/tr/navy/image3.jpeg)**Yavuz Class** **(MEKO
-200)**: This modern class is a German designed modular warship with
-several variations, in three basic configurations (MEKO 140, 200, 360),
-the MEKO 200 is the most prolific with six nations either operating or
-building the design. The Turkish Navy’s Yavuz Class are large (3,000
-tons) capable and well-rounded ships with Harpoon ASMs, Sea Sparrow air
-defence missiles, 3x Oerlikon Sea Zenith 25mm Close In Weapons Systems
-(CIWS), a 5” gun and facilities for an AB-212 ASW helicopter. The four
-ships were delivered in 1987-89 with two being built in Germany and the
-last two in Turkey. Plans to build another four of these ships are
-maturing for later in the decade.
+**Yavuz Class** **(MEKO 200)**: This modern class is a German designed
+modular warship with several variations, in three basic configurations
+(MEKO 140, 200, 360), the MEKO 200 is the most prolific with six nations
+either operating or building the design. The Turkish Navy’s Yavuz Class
+are large (3,000 tons) capable and well-rounded ships with Harpoon ASMs,
+Sea Sparrow air defence missiles, 3x Oerlikon Sea Zenith 25mm Close In
+Weapons Systems (CIWS), a 5” gun and facilities for an AB-212 ASW
+helicopter. The four ships were delivered in 1987-89 with two being
+built in Germany and the last two in Turkey. Plans to build another four
+of these ships are maturing for later in the decade.
 
 | Class | Pennant | Name       | Status    | Remarks           |
 | ----- | ------- | ---------- | --------- | ----------------- |
@@ -70,6 +71,8 @@ maturing for later in the decade.
 |       | F 241   | Turgutreis | Tied Up   |                   |
 |       | F 242   | Fatih      | On Patrol | Black Sea         |
 |       | F 243   | Yildrim    | On Patrol | Mediterranean Sea |
+
+![](/assets/images/nato/tr/navy/image3.jpeg)
 
 **Fast Attack Craft**
 
@@ -97,12 +100,12 @@ these are very powerful craft.
 
 [**Kartal
 Class**](http://www.navalanalyses.com/2014/07/kartal-class-fast-attack-crafts-of.html):
-Based on the German Zobel class torpedo boats, nine boats were built in
+Based on the German Zobel class torpedo boats, nine were built in
 Germany in 1968-70, however one was lost (P 325 Meltem) in a collision
 with a Soviet navy ship in 1985. Armed with four Penguin Mk 2 missiles
 and two torpedoes along with two 40mm auto cannons for self-defence,
-these boats could move in at 40 knots, engage targets out to 34Km range,
-impressive for such a small boat.
+these boats could move in at 40 knots and engage targets out to 34 Km
+range, impressive for such a small boat.
 
 | Class  | Pennant | Name      | Status | Remarks |
 | ------ | ------- | --------- | ------ | ------- |
@@ -150,19 +153,6 @@ LCU, 30 Ex-US LCM-8 and about 16 Ex Turkish built LCTs.
 
 ![](/assets/images/nato/tr/navy/image6.jpg)
 
-**Service Ships**: The Turkish Navy has one replenishment Oiler in
-service and one building. This ship allows the Turkish Navy to venture
-beyond its traditional patrol areas and complete tasks world-wide. The
-Akar class carries 16,000 tons of fuel and a small amount of dry
-goods.
-
-| Class   | Pennant | Name                 | Status   | Remarks            |
-| ------- | ------- | -------------------- | -------- | ------------------ |
-| Akar AO | A-580   | Akar                 |          |                    |
-|         | A-595   | Yarbay Kudret Gungor | Building | Commission in 1995 |
-
-![](/assets/images/nato/tr/navy/image7.jpg)
-
 **Ex US LSM 1**: In addition to the landing ships listed above these
 five 1,000 ton ships are converted specifically for mine laying.
 
@@ -173,8 +163,6 @@ five 1,000 ton ships are converted specifically for mine laying.
 |             | N 103   | Marmaris |        |         |
 |             | N 104   | Mersin   |        |         |
 |             | N 105   | Mürefte  |        |         |
-
-![](/assets/images/nato/tr/navy/image8.jpg)
 
 **Mine Sweepers**: Turkey does not have any Mine Hunters but has a
 variety of older mine sweepers of US, French and Canadian origin some
@@ -208,6 +196,8 @@ open.
 |                   | M-525   | Kemer       |        | Ex- French Passau   |
 | Bay Class         | M 532   | Tirebolu    |        | Ex Canadian Comox   |
 
+![](/assets/images/nato/tr/navy/image7.jpg)
+
 **Submarines**:
 
 Turkey operates a sizable submarine force but only the Atilay (Type
@@ -232,7 +222,7 @@ or Aegean Sea.
 |        | S 351   | Doganay  | On Patrol | Black Sea         |
 |        | S 352   | Dolunay  | On Patrol | Mediterranean Sea |
 
-![](/assets/images/nato/tr/navy/image9.jpeg)
+![](/assets/images/nato/tr/navy/image8.jpeg)
 
 **Guppy/Tang Class**: There are three older classes of submarine in
 operation. Two versions of the GUPPY (Greater Underwater Propulsion
@@ -255,5 +245,18 @@ forces.
 |           | S 338   | Ulucalireis   |        | Ex-USS Thornback (SS-418) |
 |           | S 340   | Cerbe         |        | Ex-USS Trutta (SS-421)    |
 |           | S 346   | Birinci Inonu |        | Ex-USS Threadfin (SS-410) |
+
+![](/assets/images/nato/tr/navy/image9.jpg)
+
+**Service Ships**: The Turkish Navy has one replenishment Oiler in
+service and one building. This ship allows the Turkish Navy to venture
+beyond its traditional patrol areas and complete tasks world-wide. The
+Akar class carries 16,000 tons of fuel and a small amount of dry
+goods.
+
+| Class   | Pennant | Name                 | Status   | Remarks            |
+| ------- | ------- | -------------------- | -------- | ------------------ |
+| Akar AO | A-580   | Akar                 |          |                    |
+|         | A-595   | Yarbay Kudret Gungor | Building | Commission in 1995 |
 
 ![](/assets/images/nato/tr/navy/image10.jpg)

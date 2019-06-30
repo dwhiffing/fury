@@ -1,29 +1,29 @@
 **Turkish Air Force**
 
-The Turkish Air Force maintains a large but mixed inventory; With over
+The Turkish Air Force maintains a large but mixed inventory, with over
 550 aircraft in operations, about 380 of which are combat types.
 
 **F-16**
 
 Turkey builds its own F-16 under licence after receiving the first eight
 from the US under the Peace Onyx I program. The first batch was F-16
-Block 30 (34 C & 9 D) airframes 1987/90 a mirror of the Greek Peace
-Xenia I program, TUSAS Aerospace Industries (TAI) continued to produce
-F-16 Block 40 to fill out the full order of 132 airframes by adding 102
-C and 15 more D’s. The F-16 has almost completely replaced the F-104G
-and most of the F-5A fleet and conducts both air superiority and ground
-support tasks.
+Block 30 (34 ‘C’ & 9 ‘D’) airframes in 1987/90 - a mirror of the Greek
+Peace Xenia I program. TUSAS Aerospace Industries (TAI) continued to
+produce F-16 Block 40 to fill out the full order of 132 airframes by
+adding 102 ‘C’ and 15 more ‘D’ to the inventory. The F-16 has almost
+completely replaced the F-104G and most of the F-5A fleet taking over
+both the air superiority and ground support tasks.
 
-| Sqn | Name    | Wing  | Location   | AC | Type       | Remarks |
-| --- | ------- | ----- | ---------- | -- | ---------- | ------- |
-| 141 | Wolf    | 4 AJU | Murted     | 18 | F-16 Bl 40 |         |
-| 142 | Gazelle | 4 AJU | Murted     | 18 | F-16 Bl 30 |         |
-| 143 | Oncel   | 4 AJU | Murted     | 18 | F-16 Bl 30 |         |
-| 161 | Bat     | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |         |
-| 162 | Harpoon | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |         |
-| 181 | Panther | 8 AJU | Diyarbakir | 18 | F-16 Bl 40 |         |
-| 191 | Cobra   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |         |
-| 192 | Tiger   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |         |
+| Sqn | Name    | Wing  | Location   | AC | Type       |
+| --- | ------- | ----- | ---------- | -- | ---------- |
+| 141 | Wolf    | 4 AJU | Murted     | 18 | F-16 Bl 40 |
+| 142 | Gazelle | 4 AJU | Murted     | 18 | F-16 Bl 30 |
+| 143 | Oncel   | 4 AJU | Murted     | 18 | F-16 Bl 30 |
+| 161 | Bat     | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |
+| 162 | Harpoon | 6 AJU | Bandirma   | 18 | F-16 Bl 40 |
+| 181 | Panther | 8 AJU | Diyarbakir | 18 | F-16 Bl 40 |
+| 191 | Cobra   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |
+| 192 | Tiger   | 9 AJU | Belikesir  | 18 | F-16 Bl 40 |
 
 ![](/assets/images/nato/tr/air/image1.jpg)
 
@@ -49,14 +49,14 @@ it is taking up the ground support role.
 
 Turkey retained over 100 F-5A/B but did not receive additional airframes
 from Canada, Norway and the Netherlands in the late 80s and early 90s as
-they did historically, therefore these aircraft are nearing the end of
+they did historically; therefore, these aircraft are nearing the end of
 their usable life. The 133<sup>rd</sup> Filo is the air demonstration
 team, the ‘Turkish Stars’.
 
 | Sqn | Name          | Wing  | Location | AC | Type  | Remarks |
 | --- | ------------- | ----- | -------- | -- | ----- | ------- |
 | 132 | Daggar        | 3 AJU | Konya    | 18 | F-5A  |         |
-| 133 | Turkish Stars | 3 AJU | Konya    | 24 | F-5A  |         |
+| 133 | Turkish Stars | 3 AJU | Konya    | 24 | F-5A  | Demo    |
 | 151 | Bronze        | 5 AJU | Merzifon | 18 | F-5A  |         |
 | 152 | Raider        | 5 AJU | Merzifon | 18 | F-5A  |         |
 | 184 | Sage          | 5 AJU | Merzifon | 18 | RF-5A | Recce   |
@@ -100,13 +100,13 @@ Turkey has a large flight training wing located near Izmir that conducts
 the full gamut of flight
 training.
 
-| Sqn | Name     | Wing | Location    | AC | Type    | Remarks             |
-| --- | -------- | ---- | ----------- | -- | ------- | ------------------- |
-| 121 | Bee      | ATC  | Cigli Izmir | 20 | T-38A   | Advanced Flight Trg |
-| 122 | Scorpion | ATC  | Cigli Izmir | 24 | T-37A   | Basic Flight Trg    |
-| 123 | Chick    | ATC  | Cigli Izmir | 40 | SF-260D | Initial Flight Trg  |
-| 124 | Pioneer  | ATC  | Cigli Izmir |    | various | instructor Trg      |
-| 125 | Panther  | ATC  | Cigli Izmir | 4  | CN-235  | Multi engine Trg    |
-| 203 | Aegean   | ATC  | Cigli Izmir | 4  | CN-235  | SAR Training        |
+| Sqn | Name     | Wing | Location | AC | Type    | Remarks             |
+| --- | -------- | ---- | -------- | -- | ------- | ------------------- |
+| 121 | Bee      | ATC  | Cigli    | 20 | T-38A   | Advanced Flight Trg |
+| 122 | Scorpion | ATC  | Cigli    | 24 | T-37A   | Basic Flight Trg    |
+| 123 | Chick    | ATC  | Cigli    | 40 | SF-260D | Initial Flight Trg  |
+| 124 | Pioneer  | ATC  | Cigli    |    | various | instructor Trg      |
+| 125 | Panther  | ATC  | Cigli    | 4  | CN-235  | Multi engine Trg    |
+| 203 | Aegean   | ATC  | Cigli    | 4  | CN-235  | SAR Training        |
 
 ![](/assets/images/nato/tr/air/image6.jpg)

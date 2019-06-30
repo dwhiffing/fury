@@ -5,7 +5,7 @@ maintain a significant military force.
 Companies, a School Company and an HQ Company with some heavy weapons,
 primarily as an internal security force.
 
-**Air Force**: Luxembourg does not have an air force; however the fleet
+**Air Force**: Luxembourg does not have an air force; however, the fleet
 of 18 NATO E-3 AWACs is registered here and operated by a multinational
 force based in Geilenkirchen Germany.
 
@@ -13,3 +13,5 @@ force based in Geilenkirchen Germany.
 crashed into the sea on takeoff from Preveza AB, Preveza, Greece. This
 happens after the Northern Fury campaign so all 18 airframes are
 available.
+
+![](/assets/images/nato/lx/image1.png)

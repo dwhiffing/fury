@@ -6,30 +6,32 @@ other armies in NATO. Most formations were designed to be light, with
 only 300 tanks that could be considered modern in 1994 (AMX-30).
 Structurally Spain would provide a Corps HQ organized either as a
 mechanized or a mountain formation to reinforce the land fight in
-southern Europe, probably Turkey or Greece. There were no forward
+southern Europe, probably in Turkey or Greece. There were no forward
 deployed forces. Divisions were comprised of two brigades, each having
 two regiments and in turn these had two battalions; slightly smaller
 than a standard division (8 battalions vice 9) but very heavy on the
-command element. There are also a number of independent brigades of
-various types.
+command element.
 
-A good summary of the Spanish Army in 1989 is located
-[here](https://en.wikipedia.org/wiki/Structure_of_the_Spanish_Army_in_1989),
-very little changed between ’89 and ’94 when Northern Fury
-commences.
+![](/assets/images/nato/es/army/image1.png)
 
-![](/assets/images/nato/es/army/image1.png)![](/assets/images/nato/es/army/image2.png)
+There are also a number of independent brigades of various types.
+
+![](/assets/images/nato/es/army/image2.png)
 
 In addition to the field army there were elements of supporting forces
 and also territorial defence forces for Spanish colonies.
 
 ![](/assets/images/nato/es/army/image3.png)
 
+A good summary of the Spanish Army in 1989 is located
+[here](https://en.wikipedia.org/wiki/Structure_of_the_Spanish_Army_in_1989),
+very little changed between ’89 and ’94 when Northern Fury commences.
+
 **Main Battle Tanks (MBT)**
 
-![](/assets/images/nato/es/army/image4.jpg)Spain had quite a mix of
-mostly obsolete MBTs, concentrated in 1<sup>st</sup> and 3<sup>rd</sup>
-Division, there were some older MBTs in 2<sup>nd</sup> Division as well.
+Spain had quite a mix of mostly obsolete MBTs, concentrated in
+1<sup>st</sup> and 3<sup>rd</sup> Division; there were some older MBTs
+in 2<sup>nd</sup> Division as well.
 
 **AMX-30**
 
@@ -37,14 +39,16 @@ Spain built most of its 299 AMX-30E (E for Spanish) under licence from
 France. They also purchased 10 AMX-30D recovery vehicles and 18 AMX-30R
 carrying the Roland SAM system. The AMX-30 could be considered on par
 with the Leopard I, and Spain considered that tank but opted for the AMX
-when France offered to produce it in Spain. All of the Spanish AMX’s had
-been upgraded to the ‘M2’ standard with an improved fire control system,
-improved engine and drive train as well as many other improvements.
+when France offered to produce it in Spain. All Spanish AMX’s had been
+upgraded to the ‘M2’ standard with an improved fire control system,
+improved engine and drive train as well as many other enhancements.
 Historically only half of the AMX’s were improved while the remainder
 received a cheaper and more problematic upgrade, in Northern Fury all
 were upgraded to ‘M2’ standard. The Tank is used extensively in the
 1<sup>st</sup> Armored Division and also within the mechanized brigades
 of 3<sup>rd</sup> Division.
+
+![](/assets/images/nato/es/army/image4.jpg)
 
 **M60A3**
 
@@ -59,27 +63,31 @@ the M48, these tanks were still obsolete.
 
 **M47/M48**
 
-By 1994 these tanks had been retired from Spanish service; however they
-were still quite numerous and had only been retired in the previous
-couple years, so were available:
+By 1994 these tanks had recently retired from Spanish service; however
+they were still quite numerous and available for reserves:
 
   - 162x M48A5E2
 
   - 329x M47E1
 
-  - ![](/assets/images/nato/es/army/image6.png)46x M47E2
+  - 46x M47E2
 
 **Reconnaissance Vehicles**
 
-**AML 60/90**
+**Panhard AML 60/90**
 
-Spain used \~100 of each type in their reconnaissance units.
+Spain used \~100 of each type of French built scout cars in their
+reconnaissance units. The AML 60 with a breach loading 60mm mortar and
+the AML 90 with a 90mm low velocity gun.
 
-**BMR-VEC**
+![](/assets/images/nato/es/army/image6.png)
 
-This is a Spanish built, six-wheel reconnaissance vehicle equipped with
-a 25mm chain gun. There were 240 of the six-wheeled version built and
-100 four-wheeled variants which have since been retired.
+**Pegaso BMR-VEC**
+
+This is a Spanish built, wheeled reconnaissance vehicles equipped with a
+25mm chain gun. There were 240 of the six-wheeled version built and 100
+four-wheeled variants which have retired and been placed in ready
+reserve.
 
 ![](/assets/images/nato/es/army/image7.jpg)
 
@@ -101,8 +109,8 @@ variants.
 
 **Artillery**
 
-Spain employed a wide variety of artillery systems, it was in the
-process up upgrading its M107 (175mm Self Propelled) Howitzers to the
+Spain employed a wide variety of artillery systems, and was in the
+process of upgrading its M107 (175mm Self Propelled) Howitzers to the
 M110 (203mm). Northern Fury accelerates that process by a few months.
 
   - 48x M108 Self Propelled (SP) 105mm Howitzer
@@ -129,7 +137,7 @@ M110 (203mm). Northern Fury accelerates that process by a few months.
 
 Spain has a large number of air defence systems; the Nike-Hercules was
 retired in 1990 but negotiations to procure the American Patriot system
-are still ongoing.
+are still ongoing in 1994.
 
   - 329x GAO-BOI 20mm Towed AA Guns
 

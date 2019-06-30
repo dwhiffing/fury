@@ -1,9 +1,10 @@
-**Norwegian Navy**: Norway‘s Navy is small but built specifically to
-operate within the confined and turbulent waters of the North Sea along
-its long rocky and mountainous coastline. It is over 1000 miles (1750Km)
-from the North Cape to Stavanger in the south, causing Norway opt for
-many smaller ships as opposed to a few larger and more expensive
-vessels.
+**Norwegian Navy**
+
+Norway‘s Navy is small but built specifically to operate within the
+confined and turbulent waters of the North Sea along its long rocky and
+mountainous coastline. It’s over 1000 miles (1750Km) from the North Cape
+to Stavanger in the south, causing Norway opt for many smaller ships as
+opposed to a few larger and more expensive vessels.
 
 [**Oslo Class**](https://en.wikipedia.org/wiki/Oslo-class_frigate):
 Although they are the largest and most capable ships in the Norwegian
@@ -27,9 +28,9 @@ hull and variable depth active sonar.
 ![](/assets/images/nato/no/navy/image1.jpg)
 
 **Sleipner Class**: Dating from the same era as the Oslo class but
-largely obsolete. With the exception of an improved sonar installed in
-the late 80‘s, the two Sleipner class Corvettes are and used as training
-ships. They were due for retirement in 1993 but due to the increased
+largely obsolete with the exception of an improved sonar installed in
+the late 80‘s. The two Sleipner class Corvettes are and used as training
+ships snf were due for retirement in 1993 but due to the increased
 threat in the Northern Fury world, they were retained in service.
 
 | Class    | Pennant | Ship     | Location | Status | Remarks  |
@@ -42,24 +43,24 @@ threat in the Northern Fury world, they were retained in service.
 **Fast Attack Craft (FAC)**: The most potent arm of the Norwegian Navy
 is its fleet of small, fast and deadly FACs. These boats use the rugged
 and mountainous coastline to hide in waiting for passing targets, using
-the radar shielding to hide until their speed and missiles can deal a
-lethal blow. Operating is small groups using hit and run tactics is
-their main means of survival.
+the radar shielding of the shoreline to hide until their speed and
+missiles can deal a lethal blow. Operating in small groups they use hit
+and run tactics is their main means of survival.
 
 [**Storm
 Class**](https://en.wikipedia.org/wiki/Storm-class_patrol_boat): This
-class of 20 boats displace only 138 tons, but carry 6x Penguin I ASM,
-have a 76mm gun and 40mm auto-cannon. With a 20 man crew they can travel
-at over 30 knots.
+class of 20 boats displace only 138 tons each, but carry 6x Penguin I
+Anti-Ship Missiles (ASM), have a 76mm gun and 40mm auto-cannon. With
+only a 20-man crew they can deploy quickly and travel at over 30 knots.
 
 ![](/assets/images/nato/no/navy/image3.jpg)
 
 [**Snogg
 Class**](https://en.wikipedia.org/wiki/Sn%C3%B8gg-class_missile_torpedo_boat):
 Only six boats of this class were built, and they only carried 4x
-Penguin I ASMs, but also 4x Torpedoes and one 40mm auto-cannon. They
-were about the same size as the Storm class and had a crew of 19 and a
-speed of over 30 knots.
+Penguin I ASMs, but also 4x Torpedoes and one 40mm auto-cannon. They are
+about the same size as the Storm class, have a crew of 19 and a speed of
+over 30 knots.
 
 ![](/assets/images/nato/no/navy/image4.jpg)
 
@@ -71,62 +72,61 @@ auto-cannon and 2x Torpedoes.
 
 ![](/assets/images/nato/no/navy/image5.jpg)
 
-| Class | Pennant | Ship   | Location   | Status | Remarks       |
-| ----- | ------- | ------ | ---------- | ------ | ------------- |
-| Storm | P 960   | Storm  | North Cape |        | 6x Penguin I  |
-|       | P 961   | Blink  |            |        |               |
-|       | P 962   | Glimt  |            |        |               |
-|       | P 963   | Skjold | Narvik     |        |               |
-|       | P 964   | Trygg  |            |        |               |
-|       | P 965   | Kjekk  |            |        |               |
-|       | P 966   | Djerv  | Narvik     |        |               |
-|       | P 967   | Skudd  |            |        |               |
-|       | P 968   | Arg    |            | Maint  |               |
-|       | P 969   | Steil  |            |        |               |
-|       | P 970   | Brann  | Narvik     |        |               |
-|       | P 971   | Tross  | Narvik     |        |               |
-|       | P 972   | Hvass  |            |        |               |
-|       | P 973   | Traust | North Cape |        |               |
-|       | P 974   | Brott  |            |        |               |
-|       | P 975   | Odd    |            |        |               |
-|       | P 976   | Pil    |            |        |               |
-|       | P 977   | Brask  | North Cape |        |               |
-|       | P 978   | Rokk   | Narvik     |        |               |
-|       | P 979   | Gnist  |            |        |               |
-| Snogg | P 980   | Snøgg  | Narvik     |        | 4x Penguin I  |
-|       | P 981   | Rapp   | North Cape |        |               |
-|       | P 982   | Snar   |            |        |               |
-|       | P 983   | Rask   | North Cape |        |               |
-|       | P 984   | Kvikk  |            |        |               |
-|       | P 985   | Kjapp  | North Cape |        |               |
-| Hauk  | P 986   | Hauk   |            |        | 6x Penguin II |
-|       | P 987   | Ørn    |            |        |               |
-|       | P 988   | Terne  | North Cape |        |               |
-|       | P 989   | Tjeld  |            |        |               |
-|       | P 990   | Skarv  | North Cape |        |               |
-|       | P 991   | Teist  |            |        |               |
-|       | P 992   | Jo     |            |        |               |
-|       | P 993   | Lom    | Narvik     |        |               |
-|       | P 994   | Stegg  |            | Maint  |               |
-|       | P 995   | Falk   | Narvik     |        |               |
-|       | P 996   | Ravn   |            |        |               |
-|       | P 997   | Gribb  | North Cape |        |               |
-|       | P 998   | Geir   |            |        |               |
-|       | P 999   | Erle   |            |        |               |
+| Class | Pennant | Ship   | Location   | Status | Remarks      |
+| ----- | ------- | ------ | ---------- | ------ | ------------ |
+| Storm | P 960   | Storm  | North Cape |        | 6 Penguin I  |
+|       | P 961   | Blink  |            |        |              |
+|       | P 962   | Glimt  |            |        |              |
+|       | P 963   | Skjold | Narvik     |        |              |
+|       | P 964   | Trygg  |            |        |              |
+|       | P 965   | Kjekk  |            |        |              |
+|       | P 966   | Djerv  | Narvik     |        |              |
+|       | P 967   | Skudd  |            |        |              |
+|       | P 968   | Arg    |            | Maint  |              |
+|       | P 969   | Steil  |            |        |              |
+|       | P 970   | Brann  | Narvik     |        |              |
+|       | P 971   | Tross  | Narvik     |        |              |
+|       | P 972   | Hvass  |            |        |              |
+|       | P 973   | Traust | North Cape |        |              |
+|       | P 974   | Brott  |            |        |              |
+|       | P 975   | Odd    |            |        |              |
+|       | P 976   | Pil    |            |        |              |
+|       | P 977   | Brask  | North Cape |        |              |
+|       | P 978   | Rokk   | Narvik     |        |              |
+|       | P 979   | Gnist  |            |        |              |
+| Snogg | P 980   | Snøgg  | Narvik     |        | 4 Penguin I  |
+|       | P 981   | Rapp   | North Cape |        |              |
+|       | P 982   | Snar   |            |        |              |
+|       | P 983   | Rask   | North Cape |        |              |
+|       | P 984   | Kvikk  |            |        |              |
+|       | P 985   | Kjapp  | North Cape |        |              |
+| Hauk  | P 986   | Hauk   |            |        | 6 Penguin II |
+|       | P 987   | Ørn    |            |        |              |
+|       | P 988   | Terne  | North Cape |        |              |
+|       | P 989   | Tjeld  |            |        |              |
+|       | P 990   | Skarv  | North Cape |        |              |
+|       | P 991   | Teist  |            |        |              |
+|       | P 992   | Jo     |            |        |              |
+|       | P 993   | Lom    | Narvik     |        |              |
+|       | P 994   | Stegg  |            | Maint  |              |
+|       | P 995   | Falk   | Narvik     |        |              |
+|       | P 996   | Ravn   |            |        |              |
+|       | P 997   | Gribb  | North Cape |        |              |
+|       | P 998   | Geir   |            |        |              |
+|       | P 999   | Erle   |            |        |              |
 
 **Submarines:** Because of the proximity to the Soviet Union, the
-confined waters and rugged coastlines, the key method of defending was
+confined waters and rugged coastlines, the key method of defence is
 stealth and ambush. The numerous FAC listed above were one method of
-achieving this tactic, submarines were another.
+achieving this tactic, Hunter/Killer submarines (SSK) are another.
 
-[**Ula Class
-Submarine**](http://www.military-today.com/navy/ula_class.htm): Built in
-Germany and known as the Type 210 class, these have several improvements
-over the very popular Type 209 class. All six boats were commissioned
-between 1989 and 1992 and therefore are some of the most modern
-submarines available at the start of Northern Fury. These are very
-stealthy and dangerous boats which would give any enemy surface
-combatants pause to consider the dangers in Norwegian waters.
+[**Ula Class**](http://www.military-today.com/navy/ula_class.htm): Built
+in Germany and known as the Type 210 class, these have several
+improvements over the very popular Type 209 boats. All six were
+commissioned between 1989 and 1992 and therefore are some of the most
+modern submarines available at the start of Northern Fury. These are
+very stealthy and dangerous SSKs which would give any enemy surface
+combatants pause to consider the dangers of Norwegian waters.
 
 | Class | Pennant | Ship    | Location      | Status | Remarks |
 | ----- | ------- | ------- | ------------- | ------ | ------- |
@@ -142,9 +142,10 @@ combatants pause to consider the dangers in Norwegian waters.
 [**Kobben
 Class**](https://en.wikipedia.org/wiki/Kobben-class_submarine): These
 submarines were also built in Germany as the Type 207 class and were an
-improved version of the Type 205. In total 15 boats were delivered to
-Norway between 1964 and 1967. Due to age, accidents and decommissioning,
-8 remain in service at the start of Northern Fury.
+improved version of the Type 205 used by Germany and Denmark. In total
+15 boats were delivered to Norway between 1964 and 1967. Due to age,
+accidents and decommissioning, only 8 remain in service at the start of
+Northern Fury.
 
 | Class  | Pennant | Ship     | Location      | Status | Remarks |
 | ------ | ------- | -------- | ------------- | ------ | ------- |
@@ -161,24 +162,25 @@ Norway between 1964 and 1967. Due to age, accidents and decommissioning,
 
 **Norwegian Coast Guard**: The Coast Guard is part of the Norwegian Navy
 and takes responsibility for fisheries and shipping inspection, customs
-and law enforcement, boarder control, environmental protection and
-search and rescue. The wide ranging scope of duties keeps this very
-small forece quite busy. Much of the day to day work coastal work is
+and law enforcement, boarder control, environmental protection as well
+as search and rescue. The wide ranging scope of duties keeps this very
+small force quite busy. Much of the day to day work coastal work is
 handled by ten small patrol ships of less than 1000 tones, seven of them
-are chartered, each has 1x 40mm Bofors gun. The one class of larger
-ships is the **Nordkapp** class.
+are chartered, each is armed with a 40mm Bofors gun. The one class of
+larger ships is the **Nordkapp** class.
 
 [**Nordkapp
 Class**](http://www.wikiwand.com/en/Nordkapp-class_offshore_patrol_vessel):
 These three Outer Coast Guard Ships, otherwise called Offshore Patrol
-Vessels (OPV) are 3300 tones, twice the size of the Oslo class Frigates,
-but have fewer weapons or sensors. Their hulls are strengthened to
-withstand limited ice crushing, or ice browsing. Although it only
-carries a 57mm gun and machine guns, in wartime they can be fitted with
-Depth Charges, Penguin anti-ship missiles, torpedoes, 20mm guns and
-Mistral SAMs. The peacetime crew is 52 plus 6 for the air detachment,
-its wartime establishment is 76 and it has bunk space for 109. They each
-carry a Lynx helicopter, primarily for SAR.
+Vessels (OPV) are 3300 tones are twice the size of the Oslo class
+Frigates, but have fewer weapons or sensors. Their hulls are
+strengthened to withstand limited ice crushing, or ice browsing.
+Although they only carry a 57mm gun and machine guns, in wartime they
+can be fitted with Depth Charges, Penguin anti-ship missiles, torpedoes,
+20mm guns and Mistral SAMs. The peacetime crew is 52 plus 6 for the air
+detachment, its wartime establishment is 76 and it has bunk space for
+109. They each carry a Lynx helicopter, primarily for SAR and one is
+almost continually patrolling in the area of the North Cape.
 
 | Class    | Pennant | Ship     | Location   | Status | Remarks |
 | -------- | ------- | -------- | ---------- | ------ | ------- |

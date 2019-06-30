@@ -1,18 +1,18 @@
-Turkish Army
+**Turkish Army**
 
-The Turkish Army is the second largest in NATO although technologically
+The Turkish Army is the second largest in NATO, although technologically
 it lags well behind many other alliance members. There are 525,000 full
 time personnel in the Army with a further 950,000 available in reserve;
 probably 700,000 of those are ready for immediate recall. Structurally
 there are four Army level commands and ten Corps. 1<sup>st</sup> Army in
-Thrace and 3<sup>rd</sup> Army in the Caucasus are the largest and most
-ready and 1<sup>st</sup> Army is the holds the most armor.
-2<sup>nd</sup> Army will induct most of the reserve formations and
-reinforce east or west as needed while 4<sup>th</sup> Army conducts rear
-area and civil defence tasks. In addition there are 110,000 Gendarmerie
-which will fall under Army control in wartime, there are 67 ‘regiments’
-which will likely fall under the control of 4<sup>th</sup> Army or come
-under command of the National HQ.
+Thrace and 3<sup>rd</sup> Army in the Caucasus are the largest and
+maintain the highest readiness and 1<sup>st</sup> Army holds the most
+armor. 2<sup>nd</sup> Army will induct most of the reserve formations
+and reinforce east or west as needed while 4<sup>th</sup> Army conducts
+rear area and civil defence tasks. Additionally, there are 110,000
+Gendarmerie which will fall under Army control in wartime, consisting of
+67 ‘regiments’ which will likely fall under the control of
+4<sup>th</sup> Army or come under command of the National HQ.
 
 ![](/assets/images/nato/tr/army/image1.png)
 
@@ -24,8 +24,8 @@ under command of the National HQ.
 227 Leopard 1A3, the last of which are being received at war start in
 Feb 94 a few months quicker than actually happened; and 170 Leopard 1T
 which is a local upgrade to the original tanks received in the early
-80s. The Leopards are used primarily in the 1<sup>st</sup> Army armored
-brigades and reconnaissance units.
+80s. The Leopards are used primarily in the 1<sup>st</sup> Army’s
+armored brigades and reconnaissance units.
 
 **M60 Patton**: Turkey uses 932 M60’s in its army, primarily in the
 mechanized and Corps Tank Battalions. 658 are the A3TTS version with
@@ -46,16 +46,16 @@ several versions in service:
     rangefinder
 
 The M48 are used primarily in reserve and training organizations.
+
 ![](/assets/images/nato/tr/army/image3.jpg)
 
 **M47 Patton**: Turkey holds 1347 modernized M47s in reserve.
 
 **Infantry Fighting Vehicle (IFV)**
 
-![](/assets/images/nato/tr/army/image4.jpg)**ACV-15:** This is an
-upgraded design of the M113 which was in production in Turkey from 1992
-until 1997. Based on 35% of the eventual production numbers, for
-Northern Fury these variants are in service:
+**ACV-15:** This is an upgraded design of the M113 which was in
+production in Turkey from 1992 until 1997. Based on 35% of the eventual
+production numbers, for Northern Fury these variants are in service:
 
   - 500x AAPC (Advanced APC) with single man turret with .50 Cal and
     7.62mm MGs
@@ -67,13 +67,14 @@ Northern Fury these variants are in service:
 
   - 60x AMV (Armored Mortar vehicle)
 
+![](/assets/images/nato/tr/army/image4.jpg)
+
 **Armored Personnel Carriers (APC)**
 
 **M113**: Over 3500 of these are in service many variants, main ones
 listed here:
 
-  - ![](/assets/images/nato/tr/army/image5.jpeg)3,200x M113A3
-    personnel carrier
+  - 3,200x M113A3 personnel carrier
 
   - 180x M106, 120mm mortar carrier
 
@@ -81,11 +82,13 @@ listed here:
 
   - 160 xM113 TOW carrier
 
-![](/assets/images/nato/tr/army/image6.jpg)**Artillery**: There is
-a wide range of artillery systems in use, many of the older US systems
-have undergone extensive modernization with Germany’s assistance, in
-particular the M52 SP guns were upgraded from 105mm to 155mm, changed
-the engine and added a digital fire control system.
+![](/assets/images/nato/tr/army/image5.jpeg)
+
+**Artillery**: There is a wide range of artillery systems in use, many
+of the older US systems have undergone extensive modernization with
+Germany’s assistance, in particular the M52 SP guns were upgraded from
+105mm to 155mm, changed the engine and added a digital fire control
+system.
 
   - 100x M116, 75mm pack howitzer
 
@@ -124,9 +127,10 @@ the engine and added a digital fire control system.
 
   - 12x M270 MLRS
 
-![](/assets/images/nato/tr/army/image7.jpeg)**Air Defence:** A wide
-range of air defence gun systems are in use with very few SAMs and the
-out-dated Redeye MANPADS.
+![](/assets/images/nato/tr/army/image6.jpg)
+
+**Air Defence:** A wide range of air defence gun systems are in use with
+very few SAMs and the out-dated Redeye MANPADS.
 
   - 160x M45, 12.7m Quad towed AAA
 
@@ -151,3 +155,5 @@ out-dated Redeye MANPADS.
   - 789 Redeye Manpads
 
   - 128 Nike Hercules
+    
+    ![](/assets/images/nato/tr/army/image7.jpeg)

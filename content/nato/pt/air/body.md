@@ -8,51 +8,73 @@ Without a domestic aircraft industry to speak of, Portugal is at the
 mercy of suppliers. Because it allows the US to use the key base at
 Lajes on the Azores Portugal is now, after significant diplomatic
 effort, being compensated and is in the process of receiving their first
-Squadron of F-16’s from the US, against the wishes of the USAF which is
-working hard to use every F-16 available. The first 6 of 20 F-16’s have
-been delivered (6 months earlier than historic, 4x F-16OCU (Blk 15) and
-2 F-16B).
+Squadron of F-16’s from the US.
+
+**F-16**
+
+Against the wishes of the USAF, which is working hard to use every F-16
+available, the US has recently provided Portugal with 20 F-16s through
+the Peace Atlantis I program as payment for the use of Lajes Air Base in
+the Azors. The first six of these have been delivered a few months
+earlier than historic, the 4x F-16A and 2 F-16B are Block 15 OCU
+(Operational Capability Upgrade) and almost identical to the US Air
+National Guard ADF (Air Defence Fighter) used for NORAD tasks.
+Therefore, they have the ability to fire the Aim-7M Sparrow and Aim-9L
+Sidewinder missiles
 
 ![](/assets/images/nato/pt/air/image1.jpeg)
 
-**A-7 Corsair**: ![](/assets/images/nato/pt/air/image2.jpeg)A large
-portion of the Portuguese air force is committed to the A-7P light
-attack aircraft which were second hand US Navy aircraft upgraded to the
-latest variant. Two Squadrons operate out of Monte Real. These
-30-year-old aircraft are rugged but well used and are due to be replaced
-by F-16s.
+**A-7 Corsair**
 
-**Alpha
-Jet**
+A large portion of the Portuguese air force is committed to the A-7P
+light attack aircraft which were second hand US Navy aircraft upgraded
+to the latest variant. Two Squadrons operate out of Monte Real. These
+30-year-old aircraft are rugged but well used and will eventually be
+replaced by F-16s.
 
-![](/assets/images/nato/pt/air/image3.jpeg)![](/assets/images/nato/pt/air/image4.jpeg)In
-another ‘Aircraft for Base’ deal, Germany has supplied Portugal with 50
-Dornier Alpha Jets as compensation for using the base at Beja as the
-Luftwaffe’s air combat training base. Although Germany was going to
+![](/assets/images/nato/pt/air/image2.jpeg)
+
+**Alpha Jet**
+
+In another ‘Aircraft for Base’ deal, Germany has supplied Portugal with
+50 Dornier Alpha Jets as compensation for using the base at Beja as the
+Luftwaffe’s air combat training center. Although Germany was going to
 renege on the deal, pressure from the US, UK, France and Spain convinced
 them to deliver. These aircraft replaced the aging Fiat G.91s in the
 close support role and the 1950’s era Cessna T-37 Tweet in the attack
 training role.
 
-**C-130 Hercules**: The Portuguese operate 6 ‘H’ model Hercules,
-although 3 are more modern H2 and H3 versions. Tactual transport and
-general duties keep these workhorses quite busy.
+![](/assets/images/nato/pt/air/image3.jpeg)
 
-![](/assets/images/nato/pt/air/image5.jpeg)**C-212 Avocar**: A very
-versatile, European built tactical transport that has many variants.
-Shown here is the Maritime Patrol Variant with a radar in the nose and a
-magnetic anomaly detector along the forward fuselage. Electronic
-Warfare, Photo Reconnaissance and general transport variants are also
-used by the Portuguese Air Force.
+**C-130 Hercules**
 
-**P3P Orion**: The Portuguese Air Force, which is also responsible for
-Maritime Patrol and support to the Portuguese Navy has been operating
-the P-3 Orion since 1985. These six aircraft were surplus Australian
-P-3Bs upgraded to a ‘C’ standard. Flown by 601 Squadron Lobos (Wolves)
-they operate out of Beja but routinely have aircraft at Lejes in the
-Azores. This unit operates with both American and Spanish P-3’s
-conducting ASW duties in the Eastern Atlantic and particularly on the
-approaches to the Mediterranean Sea.
+The Portuguese operate 6 ‘H’ model Hercules, although 3 are the more
+modern H2 and H3 versions. Tactual transport and general duties keep
+these workhorses quite busy.
+
+![](/assets/images/nato/pt/air/image4.jpeg)
+
+**C-212 Avocar**
+
+Twenty-four of these very versatile, European built tactical transports
+of several variants are used by the Portuguese Air Force. Shown here is
+one of the two the Maritime Patrol Variant with a radar in the nose and
+a magnetic anomaly detector along the forward fuselage. Two Electronic
+Warfare (EW), two Photo Reconnaissance (PR) and 16 general transport
+variants are also used.
+
+![](/assets/images/nato/pt/air/image5.jpeg)
+
+**P3P Orion**
+
+The Portuguese Air Force, which is also responsible for Maritime Patrol
+and support to the Navy has been operating the P-3 Orion since 1985.
+These six aircraft were surplus Australian P-3Bs upgraded to a ‘C’
+standard. Flown by 601 Squadron Lobos (Wolves) they operate out of Beja
+but routinely have aircraft at Lejes in the Azores. This unit operates
+with both American and Spanish P-3’s conducting ASW duties in the
+Eastern Atlantic and particularly on the approaches to the Mediterranean
+Sea.
 
 ![](/assets/images/nato/pt/air/image6.jpg)
 

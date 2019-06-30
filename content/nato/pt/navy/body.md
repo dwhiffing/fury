@@ -2,31 +2,33 @@
 
 The Portuguese Navy (*Marinha de Guerra Portuguesa) traces its history
 back to the 12<sup>th</sup> Century through colonial exploration to the
-modern day. Unfortunately, most of Portugal’s ships lightly armed and
-designed for overseas duties in a low threat environment, although they
-were effective in exerting influence in former colonies they are rather
-anemic by European and North Atlantic standards. A agreement with
-Britain to purchase the Rover Class fleet support tanker (RFA Blue
-Rover) was not executed in the Northern Fury world, leaving the
-Portuguese Navy dependent on others for at sea replenishment.*
+modern day. Most of Portugal’s ships are lightly armed and designed for
+overseas duties in a low threat environment, although they are effective
+in exerting influence in former colonies they are rather anemic by
+European and North Atlantic standards. A agreement with Britain to
+purchase the Rover Class fleet support tanker (RFA Blue Rover) was not
+executed in the Northern Fury world, leaving the Portuguese Navy
+dependent on others for at sea replenishment.*
 
 ***Vasco Da Gama Class**:*
 
-![](/assets/images/nato/pt/navy/image1.jpeg)As an exception to the
-rule, these three ships were commissioned in 1991 and 92, and are based
-on the German MEKO 200 design. They are capable patrol ships but lack
-variable depth sonar or area air defence systems. They carry two Lynx
-helicopters, Harpoon Missiles and Sea Sparrow short range air defence.
-All are based in
+As an exception to the rule, these three ships were commissioned in 1991
+and 92, and are based on the German MEKO 200 design and are very capable
+warships. They are well rounded patrol ships but lack variable depth
+sonar or area air defence systems. They carry two Lynx helicopters,
+Harpoon Missiles and Sea Sparrow short range air defence. All are based
+in
 Lisbon.
 
 | **Pennant** | **Name**                                                                                                          | **Location** |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- | ------------ |
-| F330        | [*<span class="underline">Vasco da Gama</span>*](https://en.wikipedia.org/wiki/NRP_Vasco_da_Gama_\(F330\))        | Gibralter    |
+| F330        | [*<span class="underline">Vasco da Gama</span>*](https://en.wikipedia.org/wiki/NRP_Vasco_da_Gama_\(F330\))        | Gibraltar    |
 | F331        | [*<span class="underline">Álvares Cabral</span>*](https://en.wikipedia.org/wiki/NRP_%C3%81lvares_Cabral_\(F331\)) | Lisbon       |
 | F332        | [*<span class="underline">Corte-Real</span>*](https://en.wikipedia.org/wiki/NRP_Corte-Real_\(F332\))              | Azors        |
 
-![](/assets/images/nato/pt/navy/image2.jpeg)[**João Coutinho
+![](/assets/images/nato/pt/navy/image1.jpeg)
+
+[**João Coutinho
 class**:](http://www.military-today.com/navy/joao_coutinho_class.htm)
 These 25-year-old ships were small and inexpensive to operate, but with
 the correlation that they were very poorly equipped in either weapons or
@@ -42,20 +44,36 @@ Corvettes), they spent much of their life traveling the globe.
 | F484        | *Augusto de Castilho*   | Lisbon       |
 | F485        | *Honório Barreto*       | Pacific      |
 
+![](/assets/images/nato/pt/navy/image2.jpeg)
+
+**[João Belo-class
+frigate](https://en.wikipedia.org/wiki/Jo%C3%A3o_Belo-class_frigate):**
+Another class of small Frigates, although these are better equipped than
+the F 471 class, but their weapons suite is still quite light by 1994
+standards. The third 100mm gun has been removed from F 480 during her
+mid life refit, as will the others as they proceed through the process
+over the next few years.
+
 | **Pennant** | **Name**                         | **Location** |
 | ----------- | -------------------------------- | ------------ |
 | F480        | *Comandante João Belo*           | Lisbon       |
 | F481        | *Comandante Hermenegildo Capelo* | North Sea    |
 | F482        | *Comandante Roberto Ivens*       | Refit        |
-| F483        | *Comandante Sacadura Cabral*     | Lisbon       |
+| F483        | Comandante Sacadura Cabral       | Lisbon       |
 
-![](/assets/images/nato/pt/navy/image3.jpeg)**[João Belo-class
-frigate](https://en.wikipedia.org/wiki/Jo%C3%A3o_Belo-class_frigate):**
-Another class of small Frigates, although these are better equipped that
-the F 471 class, their weapons suite is still quite anemic by 1994
-standards. The third 100mm gun has been removed from F 480 during her
-mid life refit, as will the others as they proceed through the process
-over the next few years.
+![](/assets/images/nato/pt/navy/image3.jpeg)
+
+**[Baptista de Andrade
+class](http://www.military-today.com/navy/baptista_andrade_class.htm):**
+The four ships of this class are quite similar to the João Coutinho
+class, although the Baptista class is slightly better armed and
+equipped, the Portuguese navy liked the Coutinho class better. The
+original intent of these ships is somewhat of a mystery, there is a good
+chance that they were destined to be delivered to South Africa during
+the Apartheid era international Arms Embargo, those plans were probably
+canceled with a change of Portuguese government and obviously did not
+happen. Another effort to sell the ships to Columbia fell through in
+1977.
 
 | **Pennant** | **Name**              | **Location** |
 | ----------- | --------------------- | ------------ |
@@ -64,21 +82,11 @@ over the next few years.
 | F488        | *Afonso Cerqueira*    | Pacific      |
 | F489        | *Oliveira e Carmo*    | Lisbon       |
 
-![](/assets/images/nato/pt/navy/image4.jpeg)**[Baptista de Andrade
-class](http://www.military-today.com/navy/baptista_andrade_class.htm):**
-The four ships of this class are quite similar to the João Coutinho
-class, although the Baptista class is slightly better armed and
-equipped, the Portuguese navy liked the Coutinho class better. The
-original intent of this class is somewhat of a mystery, there is a good
-chance that they were destined to be delivered to South Africa during
-the Arms Embargo that was preventing any modernization, that obviously
-did not happen. Another effort to sell the ships to Columbia fell
-through in 1977 as well.
+![](/assets/images/nato/pt/navy/image4.jpeg)
 
-![](/assets/images/nato/pt/navy/image5.jpg)**Cacine class Patrol
-Boats:** Primarily to conduct fisheries patrols in home waters, these
-small (300 Ton) lightly armed vessels are capable of their duties and
-efficient to operate.
+**Cacine class Patrol Boats:** Primarily used to conduct fisheries
+patrols in home waters, these small (300 Ton) lightly armed vessels are
+capable of their duties and efficient to operate.
 
 | **Pennant** | **Name**  | **Location** |
 | ----------- | --------- | ------------ |
@@ -93,11 +101,12 @@ efficient to operate.
 | P-1160      | *Limpopo* | Faro         |
 | P-1161      | *Save*    | Faro         |
 
-![](/assets/images/nato/pt/navy/image6.jpeg)Albatroz Class Patrol
-Boats: Originally meant to patrol the waters in Portuguese colonies, the
-only ones remaining over seas in 1994 are two in East Timor. The other
-four have been pulled out of the former African colonies and have taken
-up duties in the Lisbon area.
+![](/assets/images/nato/pt/navy/image5.jpg)
+
+**Albatroz Class Patrol Boats**: Originally meant to patrol the waters
+in Portuguese colonies, the only examples remaining overseas in 1994 are
+two in East Timor. The other four have been pulled out of former African
+colonies and taken up duties in the Lisbon area.
 
 | **Pennant** | **Name**    | **Location** |
 | ----------- | ----------- | ------------ |
@@ -108,16 +117,19 @@ up duties in the Lisbon area.
 | P-1166      | *Condor*    | Lisbon       |
 | P-1167      | *Cisne*     | Lisbon       |
 
+![](/assets/images/nato/pt/navy/image6.jpeg)
+
 **Albacora Class**
 
-![](/assets/images/nato/pt/navy/image7.jpg)The first submarines to
-serve in the Portuguese Navy, the Albacora class were based on the
-French Daphne class. These boats were able to patrol both coastal and
-deep ocean areas. A fourth submarine of this class was sold to the
-Pakistani Navy in 1975.
+The first submarines to serve in the Portuguese Navy, the Albacora class
+were based on the successful French Daphne boats. These are very capable
+submarines able to patrol both coastal and deep ocean areas. A fourth
+submarine of this class was sold to the Pakistani Navy in 1975.
 
 | **Pennant** | **Name**    | **Location** |
 | ----------- | ----------- | ------------ |
 | S 163       | Albacora    | Atlantic     |
 | S 164       | *Barracuda* | Lisbon       |
 | S 166       | *Delfim*    | Lisbon       |
+
+![](/assets/images/nato/pt/navy/image7.jpg)

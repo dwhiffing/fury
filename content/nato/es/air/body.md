@@ -3,118 +3,61 @@
 The Spanish Air Force (*Ejército del Aire, or Army of the Air) has
 undergone significant transition since the death of Francisco Franco in
 1975, the transition to democracy and joining NATO in 1982. Initially
-equipped with F-4 Phantoms, F-5 Freedom Fighters, and Mirage aircraft,
-the investment in the EF-18 has propelled the Spanish Air Force into the
-modern era.*
+equipped with F-86 and T-33, these were replaced by F-4 Phantoms, F-5
+Freedom Fighters, and Mirage aircraft, in the 1960s and the investment
+in the EF-18 has propelled the Spanish Air Force into the modern era.
+Because of past difficulties with obtaining aircraft from the US, Spain
+maintains a policy of ensuring that it holds both European (primarily
+French) as well as US fighters.*
 
-**EF-18 Hornet:**
+**EF-18 Hornet**
 
 The fighting core of the Spanish Airforce is the EF-18A, with four
-operational Squadrons and a training squadron in two wings. Spain
-obtained 60 ‘A+’ and 12 ‘B+ versions of the aircraft, prefixed as EF
-these aircraft are very close to the ‘C/D’ standard allowing them to
-employ a modern suite of precision munitions, however they are limited
-to the Aim-7F Sparrow missile for air to air combat. An attempt
-(historically successful) to acquire a further 24 ex-US Navy Hornets has
-been thwarted by US requirements to expand its inventory of F/A-18s.
+operational Squadrons and a training squadron. Spain obtained 60 ‘A+’
+and 12 ‘B+ versions of the aircraft, prefixed as EF these aircraft are
+very close to the ‘C/D’ standard allowing them to employ a modern suite
+of precision munitions, however they are limited to the Aim-7F Sparrow
+missile for air to air combat. An attempt (historically successful) to
+acquire a further 24 ex-US Navy Hornets has been thwarted by US
+requirements to expand its inventory of F/A-18s. Each Sqn operates at
+least two
+EF-18B
 
-<table>
-<thead>
-<tr class="header">
-<th>Wing</th>
-<th>Squadron</th>
-<th>Name</th>
-<th>Base</th>
-<th># of AC</th>
-<th>Type</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Gr.12</td>
-<td>Esc 121</td>
-<td>Aces</td>
-<td>Torrejon</td>
-<td><p>12</p>
-<p>2</p></td>
-<td><p>EF-18A</p>
-<p>EF -18B</p></td>
-<td>CAS/Mar</td>
-</tr>
-<tr class="even">
-<td>Gr.12</td>
-<td>Esc 122</td>
-<td>Black Cats</td>
-<td>Torrejon</td>
-<td><p>12</p>
-<p>2</p></td>
-<td><p>EF -18A</p>
-<p>EF -18B</p></td>
-<td>A2A</td>
-</tr>
-<tr class="odd">
-<td>Gr.15</td>
-<td>Esc 151</td>
-<td>Bulls</td>
-<td>Zaragoza</td>
-<td><p>12</p>
-<p>2</p></td>
-<td><p>EF -18A</p>
-<p>EF -18B</p></td>
-<td>A2A</td>
-</tr>
-<tr class="even">
-<td>Gr.15</td>
-<td>Esc 152</td>
-<td>Mars</td>
-<td>Zaragoza</td>
-<td><p>12</p>
-<p>2</p></td>
-<td><p>EF -18A</p>
-<p>EF -18B</p></td>
-<td>SEAD</td>
-</tr>
-<tr class="odd">
-<td>Gr.15</td>
-<td>Esc 153</td>
-<td></td>
-<td>Zaragoza</td>
-<td><p>12</p>
-<p>4</p></td>
-<td><p>EF -18A</p>
-<p>EF -18B</p></td>
-<td>Trg</td>
-</tr>
-</tbody>
-</table>
+| Wing  | Squadron | Name       | Base     | \# of AC | Type  | Role     |
+| ----- | -------- | ---------- | -------- | -------- | ----- | -------- |
+| Gr.12 | Esc 121  | Aces       | Torrejon | 14       | EF 18 | CAS/Mar  |
+| Gr.12 | Esc 122  | Black Cats | Torrejon | 14       | EF 18 | A2A      |
+| Gr.15 | Esc 151  | Bulls      | Zaragoza | 14       | EF 18 | A2A      |
+| Gr.15 | Esc 152  | Mars       | Zaragoza | 14       | EF 18 | SEAD     |
+| Gr.15 | Esc 153  |            | Zaragoza | 16       | EF 18 | Training |
 
 ![](/assets/images/nato/es/air/image1.jpg)
 
-**Mirage F.1:**
+**Mirage F.1**
 
 Since 1975, one of the mainstays of the Spanish Air Force has been the
-Mirage F.1, many have been phased out but 48 of the original 91
-airframes remain. Of these all have been upgraded to the ‘F.1M’ standard
-and half have been modified to the ‘EE’ interceptor role and the
-remainder are the ‘CE’ standard focusing on Close Air Support
-(CAS)
+Mirage F.1, 48 of the original 91 airframes remain. Of these all have
+been upgraded to the ‘F.1M’ standard and half have been modified to the
+‘EE’ interceptor role and the remainder are the ‘CE’ standard focusing
+on Close Air Support (CAS)
 
-| Wing   | Squadron | Name     | Base   | \# of AC | Type         | Role |
-| ------ | -------- | -------- | ------ | -------- | ------------ | ---- |
-| Ala.11 | Esc 111  | Wolves   | Moron  | 12       | Mirage F.1CE | CAS  |
-| Ala.11 | Esc 113  | Cocks    | Moron  | 12       | Mirage F.1EE | A2A  |
-| Ala.14 | Esc 141  | Bulldogs | Llanos | 12       | Mirage F.1CE | CAS  |
-| Ala.14 | Esc 142  | Tiger    | Llanos | 12       | Mirage F.1EE | A2A  |
+| Wing   | Squadron | Name     | Base   | \# of AC | Type  | Role |
+| ------ | -------- | -------- | ------ | -------- | ----- | ---- |
+| Ala.11 | Esc 111  | Wolves   | Moron  | 12       | F.1CE | CAS  |
+| Ala.11 | Esc 113  | Cocks    | Moron  | 12       | F.1EE | A2A  |
+| Ala.14 | Esc 141  | Bulldogs | Llanos | 12       | F.1CE | CAS  |
+| Ala.14 | Esc 142  | Tiger    | Llanos | 12       | F.1EE | A2A  |
 
 ![](/assets/images/nato/es/air/image2.jpg)
 
-![](/assets/images/nato/es/air/image3.jpg)**SF-5 Freedom Fighter**:
-Build in Europe and modified for the Spanish Airforce, the remaining
-versions are all upgraded ‘B’ model two seaters or the last single seat
-which are reconnaissance versions but upgraded from the fighter version
-and retaining the original gun. In addition to Close Air Support these
-aircraft provide training to future EF-18 pilots.
+**SF-5 Freedom Fighter**
+
+These Freedom Fighters are built in Europe and modified for the Spanish
+Airforce, the 20 remaining strike versions are all upgraded ‘B’ model
+two seaters while the last single seat reconnaissance versions are
+upgraded from the fighter version and retaining the original gun. In
+addition to Close Air Support these aircraft provide training to future
+EF-18 pilots.
 
 <table>
 <thead>
@@ -152,22 +95,39 @@ aircraft provide training to future EF-18 pilots.
 </tbody>
 </table>
 
-**P-3B:** Spain purchased 5 P-3B’s from Norway in 1989 and operates them
-from Moron Air Base.
+![](/assets/images/nato/es/air/image3.jpg)
 
-**CN-212 and CN-235:** These home grown Spanish transport aircraft
-developed by CASA and IPTN before these two companies were purchased by
-Airbus. The CN-235 began production in 1986 began replacing the CN-212
-the same year. Both have Electronic Warfare, Photo Reconnaissance,
-Search and Rescue, and Maritime Patrol variants but in 1994 these
-functions remained with the CN-212 while the CN-235 was quickly
-replacing the cargo variants.
+**P-3B**
 
-**Falcon 20:** This French built executive jet serves the Portuguese,
-and many other European nations, as an Electronic warfare aircraft.
+Spain purchased 5 P-3B’s from Norway in 1989 and operates them from
+Moron Air Base by 221 Squadron.
 
-**C-130H**: The ubiquitous Hercules serves the Spanish Air Force as both
-a Tactical Transport (8) and an areal refueling tanker (5).
+![](/assets/images/nato/es/air/image4.jpg)
+
+**CN-212 and CN-235**
+
+These are home grown Spanish transport aircraft developed by CASA and
+IPTN before these two companies were purchased by Airbus. The CN-235
+began production in 1986 began replacing the CN-212 the same year. Both
+have Electronic Warfare, Photo Reconnaissance, Search and Rescue, and
+Maritime Patrol variants but in 1994 these functions remained with the
+CN-212 while the CN-235 was quickly replacing the cargo variants.
+
+![](/assets/images/nato/es/air/image5.jpg)
+
+**Falcon 20**
+
+This French built executive jet serves the Portuguese, and many other
+European nations, as an Electronic warfare aircraft.
+
+![](/assets/images/nato/es/air/image6.jpg)
+
+**C-130H**
+
+The ubiquitous Hercules serves the Spanish Air Force as both a Tactical
+Transport (8) and an areal refueling tanker (5).
+
+![](/assets/images/nato/es/air/image7.jpg)
 
 **Boing 707B**: The one example of the venerable 707 in the Spanish Air
 Force serves as a refueling tanker.

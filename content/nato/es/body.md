@@ -1,7 +1,7 @@
 Spain was the last country to join NATO once its democratic restoration
-gained enough momentum, following the Dictator Franco's death in 1975,
-to hold a national referendum on the subject. Although strongly opposed
-by a strong socialist opposition, which came into government that year,
+gained enough momentum following the Dictator Franco's death in 1975. A
+national referendum on the subject and although opposed by a strong
+socialist opposition party, which came into government later that year,
 the plebiscite voted for joining NATO.
 
 Spain has fractious relationships with the United Kingdom over Gibraltar
