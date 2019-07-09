@@ -3,17 +3,18 @@
 **The United States Air Force**
 
 The United States Air Force (USAF) in 1994 had historically been reduced
-by 30% from a 1986 strength of around 608,000 to 426,000 and was
+by 30% from a 1986 strength of around 608,000 to size of 426,000 and was
 shrinking rapidly. In Northern Fury, due to increased tensions in Europe
-and around the globe, the strength is reduced from the mid ‘80s but by a
-much smaller margin. The Northern Fury USAF has about 600,000 personnel
-in 1994 and this number has been stable for the past two years. Many of
-the changes implemented by the various BRAC (Base Realignment and
-Closure Commission) reviews (1988, 1991, 1993) do not occur, realignment
-where it was reasonable happened but most bases remain open, specifics
-are noted where it makes a difference. Structurally the changes that
-occurred historically remain extant because they made sense in an
-evolving world. The fundamental structure of the USAF looks like this:
+and around the globe, the strength although reduced from the mid ‘80s,
+but by a much smaller margin. The Northern Fury USAF has about 600,000
+personnel in 1994 and this number has been stable for the past two
+years. Many of the changes implemented by the various BRAC (Base
+Realignment and Closure Commission) reviews (1988, 1991, 1993) do not
+occur, realignment where it was reasonable happened but most bases
+remain open, specifics are noted where it makes a difference.
+Structurally the changes that occurred historically remain extant
+because they made sense in an evolving world. The fundamental structure
+of the USAF looks like this:
 
 ![](/assets/images/nato/us/air/image2.png)
 
@@ -26,10 +27,12 @@ primary provider of combat air forces to reinforce regional commands
 around the globe or to defend North America. ACC’s main focus is the
 training and preparation of combat ready fighter, bomber,
 reconnaissance, rescue and Battle management forces for rapid deployment
-or employment. This is a large command with over 230,000 regular and
+and employment. This is a large command with over 230,000 regular and
 reserve personnel and over 1,000 aircraft.
 
 ![](/assets/images/nato/us/air/image4.png)
+
+![](/assets/images/nato/us/air/image5.jpg)
 
 **Air Mobility Command**
 
@@ -40,7 +43,9 @@ refueling, aeromedical evacuations and many other minor tasks every day
 of the year. With 125,000 personnel and about 925 airframes, this is the
 second largest command in the Air Force.
 
-![](/assets/images/nato/us/air/image5.png)
+![](/assets/images/nato/us/air/image6.png)
+
+![](/assets/images/nato/us/air/image7.jpg)
 
 **Pacific Air Forces**
 
@@ -53,7 +58,9 @@ deterrence, is to train with Asian and Australian Air Forces as a way of
 leveraging the combat power of those nations toward a unified command
 system.
 
-![](/assets/images/nato/us/air/image6.png)
+![](/assets/images/nato/us/air/image8.png)
+
+![](/assets/images/nato/us/air/image9.jpg)
 
 **US Air Force in Europe**
 
@@ -78,9 +85,11 @@ aircraft in support. USAFE will grow well beyond this as the
 well-practiced flyover reinforcement program continues, swelling to more
 than double this number.
 
-![](/assets/images/nato/us/air/image7.png)
+![](/assets/images/nato/us/air/image10.png)
 
-![](/assets/images/nato/us/air/image8.png)
+![](/assets/images/nato/us/air/image11.png)
+
+![](/assets/images/nato/us/air/image12.jpg)
 
 **Air Force Special Operation Command**
 
@@ -122,7 +131,9 @@ helicopters and several MH-60’s, this force can deploy elements globally
 either as individual aircraft or as mission tailored groups on very
 short notice.
 
-![](/assets/images/nato/us/air/image9.png)
+![](/assets/images/nato/us/air/image13.png)
+
+![](/assets/images/nato/us/air/image14.jpg)
 
 **Air Force Space Command**
 
@@ -131,16 +142,22 @@ established in 1982 to control all US military satellites, launch
 vehicles, space tracking and ballistic missile warning systems. The role
 of AFSPC increased substantially in 1993 when it inherited
 responsibility for all Intercontinental Ballistic Missiles (ICBM) from
-the defunct Strategic Air Command (SAC). Additionally, the commander of
-AFSC is also the commander of the North American Air Defense Command
-(NORAD), the bi-lateral command between the US and Canada for defending
-North American airspace from intrusion. This relatively small command
-has about 39,000 personnel, half of them civilian, but is located in
-over 80 locations around the world. Two numbered Air Forces in the
-command coordinate and control 580 ICBMs and over 50 communications,
-GPS, reconnaissance, ballistic missile warning and weather satellites.
+the defunct Strategic Air Command (SAC). AFSPC provides ready ICBMs to
+US Strategic Command (USSTRATCOM), a unified command responsible for the
+employment of all US nuclear forces. Additionally, the commander of AFSC
+is also the commander of the North American Air Defense Command (NORAD),
+the bi-lateral command between the US and Canada for defending North
+American airspace from intrusion. This relatively small command has
+about 39,000 personnel, half of them civilian, but is located in over 80
+locations around the world. Two numbered Air Forces in the command
+coordinate and control 580 ICBMs and over 50 communications, GPS,
+reconnaissance, ballistic missile warning and weather satellites. (Note,
+the structures involved in space /assets, ICBMs, NORAD and national
+reconnaissance have gone through numerous changes over time)
 
-![](/assets/images/nato/us/air/image10.png)
+![](/assets/images/nato/us/air/image15.png)
+
+![](/assets/images/nato/us/air/image16.jpeg)
 
 **Air Force Reserve**
 
@@ -155,26 +172,28 @@ Forces, 37 wings, 128 groups and about 400 squadrons (many without
 aircraft). There are some minor changes due to the Northern Fury setting
 but nothing significant. Not all detail is shown in the diagram below:
 
-![](/assets/images/nato/us/air/image11.png)
+![](/assets/images/nato/us/air/image17.png)
+
+![](/assets/images/nato/us/air/image18.jpg)
 
 **Air Force National Guard**
 
-Commonly referred to simply as the ‘**Air Guard**’ or simply the ‘Guard’
-this is another large element of the USAF with over 111,000 personnel
-flying in 88 wings from every state of the country. The Air Guard
-provides trained units and people directly to the other commands. Unlike
-the ARS, these units belong to the State Governors until federalized for
-operations. Standing agreements exist for NORAD and many other domestic
-activities, but special permissions are needed to deploy Air Guard units
-overseas. No numbered Air Forces are operated by the Air Guard and many
-wings consist of only one squadron. Northern Fury has some significant
-changes that impact this element, primarily because the active air force
-maintains many squadrons that were historically deactivated. By 1994 the
-Air Guard was receiving a significant number of very new aircraft as
-regular units closed down, but since that does not happen, the Guard was
-maintaining many older aircraft until production of newer airframes
-could catch up to demand. The Air Guard flies over 1,500 aircraft in 109
-squadrons as follows:
+Commonly referred to simply as the ‘**Air Guard**’ or simply the
+‘**Guard’** this is another large element of the USAF with over
+111,000 personnel flying in 88 wings from every state of the country.
+The Air Guard provides trained units and people directly to the other
+commands. Unlike the ARS, these units belong to the State Governors
+until federalized for operations. Standing agreements exist for NORAD
+and many other domestic activities, but special permissions are needed
+to deploy Air Guard units overseas. No numbered Air Forces are operated
+by the Air Guard and many wings consist of only one squadron. Northern
+Fury has some significant changes that impact this element, primarily
+because the active air force maintains many squadrons that were
+historically deactivated. By 1994 the Air Guard was receiving a
+significant number of very new aircraft as regular units closed down,
+but since that does not happen, the Guard was maintaining many older
+aircraft until production of newer airframes could catch up to demand.
+The Air Guard flies over 1,500 aircraft in 109 squadrons as follows:
 
   - 7x F-15A Squadrons of 24 aircraft each, 3 are for NORAD, one is in
     Hawaii;
@@ -226,16 +245,20 @@ squadrons as follows:
 
   - 2x Rescue Jumper Squadrons.
 
+![](/assets/images/nato/us/air/image19.jpg)
+
 **Air Force Training and Education Command**
 
 The Training Command (ATEC) is worth noting simply because of the scale
 at which the USAF conducts training. At any time, there are over 60,000
 assigned personnel and around 350,000 students within the command.
 Although flight training is only one of many functions of ATEC, it
-operates over 1,500 aircraft in two numbers air forces, including over
+operates over 1,500 aircraft in two numbered air forces, including over
 350 front line aircraft\!
 
-![](/assets/images/nato/us/air/image12.png)
+![](/assets/images/nato/us/air/image20.png)
+
+![](/assets/images/nato/us/air/image21.jpg)
 
 **Air Force Materiel Command**
 
@@ -244,6 +267,8 @@ routine logistic support is the role of the AFMC. With over 115,000
 personnel and operating 40 different types of aircraft, this is a large
 command. AFMC also operates the ‘Test Pilot’ school and works with
 industry to develop and evolve aircraft.
+
+![](/assets/images/nato/us/air/image22.jpg)
 
 **Northern Fury**
 
@@ -255,7 +280,7 @@ anger. Increased Soviet aggressiveness as early as 1989 and then the
 history. Tensions rapidly ramped up as the Soviet Union exerted pressure
 on Poland and Germany with the apparent goal of minimalizing NATO’s and
 ultimately the United States’ influence on Europe. As a reaction to
-these developments the US Government embarked on a program to rejuvenate
+these developments the US Government embarked on a plan to rejuvenate
 the Reagan era programs of the 1980’s. Three major initiatives were
 undertaken to stem the decline of combat power within the air force:
 
@@ -307,4 +332,6 @@ undertaken to stem the decline of combat power within the air force:
         available, all at the Block 40/42 and 50/52 standard. Combined
         with retaining some older aircraft in the Air Guard, not
         retiring many F-16ADF, and canceling several foreign sales a net
-        increase of 15x F-16 Squadrons are available to USAF.
+        increase of 15x F-16 Squadrons are available to the USAF.
+
+![](/assets/images/nato/us/air/image23.jpg)

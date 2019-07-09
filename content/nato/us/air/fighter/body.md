@@ -2,31 +2,33 @@
 
 By 1994 the USAF had almost slimed its front line fighter inventory down
 to two basic airframes, the F-15 Eagle and Strike Eagle, and the F-16
-Falcon. In Northern Fury however, there were three squadrons of updated
-F-4E Phantoms in the Air National Guard (ANG).
+Falcon. In Northern Fury however, three squadrons of updated F-4E
+Phantoms lingered on in the Air National Guard (ANG).
 
 [**F-15A/C Eagle**](https://fas.org/man/dod-101/sys/ac/f-15.htm)
 
-![](/assets/images/nato/us/air/fighter/image1.png)The F-15 is an
-all weather, highly maneuverable air superiority fighter. Arguably the
-best air superiority aircraft in the world, none have been lost in air
-combat. In 1994 there are two basic variations on the Eagle, the F-15A
-which is limited to the original suite of weapons that were developed
-for the aircraft in the early ‘70s, and the F-15C which is able to use a
-much more modern Aim-120 AMRAAM air to air missile. It should be noted
-that the twin seat trainer versions are the ‘B’ and the ‘D’ models and
-each squadron has two or three of these for continuation and
-certification training. The link above has many more details as does the
+![](/assets/images/nato/us/air/fighter/image1.png)
+
+The F-15 is an all weather, highly maneuverable air superiority fighter.
+Arguably the best air superiority aircraft in the world, none have been
+lost in air combat. In 1994 there are two basic variations on the Eagle,
+the F-15A which is limited to the original suite of weapons that were
+developed for the aircraft in the early ‘70s, and the F-15C which is
+able to use a much more modern Aim-120 AMRAAM air to air missile. It
+should be noted that the twin seat trainer versions are the ‘B’ and the
+‘D’ models and each squadron has two or three of these for
+continuation and certification training. The link above has many more
+details as does the
 [wiki](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle) and
-many other pages. By the beginning of Northern Fury all F-15A are in the
-ANG, while the regular air force is equipped with the F-15C. All of the
-F-15C on active service have undergone the MSIP (Multistage Improvement
-Program) upgrade with one exception, the 57<sup>th</sup> Fighter
-Squadron (FS) stationed at Keflavik Iceland. Northern Fury uses the same
-number of airframes that were originally produced, however in the real
-world the squadron size had been reduced to 18 aircraft, a couple
-squadrons had been deactivated and about 100 older F-15A had been
-written off. The chart below gives a comparison of where the aircraft
+many other pages. By the beginning of Northern Fury almost all F-15A are
+in the ANG, while the regular air force is equipped with the F-15C with
+one exception; the 57<sup>th</sup> Fighter Squadron (FS) stationed at
+Keflavik Iceland. All of the F-15C on active service have undergone the
+MSIP (Multistage Improvement Program) upgrade. Northern Fury uses the
+same number of airframes that were originally produced, however in the
+real world the squadron size had been reduced to 18 aircraft, a couple
+squadrons had been deactivated and many older F-15A had been retired to
+the bone-yard. The chart below gives a comparison of where the aircraft
 were in real life and where they are in Northern Fury\[1\]:
 
 |            | Northern Fury | Real History |         |         |
@@ -34,7 +36,7 @@ were in real life and where they are in Northern Fury\[1\]:
 |            | F-15A/B       | F-15C/D      | F-15A/B | F-15C/D |
 | Production | 412           | 470          | 412     | 470     |
 | W/O        | 51            | 23           | 51      | 23      |
-| Scrapped   | 100           |              | 225     | 22      |
+| Retired    | 100           |              | 225     | 22      |
 | Storage    | 30            |              | 14      | 100     |
 | Other      | 20            | 2            | 20      | 10      |
 | ATEC       | 36            | 12           | 12      | 48      |
@@ -92,19 +94,20 @@ Eagle**](http://www.af.mil/About-Us/Fact-Sheets/Display/Article/104499/f-15e-str
 
 The unquestionable success of the F-15 as an air-to-air platform
 predictably led to a derivative able to conduct air-to-ground missions.
-The F-15E Strike Eagle can do everything that the F-15C can do, but is
-optimally configured for a deep strike into enemy territory using
-terrain following radar and precision munitions. It has a powerful
-integrated electronic countermeasures (ECM) system, conformal fuel tanks
-for added range and plenty of weapon stations. Historically production
-trickled off in ‘92 to just 3 aircraft but at its peak in ’87 and ’88,
-and again 1991, 42 aircraft were produced. Northern Fury has this
-production maintained through ’89 and ’90 (an increase from 35 each
-year) and continuing into ‘93. Overall increasing the production by 100
-aircraft. Factoring in attrition there are now 301 Strike eagles
-available which translates to one additional wing (6<sup>th</sup>
-Tactical Fighter Wing at Mountain Home AFB, ID) and the continuation of
-550<sup>th</sup> FS as the conversion training unit into mid
+The F-15E Strike Eagle can do everything that the F-15C can do, but has
+a rear seat for a Weapon Systems Officer (WSO) and is optimally
+configured for a deep strike into enemy territory using terrain
+following radar and precision munitions. It has a powerful integrated
+electronic countermeasures (ECM) system, conformal fuel tanks for added
+range and plenty of weapon stations. Historically production trickled
+off in ‘92 to just 3 aircraft but at its peak in ’87 and ’88, and again
+1991, 42 aircraft were produced. Northern Fury has this production
+maintained through ’89 and ’90 (an increase from 35 each year) and
+continuing into ‘93. Overall increasing the production by 100 aircraft.
+Factoring in attrition there are now 301 Strike eagles available which
+translates to one additional wing (6<sup>th</sup> Tactical Fighter Wing
+at Mountain Home AFB, ID) and the continuation of 550<sup>th</sup> FS as
+the conversion training unit into mid
 1994.
 
 | Sqn    | Name            | Wing  | Location                | No. | Type  | Remarks      |
@@ -131,7 +134,7 @@ airframe, the details can be found at this
 [site](http://www.f-16.net/f-16_versions.html). In general terms
 variants were produced in ‘Block’ numbered groups indicating major
 upgrades. Historically the late ‘80s and early ‘90s saw a massive
-downsizing and sell-off of this ubiquitous and versatile fighter. Many
+downsizing and sell-off of this ubiquitous and adaptable fighter. Many
 went to the Air Guard, many went into long term preservation and yet
 more were sold to allies. In Northern Fury the 1988 level of production
 (180/year) was maintained right through 1993 and is planned to continue
@@ -150,9 +153,9 @@ are:
     still equipped with these aircraft, 40 more are undergoing refit to
     ADF and about 150 are in storage.
 
-  - **F-16ADF** – these are upgraded to ‘A’ model Block 15 standard, and
-    specially optimized for the US ANG intercept mission for NORAD.
-    These are the only US F-16s that fire the [Aim-7
+  - **F-16ADF** – these are upgraded ‘A’ models to the Block 15
+    standard, and specially optimized for the US ANG intercept mission
+    for NORAD. These are the only US F-16s that fire the [Aim-7
     Sparrow](http://www.f-16.net/f-16_armament_article10.html) missile.
     About 520 were modified for this role, which due to the shortage of
     new aircraft was about 250 more than historically exited, and more
@@ -185,15 +188,14 @@ are:
     11 regular squadrons, one of them a training squadron. About 100 of
     these machines are in storage.
 
-  - ![](/assets/images/nato/us/air/fighter/image3.jpeg)**F-16C/D
-    Block 40/42** – This version has a fully integrated LANTERN Pod
-    giving the aircraft full day/night capabilities. Also improved were
-    the ECM systems and cockpit controls. The first major production
-    year was 1988 and the increase in Northern Fury production takes
-    holed in 1989, so production of this version is 760 vice the
-    historic 454. After removing 53 for crashes and accidents, a total
-    of 25 squadrons including three training squadrons are equipped with
-    this aircraft.
+  - **F-16C/D Block 40/42** – This version has a fully integrated
+    LANTERN Pod giving the aircraft full day/night capabilities. Also
+    improved were the ECM systems and cockpit controls. The first major
+    production year was 1988 and the increase in Northern Fury
+    production takes hold in 1989, so production of this version is 760
+    vice the historic 454. After removing 53 for crashes and accidents,
+    a total of 25 squadrons including three training squadrons are
+    equipped with this aircraft.
 
   - **F-16C/D Block 50/52** – The last version equipping the USAF in
     Northern Fury has improved engines, avionics, radar and ECM. These
@@ -205,92 +207,94 @@ are:
     this
 version.
 
-| Sqn    | Name                    | Wing             | Location             | No. | Type          | Remarks          |
-| ------ | ----------------------- | ---------------- | -------------------- | --- | ------------- | ---------------- |
-| 4 FS   | Fightin' Fuujins        | 388<sup>th</sup> | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
-| 10 FS  | Fighting Tenth          | 50<sup>th</sup>  | Hahn AFB, Ger        | 24  | F-16CJ Blk 50 | USAFE            |
-| 13 FS  | The Panther Pack        | 35<sup>th</sup>  | Misawa AB, Japan     | 24  | F-16CJ Blk 50 | PacAF            |
-| 14 FS  | Samurais                | 35<sup>th</sup>  | Misawa AB, Japan     | 24  | F-16CJ Blk 50 | PacAF            |
-| 17 FS  | Hooters                 | 363<sup>rd</sup> | Shaw AFB, SC         | 24  | F-16C Blk 42  |                  |
-| 18 FS  | Blue Foxes              | 354<sup>th</sup> | Eielson AFB, AL      | 24  | F-16C Blk 40  | PacAF            |
-| 22 FS  | Stingers                | 36<sup>th</sup>  | Bitburg AB, Ger      | 24  | F-16CJ Blk 50 | USAFE            |
-| 23 FS  | Fighting Hawks          | 52<sup>nd</sup>  | Spangdahlem AB, Ger  | 24  | F-16CJ Blk 50 | USAFE            |
-| 33 FS  | Falcons                 | 363<sup>rd</sup> | Shaw AFB, SC         | 24  | F-16C Blk 42  |                  |
-| 34 FS  | Rams                    | 388<sup>th</sup> | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
-| 35 FS  | Panton                  | 8<sup>th</sup>   | Kunsan AB, S Korea   | 24  | F-16C Blk 30  | PacAF            |
-| 36 FS  | Flying Fiends           | 51<sup>st</sup>  | Osan AB, S Korea     | 24  | F-16C Blk 42  | PacAF            |
-| 61 FS  | Top Dawgs               | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
-| 62 FS  | Spikes                  | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
-| 63 FS  | Panthers                | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
-| 68 FS  | Lightning Lancers       | 81<sup>st</sup>  | RAF Alconbury, UK    | 24  | F-16C Blk 40  | USAFE            |
-| 69 FS  | Werewolves              | 81<sup>st</sup>  | RAF Alconbury, UK    | 24  | F-16C Blk 40  | USAFE            |
-| 70 FS  | White Knights           | 347<sup>th</sup> | Moody AFB, GA        | 24  | F-16C Blk 42  |                  |
-| 72 FS  | Falcons                 | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 30  | ATEC             |
-| 74 FS  | Flying Tigers           | 23<sup>rd</sup>  | Kunsan AB, S Korea   | 24  | F-16C Blk 30  | PacAF            |
-| 80 FS  | Headhunters             | 8<sup>th</sup>   | Kunsan AB, S Korea   | 24  | F-16C Blk 40  | PacAF            |
-| 89 FS  | Rhino's                 | 906<sup>th</sup> | Wright Patterson, OH | 24  | F-16C Blk 40  |                  |
-| 93 FS  | Makos                   | 482<sup>nd</sup> | MacDill AFB, FL      | 24  | F-16C Blk 32  | AF Reserve       |
-| 107 FS | Red Devils              | 127<sup>th</sup> | Selfridge, MI        | 18  | F-16ADF       | ANG              |
-| 111 FS | Ace in the Hole         | 147<sup>th</sup> | Huston, TX           | 18  | F-16ADF       | ANG, NORAD       |
-| 114 FS | Eager Beavers           | 142<sup>nd</sup> | Portland, OR         | 18  | F-16ADF       | ANG, NORAD       |
-| 119 FS | Jersey Devils           | 177<sup>th</sup> | Atlantic Cty, NJ     | 18  | F-16ADF       | ANG, NORAD       |
-| 120 FS | Colorado Cougars        | 140<sup>th</sup> | Buckley, CO          | 24  | F-16CJ Blk 25 | ANG              |
-| 121 FS | Capital Guardians       | 113<sup>th</sup> | Andrews AFB, ML      | 18  | F-16ADF       | ANG, NORAD       |
-| 124 FS | Hawkeyes                | 132<sup>nd</sup> | Des Moines, IO       | 18  | F-16ADF       | ANG, NORAD       |
-| 125 FS | Tulsa Vipers            | 138<sup>th</sup> | Tulsa, OK            | 18  | F-16ADF       | ANG, NORAD       |
-| 127 FS | Dragons                 | 184<sup>th</sup> | McConnell AFB, KS    | 18  | F-16ADF       | ANG              |
-| 134 FS | The Green Mountain Boys | 158<sup>th</sup> | Burlington, VT       | 18  | F-16ADF       | ANG              |
-| 136 FS | New York's Finest       | 107<sup>th</sup> | Niagara, NY          | 18  | F-16ADF       | ANG              |
-| 149 FS | Gen’men from Richmond   | 192<sup>nd</sup> | Langley, VA          | 18  | F-16ADF       | ANG, NORAD       |
-| 152 FS | Warhawks                | 162<sup>nd</sup> | Tucson, AZ           | 24  | F-16A         | ANG/ATEC         |
-| 157 FS | Swamp Fox               | 169<sup>th</sup> | Columbia, SC         | 18  | F-16ADF       | ANG              |
-| 159 FS | Boxin' Gators           | 125<sup>th</sup> | Jacksonville, FL     | 18  | F-16ADF       | ANG              |
-| 160 FS | Snakes                  | 187<sup>th</sup> | Montgomery, AL       | 18  | F-16ADF       | ANG              |
-| 161 FS | Jayhawks                | 184<sup>th</sup> | McConnell AFB, KS    | 24  | F-16C Blk 52  | ANG              |
-| 162 FS | Sabers                  | 178<sup>th</sup> | Springfield, OH      | 24  | F-16C Blk 25  | ANG              |
-| 169 FS | Marksmen                | 182<sup>nd</sup> | Peoria, IL           | 18  | F-16ADF       | ANG              |
-| 170 FS | Fighting Illini         | 183<sup>rd</sup> | Springfield, IL      | 18  | F-16ADF       | ANG              |
-| 171 FS | Michigan Six Pack       | 191<sup>st</sup> | Selfridge, MI        | 18  | F-16ADF       | ANG              |
-| 174 FS | The Bats                | 184<sup>th</sup> | Sioux City, IO       | 18  | F-16ADF       | ANG              |
-| 175 FS | Fightin' Lobos          | 114<sup>th</sup> | Sioux Falls, SD      | 18  | F-16ADF       | ANG, NORAD       |
-| 176 FS | Badger Air Militia      | 128<sup>th</sup> | Truax Field, WI      | 18  | F-16ADF       | ANG, NORAD       |
-| 177 FS | Jayhawkers              | 184<sup>th</sup> | McConnell AFB, KS    | 24  | F-16CJ Blk 25 | ANG              |
-| 178 FS | Happy Hooligans         | 119<sup>th</sup> | Fargo, ND            | 18  | F-16ADF       | ANG              |
-| 179 FS | Bulldogs                | 148<sup>th</sup> | Duluth, MN           | 18  | F-16ADF       | ANG              |
-| 182 FS | Lonestar Gunfighters    | 149<sup>th</sup> | San Antonio, TX      | 18  | F-16ADF       | ANG, NORAD       |
-| 184 FS | Flying Razorbacks       | 188<sup>th</sup> | Fort Smith, AR       | 18  | F-16ADF       | ANG, NORAD       |
-| 186 FS | Charlie Chickens        | 122<sup>nd</sup> | Great Falls, MN      | 18  | F-16ADF       | ANG, NORAD       |
-| 188 FS | Enchilada Air Force     | 150<sup>th</sup> | Albuquerque, NM      | 18  | F-16ADF       | ANG, NORAD       |
-| 194 FS | Griffins                | 144<sup>th</sup> | Fresno, CA           | 18  | F-16ADF       | ANG, NORAD       |
-| 198 FS | Bucaneros               | 156<sup>th</sup> | Carolina, PR         | 18  | F-16ADF       | ANG              |
-| 302 FS | Sun Devils              | 944th            | Luke AFB, AZ         | 24  | F-16CJ Blk 52 |                  |
-| 306 FS | The Gunners             | 31st             | Aviano AB, Italy     | 24  | F-16C Blk 40  | USAFE            |
-| 307 FS | Stingers                | 347th            | Moody AFB, GA        | 24  | F-16C Blk 40  | 16 a/c in P Gulf |
-| 308 FS | Emerald Knight          | 347th            | Moody AFB, GA        | 24  | F-16C Blk 40  |                  |
-| 309 FS | Wild Ducks              | 363rd            | Shaw AFB, SC         | 24  | F-16C Blk 40  |                  |
-| 310 FS | Tophats                 | 56th             | Luke AFB, AZ         | 24  | F-16C Blk 42  | ATEC             |
-| 311 FS | Sidewinders             | 58th             | Holloman AFB, NM     | 24  | F-16C Blk 42  | ATEC             |
-| 313 FS | Lucky Puppies           | 50th             | Hahn AB, Ger         | 24  | F-16CJ Blk 50 | USAFE            |
-| 314 FS | Warhawks                | 58th             | Holloman AFB, NM     | 24  | F-16C Blk 42  | ATEC             |
-| 389 FS | Thunderbolts            | 366th            | Mtn Home AFB, ID     | 24  | F-16CJ Blk 50 |                  |
-| 414 FS | Agressors               | 57th             | Nellis AFB, AZ       | 24  | F-16C Blk 32  |                  |
-| 421 FS | Black Widows            | 388th            | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
-| 425 FS | Black Widows            | 58th             | Holloman AFB, NM     | 24  | F-16A         | ATEC             |
-| 457 FS | Spads                   | 301st            | Carswell AFB, TX     | 24  | F-16C Blk 30  | AF Reserve       |
-| 465 FS | Okies                   | 507th            | Tinker AFB, FL       | 24  | F-16C Blk 40  |                  |
-| 466 FS | Diamondbacks            | 419th            | Hill AFB, UT         | 24  | F-16C Blk 30  | AF Reserve       |
-| 480 FS | Warhawks                | 52nd             | Spangdahlem AB, Ger  | 24  | F-16C Blk 30  | USAFE            |
-| 496 FS | The World’s Finest      | 50th             | Hahn AB, Ger         | 24  | F-16CJ Blk 50 | USAFE            |
-| 512 FS | Dragons                 | 86th             | Ramstein AB, Ger     | 24  | F-16CJ Blk 50 | USAFE            |
-| 526 FS | Black Knights           | 86th             | Ramstein AB, Ger     | 24  | F-16CJ Blk 50 | USAFE            |
-| 527 FS | Agressors               | 81st             | RAF Alconbury, UK    | 24  | F-16C Blk 30  | USAFE            |
-| 555 FS | Triple Nickel           | 31st             | Aviano AB, Italy     | 24  | F-16CJ Blk 25 |                  |
-| 612 FS | Fighting 612th          | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
-| 613 FS | Squids                  | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
-| 614 FS | Lucky Devils            | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
-| 704 FS | Outlaws                 | 924th            | Bergstrom AFB, TX    | 24  | F-16C Blk 30  | AF Reserve       |
-| 706 FS | Cajuns                  | 926th            | NAS New Orleans      | 24  | F-16C Blk 30  | AF Reserve       |
-| Demo   | Thunderbirds            | 57<sup>th</sup>  | Nellis AFB, AZ       | 24  | F-16C Blk 32  | Air Demo Tm      |
+| Sqn    | Name                  | Wing             | Location             | No. | Type          | Remarks          |
+| ------ | --------------------- | ---------------- | -------------------- | --- | ------------- | ---------------- |
+| 4 FS   | Fightin' Fuujins      | 388<sup>th</sup> | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
+| 10 FS  | Fighting Tenth        | 50<sup>th</sup>  | Hahn AFB, Ger        | 24  | F-16CJ Blk 50 | USAFE            |
+| 13 FS  | The Panther Pack      | 35<sup>th</sup>  | Misawa AB, Japan     | 24  | F-16CJ Blk 50 | PacAF            |
+| 14 FS  | Samurais              | 35<sup>th</sup>  | Misawa AB, Japan     | 24  | F-16CJ Blk 50 | PacAF            |
+| 17 FS  | Hooters               | 363<sup>rd</sup> | Shaw AFB, SC         | 24  | F-16C Blk 42  |                  |
+| 18 FS  | Blue Foxes            | 354<sup>th</sup> | Eielson AFB, AL      | 24  | F-16C Blk 40  | PacAF            |
+| 22 FS  | Stingers              | 36<sup>th</sup>  | Bitburg AB, Ger      | 24  | F-16CJ Blk 50 | USAFE            |
+| 23 FS  | Fighting Hawks        | 52<sup>nd</sup>  | Spangdahlem AB, Ger  | 24  | F-16CJ Blk 50 | USAFE            |
+| 33 FS  | Falcons               | 363<sup>rd</sup> | Shaw AFB, SC         | 24  | F-16C Blk 42  |                  |
+| 34 FS  | Rams                  | 388<sup>th</sup> | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
+| 35 FS  | Panton                | 8<sup>th</sup>   | Kunsan AB, S Korea   | 24  | F-16C Blk 30  | PacAF            |
+| 36 FS  | Flying Fiends         | 51<sup>st</sup>  | Osan AB, S Korea     | 24  | F-16C Blk 42  | PacAF            |
+| 61 FS  | Top Dawgs             | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
+| 62 FS  | Spikes                | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
+| 63 FS  | Panthers              | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 25  | ATEC             |
+| 68 FS  | Lightning Lancers     | 81<sup>st</sup>  | RAF Alconbury, UK    | 24  | F-16C Blk 40  | USAFE            |
+| 69 FS  | Werewolves            | 81<sup>st</sup>  | RAF Alconbury, UK    | 24  | F-16C Blk 40  | USAFE            |
+| 70 FS  | White Knights         | 347<sup>th</sup> | Moody AFB, GA        | 24  | F-16C Blk 42  |                  |
+| 72 FS  | Falcons               | 56<sup>th</sup>  | Luke AFB, AZ         | 24  | F-16C Blk 30  | ATEC             |
+| 74 FS  | Flying Tigers         | 23<sup>rd</sup>  | Kunsan AB, S Korea   | 24  | F-16C Blk 30  | PacAF            |
+| 80 FS  | Headhunters           | 8<sup>th</sup>   | Kunsan AB, S Korea   | 24  | F-16C Blk 40  | PacAF            |
+| 89 FS  | Rhino's               | 906<sup>th</sup> | Wright Patterson, OH | 24  | F-16C Blk 40  |                  |
+| 93 FS  | Makos                 | 482<sup>nd</sup> | MacDill AFB, FL      | 24  | F-16C Blk 32  | AF Reserve       |
+| 107 FS | Red Devils            | 127<sup>th</sup> | Selfridge, MI        | 18  | F-16ADF       | ANG              |
+| 111 FS | Ace in the Hole       | 147<sup>th</sup> | Huston, TX           | 18  | F-16ADF       | ANG, NORAD       |
+| 114 FS | Eager Beavers         | 142<sup>nd</sup> | Portland, OR         | 18  | F-16ADF       | ANG, NORAD       |
+| 119 FS | Jersey Devils         | 177<sup>th</sup> | Atlantic Cty, NJ     | 18  | F-16ADF       | ANG, NORAD       |
+| 120 FS | Colorado Cougars      | 140<sup>th</sup> | Buckley, CO          | 24  | F-16CJ Blk 25 | ANG              |
+| 121 FS | Capital Guardians     | 113<sup>th</sup> | Andrews AFB, ML      | 18  | F-16ADF       | ANG, NORAD       |
+| 124 FS | Hawkeyes              | 132<sup>nd</sup> | Des Moines, IO       | 18  | F-16ADF       | ANG, NORAD       |
+| 125 FS | Tulsa Vipers          | 138<sup>th</sup> | Tulsa, OK            | 18  | F-16ADF       | ANG, NORAD       |
+| 127 FS | Dragons               | 184<sup>th</sup> | McConnell AFB, KS    | 18  | F-16ADF       | ANG              |
+| 134 FS | Green Mountain Boys   | 158<sup>th</sup> | Burlington, VT       | 18  | F-16ADF       | ANG              |
+| 136 FS | New York's Finest     | 107<sup>th</sup> | Niagara, NY          | 18  | F-16ADF       | ANG              |
+| 149 FS | Gen’men from Richmond | 192<sup>nd</sup> | Langley, VA          | 18  | F-16ADF       | ANG, NORAD       |
+| 152 FS | Warhawks              | 162<sup>nd</sup> | Tucson, AZ           | 24  | F-16A         | ANG/ATEC         |
+| 157 FS | Swamp Fox             | 169<sup>th</sup> | Columbia, SC         | 18  | F-16ADF       | ANG              |
+| 159 FS | Boxin' Gators         | 125<sup>th</sup> | Jacksonville, FL     | 18  | F-16ADF       | ANG              |
+| 160 FS | Snakes                | 187<sup>th</sup> | Montgomery, AL       | 18  | F-16ADF       | ANG              |
+| 161 FS | Jayhawks              | 184<sup>th</sup> | McConnell AFB, KS    | 24  | F-16C Blk 52  | ANG              |
+| 162 FS | Sabers                | 178<sup>th</sup> | Springfield, OH      | 24  | F-16C Blk 25  | ANG              |
+| 169 FS | Marksmen              | 182<sup>nd</sup> | Peoria, IL           | 18  | F-16ADF       | ANG              |
+| 170 FS | Fighting Illini       | 183<sup>rd</sup> | Springfield, IL      | 18  | F-16ADF       | ANG              |
+| 171 FS | Michigan Six Pack     | 191<sup>st</sup> | Selfridge, MI        | 18  | F-16ADF       | ANG              |
+| 174 FS | The Bats              | 184<sup>th</sup> | Sioux City, IO       | 18  | F-16ADF       | ANG              |
+| 175 FS | Fightin' Lobos        | 114<sup>th</sup> | Sioux Falls, SD      | 18  | F-16ADF       | ANG, NORAD       |
+| 176 FS | Badger Air Militia    | 128<sup>th</sup> | Truax Field, WI      | 18  | F-16ADF       | ANG, NORAD       |
+| 177 FS | Jayhawkers            | 184<sup>th</sup> | McConnell AFB, KS    | 24  | F-16CJ Blk 25 | ANG              |
+| 178 FS | Happy Hooligans       | 119<sup>th</sup> | Fargo, ND            | 18  | F-16ADF       | ANG              |
+| 179 FS | Bulldogs              | 148<sup>th</sup> | Duluth, MN           | 18  | F-16ADF       | ANG              |
+| 182 FS | Lonestar Gunfighters  | 149<sup>th</sup> | San Antonio, TX      | 18  | F-16ADF       | ANG, NORAD       |
+| 184 FS | Flying Razorbacks     | 188<sup>th</sup> | Fort Smith, AR       | 18  | F-16ADF       | ANG, NORAD       |
+| 186 FS | Charlie Chickens      | 122<sup>nd</sup> | Great Falls, MN      | 18  | F-16ADF       | ANG, NORAD       |
+| 188 FS | Enchilada Air Force   | 150<sup>th</sup> | Albuquerque, NM      | 18  | F-16ADF       | ANG, NORAD       |
+| 194 FS | Griffins              | 144<sup>th</sup> | Fresno, CA           | 18  | F-16ADF       | ANG, NORAD       |
+| 198 FS | Bucaneros             | 156<sup>th</sup> | Carolina, PR         | 18  | F-16ADF       | ANG              |
+| 302 FS | Sun Devils            | 944th            | Luke AFB, AZ         | 24  | F-16CJ Blk 52 |                  |
+| 306 FS | The Gunners           | 31st             | Aviano AB, Italy     | 24  | F-16C Blk 40  | USAFE            |
+| 307 FS | Stingers              | 347th            | Moody AFB, GA        | 24  | F-16C Blk 40  | 16 a/c in P Gulf |
+| 308 FS | Emerald Knight        | 347th            | Moody AFB, GA        | 24  | F-16C Blk 40  |                  |
+| 309 FS | Wild Ducks            | 363rd            | Shaw AFB, SC         | 24  | F-16C Blk 40  |                  |
+| 310 FS | Tophats               | 56th             | Luke AFB, AZ         | 24  | F-16C Blk 42  | ATEC             |
+| 311 FS | Sidewinders           | 58th             | Holloman AFB, NM     | 24  | F-16C Blk 42  | ATEC             |
+| 313 FS | Lucky Puppies         | 50th             | Hahn AB, Ger         | 24  | F-16CJ Blk 50 | USAFE            |
+| 314 FS | Warhawks              | 58th             | Holloman AFB, NM     | 24  | F-16C Blk 42  | ATEC             |
+| 389 FS | Thunderbolts          | 366th            | Mtn Home AFB, ID     | 24  | F-16CJ Blk 50 |                  |
+| 414 FS | Agressors             | 57th             | Nellis AFB, AZ       | 24  | F-16C Blk 32  |                  |
+| 421 FS | Black Widows          | 388th            | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
+| 425 FS | Black Widows          | 58th             | Holloman AFB, NM     | 24  | F-16A         | ATEC             |
+| 457 FS | Spads                 | 301st            | Carswell AFB, TX     | 24  | F-16C Blk 30  | AF Reserve       |
+| 465 FS | Okies                 | 507th            | Tinker AFB, FL       | 24  | F-16C Blk 40  |                  |
+| 466 FS | Diamondbacks          | 419th            | Hill AFB, UT         | 24  | F-16C Blk 30  | AF Reserve       |
+| 480 FS | Warhawks              | 52nd             | Spangdahlem AB, Ger  | 24  | F-16C Blk 30  | USAFE            |
+| 496 FS | The World’s Finest    | 50th             | Hahn AB, Ger         | 24  | F-16CJ Blk 50 | USAFE            |
+| 512 FS | Dragons               | 86th             | Ramstein AB, Ger     | 24  | F-16CJ Blk 50 | USAFE            |
+| 526 FS | Black Knights         | 86th             | Ramstein AB, Ger     | 24  | F-16CJ Blk 50 | USAFE            |
+| 527 FS | Agressors             | 81st             | RAF Alconbury, UK    | 24  | F-16C Blk 30  | USAFE            |
+| 555 FS | Triple Nickel         | 31st             | Aviano AB, Italy     | 24  | F-16CJ Blk 25 |                  |
+| 612 FS | Fighting 612th        | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
+| 613 FS | Squids                | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
+| 614 FS | Lucky Devils          | 401st            | Nellis AFB, AZ       | 24  | F-16C Blk 40  |                  |
+| 704 FS | Outlaws               | 924th            | Bergstrom AFB, TX    | 24  | F-16C Blk 30  | AF Reserve       |
+| 706 FS | Cajuns                | 926th            | NAS New Orleans      | 24  | F-16C Blk 30  | AF Reserve       |
+| Demo   | Thunderbirds          | 57<sup>th</sup>  | Nellis AFB, AZ       | 24  | F-16C Blk 32  | Air Demo Tm      |
+
+![](/assets/images/nato/us/air/fighter/image3.jpeg)
 
 [**F-4E
 Phantom**](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II)
@@ -302,7 +306,7 @@ the retention of squadrons in Europe has meant that in Northern Fury
 there are still some F-4Es remaining in the Air National Guard. About
 100 F-4Es were converted to carry a wider range of ordinance, including
 Laser Guided Paveway II bombs, they are still capable of conducing
-Air-to-Air combat but they are heavily outclassed by the latest Soviet
+Air-to-Air combat but are heavily outclassed by the latest Soviet
 fighters. Three ANG squadrons retain the Phantom which will likely serve
 into 1996 before there are enough F-16s available to retire them.
 Additionally, a squadron of this type operated by ATEC trains German

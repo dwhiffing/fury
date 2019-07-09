@@ -8,17 +8,17 @@ Air Defence (GBAD) in the form of Patriot and I-Hawk missile units.
 
 ![](/assets/images/nato/nl/air/image1.jpeg)
 
-**F-16**
+[**F-16**](http://www.f-16.net/f-16_users_article8.html)
 
-As one of the four European nations using the F-16 the Netherlands was
-key to the development of the Fokker assembly plant in Holland. In total
-213 F-16A/B were acquired (177 single seat ‘A’ models, and 58 double
-seat ‘B’ versions). The first was delivered in 1979 and the last in
-1992. Dutch F-16s were modified to operate the Orpheus Reconnaissance
-Pod, currently 306 ‘Hawk’ Squadron is equipped for this task. As part of
-NATO’s AMF (ACE Mobile Force) plan to defend the northern flank, 322
-‘Polly Parrot’ Squadron was tasked with rapidly deploying to Norway in
-times of emergency.
+As one of the four European nations using F-16s the Netherlands was key
+to the development of the Fokker assembly plant in Holland. In total 213
+F-16A/B were acquired (177 single seat ‘A’ models, and 58 double seat
+‘B’ versions). The first was delivered in 1979 and the last in 1992.
+Dutch F-16s were modified to operate the Orpheus Reconnaissance Pod,
+currently 315<sup>th</sup> ‘Lion’ Squadron is equipped for this task. As
+part of NATO’s AMF (ACE Mobile Force) plan to defend the northern flank,
+322 ‘Polly Parrot’ Squadron was tasked with rapidly deploying to Norway
+in times of emergency.
 
 As a result of increased tensions in the Northern Fury storyline,
 upgrade of the older F-16s to the MLU (Mid Life Upgrade) standard began
@@ -39,14 +39,14 @@ readiness and refresher training.
 | 312 | Bonzo        | Volkel      | 24  | F-16A MLU   |         |
 | 313 | Tiger        | Twenthe     | 24  | F-16A       |         |
 | 314 | Redskins     | Gilze-Rijen | 24  | F-16A       |         |
-| 315 | Lion         | Twenthe     | 18  | F-16A       |         |
+| 315 | Lion         | Twenthe     | 18  | F-16A       | Recon   |
 | 316 | Falcon       | Eindhoven   | 24  | F-16A       |         |
 | 322 | Polly Parrot | Leeuwarden  | 24  | F-16A       |         |
 | 323 | Diana        | Leeuwarden  | 24  | F-16A       |         |
 
-**F-5A**
+[**F-5A**](http://www.the-northrop-f-5-enthusiast-page.info/AirForces/NetherlandsAF.html)
 
-Although the NF-5 was retired from service in 1992, the Netherlands Air
+Although the F-5 was retired from service in 1992, the Netherlands Air
 Force maintains them in ready reserve. 105 aircraft (75 single seat and
 30 double seat) are in storage ready to mobilize. It will likely only
 take 2-3 weeks to organize reserve pilots into new squadrons.
@@ -69,6 +69,8 @@ were avoided and the two aircraft were delivered to 334<sup>th</sup>
 Also at Eindhoven is 336 Squadron operating 4x C-130H in the transport
 role.
 
+![](/assets/images/nato/nl/air/image4.jpg)
+
 **Ground Based Air Defence (GBAD)**
 
 The other element fielded by the Netherlands Air Force is GBAD. Each of
@@ -79,7 +81,8 @@ squadrons, two each of the older I-HAWK (6 launchers per Squadron), and
 the newer Patriot missile systems (5 launchers per Squadron). Although
 only 160 Patriot missiles were purchased, a factory in the Netherlands
 will produce \~2000 missiles for the US so supply in an emergency should
-not be a
-problem.
+not be a problem.
 
-![](/assets/images/nato/nl/air/image4.jpeg)![](/assets/images/nato/nl/air/image5.png)
+![](/assets/images/nato/nl/air/image5.png)
+
+![](/assets/images/nato/nl/air/image6.jpeg)

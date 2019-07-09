@@ -26,17 +26,18 @@ FA.2](https://www.naval-technology.com/projects/fa2-sea-harrier/)
 
 The famous [British Sea
 Harrier](http://www.airvectors.net/avav8_2.html#m6) of Falkland Islands
-fame was the FRS.1, and it was found wanting on many levels. Actual
-development of the much improved FRS.2 started in 1985 and first flew in
-’88, deployment however was slow, mostly due to budgetary constraints.
-Conversion of FRS.1 started in 1995 and completed in 1997 with new build
-arriving between 1995 and 1998. In Northern Fury, conversion and new
-build began in 1991 and was completed by the end of 1993. The FRS.2 (or
-FA.2) have the capability to fire the Aim 120 AMRAAM air to air missile
-as well as precision strike ground attack munitions. Of the 51 Sea
-Harriers available, plus seven converted ‘T Mark 8’ training aircraft,
-the RN in Northern Furry maintain three operational Harrier squadrons
-and one training Squadron, with land bases at Cottesmore and Yeovilton.
+fame was the FRS.1, although lauded as the hero of the war, it was found
+wanting on many levels. Actual development of the much improved FRS.2
+started in 1985 and first flew in ’88, deployment however was slow,
+mostly due to budgetary constraints. Conversion of FRS.1 started in 1995
+and completed in 1997 with new build arriving between 1995 and 1998. In
+Northern Fury, conversion and new build began in 1991 and was completed
+by the end of 1993. The FRS.2 (or FA.2) have the capability to fire the
+Aim 120 AMRAAM air to air missile as well as precision strike ground
+attack munitions. Of the 51 Sea Harriers available, plus seven converted
+‘T Mark 8’ training aircraft, the RN in Northern Furry maintain three
+operational Harrier squadrons and one training Squadron, with land bases
+at Cottesmore and Yeovilton.
 
 | Sqn | Task        | Location   | No | Type         | Remarks |
 | --- | ----------- | ---------- | -- | ------------ | ------- |
@@ -67,8 +68,9 @@ workhorses of the fleet.
 ![](/assets/images/nato/uk/navy/naval-aviation/image2.jpg)
 
 The fourth version of the Sea King in use with the RN was the
-Cargo/Troop carrying version used for Amphibious operations. In total
-there were 146 Sea Kings in the RN broken down by type as follows:
+Cargo/Troop carrying version used for Amphibious operations, the HC.4.
+In total there were 146 Sea Kings in the RN broken down by type as
+follows:
 
   - 76x HAS.6
 
@@ -154,10 +156,10 @@ Gazelle](http://www.gazellesquadron.co.uk/about/westland-gazelle) AH.1.
 These 12 Gazelle were operated by the Army Air Corps (AAC) 3 Command
 Brigade Air Squadron (CBAS) which also operates six Lynx AH.1 in support
 of 3 Commando Brigade. These helicopters would be embarked on amphibious
-ships based on the requirements of the amphibious operation, depending
-on the situation not all would be embarked but in theory the AAC could
-provide more if the threat demanded it. The other main use for the
-Gazelle was basic helicopter training for all other helicopter types.
+ships based on the requirements of the operation, depending on the
+situation not all would be embarked but in theory the AAC could provide
+more if the threat demanded it. The other main use for the Gazelle was
+basic helicopter training for all other helicopter types using the HT.2.
 
 ![](/assets/images/nato/uk/navy/naval-aviation/image4.jpg)
 
@@ -169,13 +171,14 @@ Gazelle was basic helicopter training for all other helicopter types.
 
 **Training and support**
 
-![](/assets/images/nato/uk/navy/naval-aviation/image5.jpg) The RN
-fielded a full suite of training squadrons to bring pilots from the very
-basic level in the Chipmunk, through basic jet training in the Hawk (see
-RAF) and basic helicopter training in the Gazelle, and finally training
-on the type the pilot would be assigned to. Training did not end there
-as all units conducted refresher and qualification training.
+The RN fielded a full suite of training squadrons to bring pilots from
+the very basic level in the Chipmunk, through basic jet training in the
+Hawk (see RAF) and basic helicopter training in the Gazelle, and finally
+training on the type the pilot would be assigned to. Training did not
+end there as all units conducted refresher and qualification training.
 
 For support the RN had a small fleet of executive jets and small
 aircraft for transporting personnel and to and from operational
 deployments or evacuating medical casualties.
+
+![](/assets/images/nato/uk/navy/naval-aviation/image5.jpg)

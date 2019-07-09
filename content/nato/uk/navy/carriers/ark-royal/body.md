@@ -12,7 +12,7 @@ load of provisions and a new helicopter for Cardiff.
 
 ![](/assets/images/nato/uk/navy/carriers/ark-royal/image1.jpeg)
 
-  - R 06 HMS Illustrious
+  - R 07 HMS Ark Royal
     
       - 801 NAS 8x Sea Harrier FA.2
     
@@ -34,9 +34,11 @@ load of provisions and a new helicopter for Cardiff.
 
 Operating independently:
 
-  - D 108 HMS Cardiff (Type 42 Batch 1)
+  - D 108 HMS Cardiff (Type 42 Batch 1) – returning from repairs at
+    Diego Garcia
 
-  - A 387 RFA Fort Victoria
+  - A 387 RFA Fort Victoria – enroute from Bahrain to link up with the
+    carrier
     
       - 845 NAS 1x Sea King HAR.3
     

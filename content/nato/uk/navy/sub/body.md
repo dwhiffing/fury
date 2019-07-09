@@ -3,7 +3,7 @@
 **SSBN**
 
 Since the mid-1960s, Britain maintained a fleet of nuclear powered
-Ballistic Missile Submarines (SSBN) as a key element of their nuclear
+Ballistic Missile Submarines (SSBN) as a key element of her nuclear
 deterrent policy. Missiles were procured from the United States and it
 is assumed – there is always a high degree of secrecy regarding SSBNs –
 that their patrols were coordinated with the US Navy (USN). The only
@@ -14,7 +14,7 @@ either the RN or the USN due to France’s severance from the NATO
 integrated military command.
 
 The RN maintained a fleet of four SSBNs all based in Scotland near
-Glasgow, in 1994 the first of the new Vanguard class was in service and
+Glasgow; in 1994 the first of the new Vanguard class was in service and
 *HMS Revenge* had been retired, oddly *Revenge* was the newest of the
 Resolution class but was first to retire. With a fleet of four boats and
 an assumption that one would be in extended refit at any time thus
@@ -45,15 +45,15 @@ Class**](http://www.military-today.com/navy/vanguard_class.htm)
 *HMS Vanguard*, S-28 is the first of her class and a quantum leap
 forward in technology to her predecessors. At 16000 tons, she displaces
 almost as much as an Invincible Class aircraft carrier, and is wider,
-deeper and 75% the length of that ship. But with the advanced systems on
-board has a crew of only 135. Northern Fury starts with this boat on
+deeper and 75% the length of that ship. With the advanced systems on
+board she has a crew of only 135. Northern Fury starts with this boat on
 patrol. *HMS Victorious*, second in the class has been launched but is
 11 months from commissioning, even if rushed she would take at least six
 months to be ready.
 
-She carries 12 Trident II SLBM (Submarine Launched Ballistic Missiles),
-with up to 12 MIRVs (Multiple independently targetable re-entry
-vehicles). Under an agreement with the US, the UK designs and
+The *Vanguard* carries 12 Trident II SLBM (Submarine Launched Ballistic
+Missiles), with up to 12 MIRVs (Multiple independently targetable
+re-entry vehicles). Under an agreement with the US, the UK designs and
 manufactures its own MIRVs, and these appear to be of varying nuclear
 yields. The range with a full load is \~4,200 nautical miles, or up to
 \~7,500 nautical miles with a reduced load, the exact ranges are
@@ -90,13 +90,13 @@ submarine fleet. The RN has 13 front line SSNs of the Trafalgar and
 Swiftsure classes and due to an updated threat assessment, has
 maintained five older boats of the Churchill and Valiant class beyond
 their forecasted retirement. Each of the older boats required a dry dock
-period of over a year and it is estimated that this will add a decade to
+period of over a year and it’s estimated that this will add a decade to
 their service life, the last of them is still in dry-dock. Of the 18
-boats, the RN keeps 12 of them at sea for 4-6 week patrols. Two are
-usually in the South Atlantic, two in the Mediterranean, two split
-between the Indian Ocean or Pacific, and six in the North Atlantic. All
-RN submarines have strengthened fins and retractable hydroplanes
-allowing them to surface through arctic ice.
+boats, the RN keeps 12 at sea for 4-6 week patrols. Two are usually in
+the South Atlantic, two in the Mediterranean, two split between the
+Indian Ocean or Pacific, and six in the North Atlantic. All RN
+submarines have strengthened fins and retractable hydroplanes allowing
+them to surface through arctic ice.
 
 Britain’s Fleet Submarines of the ‘80s and early ‘90s were plagued by
 the extremely unreliable Tigerfish torpedo. Early examples of this
@@ -104,7 +104,7 @@ torpedo – Mod 0 experienced over a 60% failure rate. During the
 Falklands war, the Argentinian Ship General Belgrano was sunk using WW2
 era unguided torpedoes instead of risking the use of a Tigerfish. By the
 mid ‘80s, the Mod 2 corrected many of the faults but it was still
-unreliable – and worse, the submarine crews did not trust it. Cruise
+erratic – and worse, the submarine crews did not trust it. Cruise
 missiles were adopted in RN submarines for attacking surface targets
 because the Tigerfish was so unreliable\! An urgent call for replacement
 resulted in the Spearfish torpedo, a much improved design entering
@@ -116,11 +116,11 @@ situation that will continue until production of the Spearfish ramps up.
 [**Trafalgar
 Class**](http://www.military-today.com/navy/trafalgar_class.htm)
 
-The most modern Fleet boats in the RN, this class of seven boats were
-based in Plymouth. The newest, HMS Triumph was commissioned in late
-1991. This class is extremely quiet, has excellent sonars and other
-sensors and is heavily armed with over 30 weapons, a mix of Tomahawk
-cruise missiles or torpedoes.
+The most modern Fleet boats in the RN, this class of seven were based in
+Plymouth. The newest, HMS Triumph was commissioned in late 1991. This
+class is extremely quiet, has excellent sonars and other sensors and is
+heavily armed with over 30 weapons, a mix of Tomahawk cruise missiles
+and torpedoes.
 
 ![](/assets/images/nato/uk/navy/sub/image3.jpg)
 
@@ -140,18 +140,20 @@ brought back into service after six additional months in dry-dock.
 
 *HMS Superb*
 
-![](/assets/images/nato/uk/navy/sub/image5.jpeg)[**Churchill
+[**Churchill
 Class**](http://www.seaforces.org/marint/Royal-Navy/Submarine/Resolution-class.htm)
 
-Often considered an Improved Valiant class with many minor improvements.
-The three boats of this class served from the early ‘70’s and were due
-for retirement after only 20 years at sea due to the end of the Cold
-War. In Northern Fury, all three boats in this class have undergone a
+Often considered an Improved Valiant class with many minor
+modifications. The three boats of this class served from the early ‘70’s
+and were due for retirement after only 20 years at sea due to the end of
+the Cold War. In Northern Fury, all three boats in this have undergone a
 mid-life refit and are expected to serve for at least another decade.
 HMS Conqueror gained international fame during the Falklands war by
 sinking the Argentinian Cruiser General Belgrano.
 
-![](/assets/images/nato/uk/navy/sub/image6.jpeg)[**Valiant
+![](/assets/images/nato/uk/navy/sub/image5.jpeg)
+
+[**Valiant
 Class**](http://www.seaforces.org/marint/Royal-Navy/Submarine/Valiant-class.htm)
 
 The two boats of this class were the first fully British SSNs. The one
@@ -162,9 +164,11 @@ Churchill class so a life extension was much more contentious and
 complicated, *HMS Warspite* is sill in dry-dock after a year of refit,
 and it will likely be several more months before she is fit to sail
 again. HMS Valiant, historically retired in August of 1994 and she may
-still due so due to the problems *Warspite* is having, she is scheduled
-to begin refitting in October
+still due so because of the problems *Warspite* is having, she is
+scheduled to begin refitting in October
 1994.
+
+![](/assets/images/nato/uk/navy/sub/image6.jpeg)
 
 | Class     | Pennant | Name       | Location             | Remarks               |
 | --------- | ------- | ---------- | -------------------- | --------------------- |
@@ -190,19 +194,18 @@ to begin refitting in October
 **Diesel Powered Submarines**
 
 The RN operate two types of Diesel-electric submarines. There are
-several advantages of these submarines over nuclear powered SSNs, but
-the one main disadvantage is speed, and the need to recharge the
-batteries to enable electric operation. Two key advantages are size,
-these boats are much smaller and therefore more maneuverable in
-restricted waters, and silence. Stealth in a submarine is fundamental to
-survivability and its ability to stalk its pray, and Diesel-electric
-boats are much quieter than nuclear boats which must run cooling pumps
-to keep the reactors under control. The traditional classification for a
-‘conventionally’ powered boat is ‘SS’, while many newer boats are
-classified as ‘SSK’, with the K indicating ‘Hunter-Killer’. Although
-these boats could travel long distances they spent most of their time
-patrolling in home waters, with half of them either at sea or ready to
-deploy on short notice.
+several advantages of these submarines over nuclear powered SSNs but the
+main disadvantages are speed, and the need to recharge the batteries to
+enable electric operation. Two key advantages are size, these boats are
+much smaller and therefore more maneuverable in restricted waters, and
+silence. Stealth in a submarine is fundamental to survivability and its
+ability to stalk its pray, Diesel-electric boats are much quieter than
+nuclear boats which must run cooling pumps to keep the reactors under
+control. The traditional classification for a ‘conventionally’ powered
+boat is ‘SS’, while many newer boats are classified as ‘SSK’, with the K
+indicating ‘Hunter-Killer’. Although these boats could travel long
+distances they spent most of their time patrolling in home waters, with
+half of them either at sea or ready to deploy on short notice.
 
 [**Upholder
 Class**](http://www.military-today.com/navy/upholder_class.htm)
@@ -214,13 +217,13 @@ nautical mile range and six torpedo tubes, all with a displacement of
 only 2500 tons and a crew of 50, less than half of an average SSN. The
 RN planned to build 12 of these boats to replace the aging Oberon boats,
 but the end of the Cold War saw the cancelation of these plans and the
-sale of the four boats that had been built to Canada in 1998. In
-Northern Fury, the next batch of four boats is now building with the
-third batch about to be ordered.
+sale of the four boats to Canada in 1998. In Northern Fury, the next
+batch of four boats is now building with the third batch about to be
+ordered.
 
 ![](/assets/images/nato/uk/navy/sub/image7.jpeg)
 
-![](/assets/images/nato/uk/navy/sub/image8.jpg)Upholder Class
+Upholder Class
 
 [**Oberon
 Class**](http://www.seaforces.org/marint/Royal-Navy/Submarine/Oberon-class.htm)
@@ -234,6 +237,8 @@ their type anywhere, and that distinction was maintained through
 upgrades over time. Technology and age however, was getting the better
 of them by the early 80’s and the replacement Upholders were
 ordered.
+
+![](/assets/images/nato/uk/navy/sub/image8.jpg)
 
 | Class    | Pennant | Name      | Location           | Remarks              |
 | -------- | ------- | --------- | ------------------ | -------------------- |

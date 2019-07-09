@@ -3,7 +3,7 @@
 The Portuguese army is a small conscript force which maintains key
 functions at high readiness and maintains basic skill sets for rapid
 mobilization. Structurally they have a Corps HQ, but in reality this
-formation would function at the Divisional level and either remain in
+formation would function at the divisional level and either remain in
 Portugal to enable mobilization or deploy with the Mechanized Brigade to
 NATO’s Southern Army Group (SOUTHAG). The standing army was 44,000
 personnel with about 175,000 reserves.
@@ -38,11 +38,11 @@ Battalion of the Mixed Brigade while the remainder are in the Cavalry
 
 The Mechanized Battalion of the Mixed Brigade operates 42 of the 123
 M113 Armored Personnel Carriers in the Portuguese Army. Other variants
-of this vehicle are being used are the command post (M577), the TOW
-missile carrier (M901), the 20mm Vulcan (M163A1) anti-aircraft system,
-the 107mm mortar carrier (M106) and the 81mm mortar carrier (M125). The
-remainder of the M113s are spread throughout the regional brigades and
-training schools.
+of this vehicle being used are the command post (M577), the TOW missile
+carrier (M901), the 20mm Vulcan (M163A1) anti-aircraft system, the 107mm
+mortar carrier (M106) and the 81mm mortar carrier (M125). The remainder
+of the M113s are spread throughout the regional brigades and training
+schools.
 
 ![](/assets/images/nato/pt/army/image3.jpeg)
 

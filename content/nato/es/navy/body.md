@@ -6,24 +6,26 @@ and more prominent phase for the navy which had concentrated on blue
 water Anti-Submarine Warfare (ASW) work in the eastern Atlantic since
 joining NATO.
 
-**R-11 Príncipe de Asturias**
+[**R-11 Príncipe de
+Asturias**](https://www.militaryfactory.com/ships/detail.asp?ship_id=Principe-de-Asturias-R11)
 
 ![](/assets/images/nato/es/navy/image1.jpg)
 
 Launched in 1988 and modernized with new radars in 1990 this ship, the
-flagship of the Spanish Navy is very modern and capable. She carries 8
+flagship of the Spanish Navy, is very modern and capable. She carries 8
 AV-8B Harrier II, 8 Sea Kings, 4 AB-212 and 2 Sea King AEW. At war start
 she is conducting a port visit to Rio de Janeiro as part of a 4 month
 tour aimed at training and validating the use of the Spanish Navy’s new
 AOR (A-14 Patiño).
 
-**Santa María-class frigate**
+[**Santa María-class
+frigate**](http://www.seaforces.org/marint/Spanish-Navy/Frigate/Santa-Maria-class.htm)
 
-The six ships of this class are based on the US Oliver Hazard Perry
-class with a wider beam and a different close in weapons suite. These
-ships are all less than 10 years old and the final batch were purchased
-earlier in Northern Fury so all are available by the end of 1993,
-although F86 Canarias is still undergoing sea trials.
+The six ships of this class are based on the US Oliver Hazard Perry with
+a wider beam and a different close in weapons suite. These ships are all
+less than 10 years old and the final batch were purchased earlier in
+Northern Fury so all are available by the end of 1993, although F86
+Canarias is still undergoing sea trials.
 
 | F 81 | Santa Maria | Persian Gulf      |
 | ---- | ----------- | ----------------- |
@@ -35,11 +37,12 @@ although F86 Canarias is still undergoing sea trials.
 
 ![](/assets/images/nato/es/navy/image2.jpeg)
 
-**Baleares Class Frigate**
+[**Baleares Class
+Frigate**](https://en.wikipedia.org/wiki/Baleares-class_frigate)
 
 These five ships are based on the US Knox class but much improved with
-‘Standard’ air defence missiles and improved sonar, unfortunatly this
-was at the cost of helicopter facilities.
+‘Standard’ air defence missiles and improved sonar, unfortunately all
+this was at the cost of helicopter facilities.
 
 | F 71 | Baleares    | Off Gibraltar    |
 | ---- | ----------- | ---------------- |
@@ -50,7 +53,8 @@ was at the cost of helicopter facilities.
 
 ![](/assets/images/nato/es/navy/image3.jpeg)
 
-**Descubierta-class Corvette**
+[**Descubierta-class
+Corvette**](https://en.wikipedia.org/wiki/Descubierta-class_corvette)
 
 The six 1500 ton corvettes or Patrol Frigates of the Descubierta class
 primarily focus on surface warfare, with only limited short range air
@@ -68,12 +72,13 @@ international missions.
 
 ![](/assets/images/nato/es/navy/image4.jpg)
 
-**Serviola-class patrol boat**
+[**Serviola-class patrol
+boat**](https://en.wikipedia.org/wiki/Serviola-class_patrol_boat)
 
 The four ships in this class were all commissioned in 91 and 92. They
 are designed for offshore patrol and are able to maintain operations in
 heavy seas. They can operate a helicopter although none are normally
-embarked but they do normaly deploy its two RHIBs.
+embarked but they do normally deploy with two RHIBs.
 
 ![](/assets/images/nato/es/navy/image5.jpeg)
 
@@ -90,8 +95,8 @@ battalions, two artillery batteries, a tank company with M48 Patton
 tanks, amphibious tractors and various other elements. Unfortunately,
 there is very little in the way of amphibious landing capability; two
 Dock Landing Ships are being designed, and the two ‘Newport’ class LSTs
-destined for Spain were retained by the US and not sold to Spain. Spain
-has the following amphibious ships, all based at Rota:
+destined for Spain were retained by the US. Spain has the following
+amphibious ships, all based at Rota:
 
   - 2x 1950’s era Attack Transports of WW2 design
 
@@ -113,7 +118,7 @@ L11 Velasco ex US LST-1156 Terrebonne Parish
 
 **Submarines**
 
-**Agosta Class**
+[**Agosta Class**](http://www.military-today.com/navy/agosta_class.htm)
 
 These four French designed Submarines are very capable SSK or
 conventionally powered attack submarines. These boats have the endurance
@@ -128,7 +133,7 @@ beyond.
 | S 73 | Mistral    | Off Syria     |
 | S 74 | Tramontana | Tied Up       |
 
-**Daphné-class submarine**
+**[Daphné-class](http://www.military-today.com/navy/daphne_class.htm)**
 
 The four Daphne class submarines are older and smaller than the Agosta’s
 but their 8 forward and 4 stern firing torpedo tubes make for an

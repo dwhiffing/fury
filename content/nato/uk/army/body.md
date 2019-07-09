@@ -1,11 +1,10 @@
 **British Army**
 
-The British Army is a large and diverse organization with long standing
-traditions and global commitments. One of the key components is the
-‘British Army on the Rhine’ which commanded all British troops on
-continental Europe during peacetime and took on the responsibilities of
-NORTHAG HQ in wartime (Northern Army Group). More detail can be found at
-this
+The British Army is a diverse organization with long standing traditions
+and global commitments. One of the key components is the ‘British Army
+on the Rhine’ BAOR, which commanded all British troops on continental
+Europe and took on the responsibilities of NORTHAG HQ in wartime
+(Northern Army Group). More detail can be found at this
 [link](https://en.wikipedia.org/wiki/NORTHAG_wartime_structure_in_1989).
 In all likelihood at least one French Corps would come under command
 NORTAG as well.
@@ -13,45 +12,45 @@ NORTAG as well.
 ![](/assets/images/nato/uk/army/image1.png)
 
 In addition to the BAOR the British Army had significant forces
-stationed at home. Some of these troops were tasked with reinforcing
-BAOR while others had Home Defence tasks, and responsibility for
-security in Northern Ireland. Upon mobilization it was expected that
-units moving to Germany would arrive and be ready for combat within 72
-hours, this was tested on several major exercises and was well planned
-and rehearsed. The ‘TA’ (Territorial Army) elements are the equivalent
-of National Guard, Militia or Reserve forces. 30 Engineer Bde provided
-general support engineering to NORTHAG, 1<sup>st</sup> Infantry Bde
-reinforced HQ Schleswig-Holstein in northern Germany while
-5<sup>th</sup> Airborne Bde became a general reserve unit for tasking by
-SHAPE. If the AMF(L) (ACE\[Allied Command Europe\] Mobile Force –Land)
-deployed to Norway the British Battle Group would accompany it, if not
-this unit would reinforce BAOR. Home defence units, in addition to
-security, would form a recruiting and training base for replacements
-into BAOR.
+stationed at home. Some were tasked with reinforcing BAOR while others
+had Home Defence tasks or responsibility for security in Northern
+Ireland. Upon mobilization it was expected that units moving to Germany
+would arrive and be ready for combat within 72 hours, this was tested on
+several major exercises and was well planned and rehearsed. The ‘TA’
+(Territorial Army) elements are the equivalent of National Guard,
+Militia or Reserve forces in other nations. Reinforcement to Germany
+included 30 Engineer Bde to provide general support engineering to
+NORTHAG, 1<sup>st</sup> Infantry Bde reinforced HQ Schleswig-Holstein in
+northern Germany and 5<sup>th</sup> Airborne Bde which became a general
+reserve unit for tasking by SHAPE. If the AMF(L) (ACE\[Allied Command
+Europe\] Mobile Force –Land) deployed to Norway the British Battle Group
+would accompany it, if not this unit would reinforce BAOR. Home defence
+units, in addition to security elements, would form a recruiting and
+training base for replacements into BAOR.
 
 ![](/assets/images/nato/uk/army/image2.png)
 
-![](/assets/images/nato/uk/army/image3.png) Another key role for
-the British Army is maintenance of overseas garrisons. Each one is
-unique and has evolved into its current form through diplomatic
-commitments, changes to the local threat and availability of forces. The
-Falklands garrison was only a 45 man Royal Marine platoon when Argentina
-invaded; the reinforced Battalion Group currently residing there is much
-more of a deterrent. Training is also a key factor in these overseas
-garrisons and units tasked to deploy on a rotation, do so with the
-intent of achieving significant training while stationed abroad. To
-facilitate this there are established training units in each garrison as
-well as Kenya and Canada where units deploy specifically for training
-opportunities.
+![](/assets/images/nato/uk/army/image3.png)Another key role for the
+British Army is maintenance of overseas garrisons. Each one is unique
+and has evolved into its current form through diplomatic commitments,
+changes to the local threat and availability of forces. The Falklands
+garrison was only a 45 man Royal Marine platoon when Argentina invaded;
+the reinforced Battalion Group currently residing there is much more of
+a deterrent. Exercises are a key factor in these overseas deployments
+and units tasked to deploy on a rotation, do so with the intent of
+achieving meaningful training objectives while stationed abroad. To
+facilitate this there are established housekeeping units in each
+garrison as well as Kenya and Canada where units deploy specifically for
+training opportunities.
 
 Finally elements that are not strictly within the Army but which occupy
 the land environment and therefore share some training and equipment
 similarities with the Army are shown below. The RAF Regt is primarily
 dedicated to airfield and nuclear storage site security. The Royal
 Marine Commando Bde is a unit of the Royal Navy (RN) and able to deploy
-globally but routinely trains, with an attached Dutch Battalion, for
+globally, and routinely trains with an attached Dutch Battalion for
 deployment to Norway. The SAS (Special Air Service), along with the SBS
-(Special Boat Service) controlled by the RN are the UK’s globally
+(Special Boat Service) controlled by the RN, are the UK’s globally
 deployable Special Forces element.
 
 ![](/assets/images/nato/uk/army/image4.png)
@@ -60,41 +59,42 @@ deployable Special Forces element.
 
 [**Challenger 2**](http://www.military-today.com/tanks/challenger_2.htm)
 
-![](/assets/images/nato/uk/army/image5.png)Historically this tank
-was not integrated into the British Army until 1998, but the first tanks
-were produced in 1994, three years after being ordered, followed by a
-further three years of trials and testing. Northern Fury has the first
-70 already produced, enough to equip one Tank Regt (Bn) in BAOR. The
-Challenger 2 marks a significant improvement in MBT capability for the
-British Army, it has a 120mm rifled gun as opposed to the smooth bore on
-the Leopard 2, AMX Leclerc or M1A1 or A2 Abrams, allowing the use of
-HESH (High Explosive Squash Head) ammunition for supporting infantry and
-‘bunker busting’. As far as protection, the Challenger 2 with its
-improved Chobham armour is, in 1994, probably the most heavily protected
-tank in the world, others tanks with add on armor improvements, would
-soon catch
-up.
+Historically this tank was not integrated into the British Army until
+1998, but the first tanks were produced in 1994, three years after being
+ordered, followed by a further three years of trials and testing.
+Northern Fury has the first 70 already produced, enough to equip one
+Tank Regt (Bn) in BAOR. The Challenger 2 marks a significant improvement
+in MBT capability for the British Army, it has a 120mm rifled gun as
+opposed to the smooth bore on the Leopard 2, AMX Leclerc or Abrams M1A1
+or A2 Abrams, allowing the use of HESH (High Explosive Squash Head)
+ammunition for supporting infantry and ‘bunker busting’. As far as
+protection, the Challenger 2 with its improved Chobham armour is, in
+1994, probably the most heavily protected tank in the world, others
+tanks with add on armor improvements, would soon catch up.
 
-![](/assets/images/nato/uk/army/image6.jpeg)[**Challenger 1**](http://fighting-vehicles.com/challenger-1-tank/)
+![](/assets/images/nato/uk/army/image5.png)
+
+[**Challenger 1**](http://fighting-vehicles.com/challenger-1-tank/)
 
 The British Army operated 420
 [versions](http://www.military-today.com/tanks/challenger_1.htm) of this
-tank which had a 120mm gun, the original form of Chobham armour and
-reasonable mobility. Its direct competitor for this generation of tank –
-the Leopard 1, was faster, and more agile – but less protected and only
-had a 105mm
+tank which also had a 120mm gun, the original form of Chobham armour and
+reasonable mobility. Its direct competitors for this generation of tank
+– the Leopard 1 and Abrams M1A1, were faster, and more agile – but
+less protected and only had a 105mm
 gun.
+
+![](/assets/images/nato/uk/army/image6.jpeg)
 
 [**Chieftain**](http://www.tanks-encyclopedia.com/coldwar/UK/chieftain.php)
 
 Although old, this 1960’s era tank was cutting edge when produced and
 was regularly upgraded. It carried the same 120mm rifled gun as the
 Challengers but its armour was of welded steel construction and
-therefore much less capable than the composite Chobham armour of its
-successors. 870 Chieftains, plus a large number of bridge-layers,
-recovery vehicles and engineering vehicles were still in service in
-1994. Over 400 were in storage and available for use, as were 570 of the
-older Centurion tanks.
+therefore much less capable than the composite armour of its successors.
+870 Chieftains, plus a large number of bridge-layers, recovery vehicles
+and engineering vehicles were still in service in 1994. Over 400 were in
+storage and available for use, as were 570 of the older Centurion tanks.
 
 ![](/assets/images/nato/uk/army/image7.jpeg)
 
@@ -103,7 +103,7 @@ older Centurion tanks.
 [**Warrior
 IFV**](https://www.militaryfactory.com/armor/detail.asp?armor_id=27)
 
-![](/assets/images/nato/uk/army/image8.jpeg)Initially [delivered
+Initially [delivered
 in 1988](http://tanknutdave.com/the-british-warrior-mcv/), the full
 order of 1053 was filled in the Northern Fury world (vice the historic
 reduction to 789) with the last examples coming off the assembly line in
@@ -113,40 +113,54 @@ of an infantry section, and significantly improved protection and
 mobility as well. Several command, observation and repair vehicles were
 also produced.
 
-![](/assets/images/nato/uk/army/image9.jpg)**FV-432**
+![](/assets/images/nato/uk/army/image8.jpeg)
+
+[**FV-432**](https://en.wikipedia.org/wiki/FV432)
 
 The FV-432 is the British answer to the American M113 APC, the basic
-version can carry 10 soldiers in addition to the 2 man crew. Built in
+version can carry 10 soldiers in addition to the 2-man crew. Built in
 several variants this is a versatile and adaptable vehicle but generally
 underpowered. Early production examples, the Mk1 was produced with a
-gasoline engine (petrol), most of these have since been replaced by a
-two stroke multi-fuel engine, still underpowered but more sustainable
+gasoline (petrol) engine, most of these have since been replaced by a
+two stroke multi-fuel engine; still underpowered but more sustainable
 within the NATO supply system. Over 2400 are in service throughout the
 British Army.
+
+![](/assets/images/nato/uk/army/image9.jpg)
 
 **[CVR-T](http://tanknutdave.com/the-british-cvrt-family/): Combat
 Vehicle Reconnaissance (Tracked)**
 
 This is a prolific family of vehicles conducting all manner of tasks
-within the British Army. Seven main variants are in use in 1994:
+within the British Army. The seven main variants are in use in 1994:
 
-  - ![](/assets/images/nato/uk/army/image10.jpg)**Scorpion**:
-    Reconnaissance vehicle with 76mm gun, 313 in use, 184 with the RAF
-    Regt;
+  - [**FV101
+    Scorpion**](http://www.tanks-encyclopedia.com/coldwar/UK/Alvis_Scorpion.php):
+    Reconnaissance vehicle with 76mm gun, \~1500 in use including 184
+    with the RAF Regt;
 
-  - **Striker**: Anti-Tank variant with a Swingfire missile system, 89
-    in use;
+  - [**FV102
+    Striker**](http://www.tanks-encyclopedia.com/coldwar/UK/Alvis_Striker.php):
+    Anti-Tank variant with a Swingfire missile system, 89 in use;
 
-  - **Spartan**: APC with a 3 man crew and 4 passengers, 691 in use;
+  - [**FV103 Spartan**](https://en.wikipedia.org/wiki/FV103_Spartan):
+    APC with a 3-man crew and 4 passengers, 691 in use;
 
-  - **Samaritan**: Ambulance variant, 50 in use;
+  - [**FV104
+    Samaritan**](https://en.wikipedia.org/wiki/FV104_Samaritan):
+    Ambulance variant, 50 in use;
 
-  - **Sultan**: Command and control vehicle, 291 in use;
+  - [**FV105 Sultan**](https://en.wikipedia.org/wiki/FV105_Sultan):
+    Command and control vehicle, 291 in use;
 
-  - **Samson**: Armoured Recovery Vehicle (ARV), 136 in use;
+  - [**FV106 Samson**](https://en.wikipedia.org/wiki/FV106_Samson):
+    Armoured Recovery Vehicle (ARV), 136 in use;
 
-  - **Scimitar**: Reconnaissance vehicle with a 30mm cannon, 334 in
-    service;
+  - [**FV107
+    Scimitar**](http://www.tanks-encyclopedia.com/coldwar/UK/Alvis_Scimitar.php):
+    Reconnaissance vehicle with a 30mm cannon, 334 in service;
+    
+    ![](/assets/images/nato/uk/army/image10.jpg)
 
 [**Saxon**](http://www.military-today.com/apc/saxon.htm)
 
@@ -157,22 +171,24 @@ service.
 
 ![](/assets/images/nato/uk/army/image11.jpg)
 
-![](/assets/images/nato/uk/army/image12.jpg)[**Saracen**](http://tanknutdave.com/the-british-fv-601-saladin-a-fv-603-saracen/)
+[**Saracen**](http://tanknutdave.com/the-british-fv-601-saladin-a-fv-603-saracen/)
 
 Another ‘battle taxi’, this 6-wheeled APC introduced in the mid 50’s had
 several variants. Only about 300 of them are left in service in 1994.
+
+![](/assets/images/nato/uk/army/image12.jpg)
 
 **Artillery**
 
 The Royal Artillery fielded some 42 units in the British Army including
 air defence. The M109’s were historically sold to Austria in late 1994
-however that deal was not offered in this storyline, instead the 155mm
-Close Support Regts in maneuver Bdes were equipped to war strength of 24
-guns each, leaving two Regts of Abbots in that role, the rest of the
-Abbots were put in reserve. The Light Guns support of the light role
-Bdes, the Pack howitzers support the Airborne, and the remainder are for
-General Support to Divisions and 1 BR Corps. The MLRS arrived for
-service in 1992.
+however that deal was not offered in this storyline. Instead Close
+Support Regiments in maneuver brigades were equipped to war strength of
+24 guns 155mm guns each (AS-90 or M-109), except for two units of 105mm
+Abbots in that role. The remainder of the Abbots were put in reserve.
+The Light Guns support of the light role brigades, the Pack howitzers
+support the Airborne elements, and the remainder are for General Support
+to Divisions and 1 BR Corps. The MLRS arrived for service in 1992.
 
   - 200x Abbot 105mm Self Propelled (SP) Howitzers (in reserve);
 

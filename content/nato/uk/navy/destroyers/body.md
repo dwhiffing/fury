@@ -10,11 +10,11 @@ its capability in the Anti-Submarine Role (ASW) role.
 [**HMS Bristol –
 Type 82**](https://en.wikipedia.org/wiki/Type_82_destroyer): The Type 82
 proved to be too large, expensive and limited in capability for the
-British government of the day, and the class was terminated after only
-one ship, HMS Bristol (D-23). She proved to be a good AAD ship with her
-Sea Dart Surface to Air missiles (SAM) but was 50% larger with almost
-twice as many crew for the more well rounded Type 42s. She is stationed
-in home waters with the task of AD escort for HMS Invincible
+government of the day, so the class was terminated after only one ship,
+HMS Bristol (D-23). She proved to be a good AAD ship with her Sea Dart
+Surface to Air missiles (SAM) but was 50% larger with almost twice as
+many crew for the more well rounded Type 42s. She is stationed in home
+waters with the task of AD escort for HMS Invincible
 (R-05).
 
 | Class   | Pennant | Ship    | Status | Location | Task       | Remarks |
@@ -32,11 +32,12 @@ which did not explode but knocked out her engines.   As a result, the
 Batch 3 ships are larger and displace 20% more than the other two
 Batches, they have better sea keeping, a larger Sea Dart Magazine,
 better countermeasures, and many other improvements.  All ships were
-refitted with an improved radar. All ships carry a single Lynx ASW
-helicopter, 4x Exocet ASM, a 4.5-inch gun, two Phalanx Close in Weapons
-System (CIWS) among other systems. ***HMS Gloucester*** became the first
-ship to shoot down an ASM (an Iraqi Silkworm) while protecting the US
-Battleship ***USS Missouri*** during the Persian Gulf
+refitted with an improved radar in the late 1980’s. All three batches
+carry a single Lynx ASW helicopter, 4x Exocet ASM, a 4.5-inch gun, two
+Phalanx Close in Weapons System (CIWS) among other systems. ***HMS
+Gloucester*** became the first ship in history to shoot down an ASM (an
+Iraqi Silkworm) while protecting the US Battleship ***USS Missouri***
+during the Persian Gulf
 war.
 
 | Class      | Pennant | Ship        | Status | Location      | Task        | Remarks     |

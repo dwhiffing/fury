@@ -1,21 +1,20 @@
 **Netherlands**
 
-The Netherlands Army was mainly deployed in a Corps organization. The
-three Dutch mechanized infantry divisions were organized along
+The Netherlands Army was mainly deployed in a single corps organization.
+The three Dutch mechanized infantry divisions were organized along
 streamlined Brigade Group structures without divisional troops. The
 corps troops organizations, particularly artillery and engineer were
-quite extensive which allowed for very flexible grouping based on the
-mission assigned. Although each mechanized division has a Panzer
+quite robust and extensive allowing for very flexible grouping based on
+the mission assigned. Although each mechanized division has a Panzer
 Brigade, and the other two Brigades in each division have a Panzer
 Battalion, the armored punch of the corps comes from the attached German
 Panzer division.
 
 ![](/assets/images/nato/nl/army/image1.png)
 
-The other key element of the Netherlands ground forces are the
-Netherlands Marines. This is a unique organization which does not
-normally operate as a unit, but in separately tasked battalion sized
-‘Groups’.
+The other key element of the Netherlands ground forces are the Marines.
+This is a unique organization which does not normally operate as a unit,
+but in separately tasked battalion sized ‘Groups’.
 
 ![](/assets/images/nato/nl/army/image2.png)
 
@@ -32,26 +31,32 @@ The 3<sup>rd</sup> Group were reservists, formerly enrolled as marines
 this unit would initially provide security at naval bases but would then
 develop several Marine Battalions or a Marine Regiment for deployment.
 
-**Leopard 2**
+It should be noted that the Netherlands navy lacks any amphibious
+capability. Except for small landing craft and boats, the Marines must
+rely on amphibious transport from other nations – primarily the British
+RN but they also train with the French and Italian
+navies.
+
+[**Leopard 2**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
 
 The Dutch are the second largest operator of the Leopard 2, with 445 of
 them in the inventory. Starting in 1993, many (eventually 330) were
 upgraded to the Leopard 2A5 standard with improved armor. Representing
 about half of the tanks in service, the 4<sup>th</sup> Division was
 equipped entirely with the Leopard 2 while the Panzer Bde in the
-5<sup>th</sup> Division also had them.
+5<sup>th</sup> Division also had
+them.
 
 ![](/assets/images/nato/nl/army/image3.jpg)
 
-**Leopard 1**
+[**Leopard 1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
 
-The other half of the operational tanks in the Netherland’s roster were
+The other half of the operational tanks on the Netherland’s roster were
 Leopard 1V’s, the ‘V’ standard had a better fire control system then the
 original tank. The 468 Main Battle Tanks (MBTs) were used primarily in
 the 1<sup>st</sup> Division and the Panzerinfantrie Brigades of the
-5<sup>th</sup> Division. Also many Leopard 1 variants were used by the
-Dutch, including the Bridge-layer, and the Armored Recovery Vehicles
-(ARV).
+5<sup>th</sup> Division. Also many Leopard 1 variants were used,
+including the Bridge-layer and the Armored Recovery Vehicles (ARV).
 
 ![](/assets/images/nato/nl/army/image4.jpeg)
 
@@ -59,17 +64,19 @@ Dutch, including the Bridge-layer, and the Armored Recovery Vehicles
 
 Although there were about 500 M113’s and up to 900 YP-408’s (an
 8-wheeled Dutch design from the 50’s) in the Netherlands Army, the most
-important IFV was the YPR-765. Although they were derived from the M113,
-the basic version of YPR-765 was equipped with a 25mm cannon and firing
-ports so infantry inside the vehicle could use their weapons. 2079 of
-these vehicles were used but that includes several command variants, 119
-Anti Tank variants (PRAT) with TOW missiles and other specialist
-vehicles. All of the regular army Panzerinfantrie units were equipped
-with the YPR-765.
+important IFV was the
+[YPR-765](http://www.tanks-encyclopedia.com/coldwar/Netherlands/YPR-765.php).
+Although they were derived from the M113, the basic version was equipped
+with a 25mm cannon and firing ports so infantry inside the vehicle could
+use their weapons. 2,079 of these vehicles were used but that includes
+several command variants, 119 Anti Tank variants (PRAT) with TOW
+missiles and other specialist vehicles. All of the regular army
+Panzerinfantrie units were equipped with the YPR-765.
 
 ![](/assets/images/nato/nl/army/image5.jpg)
 
-**Lynx (M113C\&V)**
+[**Lynx (M113
+C\&V)**](http://www.tanks-encyclopedia.com/coldwar/canada/M113_LYNX.php)
 
 For reconnaissance work the Dutch use the M113 based Lynx vehicle but
 have added a 25mm Oerlikon turret. There are 250 of these in service
@@ -110,5 +117,32 @@ In total the inventory included:
 **Note:** Historically only 82 of the M114’s had been upgraded to the 39
 Caliber barrel. but in Northern Fury all 123 were. In addition to a
 4<sup>th</sup> battery added to each battalion in 104<sup>th</sup>
-Group, two of the retired (in 1990) battalions were retained. In
-addition, the Lance missiles (retired in 92) were maintained.
+Group, two of the retired (in 1990) battalions were retained. The Lance
+missiles was retired in 92 but has been retained here.
+
+**Air Defence**
+
+All air defence units are retained at corps, there are six battalions,
+three reserve and three regular.
+
+All air defence in the army is light and tactical, leaving the more
+stationary missile units to the air force. The regular battalions
+consisting of PRTL (Gepard twin 35mm mounded on a Leopard 1 chassis) and
+Stinger MANPADs missiles, are affiliated with the divisions but could be
+re-tasked based on need while the reserve elements equipped with Stinger
+and 40mm towed guns, are retained to protect vital points in the rear
+area.
+
+Equipment:
+
+  - 81 PRTL (Gepard)
+
+  - 81 Bofors 40mm AA gun
+
+  - 160 Stinger MANPADs
+
+> ![](/assets/images/nato/nl/army/image8.jpg)
+
+![](/assets/images/nato/nl/army/image9.jpeg)
+
+![](/assets/images/nato/nl/army/image10.jpg)

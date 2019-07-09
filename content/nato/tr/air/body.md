@@ -3,16 +3,16 @@
 The Turkish Air Force maintains a large but mixed inventory, with over
 550 aircraft in operations, about 380 of which are combat types.
 
-**F-16**
+[**F-16**](http://www.f-16.net/f-16_users_article21.html)
 
-Turkey builds its own F-16 under licence after receiving the first eight
-from the US under the Peace Onyx I program. The first batch was F-16
-Block 30 (34 ‘C’ & 9 ‘D’) airframes in 1987/90 - a mirror of the Greek
-Peace Xenia I program. TUSAS Aerospace Industries (TAI) continued to
-produce F-16 Block 40 to fill out the full order of 132 airframes by
-adding 102 ‘C’ and 15 more ‘D’ to the inventory. The F-16 has almost
-completely replaced the F-104G and most of the F-5A fleet taking over
-both the air superiority and ground support tasks.
+After receiving the first eight examples from the US under the Peace
+Onyx I program Turkey builds its own F-16 under licence. The first batch
+was F-16 Block 30 (34 ‘C’ & 9 ‘D’) airframes in 1987/90 - a mirror of
+the Greek Peace Xenia I program. TUSAS Aerospace Industries (TAI)
+continued to produce F-16 Block 40 to fill out the full order of 132
+airframes by adding 102 ‘C’ and 15 more ‘D’ to the inventory. The F-16
+has almost completely replaced the F-104G and most of the F-5A fleet
+taking over both the air superiority and ground support tasks.
 
 | Sqn | Name    | Wing  | Location   | AC | Type       |
 | --- | ------- | ----- | ---------- | -- | ---------- |
@@ -27,7 +27,8 @@ both the air superiority and ground support tasks.
 
 ![](/assets/images/nato/tr/air/image1.jpg)
 
-**F-4 Phantom**
+[**F-4
+Phantom**](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II)
 
 The F-4 was widely used in the Turkish Air Force, primarily for Air
 Superiority but also for reconnaissance and now, with the F-16 arriving,
@@ -45,7 +46,8 @@ it is taking up the ground support role.
 
 ![](/assets/images/nato/tr/air/image2.jpg)
 
-**F-5 Freedom Fighter**
+[**F-5 Freedom
+Fighter**](http://www.the-northrop-f-5-enthusiast-page.info/AirForces/TurkeyAF.html)
 
 Turkey retained over 100 F-5A/B but did not receive additional airframes
 from Canada, Norway and the Netherlands in the late 80s and early 90s as
@@ -63,10 +65,11 @@ team, the ‘Turkish Stars’.
 
 ![](/assets/images/nato/tr/air/image3.jpg)
 
-**F-104 Starfighter**
+[**F-104
+Starfighter**](https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter)
 
-One squadron of F-104 Freedom Fighters is planned to retire later in
-1994.
+One squadron of F-104 Freedom Fighters remains in service but is planned
+to retire later in 1994.
 
 | Sqn | Name | Wing  | Location   | AC | Type    | Remarks |
 | --- | ---- | ----- | ---------- | -- | ------- | ------- |
@@ -79,7 +82,7 @@ One squadron of F-104 Freedom Fighters is planned to retire later in
 Turkey’s geography demands a fairly large air transport fleet, primarily
 provided by three main types and augmented by a small fleet of executive
 jets. The CN-235s are just coming into service and 36 of an eventual 52
-are in service, in addition to the squadrons listed here, these are
+have been delivered, in addition to the squadrons listed here, these are
 distributed amongst all other wings and bases to provide liaison and Sea
 Air Rescue (SAR)
 flights.

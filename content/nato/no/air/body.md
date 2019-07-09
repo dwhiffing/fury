@@ -6,15 +6,15 @@ Primary fighter aircraft is the F-16. Although not part of the Norwegian
 Air force, a flight of 2 or 3 NATO E-3A AWACS are semi-permanently
 stationed an on task at Orland.
 
-**F-16 Falcon**
+[**F-16 Falcon**](http://www.f-16.net/f-16_users_article12.html)
 
-Norway is one of the four European countries that invested heavily into
-the F-16 Falcon project, purchasing 60 single seat ‘A’ models and 12
-dual seat ‘B’ versions. Each of the four Squadrons conduct patrols in
-North Norway on a rotational bases and regularly deploy to dispersal
-bases throughout the country. A unique feature of Norwegian F-16s is the
-ability to fire the AGM-119 ‘Penguin 3’ missile, an anti-ship armament
-critical due to the long and vulnerable coastline. Historically the
+Norway is one of four European countries that invested heavily into the
+F-16 Falcon project, purchasing 60 single seat ‘A’ models and 12 dual
+seat ‘B’ versions. Each of the four Squadrons conduct patrols in North
+Norway on a rotational bases and regularly deploy to dispersal bases
+throughout the country. A unique feature of Norwegian F-16s is the
+ability to fire the AGM-119 ‘Penguin 3’ anti-ship missile, a critical
+capability to defend the long and vulnerable coastline. Historically the
 first MLU (Mid life Upgrade) aircraft, able to fire the Aim-120 Air to
 Air missile arrived in 1995; however, that has been advanced by a year
 in Northern Fury and 338 Squadron has four of the improved aircraft on
@@ -35,14 +35,14 @@ are dispersed to Banak, Tromso and Evenes and they are maintaining a
 
 ![](/assets/images/nato/no/air/image1.jpeg)
 
-**F-5 Tiger II**
+[**F-5 Tiger II**](https://fas.org/man/dod-101/sys/ac/f-5.htm)
 
 Although Norway was in the process of retiring the F-5 Freedom Fighter,
 increased tensions changed that plan. Historically by 1994 the only F-5s
 remaining were 718 Sqn at the Fighter training school (14x F5B), 717
 Reconnaissance Sqn (16x RF-5A) and 336 Sqn with 24x F-5A focusing on
-ground attack. In Northern Fury however, two further squadrons were
-activated in 1992. Although dated these aircraft were available and
+ground attack. In Northern Fury however, two further squadrons remain
+active in 1992. Although dated these aircraft were available and
 airworthy so were used to fill a gap.
 
 | Sqn | Name      | Location   | No. | Type          | Remarks  |
@@ -59,8 +59,8 @@ airworthy so were used to fill a gap.
 
 Also under the control of 717 Sqn at Regge were two Falcon 20 Electronic
 Warfare (EW) aircraft. These were civilian pattern Dassaut Falcon
-executive jets that were heavily modified and sold to several air forces
-as a stop-gap area EW platform. The programme was quite successful.
+executive jets, heavily modified and sold to several air forces as a
+stop-gap area EW platform. The programme was quite successful.
 
 ![](/assets/images/nato/no/air/image3.jpeg)
 
@@ -86,8 +86,8 @@ service including the Coast Guard.
 **Sea King**
 
 Operated for the Coast Guard the Mk43B Sea Kings are primarily for SAR
-and air ambulance missions but can also be use for maritime patrol and
-utility tasks. No. 330 ‘Viking’ Sqn operates these 12 aircraft and are
+and air ambulance missions but can also be used for maritime patrol and
+utility tasks. No. 330 ‘Viking’ Sqn operates 12 aircraft and are
 dispersed in groups of two or three throughout Norway as required by the
 Coast Guard.
 
@@ -95,10 +95,10 @@ Coast Guard.
 
 **Lynx**
 
-Operated by No.337 Sqn primarily from Bardufoss but operating from
-various bases, these six Mk86 Lynx are meant for SAR and patrol work but
-also conduct may other tasks, they are not armed. They spend two weeks
-at a time on board the Nordkapp class OPVs as well as conducting routine
+Operated by No.337 Sqn primarily from Bardufoss but deployed to various
+bases, these six Mk86 Lynx are meant for SAR and patrol work but also
+conduct may other tasks, they are not armed. They spend two weeks at a
+time on board the Nordkapp class OPVs as well as conducting routine
 rescue and utility work.
 
 ![](/assets/images/nato/no/air/image7.jpeg)

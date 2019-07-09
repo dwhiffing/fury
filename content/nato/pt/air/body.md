@@ -10,13 +10,13 @@ Lajes on the Azores Portugal is now, after significant diplomatic
 effort, being compensated and is in the process of receiving their first
 Squadron of F-16’s from the US.
 
-**F-16**
+[**F-16**](http://www.f-16.net/f-16_users_article16.html)
 
 Against the wishes of the USAF, which is working hard to use every F-16
-available, the US has recently provided Portugal with 20 F-16s through
-the Peace Atlantis I program as payment for the use of Lajes Air Base in
-the Azors. The first six of these have been delivered a few months
-earlier than historic, the 4x F-16A and 2 F-16B are Block 15 OCU
+available, the US Government has recently provided Portugal with 20
+F-16s through the Peace Atlantis I program as payment for the use of
+Lajes Air Base in the Azors. The first six have been delivered a few
+months earlier than historic, the 4x F-16A and 2 F-16B are Block 15 OCU
 (Operational Capability Upgrade) and almost identical to the US Air
 National Guard ADF (Air Defence Fighter) used for NORAD tasks.
 Therefore, they have the ability to fire the Aim-7M Sparrow and Aim-9L
@@ -29,7 +29,7 @@ Sidewinder missiles
 A large portion of the Portuguese air force is committed to the A-7P
 light attack aircraft which were second hand US Navy aircraft upgraded
 to the latest variant. Two Squadrons operate out of Monte Real. These
-30-year-old aircraft are rugged but well used and will eventually be
+30-year-old workhorses are rugged but well used and will eventually be
 replaced by F-16s.
 
 ![](/assets/images/nato/pt/air/image2.jpeg)
@@ -39,10 +39,10 @@ replaced by F-16s.
 In another ‘Aircraft for Base’ deal, Germany has supplied Portugal with
 50 Dornier Alpha Jets as compensation for using the base at Beja as the
 Luftwaffe’s air combat training center. Although Germany was going to
-renege on the deal, pressure from the US, UK, France and Spain convinced
-them to deliver. These aircraft replaced the aging Fiat G.91s in the
-close support role and the 1950’s era Cessna T-37 Tweet in the attack
-training role.
+renege on the deal (in Northern Fury), pressure from the US, UK, France
+and Spain convinced them to deliver. These aircraft replaced the aging
+Fiat G.91s in the close support role and the 1950’s era Cessna T-37
+Tweet in the attack training role.
 
 ![](/assets/images/nato/pt/air/image3.jpeg)
 
@@ -50,7 +50,7 @@ training role.
 
 The Portuguese operate 6 ‘H’ model Hercules, although 3 are the more
 modern H2 and H3 versions. Tactual transport and general duties keep
-these workhorses quite busy.
+them quite busy.
 
 ![](/assets/images/nato/pt/air/image4.jpeg)
 
@@ -78,6 +78,27 @@ Sea.
 
 ![](/assets/images/nato/pt/air/image6.jpg)
 
+**Falcon 20 & 50**
+
+Portugal operates three Falcon 20 and two Falcon 50 for general and VIP
+transport, medical emergencies and other high priority duties.
+
+![](/assets/images/nato/pt/air/image7.jpg)
+
+[**Alouette
+III**](https://en.wikipedia.org/wiki/Sud_Aviation_Alouette_III_in_Portuguese_service)
+
+Originally Portugal operated 142 of these like utility/transport
+helicopters, primarily to support the army during colonial wars in
+Africa in the 60s’ and 70s’ but this number has been reduced to about
+24. Historically after budget cuts in 1986 and 1993 this was reduced to
+eight helicopters but in Northern Fury these final cuts were either not
+made or reversed. These helicopters are used for general transport,
+tactical support of the army and navy, flight instruction, and air
+demonstration team and coastal search and rescue.
+
+![](/assets/images/nato/pt/air/image8.jpg)
+
 | Sqn | Name         | Location   | \# of AC | Type of AC          |
 | --- | ------------ | ---------- | -------- | ------------------- |
 | 103 | Caracóis     | Beja       | 24       | Alpha Jet           |
@@ -89,7 +110,7 @@ Sea.
 | 501 | Bison        | Montijo    | 6        | C-130H              |
 | 502 | Elephant     | Montijo    | 8        | C-212               |
 | 503 | Dolphins     | Lajes      | 8        | C-212               |
-| 504 | Lynxes       | Lisbon     | 2        | Falcon 50           |
-| 551 | Aligators    | Montijo    | 24       | Alouette III SA 319 |
-| 552 | Drones       | Beja       | 24       | Alouette III SA 319 |
+| 504 | Lynxes       | Lisbon     | 3/2      | Falcon 20/50        |
+| 551 | Aligators    | Montijo    | 12       | Alouette III SA 319 |
+| 552 | Zangoes      | Beja       | 12       | Alouette III SA 319 |
 | 601 | Lobos        | Beja       | 6        | P-3P Orion          |

@@ -2,13 +2,12 @@
 
 Great Britain’s Royal Navy, with over 450 years of history is the UK’s
 Senior Service. Over it’s history it has fought both against and along
-side most other navies in NATO. Although by 1994, after three decades of
-budgetary constrictions, the RN is still a potent force but only a
-shadow of its former self. Maintaining a full suite of naval
-capabilities from strategic ballistic missile submarines, through
-aircraft carriers, an active amphibious force and global logistics, the
-RN is stretched thin and is some areas only held together by tradition
-and pride.
+side most other navies in NATO. Although still a potent force by 1994,
+after three decades of budgetary constriction, the RN is only a shadow
+of its former self. Maintaining a full suite of naval capabilities from
+strategic ballistic missile submarines, through aircraft carriers, an
+active amphibious force and global logistics, the RN is stretched thin
+and in some areas only held together by tradition, training and pride.
 
 The recent war experience in the Falklands gave British politicians and
 budget conscious bureaucrats a lesson in the cost of neglect. Thus with

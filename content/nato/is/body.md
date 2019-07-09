@@ -11,5 +11,10 @@ they are only lightly armed but can support one of the four SA-365N-1
 Dauphin 2 helicopters, although only for landing and fueling, they have
 no hanger.
 
+![C:\\Users\\Bart\\Pictures\\NF
+Web\\Tyr.jpg](/assets/images/nato/is/image1.jpeg)
+
 The single fixed wing asset is a Fokker F-27 used for maritime patrol
 and search and rescue tasks.
+
+![](/assets/images/nato/is/image2.jpg)

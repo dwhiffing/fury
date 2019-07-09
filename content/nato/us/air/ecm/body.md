@@ -3,7 +3,7 @@
 [**EF-111
 Raven**](http://www.military-today.com/aircraft/ef111_raven.htm)
 
-The universal nickname for this aircraft was the ‘Spark Vark’ because it
+The universal nickname for this aircraft is the ‘Spark Vark’ because it
 was the electronic warfare version of the F-111 Aardvark. From the mid
 ’80s onward these aircraft were designed to accompany strike packages
 and jam or confuse enemy radars and electronic systems. Equipped with
@@ -46,8 +46,8 @@ available from reserve.
 
 [**EC-130**](https://fas.org/man/dod-101/sys/ac/ec-130e.htm)
 
-This section will present two versions of the EC-130 Hercules one of
-them is a dedicated ECM aircraft, and the other a Battlespace management
+This section presents two versions of the EC-130 Hercules one of them is
+a dedicated ECM aircraft, and the other a Battlespace management
 aircraft.
 
 [EC-130H Compass
@@ -65,17 +65,18 @@ two to support specific operations.
 [EC-130E
 ABCCC](http://www.airforcemag.com/MagazineArchive/Magazine%20Documents/1999/July%201999/0799abccc.pdf)
 
-![](/assets/images/nato/us/air/ecm/image4.jpg)![](/assets/images/nato/us/air/ecm/image5.jpeg)These
-Airborne Battlefield Command and Control Center (ABCCC) aircraft enabled
-Command and Control of large air or ground operations. They had a 40
-foot ‘capsule’ or ‘pod’ in the cargo bay which contained over 20 radio
-systems allowing the full time monitoring of AWACS or J-STARS feed,
-communications with air and ground units gave the commander a near-real
-time understanding of the battle space. Developed in Viet Nam, only
-seven of these aircraft remained in operation by 1994, operated by
+These Airborne Battlefield Command and Control Center (ABCCC) aircraft
+enabled Command and Control of large air or ground operations. They had
+a 40 foot ‘capsule’ or ‘pod’ in the cargo bay which contained over 20
+radio systems allowing the full time monitoring of AWACS or J-STARS
+feed, communications with air and ground units gave the commander a
+near-real time understanding of the battle space. Developed in Viet Nam,
+only seven of these aircraft remained in operation by 1994, operated by
 7<sup>th</sup> Airborne Command and Control Squadron (ACCS) which
 remained at Keesler AFB. In Northern Fury they did not move to Offutt
 AFB as their transition to the EC-135 does not occur.
+
+![](/assets/images/nato/us/air/ecm/image4.jpeg)
 
 [EC-135 Looking Glass](https://fas.org/nuke/guide/usa/c3i/ec-135.htm)
 
@@ -85,8 +86,11 @@ alert](https://seanmunger.com/2016/02/03/bird-of-doom-the-endless-nuclear-vigil-
 with at least one aircraft in the air at all times, now 33 years later
 they still do so. They did not adopt a ground alert status in 1990 as
 they historically did. These aircraft are the fail-safe method of
-launching a retaliatory nuclear strike. Although 39 aircraft were used
-in this role over time, only 12 are operated by 2<sup>nd</sup> and
-4<sup>th</sup> Airborne Command and Control Squadrons (ACCS). Until the
-closure of SAC, the Looking Glass Wings had dedicated tankers; however,
-this role has been transferred to AMC for general tanker support.
+launching a retaliatory nuclear strike. Although over the three decades
+39 aircraft were used in this role, only 12 are operated by
+2<sup>nd</sup> and 4<sup>th</sup> Airborne Command and Control Squadrons
+(ACCS) at a time. Until the closure of SAC, the Looking Glass Wings had
+dedicated tankers; however, this role has been transferred to AMC for
+general tanker support.
+
+![](/assets/images/nato/us/air/ecm/image5.jpg)

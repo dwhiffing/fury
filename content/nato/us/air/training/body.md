@@ -2,36 +2,36 @@
 
 [**T-41 Mescalero**](https://fas.org/man/dod-101/sys/ac/t-41.htm)
 
-![](/assets/images/nato/us/air/training/image1.jpg)This military
-version of the Cessna 172 was used by the USAF to determine a student’s
-suitability for further flight training. This was called the Flight
-Screening Program (FSP), and was conducted by a contracted company at
-Hondo Airfield, Texas. Each officer candidate would spend 14 hours of
-flight training in the T-41 prior to being accepted into flight school.
-The program was conducted under the auspices of 12 Air Training Wing at
-Randolph AFB. About 200 aircraft were engaged in this task at any time
-as well as another 50 more powerful T-41C held at the Air Force Academy
-in Colorado. The T-41-Cs were to provide officer candidates at the
-Academy a further 21 hours of flight training under a similar contract
-arrangement. The Army also operated another 255 T-41B in training and
-liaison duties.
+This military version of the Cessna 172 was used by the USAF to
+determine a student’s suitability for further flight training. This was
+called the Flight Screening Program (FSP), and was conducted by a
+contracted company at Hondo Airfield, Texas. Each officer candidate
+would spend 14 hours of flight training in the T-41 prior to being
+accepted into flight school. The program was conducted under the
+auspices of 12 Air Training Wing at Randolph AFB. About 200 aircraft
+were engaged in this task at any time as well as another 50 more
+powerful T-41C held at the Air Force Academy in Colorado. The T-41Cs
+were to provide officer candidates at the Academy a further 21 hours of
+flight training under a similar contract arrangement. The Army also
+operated 255 T-41B in training and liaison duties.
 
-**Note**: Neither the T-3 or the T-6 were available at the time of
+**Note**: Neither the T-3 nor the T-6 were available at the time of
 Northern Fury.
+
+![](/assets/images/nato/us/air/training/image1.jpg)
 
 [**T-37B Tweet**](https://fas.org/man/dod-101/sys/ac/t-37.htm)
 
-![](/assets/images/nato/us/air/training/image2.jpg)The T-37 is the
-basic jet trainer used by the USAF and many other air forces. The main
-function of the aircraft is to train pilots and navigators in the
-fundamentals of flight, navigation, instrumentation, night and formation
-flying. This aircraft introduces students to the handling and
-characteristics of jet aircraft before they move into either the T-38 or
-the T-1A. Over 1,000 were produced for the USAF and about 580 remain in
-service in 1994, all are T-37B and used by 12 Flight Training Squadrons
-(FTS). The heavily modified T-37C can be armed and is in use by various
-air forces around the world as was the A-37 Super Tweet used extensively
-by the USAF in Viet
+The T-37 is the basic jet trainer used by the USAF and many other air
+forces. The main function of the aircraft is to train pilots and
+navigators in the fundamentals of flight, navigation, instrumentation,
+night and formation flying. This aircraft introduces students to the
+handling and characteristics of jet aircraft before they move into
+either the T-38 or the T-1A. Over 1,000 were produced for the USAF and
+about 580 remain in service in 1994, all are T-37B and used by 12 Flight
+Training Squadrons (FTS). The heavily modified T-37C can be armed and is
+in use by various air forces around the world as was the A-37 Super
+Tweet used extensively by the USAF in Viet
 Nam.
 
 | Sqn                  | Name            | Wing             | Location         | No. | Type  | Remarks             |
@@ -49,8 +49,9 @@ Nam.
 | 455 FTS              | Hawks           | 323<sup>rd</sup> | Mather AFB, CA   | 48  | T-37B |                     |
 | 559<sup>th</sup> FTS | Billy Goats     | 12<sup>th</sup>  | Randolph AFB, TX | 48  | T-37B | Instructor training |
 
-![](/assets/images/nato/us/air/training/image3.jpg)[**T-38
-Talon**](https://fas.org/man/dod-101/sys/ac/t-38.htm)
+![](/assets/images/nato/us/air/training/image2.jpg)
+
+[**T-38 Talon**](https://fas.org/man/dod-101/sys/ac/t-38.htm)
 
 The Talon is an advanced jet trainer and students move onto this
 aircraft from the T-37 if they are going into fighters, strike or bomber
@@ -81,8 +82,9 @@ training.
 | 435<sup>th</sup> FTS | Black Eagles     | 43<sup>rd</sup> | Holloman AFB, NM | 40  | T-38 |                     |
 | 560<sup>th</sup> FTS | Chargin Cheetahs | 12<sup>th</sup> | Randolph AFB, TX | 40  | T-38 | Instructor training |
 
-![](/assets/images/nato/us/air/training/image4.jpeg)[**T-1A
-Jayhawk**](https://fas.org/man/dod-101/sys/ac/t-1.htm)
+![](/assets/images/nato/us/air/training/image3.jpg)
+
+[**T-1A Jayhawk**](https://fas.org/man/dod-101/sys/ac/t-1.htm)
 
 The Jayhawk came into the USAF in 1992 and began training pilots for the
 airlift and tanker fleets in early 1993. Both US Navy and USMC pilots
@@ -101,7 +103,9 @@ each.
 | 86<sup>th</sup> FTS | Lobos           | 47<sup>th</sup> | Lackland AFB, TX | 16  | T-1A |                     |
 | 99<sup>th</sup> FTS | Tuskegee Airmen | 82<sup>nd</sup> | Williams AFB, AZ | 16  | T-1A | Instructor Training |
 
-![](/assets/images/nato/us/air/training/image5.jpg)[**T-43**](https://fas.org/man/dod-101/sys/ac/t-43.htm)
+![](/assets/images/nato/us/air/training/image4.jpeg)
+
+[**T-43**](https://fas.org/man/dod-101/sys/ac/t-43.htm)
 
 The T-43 is a modified Boeing 737 used primarily for navigation training
 and prepared navigators and other crew for duty in strategic and
@@ -109,16 +113,17 @@ tactical platforms such as Looking Glass, E-3 Sentry or J-STARS. Of the
 15 aircraft in the inventory 12 are used by 562<sup>nd</sup> ‘Gators’
 and 563<sup>rd</sup> ‘Ace of Spades’ Squadrons as part of
 12<sup>th</sup> Air Training Wing at Randolph AFB, Texas. The remaining
-three are used for general transport
-duties.
+three are used for general transport duties.
 
-![](/assets/images/nato/us/air/training/image6.jpg)[**TC-18E**](https://en.wikipedia.org/wiki/Boeing_C-137_Stratoliner)
+![](/assets/images/nato/us/air/training/image5.jpg)
+
+[**TC-18E**](https://en.wikipedia.org/wiki/Boeing_C-137_Stratoliner)
 
 Two second hand Boeing 707s with the TC-18E designation are used for
 training of E-3 pilot and crews. They are operated out of Tinker AFB,
 Oklahoma by the 552d Operations Group.
 
-![](/assets/images/nato/us/air/training/image7.jpeg)
+![](/assets/images/nato/us/air/training/image6.jpg)
 
 [**TC-135**](https://en.wikipedia.org/wiki/Boeing_RC-135#TC-135)
 
@@ -126,9 +131,11 @@ Three aircraft designed to provide training to RC-135 Rivet Joint and
 Cobra Ball aircrew. They are operated by 338<sup>th</sup> Combat
 Training Squadron at Offutt AFB, Nebraska.
 
+![](/assets/images/nato/us/air/training/image7.jpeg)
+
 **U-2TR-1B**
 
-Training versions of the U-2 Strategic Reconnaissance aircraft, operated
+Training version of the U-2 Strategic Reconnaissance aircraft, operated
 by the 9<sup>th</sup> Strategic Reconnaissance Wing at Beale AFB,
 California. Four of the original five aircraft exist and they are
 modified and updated to the latest versions.

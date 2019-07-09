@@ -2,15 +2,15 @@
 
 With a strength of 201,000 and 142,000 ready reserves, the Spanish Army
 was quite a large force but somewhat under equipped in comparison to
-other armies in NATO. Most formations were designed to be light, with
-only 300 tanks that could be considered modern in 1994 (AMX-30).
-Structurally Spain would provide a Corps HQ organized either as a
-mechanized or a mountain formation to reinforce the land fight in
-southern Europe, probably in Turkey or Greece. There were no forward
-deployed forces. Divisions were comprised of two brigades, each having
-two regiments and in turn these had two battalions; slightly smaller
-than a standard division (8 battalions vice 9) but very heavy on the
-command element.
+other armies in NATO. Most formations were designed to be light, some
+would say under-equipped, with only 300 tanks that could be considered
+modern in 1994 (AMX-30). Structurally Spain would provide a Corps HQ
+organized either as a mechanized or a mountain formation to reinforce
+the land fight in southern Europe, probably in Turkey or Greece. There
+were no forward deployed forces. Divisions were comprised of two
+brigades, each having two regiments and in turn these had two
+battalions; slightly smaller than a standard division (8 battalions vice
+9) but very heavy on the command element.
 
 ![](/assets/images/nato/es/army/image1.png)
 
@@ -29,11 +29,12 @@ very little changed between ’89 and ’94 when Northern Fury commences.
 
 **Main Battle Tanks (MBT)**
 
-Spain had quite a mix of mostly obsolete MBTs, concentrated in
+Spain had quite a mix of mostly obsolete MBTs concentrated in
 1<sup>st</sup> and 3<sup>rd</sup> Division; there were some older MBTs
-in 2<sup>nd</sup> Division as well.
+in 2<sup>nd</sup> Division as
+well.
 
-**AMX-30**
+[**AMX-30**](http://www.tanks-encyclopedia.com/coldwar/France/AMX-30.php)
 
 Spain built most of its 299 AMX-30E (E for Spanish) under licence from
 France. They also purchased 10 AMX-30D recovery vehicles and 18 AMX-30R
@@ -50,7 +51,7 @@ of 3<sup>rd</sup> Division.
 
 ![](/assets/images/nato/es/army/image4.jpg)
 
-**M60A3**
+[**M60A3**](http://www.tanks-encyclopedia.com/coldwar/US/M60_Patton.php)
 
 Between 1990 and 1993, the United States provided Spain with 244 M60A3
 Patton MBTs to replace their aging fleet of M47 and M48 tanks (also
@@ -63,7 +64,7 @@ the M48, these tanks were still obsolete.
 
 **M47/M48**
 
-By 1994 these tanks had recently retired from Spanish service; however
+By 1994 these tanks had recently retired from Spanish service; however,
 they were still quite numerous and available for reserves:
 
   - 162x M48A5E2
@@ -74,7 +75,8 @@ they were still quite numerous and available for reserves:
 
 **Reconnaissance Vehicles**
 
-**Panhard AML 60/90**
+[**Panhard
+AML 60/90**](http://www.tanks-encyclopedia.com/coldwar/France/Panhard_AML.php)
 
 Spain used \~100 of each type of French built scout cars in their
 reconnaissance units. The AML 60 with a breach loading 60mm mortar and
@@ -82,7 +84,7 @@ the AML 90 with a 90mm low velocity gun.
 
 ![](/assets/images/nato/es/army/image6.png)
 
-**Pegaso BMR-VEC**
+[**Pegaso BMR-VEC**](https://en.wikipedia.org/wiki/VEC-M1)
 
 This is a Spanish built, wheeled reconnaissance vehicles equipped with a
 25mm chain gun. There were 240 of the six-wheeled version built and 100
@@ -99,11 +101,10 @@ another ‘home grown’ solution. The BMR-600.
 [**BMR-600**](https://army-guide.com/eng/product2069.html)
 
 This Six-wheeled APC is small, versatile and fast. The basic troop
-carrying version has a crew of two and can carry eight or nine
-infantrymen and mounts a .50 Calibre MG. There are several variants
-including mortar carrier, recovery vehicle, ambulance, engineering and
-anti-tank, and command. Spain has over 1000 of these vehicles including
-variants.
+carrying version has a crew of two, can carry eight or nine infantrymen
+and mounts a .50 Calibre MG. There are several variants including mortar
+carrier, recovery vehicle, ambulance, engineering and anti-tank, and
+command. Spain has over 1000 of these vehicles including variants.
 
 ![](/assets/images/nato/es/army/image8.jpg)
 

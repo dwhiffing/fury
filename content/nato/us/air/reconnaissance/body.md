@@ -2,23 +2,24 @@
 
 [**SR-71 Blackbird**](https://fas.org/irp/program/collect/sr-71.htm)
 
-![](/assets/images/nato/us/air/reconnaissance/image1.jpeg)This
-iconic aircraft was historically retired in 1990 due to funding and
+This iconic aircraft was historically retired in 1990 due to funding and
 other issues, in Northern Fury that does not happen and they were
-retained in service, but two additional aircraft were provided to NASA
+retained in service, two additional aircraft were still provided to NASA
 as was done in 1991. One modification to the Northern Fury SR-71s is the
 addition of a data-link, enabling quicker use of intelligence gathered.
 In 1994, with four aircraft with NASA, there were 16 Blackbirds
 available in the USAF but only seven with low flight hours (under 2,000
-hrs), and two had over [3,000 hours](https://www.sr-71.org/blackbird/).
-All SR-71s were operated by 1<sup>st</sup> Strategic Reconnaissance
-Squadron (SRS) based at Beale AFB with detachments at Kadena Japan and
-RAF Mildenhall in the UK. The Squadron is part of 9<sup>th</sup>
-Strategic Reconnaissance Wing (SRW). So in Northern Fury, 1<sup>st</sup>
-SRS operates eight Blackbirds for operational missions while keeping at
-least one in each of the detachment locations, the other airframes are
-used for training, are in long term maintenance or storage, or are
-simply retired.
+hrs), and two with very high hours (over [3,000
+hours](https://www.sr-71.org/blackbird/)). All SR-71s were operated by
+1<sup>st</sup> Strategic Reconnaissance Squadron (SRS) based at Beale
+AFB with detachments at Kadena Japan and RAF Mildenhall in the UK. The
+Squadron is part of 9<sup>th</sup> Strategic Reconnaissance Wing (SRW).
+So in Northern Fury, 1<sup>st</sup> SRS operates eight Blackbirds for
+operational missions including at least one in each of the detachment
+locations, the other airframes are used for training, are in long term
+maintenance or storage, or are simply retired.
+
+![](/assets/images/nato/us/air/reconnaissance/image1.jpeg)
 
 [**U2/TR-1 Dragon Lady**](https://fas.org/irp/program/collect/u-2.htm)
 
@@ -29,8 +30,8 @@ complete and the 9<sup>th</sup> SRW is operating an (almost) homogenous
 fleet of 32 U-2S aircraft, with 5 additional 2-seat trainers. These
 aircraft are configurable with a bewildering array of sensors which are
 detailed in the main link and also
-[here](https://foxtrotalpha.jalopnik.com/a-spotters-guide-to-the-u-2-dragon-lady-and-its-many-1539282603),
-some of which came after 1994, but the link gives some fascinating
+[here](https://foxtrotalpha.jalopnik.com/a-spotters-guide-to-the-u-2-dragon-lady-and-its-many-1539282603)
+(some of which came after 1994). The link gives some fascinating
 examples (at the unclassified level) of what the aircraft is capable
 of.
 
@@ -49,24 +50,23 @@ of.
 [**RC-135 Rivet
 Joint**](https://fas.org/irp/program/collect/rivet_joint.htm)
 
-![](/assets/images/nato/us/air/reconnaissance/image3.jpg)The Rivet
-Joint is a Boeing 707 based electronic surveillance aircraft which
-collects data on enemy communications systems and passes it on to land
-based intelligence analysis squadrons. The systems carried by the RC-135
-are complex and highly classified, but it can assist in locating and
-identifying almost any platform which is emitting an electronic
+The Rivet Joint is a Boeing 707 based electronic surveillance aircraft
+which collects data on enemy communications systems and passes it on to
+land based intelligence analysis squadrons. The systems carried by the
+RC-135 are complex and highly classified, but it can assist in locating
+and identifying almost any platform which is emitting an electronic
 signature. The 14 aircraft of this type operating in 1994 were based at
 Offutt AFB, NE by the 55<sup>th</sup> Reconnaissance Squadron (RS), with
 four aircraft stationed at RAF Mildenhall in the UK operating with
 95<sup>th</sup> SRS as the 95<sup>th</sup> RS.
 
-![](/assets/images/nato/us/air/reconnaissance/image4.jpg)
+![](/assets/images/nato/us/air/reconnaissance/image3.jpg)
 
 [**E-8 Joint
 STARS**](https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS)
 
-This is a joint Army/Air Force project to provide area surveillance and
-battle management systems for the ground commander. Conceived in the
+The E-8 is a joint Army/Air Force project to provide area surveillance
+and battle management systems for the ground commander. Conceived in the
 early ‘80s, there were two prototype
 [E-8A](https://fas.org/irp/program/collect/jstars.htm) J-STARS flown in
 the Gulf War to great success. Production of 16 E-8C J-STARS is ongoing
@@ -76,20 +76,21 @@ two additional C-135 (Boeing 707) have been converted and the
 Command and Control Squadron (ACCS) has been stood up to operate the
 four aircraft out of Robins AFB, GA.
 
+![](/assets/images/nato/us/air/reconnaissance/image4.jpg)
+
 [**E-3 Sentry**](https://fas.org/man/dod-101/sys/ac/e-3.htm)
 
-![](/assets/images/nato/us/air/reconnaissance/image5.jpg)Probably
-the most recognizable aircraft on the planet, the E-3 Sentry or AWACS
-(Airborne Early Warning and Control System) was developed in the ‘70s
-and undergoes constant upgrade and improvement. These reliable (Boeing
-707 based) workhorses allow air commanders to control and coordinate
-/assets within a massive volume of airspace. The 32 American examples are
-augmented by NATO’s 18, Britain’s 6, France’s 4, and Saudi Arabia’s 5
-aircraft, providing a widely integrated understanding of the air picture
-wherever US or allied forces are deployed in the world. These aircraft
-are used throughout the world and are able to rapidly deploy, usually
-from Tinker AFB, the home base where several AACS (Airborne Air Control
-Squadrons) are
+Probably the most recognizable aircraft on the planet, the E-3 Sentry or
+AWACS (Airborne Early Warning and Control System) was developed in the
+‘70s and undergoes constant upgrade and improvement. These reliable
+(Boeing 707 based) workhorses allow air commanders to control and
+coordinate /assets within a massive volume of airspace. The 32 American
+examples are augmented by NATO’s 18, Britain’s 6, France’s 4, and Saudi
+Arabia’s 5 aircraft, providing a widely integrated understanding of the
+air picture wherever US or allied forces are deployed in the world.
+These aircraft are used throughout the world and are able to rapidly
+deploy, usually from Tinker AFB, the home base where several AACS
+(Airborne Air Control Squadrons) are
 located.
 
 | Sqn                   | Wing             | Location            | No. | Type | Remarks                  |
@@ -103,12 +104,14 @@ located.
 | 966<sup>th</sup> AACS | 552<sup>nd</sup> | Tinker AFB          | 3   | E-3C |                          |
 | 979<sup>th</sup> AACS | 552<sup>nd</sup> | Tinker AFB          | 4   | E-3B | AF Reserve               |
 
+![](/assets/images/nato/us/air/reconnaissance/image5.jpg)
+
 [**RF-4C Phantom**](https://fas.org/irp/program/collect/rf-4.htm)
 
 One of the last versions of the venerable F-4 Phantom to remain flying
 in the USAF, and indeed the world was the Reconnaissance variant. As an
 unarmed photo-reconnaissance aircraft the Phantom was able to cruise at
-high level, or conduct high speed low level missions, develop the
+high level and then conduct high speed low level missions, develop the
 photographic film onboard and pass it for immediate interpretation on
 landing – a system of dropping the film canisters proved unreliable in
 Viet Nam and that method was discarded. The USAF experimented with using

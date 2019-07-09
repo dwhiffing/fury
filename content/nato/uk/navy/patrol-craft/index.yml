@@ -1,0 +1,5 @@
+label: patrol-craft
+nav:
+  - /_shared/nav.md
+
+main: body.md

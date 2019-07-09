@@ -5,7 +5,7 @@ the Mediterranean, first enforcing the no-fly zone over Bosnia and
 conducting sea interdiction in the Adriatic, then conducting an exercise
 in the Eastern Med of Cyprus with the American Marine Expeditionary Unit
 stationed there. She was on her way home when the Soviets struck, and
-although not involved in the fighting on day one, but will receive her
+although not involved in the fighting on day one, will receive her
 baptism of fire on the second day of the war as she sails west towards
 Malta on her way home to undergo a 4-month refit.
 

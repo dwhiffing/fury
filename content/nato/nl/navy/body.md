@@ -1,7 +1,7 @@
 **Netherlands Navy**
 
 The Royal Netherlands Navy dates back to the 16<sup>th</sup> century
-where it was one of the most powerful in the world, maintaining its
+where it was one of the most powerful in the world and maintained its
 skill by fighting against most of its European neighbours. Today it’s a
 much more modest force but carries on long standing traditions of duty
 and seamanship. Based largely on Frigates this very capable navy has
@@ -31,11 +31,11 @@ These multi-purpose ships are emerging from the building yards as war
 starts. The lead ship in the class was commissioned in 1991, while the
 6<sup>th</sup> ship was rushed into service in December of 1993, the
 7<sup>th</sup> is fitting out and should be commissioned in several
-months, leaving only the last ship in the class on the sidelines.
-Although not overly capable in any one role, these ships provide very
-effective and modern sensors to a TG and, like most Frigates, make an
-excellent life support system for an Anti-Submarine Warfare (ASW)
-helicopter, in this case the Westland
+months, leaving only the last of the class on the sidelines. Although
+not overly capable in any one role, these ships provide very effective
+and modern sensors to a TG and, like most Frigates, make an excellent
+life support system for an Anti-Submarine Warfare (ASW) helicopter, in
+this case the Westland
 Lynx.
 
 | Pennant | Ship                                                                                                                                  | Status      | Location      | Task             |
@@ -54,7 +54,7 @@ Lynx.
 [**Kortenaer
 Class**](http://www.seaforces.org/marint/Netherlands-Navy/Frigate/Kortenaer-Standard-class.htm)
 
-This class of 10 ships were similar to the German *Bremen* class and
+This class of 10 ships were similar to the German *Bremen* frigates and
 focused primarily an ASW patrol and escort duties. Slightly larger than
 the Karel Doorman these ships carried two helicopters, but otherwise had
 a similar armament but older
@@ -78,12 +78,12 @@ sensors.
 [**Jacob van Heemskerck
 Class**](http://www.seaforces.org/marint/Netherlands-Navy/Frigate/Jacob-van-Heemskerck-class.htm)
 
-These two ships were based on the Kortenaer class, modified to replace
-the ASW helicopters with the same AD capabilities as the Tromp class
-with 40 ‘Standard’ medium range SAMs and 24 ‘Sea Sparrow’ point defence
-SAMs. The lack of helicopters meant that these ships needed to pair up
-with a Kortenaer class to have ASW protection, but they could perform
-the role of an AD Destroyer from the hull of a
+These two ships were based on the Kortenaer class but modified to
+replace the ASW helicopters with the same AD capabilities as the Tromp
+class with 40 ‘Standard’ medium range SAMs and 24 ‘Sea Sparrow’ point
+defence SAMs. The lack of helicopters meant that these ships needed to
+pair up with a Kortenaer class to have ASW protection, but they could
+perform the role of an AD Destroyer from the hull of a
 Frigate.
 
 | Pennant | Ship                                                                                                                                                 | Status | Location   | Task     |

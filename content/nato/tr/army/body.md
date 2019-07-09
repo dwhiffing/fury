@@ -5,35 +5,41 @@ it lags well behind many other alliance members. There are 525,000 full
 time personnel in the Army with a further 950,000 available in reserve;
 probably 700,000 of those are ready for immediate recall. Structurally
 there are four Army level commands and ten Corps. 1<sup>st</sup> Army in
-Thrace and 3<sup>rd</sup> Army in the Caucasus are the largest and
-maintain the highest readiness and 1<sup>st</sup> Army holds the most
-armor. 2<sup>nd</sup> Army will induct most of the reserve formations
-and reinforce east or west as needed while 4<sup>th</sup> Army conducts
-rear area and civil defence tasks. Additionally, there are 110,000
-Gendarmerie which will fall under Army control in wartime, consisting of
-67 ‘regiments’ which will likely fall under the control of
-4<sup>th</sup> Army or come under command of the National HQ.
+Thrace holds the most armor and together with 3<sup>rd</sup> Army in the
+Caucasus are the largest and maintain the highest readiness.
+2<sup>nd</sup> Army guards the critical Bosporus/Dardanelles area and
+will induct most of the reserve formations to reinforce east or west as
+needed; while 4<sup>th</sup> Army conducts rear area and civil defence
+tasks. Additionally, there are 110,000 Gendarmerie consisting of 67
+‘regiments’ which will fall under the control of 4<sup>th</sup> Army
+or come under command of the National HQ during wartime.
 
 ![](/assets/images/nato/tr/army/image1.png)
 
 ![](/assets/images/nato/tr/army/image2.jpg)
 
-**Main Battle Tank (MBT)**
+**Main Battle Tank
+(MBT)**
 
-**Leopard 1**: The Turkish Army operates 397 Leopard 1s in two versions:
-227 Leopard 1A3, the last of which are being received at war start in
-Feb 94 a few months quicker than actually happened; and 170 Leopard 1T
-which is a local upgrade to the original tanks received in the early
-80s. The Leopards are used primarily in the 1<sup>st</sup> Army’s
-armored brigades and reconnaissance units.
+[**Leopard 1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php):
+The Turkish Army operates 397 Leopard 1s in two versions: 227 Leopard
+1A3, the last of which are being received at war start in Feb 94 a few
+months quicker than actually happened; and 170 Leopard 1T which is a
+local upgrade to the original tanks received in the early 80s. The
+Leopards are used primarily in the 1<sup>st</sup> Army’s armored
+brigades and reconnaissance units.
 
-**M60 Patton**: Turkey uses 932 M60’s in its army, primarily in the
-mechanized and Corps Tank Battalions. 658 are the A3TTS version with
-upgraded thermal sights while the remainder (274) are the A1 RISE
-version with upgraded engines and suspension system.
+[**M60
+Patton**](http://www.tanks-encyclopedia.com/coldwar/US/M60_Patton.php):
+Turkey uses 932 M60’s, primarily in the mechanized and Corps Tank
+Battalions. 658 are the A3TTS version with upgraded thermal sights while
+the remainder (274) are the A1 RISE version with upgraded engines and
+suspension system.
 
-**M48 Patton**: Turkey is one of the largest users of the M48, they have
-several versions in service:
+[**M48
+Patton**](http://www.tanks-encyclopedia.com/coldwar/US/M48_Patton.php):
+Turkey is one of the largest users of the M48, they have several
+versions in service:
 
   - \~2000x M48A1 (Reserve)
 
@@ -49,18 +55,22 @@ The M48 are used primarily in reserve and training organizations.
 
 ![](/assets/images/nato/tr/army/image3.jpg)
 
-**M47 Patton**: Turkey holds 1347 modernized M47s in reserve.
+[**M47
+Patton**](http://www.tanks-encyclopedia.com/coldwar/US/M47_Patton.php):
+Turkey holds 1347 modernized M47s in reserve.
 
-**Infantry Fighting Vehicle (IFV)**
+**Infantry Fighting Vehicle
+(IFV)**
 
-**ACV-15:** This is an upgraded design of the M113 which was in
-production in Turkey from 1992 until 1997. Based on 35% of the eventual
-production numbers, for Northern Fury these variants are in service:
+**[ACV-15](http://www.tanks-encyclopedia.com/modern/Turkey/FNSS-ACV-15.php):**
+This is an upgraded design of the M113 which was in production in Turkey
+from 1992 until 1997. Based on 35% of the eventual production numbers,
+for Northern Fury these variants are in service:
 
   - 500x AAPC (Advanced APC) with single man turret with .50 Cal and
     7.62mm MGs
 
-  - 250x AIFV (Advanced IFV) with 20mm cannon in a 2 man turret
+  - 250x AIFV (Advanced IFV) with 20mm cannon in a 2-man turret
 
   - Some ATV (Armored TOW vehicle) with two TOW missiles – only 48
     produced so perhaps none, perhaps all.
@@ -71,8 +81,8 @@ production numbers, for Northern Fury these variants are in service:
 
 **Armored Personnel Carriers (APC)**
 
-**M113**: Over 3500 of these are in service many variants, main ones
-listed here:
+[**M113**](http://www.tanks-encyclopedia.com/coldwar/US/M113_APC.php):
+Over 3500 of these are in service many variants, main ones listed here:
 
   - 3,200x M113A3 personnel carrier
 
@@ -152,7 +162,7 @@ very few SAMs and the out-dated Redeye MANPADS.
 
   - 24x Rapier SAM in Air Force service
 
-  - 789 Redeye Manpads
+  - 789 Redeye MANPADS
 
   - 128 Nike Hercules
     

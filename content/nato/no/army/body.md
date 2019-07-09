@@ -1,14 +1,15 @@
 **Norwegian Army**
 
 The Norwegian Army is small, only 19,000 permanent force and much of
-that is a conscript force, but with a ready reserve of 146,000 and
-regular mobilization training, the ability to rapidly expand to a potent
-force is credible. Northern Fury has the Norwegian Army progressing
-slowly towards the goals of the 1974 Defence Commission proposal. Also
-with the Olympics ongoing and the increased tension, some units were at
-a higher state of readiness and several reserve battalions were fully
-mobilized. Because of the focus on Norway in the Northern Fury
-Storyline, more detail is provided here than for other countries.
+these are conscripts, but with a ready reserve of 146,000 and regular
+mobilization training, the ability to rapidly expand to a potent force
+is credible. Northern Fury has the Norwegian Army progressing slowly
+towards the goals of its 1974 Defence Commission proposal for
+reorganization. Also with the Olympics ongoing and the increased
+tension, some units are at a higher state of readiness and several
+reserve battalions are fully mobilized. Because of the focus on Norway
+in the Northern Fury Storyline, more detail is provided here than for
+other countries.
 
 ![](/assets/images/nato/no/army/image1.png)
 
@@ -16,8 +17,8 @@ Storyline, more detail is provided here than for other countries.
 
 This is a very unique organization stationed in the Bardufoss area of
 northern Norway. Each of the three combat arms battalions in Brigade
-Nord is task tailored for well-practiced and specific tasks, but they
-are also designed for maximum flexibility and rapid changes of the
+Nord is tailored for well-practiced and specific tasks, but they are
+also designed for maximum flexibility and rapid changes of the
 situation.
 
 **1<sup>st</sup> Panzer Bn**
@@ -28,10 +29,9 @@ counter-moves force to the ground commander, it can just as easily block
 restricted terrain using its tanks as mobile bunkers. The Leopard 1
 however is meant for rapid movement and this is how the unit was
 intended; allowing the less mobile infantry and home guard units to slow
-an advancing enemy while the Panzers attack them where they are
-vulnerable.
+an advancing enemy while the Panzers attack vulnerabilities.
 
-**2<sup>nd</sup> Mech Bn**
+**2<sup>nd</sup> Mechanized Bn**
 
 This large battalion is a cross between the traditional Norwegian
 battalions (Type 78) and the evolving Type 90 that was called for in the
@@ -104,13 +104,14 @@ of the trade schools are also located in this area.
 
 Finally the Oslo area has another concentration of units. The Kings
 Guard is a mix between Reserve and Permanent Force but is mobilized for
-ceremonial duties during the Olympics.
+ceremonial duties during the
+Olympics.
 
 ![](/assets/images/nato/no/army/image6.png)
 
 **Equipment:**
 
-**Leopard 1**
+**[Leopard 1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)**
 
 Like many other nations, Norway decided to purchase the Leopard 1 Main
 Battle Tank (MBT). A total of 172 MBTs were acquired in addition to
@@ -120,7 +121,7 @@ Vehicles (AEV).
 
 ![](/assets/images/nato/no/army/image7.jpeg)
 
-**M48A5 Patton**
+[**M48A5 Patton**](https://en.wikipedia.org/wiki/M48_Patton)
 
 Norway first acquired the M48 Patton in 1963 when 38 of them were
 delivered from the US, these were upgraded in the mid 80’s to the M48A5
@@ -145,7 +146,7 @@ Northern Fury.
 
 ![](/assets/images/nato/no/army/image9.png)
 
-**NM-135**
+[**NM-135**](https://en.wikipedia.org/wiki/NM135)
 
 This is a modified M113 APC, it has a 20mm autocannon, smoke dischargers
 and is used as an early and inexpensive Infantry Combat Vehicle (ICV).
@@ -156,7 +157,7 @@ could easily be purchased if required.
 
 ![](/assets/images/nato/no/army/image10.png)
 
-**BV206**
+[**BV206**](https://www.army-technology.com/projects/bv2065/)
 
 The Norwegian Army uses over 1000 of these versatile light vehicles.
 Primarily employed as an infantry section vehicle, some have been

@@ -2,26 +2,28 @@
 
 The Spanish Air Force (*Ejército del Aire, or Army of the Air) has
 undergone significant transition since the death of Francisco Franco in
-1975, the transition to democracy and joining NATO in 1982. Initially
-equipped with F-86 and T-33, these were replaced by F-4 Phantoms, F-5
-Freedom Fighters, and Mirage aircraft, in the 1960s and the investment
-in the EF-18 has propelled the Spanish Air Force into the modern era.
-Because of past difficulties with obtaining aircraft from the US, Spain
-maintains a policy of ensuring that it holds both European (primarily
-French) as well as US fighters.*
+1975, the shift to democracy and joining NATO in 1982. Always depending
+on the west for equipment Spain replaced its F-86 and T-33 with F-4
+Phantoms, F-5 Freedom Fighters, and Mirage in the 1960s and now the
+investment in the EF-18 has propelled the Spanish Air Force into the
+modern era. Because of past difficulties with obtaining aircraft or
+replacement parts from the US, Spain maintains a policy of ensuring that
+it holds both European (primarily French) as well as US fighters at all
+times.*
 
-**EF-18 Hornet**
+[**EF-18
+Hornet**](https://www.plane-encyclopedia.com/modern/ef-18-hornet-in-spanish-service/)
 
 The fighting core of the Spanish Airforce is the EF-18A, with four
-operational Squadrons and a training squadron. Spain obtained 60 ‘A+’
-and 12 ‘B+ versions of the aircraft, prefixed as EF these aircraft are
-very close to the ‘C/D’ standard allowing them to employ a modern suite
-of precision munitions, however they are limited to the Aim-7F Sparrow
-missile for air to air combat. An attempt (historically successful) to
-acquire a further 24 ex-US Navy Hornets has been thwarted by US
-requirements to expand its inventory of F/A-18s. Each Sqn operates at
-least two
-EF-18B
+operational Squadrons plus a training group. Spain obtained 60 ‘A+’ and
+12 ‘B+ versions of the aircraft, prefixed as EF these aircraft are very
+close to the ‘C/D’ standard allowing them to employ a modern suite of
+precision ground attack munitions, however they are limited to the
+Aim-7F Sparrow missile for air to air combat. An attempt (historically
+successful) to acquire a further 24 ex-US Navy Hornets has been thwarted
+by US requirements to expand its inventory of F/A-18s. Each Squadron
+operates at least two EF-18B in addition to its single seat
+fighters.
 
 | Wing  | Squadron | Name       | Base     | \# of AC | Type  | Role     |
 | ----- | -------- | ---------- | -------- | -------- | ----- | -------- |
@@ -33,13 +35,13 @@ EF-18B
 
 ![](/assets/images/nato/es/air/image1.jpg)
 
-**Mirage F.1**
+[**Mirage F.1**](https://en.wikipedia.org/wiki/Dassault_Mirage_F1)
 
 Since 1975, one of the mainstays of the Spanish Air Force has been the
-Mirage F.1, 48 of the original 91 airframes remain. Of these all have
-been upgraded to the ‘F.1M’ standard and half have been modified to the
-‘EE’ interceptor role and the remainder are the ‘CE’ standard focusing
-on Close Air Support (CAS)
+Mirage F.1. Of the original 91 airframes, 48 remain in service. All of
+these have been upgraded to the ‘F.1M’ standard; half have been modified
+to the ‘EE’ interceptor role, and the remainder are the ‘CE’ standard
+focusing on Close Air Support (CAS)
 
 | Wing   | Squadron | Name     | Base   | \# of AC | Type  | Role |
 | ------ | -------- | -------- | ------ | -------- | ----- | ---- |
@@ -50,7 +52,8 @@ on Close Air Support (CAS)
 
 ![](/assets/images/nato/es/air/image2.jpg)
 
-**SF-5 Freedom Fighter**
+[**SF-5 Freedom
+Fighter**](http://www.joebaugher.com/usaf_fighters/f5_24.html)
 
 These Freedom Fighters are built in Europe and modified for the Spanish
 Airforce, the 20 remaining strike versions are all upgraded ‘B’ model
@@ -99,8 +102,8 @@ EF-18 pilots.
 
 **P-3B**
 
-Spain purchased 5 P-3B’s from Norway in 1989 and operates them from
-Moron Air Base by 221 Squadron.
+Spain purchased 5 P-3B’s from Norway in 1989 and 221 Squadron operates
+them from Moron Air Base.
 
 ![](/assets/images/nato/es/air/image4.jpg)
 
@@ -108,10 +111,10 @@ Moron Air Base by 221 Squadron.
 
 These are home grown Spanish transport aircraft developed by CASA and
 IPTN before these two companies were purchased by Airbus. The CN-235
-began production in 1986 began replacing the CN-212 the same year. Both
-have Electronic Warfare, Photo Reconnaissance, Search and Rescue, and
-Maritime Patrol variants but in 1994 these functions remained with the
-CN-212 while the CN-235 was quickly replacing the cargo variants.
+entered production in 1986 began replacing the CN-212 the same year.
+Both have Electronic Warfare, Photo Reconnaissance, Search and Rescue,
+and Maritime Patrol variants but in 1994 these functions remained with
+the CN-212 while the CN-235 was quickly replacing the cargo variants.
 
 ![](/assets/images/nato/es/air/image5.jpg)
 

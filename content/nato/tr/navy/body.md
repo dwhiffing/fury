@@ -15,7 +15,7 @@ life.
 **Ex Gearing Class**: Ten of the original 13 Gearing class Destroyers
 received from the US in the 1970s and early 80s remain in service. Some
 of these are World War Two veterans and are approaching 50 years old,
-although tired they have been modernized and Turkey holds ships that
+although tired they have been modernized. Turkey holds ships that
 generally fall into three sub classes. The Fleet Rehabilitation and
 Modernization (FRAM) program produced two main variants: The FRAM I
 ships of the Yucetep Class focused on Anti-Surface warfare (ASuW) while
@@ -37,13 +37,14 @@ class focused on Anti-Submarine Warfare (ASW) operations.
 
 ![](/assets/images/nato/tr/navy/image1.jpeg)
 
-**Gelibolu Class**: These two Ex Koln class ships arrived from Germany
-in the 1980s. Turkey ended up purchasing four of this six ship class
-originally commissioned in the 60s, because one was destroyed in a fire
-and another was used for spare parts. The two ships in service provide
-important and reliable ASW work to augment the fleet of aging Gearings.
-These ships do not have missiles and rely on guns only for defence, but
-their ASW suites are reasonable.
+[**Gelibolu Class**](https://en.wikipedia.org/wiki/Köln-class_frigate):
+These two Ex Koln class ships arrived from Germany in the 1980s. Turkey
+ended up purchasing four of this six ship class originally commissioned
+in the 60s, but one ship was destroyed in a fire and another was used
+for spare parts. The two ships in service provide important and reliable
+ASW work to augment the fleet of aging Gearings. These ships do not have
+missiles and rely on guns only for defence, but their ASW suites are
+reasonable.
 
 | Class    | Pennant | Name     | Status    | Remarks       |
 | -------- | ------- | -------- | --------- | ------------- |
@@ -54,12 +55,13 @@ their ASW suites are reasonable.
 
 **Frigates**
 
-**Yavuz Class** **(MEKO 200)**: This modern class is a German designed
-modular warship with several variations, in three basic configurations
-(MEKO 140, 200, 360), the MEKO 200 is the most prolific with six nations
-either operating or building the design. The Turkish Navy’s Yavuz Class
-are large (3,000 tons) capable and well-rounded ships with Harpoon ASMs,
-Sea Sparrow air defence missiles, 3x Oerlikon Sea Zenith 25mm Close In
+[**Yavuz Class**](https://en.wikipedia.org/wiki/Yavuz-class_frigate)
+**(MEKO 200)**: This modern class is a German designed modular warship
+with several variations, in three basic configurations (MEKO 140, 200,
+360). The MEKO 200 is the most prolific with six nations either
+operating or building the design. The Turkish Navy’s Yavuz Class are
+large (3,000 tons) capable and well-rounded ships with Harpoon ASMs, Sea
+Sparrow air defence missiles, 3x Oerlikon Sea Zenith 25mm Close In
 Weapons Systems (CIWS), a 5” gun and facilities for an AB-212 ASW
 helicopter. The four ships were delivered in 1987-89 with two being
 built in Germany and the last two in Turkey. Plans to build another four
@@ -83,7 +85,7 @@ well-armed craft that are primarily built for the defence of the
 Bosporus approaches. Equipped with up to eight Harpoon Surface to
 Surface Missiles (SSM) for anti-shipping attack, an OTO Melara 76mm gun
 and twin 35mm AAA as well as electronic and physical countermeasures,
-these are very powerful craft.
+these are very powerful ships.
 
 | Class  | Pennant | Name    | Status | Remarks |
 | ------ | ------- | ------- | ------ | ------- |
@@ -104,7 +106,7 @@ Based on the German Zobel class torpedo boats, nine were built in
 Germany in 1968-70, however one was lost (P 325 Meltem) in a collision
 with a Soviet navy ship in 1985. Armed with four Penguin Mk 2 missiles
 and two torpedoes along with two 40mm auto cannons for self-defence,
-these boats could move in at 40 knots and engage targets out to 34 Km
+these boats can move in at 40 knots and engage targets out to 34 Km
 range, impressive for such a small boat.
 
 | Class  | Pennant | Name      | Status | Remarks |
@@ -134,7 +136,7 @@ troops and 15 tanks. It has 20mm and 40mm self-defence AAA.
 **Bey Class LST**: Three Turkish built vessels that can carry 600 troops
 and 11 tanks and 2 Landing Craft
 
-**Bayraktar/Ertuğrul  Class LST**: These two Ex-US Terrebonne Parish
+**Bayraktar/Ertuğrul Class LST**: These two Ex-US Terrebonne Parish
 class vessels can carry 400 troops and 10 tanks.
 
 **LCT**: Six Ex British LCT Mk IV, 31 Ex French EDIC type LCT, 15 Ex US
@@ -165,7 +167,7 @@ five 1,000 ton ships are converted specifically for mine laying.
 |             | N 105   | Mürefte  |        |         |
 
 **Mine Sweepers**: Turkey does not have any Mine Hunters but has a
-variety of older mine sweepers of US, French and Canadian origin some
+variety of older mine sweepers of US, French and Canadian origin, some
 received third hand from other users. The primary role is to keep the
 shipping channel through the Bosporus and Dardanelles
 open.
@@ -204,14 +206,14 @@ Turkey operates a sizable submarine force but only the Atilay (Type
 209/1200) class can be considered modern and capable. The remainder hail
 from the Post World War Two era and are ready for retirement. A more
 modern class yet, the Preveze (Type 209/1400) class is due to start
-entering service later in 1994, this will allow the older boats to be
-put to rest. Turkey is destined to be the largest operator of the Type
-209 boats in the world but they are not yet there in 1994.
+entering service later in 1994, allowing the older boats to be put to
+rest. Turkey is destined to be the largest operator of the Type 209
+boats in the world but they are not yet there in 1994.
 
-**Atilay Class**: These are German Type 209/1200 boats; quiet, small,
-efficient and maneuverable. Armed with torpedoes, mines and/or Harpoon
-SSMs these are perfect submarines for the confined waters of the Black
-or Aegean Sea.
+[**Atilay Class**](https://en.wikipedia.org/wiki/Type_209_submarine):
+These are German Type 209/1200 boats; quiet, small, efficient and
+maneuverable. Armed with torpedoes, mines and/or Harpoon SSMs these are
+perfect submarines for the confined waters of the Black or Aegean Sea.
 
 | Class  | Pennant | Name     | Status    | Remarks           |
 | ------ | ------- | -------- | --------- | ----------------- |
@@ -230,7 +232,7 @@ Power System) class and the Tang class, all ex-USN boats built in the
 early 1950s. All of these boats were developments on World War Two
 German designs and were evolutionary in nature. For our purposes they
 have about the same capabilities, the Tang is a derivative of the GUPPY
-types and is therefore slightly more capable but also larger. None can
+types and is therefore slightly more capable and also larger. None can
 hope to survive long in a modern conflict with capable ASW
 forces.
 
@@ -251,7 +253,9 @@ forces.
 **Service Ships**: The Turkish Navy has one replenishment Oiler in
 service and one building. This ship allows the Turkish Navy to venture
 beyond its traditional patrol areas and complete tasks world-wide. The
-Akar class carries 16,000 tons of fuel and a small amount of dry
+[Akar
+class](https://en.wikipedia.org/wiki/Akar-class_replenishment_oiler)
+carries 16,000 tons of fuel and a small amount of dry
 goods.
 
 | Class   | Pennant | Name                 | Status   | Remarks            |

@@ -1,31 +1,34 @@
 **Royal Air Force (RAF)**
 
-The RAF operated four major based in Germany, as well as the bulk of its
-force in the UK and various global commitments. It is a divers but
-somewhat dated force with improved versions of older aircraft filling
-front line roles to shore up the newer Tornados, which being only 10-12
-years old were the newest significant platform in the force.
+The RAF operated four major based in Germany while maintaining the bulk
+of its force in the UK and servicing various global commitments. A
+divers but somewhat dated force with improved versions of older aircraft
+filling front line roles to shore up gaps. The newest Tornados, being
+only 10-12 years old were the most modern major platform available.
 
-**Tornado GR.1**
+[**Tornado
+GR.1**](https://www.popularmechanics.com/military/aviation/a27073869/panavia-tornado/)
 
-![](/assets/images/nato/uk/air/image1.jpeg)Known as the IDS
-(InterDictor / Strike) in Europe and GR1 (Ground Attack/Reconnaissance)
-in the UK, this highly capable low level swept wing strike fighter was
-designed specifically to penetrate Soviet and Warsaw Pact defenses at
-high speed and deliver conventional or nuclear ordnance using
-sophisticated aircraft navigation rather than precision bomb guidance.
-The design, shared by West Germany and Italy, and adopted by Saudi
-Arabia was highly successful around 750 produced in total, the RAF
-receiving 230 examples. Unlike most air forces, with the notable
-exception of the USAF, the RAF kept a significant war reserve and in
-1994 there were 82 GR.1’s available to reinforce the front line
-squadrons. The RAF maintained seven Squadrons on two German bases
-(Bruggen and Laarbruch), and five squadrons in the UK at Marham and
-Lossimouth, with the two squadrons at Lossimouth equipped with a
-modified GR1B able to use the Sea Eagle anti-ship missile. The
-Operational Conversion Unit (OCU) is also at Lossiemouth. Historically
-almost half of these squadrons disbanded between 1991 and 1995, they
-remain in extant in the Northern Fury world
+![](/assets/images/nato/uk/air/image1.jpeg)
+
+Known as the IDS (Inter**d**ictor/Strike) in Europe and GR1 (Ground
+Attack/Reconnaissance) in the UK, this highly capable low level swept
+wing strike fighter was designed specifically to penetrate Soviet and
+Warsaw Pact defenses at high speed to deliver conventional or nuclear
+ordnance. The GR.1 used sophisticated aircraft navigation rather than
+precision bomb guidance to achieve its mission. The design, shared by
+West Germany and Italy, and adopted by Saudi Arabia was highly
+successful with around 750 produced in total, the RAF receiving 230
+examples. Unlike most air forces, with the notable exception of the
+USAF, the RAF kept a significant war reserve and in 1994 there were 82
+GR.1’s available in storage to reinforce the front line squadrons. The
+RAF maintained seven Squadrons on two German bases (Bruggen and
+Laarbruch), and five squadrons in the UK at Marham and Lossimouth, with
+the two squadrons at Lossimouth equipped with a modified GR1B able to
+use the Sea Eagle anti-ship missile. The Operational Conversion Unit
+(OCU) is also at Lossiemouth. Historically almost half of these
+squadrons disbanded between 1991 and 1995, they remain extant in the
+Northern Fury world
 however.
 
 | Sqn  | Nickname           | Location   | No. | Type          | Remarks         |
@@ -44,14 +47,17 @@ however.
 | 617  | Six foot Seven     | Lossimouth | 12  | Tornado GR.1B |                 |
 | 1435 | Special Flight     | Falklands  | 4   | Tornado GR.1  | On rotation     |
 
-![](/assets/images/nato/uk/air/image2.jpeg)**Tornado F.3**
+[**Tornado
+F.3**](https://www.thedrive.com/the-war-zone/16752/how-sly-raf-tornado-crews-repeatedly-killed-u-s-navy-f-14s-and-f-a-18s-in-training)
+
+![](/assets/images/nato/uk/air/image2.jpeg)
 
 Another major variant of the Tornado is the F.3 (Fighter, Mark 3). Known
 as the ADV (Air Defence Variant) in Europe this is a specialized
 interceptor to counter Soviet bombers. The F.3 shares many components
 with the GR1 (80%), it has a longer range, better radar and faster
 acceleration. It should be noted that the F.3 is not an agile ‘Dog
-Fighter’ such as the F-15, it is meant to intercept, destroy and retire.
+Fighter’ such as the F-15, it’s meant to intercept, destroy and retire.
 The nine squadrons are all located in the UK on three bases. The RAF has
 39 F.3’s in reserve as well as 18 F.2’s which were an interim
 predecessor to the F.3 with less power and older avionics.
@@ -68,16 +74,18 @@ predecessor to the F.3 with less power and older avionics.
 | 65  | East India     | Coningsby | 12  | Tornado F.3 | OCU     |
 | 111 | Tremblers      | Coningsby | 12  | Tornado F.3 |         |
 
-![](/assets/images/nato/uk/air/image3.jpg)**Harrier GR.7**
+[**Harrier GR.7**](http://www.armedforces.co.uk/raf/listings/l0009.html)
+
+![](/assets/images/nato/uk/air/image3.jpg)
 
 The Harrier GR.7 was designed for ground attack missions conducted from
 dispersed airfields in a very high threat environment. Although similar
 to the USMC AV-8B, there were many differences such as the defensive
-suite, gun and many other minor changes. The GR.7 was an improved second
-generation Harrier able to operate at night and all weather. Production
-amounted to 34 newly built GR.7’s and 54 converted GR.5’s for a total of
-88. Of these 24 were in storage and 64 in four squadrons, two in Germany
-and two, including the OCU in the UK.
+suite, gun and a host of other minor variations. The GR.7 was an
+improved second generation Harrier able to operate at night and all
+weather. Production amounted to 34 newly built GR.7’s and 54 converted
+GR.5’s for a total of 88. Of these 24 were in storage and 64 in four
+squadrons, two in Germany and two, including the OCU in the UK.
 
 | Sqn | Nickname       | Location  | No. | Type         | Remarks |
 | --- | -------------- | --------- | --- | ------------ | ------- |
@@ -86,21 +94,24 @@ and two, including the OCU in the UK.
 | 4   | Happy Four     | Gutersloh | 16  | Harrier GR.7 |         |
 | 223 |                | Wittering | 16  | Harrier GR.7 | OCU     |
 
-![](/assets/images/nato/uk/air/image4.jpg)**FGR.2 Phantom II**
+[**FGR.2 Phantom
+II**](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II)
 
-Through the 70’s & 80’s the RAF went through some difficult times, with
+![](/assets/images/nato/uk/air/image4.jpg)
+
+During the 70’s & 80’s the RAF went through some difficult times, with
 second generation aircraft such as the Lightning, Hunter and Canberra
 coming to the end of their life and new aircraft such as the Tornado a
 long way off. To partially fill the gap various options were considered,
 one was to build modified American F-4 Phantoms. With Rolls-Royce
 engines, some structural changes and the ability to use a reconnaissance
 and FLIR pod, 118 of the FGR.2’s entered service first in the strike
-role but as the Tornado GR.1’s came on line they moved to the
+role but as the Tornado GR.1’s came on line they also moved to the
 interceptor role. As the Tornado F.3 came into service, the FGR.2 was
 supposed to retire but in Northern Fury they were retained past their
-1992 retirement date. Over the years 37 of the original airframes were
+1992 withdrawal date. Over the years, 37 of the original airframes were
 written off leaving enough to equip four operational squadrons, a large
-OCU and holding 9 in reserve.
+OCU and holde 9 in reserve.
 
 | Sqn | Nickname    | Location   | No. | Type             | Remarks |
 | --- | ----------- | ---------- | --- | ---------------- | ------- |
@@ -110,15 +121,17 @@ OCU and holding 9 in reserve.
 | 92  | Cobras      | Wildenrath | 12  | FGR.2 Phantom II |         |
 | 228 |             | Leuchars   | 24  | FGR.2 Phantom II | OCU     |
 
-![](/assets/images/nato/uk/air/image5.jpg)**Jaguar GR.3**
+[**Jaguar GR.3**](http://www.armedforces.co.uk/raf/listings/l0008.html)
+
+![](/assets/images/nato/uk/air/image5.jpg)
 
 Another 3<sup>rd</sup> generation fighter surviving in the RAF was the
 SEPECAT Jaguar. Due to be retied in the early 90’s, this nimble
 workhorse proved itself an excellent low level precision attack platform
 during the Gulf war. Instead of being retired, 50 of them were upgraded
 to the GR3 standard which improved targeting and navigation equipment as
-well as some other improvements. Northern Fury accelerates this upgrade
-by about a year. The three remaining Jaguar squadrons are all based at
+well as other enhancements. Northern Fury accelerates this upgrade by
+about a year. The three remaining Jaguar squadrons are all based at
 Coltishall in the
 UK.
 
@@ -128,78 +141,84 @@ UK.
 | 41  | Kodak Kids            | Coltishall | 16  | Jaguar GR.3 |         |
 | 54  | Fighting Newts        | Coltishall | 16  | Jaguar GR.3 |         |
 
-![](/assets/images/nato/uk/air/image6.jpeg)
+[**Buccaneer
+S.2**](https://www.baesystems.com/en/heritage/blackburn-buccaneer)
 
-**Buccaneer S.2**
+![](/assets/images/nato/uk/air/image6.jpeg)
 
 Yet another venerable aircraft in the RAF was the Blackburn Buccaneer.
 The ‘Buc’ first flew for the Royal Navy (RN) in 1958, and entered RAF
 service in 1969. Due for retirement along with the Jaguar, the Gulf War
-showed that there was still a useful role in these old birds. With 206
+showed that there was still a useful role for these old birds. With 206
 Buccaneers built, and at its peak, about 90 serving in the RAF deployed
-to five squadrons, in 1994 there were about 45 left airworthy with 32 of
-them flying in two squadrons at Lossimouth. The final role for these
-versatile low level penetrators was Maritime Attack with the Sea Eagle
-anti-ship missile.
+to five squadrons, by 1994 there were only about 45 left airworthy with
+32 of them flying in two squadrons at Lossimouth. The final role for
+these versatile low level penetrators was Maritime Attack with the Sea
+Eagle anti-ship missile.
 
 | Sqn | Nickname     | Location   | No. | Type         | Remarks |
 | --- | ------------ | ---------- | --- | ------------ | ------- |
 | 12  | Flying Foxes | Lossimouth | 16  | Buccaneer S2 |         |
 | 208 | Navy 8       | Lossimouth | 16  | Buccaneer S2 |         |
 
-**T.1A Hawk**
+[**T.1A Hawk**](http://www.armedforces.co.uk/raf/listings/l0027.html)
 
-![](/assets/images/nato/uk/air/image7.jpeg)The RAF’s primary Jet
-training aircraft is the BAE T.1 Hawk. This highly successful aircraft
-is used around the world for the training role as well as some variants
-for light attack and air defence. Of the 176 in use with RAF, 88 have
-been converted to the T.1A version, to fulfill as secondary Air Defence
-role with the fitting of two AIM-9L Sidewinder missiles. These are meant
-purely for UK airspace and not intended for deployment.
+![](/assets/images/nato/uk/air/image7.jpeg)
+
+The RAF’s primary Jet training aircraft is the BAE T.1 Hawk. This highly
+successful aircraft is used around the world for the training role as
+well as some variants for light attack and air defence. Of the 176 in
+use with RAF, 88 have been converted to the T.1A version, to fulfill a
+secondary Air Defence function with the fitting of two AIM-9L Sidewinder
+missiles. These are meant purely for UK airspace and not intended for
+deployment.
 
 | Sqn | Nickname  | Location   | No. | Type | Remarks |
 | --- | --------- | ---------- | --- | ---- | ------- |
 | 63  |           | Brawdy     | 16  | Hawk |         |
 | 74  |           | Valley     | 16  | Hawk |         |
 | 79  |           | Brawdy     | 16  | Hawk |         |
-| 100 | Tatty Ton | Finningley | 16  | Hawk |         |
+| 100 | Tatty Tom | Finningley | 16  | Hawk |         |
 | 234 |           | Valley     | 16  | Hawk |         |
+
+[**E-3D**](http://www.armedforces.co.uk/raf/listings/l0026.html)
 
 ![](/assets/images/nato/uk/air/image8.jpeg)
 
-**E-3D**
+RAF No.8 Squadron operates six E-3D Sentry AWACS at RAF Waddinton, the
+primary responsibility is UK airspace but they routinely deploy to other
+locations to back up NATO, French and US aircraft. Historically these
+were operated by both No.8 and No.23 Sqns, but in Northern Fury No.23
+Sqn retains its Tornados so all AWACS are operated by one Sqn.
 
-The RAF operates six E-3D Sentries in the AWACS role by No.8 Squadron at
-RAF Waddinton, the primary responsibility is UK airspace but routinely
-deploy to other locations to back up NATO, French or US aircraft.
-Historically these were operated by both No.8 and No.23 Sqns, but in
-Northern Fury No.23 Sqn retains its Tornados so all AWACS are operated
-by one Sqn.
+[**Canberra PR
+Mk.9**](https://en.wikipedia.org/wiki/English_Electric_Canberra)
 
-![](/assets/images/nato/uk/air/image9.jpg)**Canberra PR Mk.9**
+![](/assets/images/nato/uk/air/image9.jpg)
 
-Over 900 Canberra’s were produced in the UK in the 1950’s, the last 23
-of them built were the English Electric Canberra PR Mk.9. Entering
-service with the RAF in 1958 in the Photo Reconnaissance role, they were
+Over 900 Canberra’s were produced in the UK during the 1950’s, the last
+23 of them built were the English Electric Canberra PR Mk.9. Entering
+service with the RAF in 1958 these Photo Reconnaissance specialists were
 still serving in 1994, and indeed only retired in 2006 after 55 years\!
 Based at Marham, No.12 Squadron RAF ‘Harry’s Mob’ operates 12 of them.
 The outstanding feature of this aircraft is its ability to operate at
 50,000 feet, certainly rivaled by the USAF ‘U-2’ and ‘SR-71’ but not
 many other airframes could operate at that altitude.
 
-**Nimrod MR.2**
+[**Nimrod MR.2**](http://www.armedforces.co.uk/raf/listings/l0010.html)
 
-![](/assets/images/nato/uk/air/image10.jpg)The Nimrod MR.2 was the
-primary Maritime Patrol Aircraft (MPA) used to conduct Anti-Submarine
-Warfare (ASW), mostly in the North Sea, the approaches to the English
-Channel and between Scotland and Iceland. The RAF received 47 aircraft
-originally in 1969. In 1979, 35 of these aircraft were upgraded to MR.2
-which included extensive modernization, a new radar, a new acoustic
-processor and many other features. Over time, additional capabilities
-such as in flight refueling and the carrying of external defensive
-weapons were added. Five squadrons operate the MR.2, the disbandment of
-42 Sqn in 1992 did not occur due to the increased threat in Northern
-Fury.
+![](/assets/images/nato/uk/air/image10.jpg)
+
+The Nimrod MR.2 was the primary Maritime Patrol Aircraft (MPA) used to
+conduct Anti-Submarine Warfare (ASW), mostly in the North Sea, the
+approaches to the English Channel and between Scotland and Iceland. The
+RAF originally received 47 aircraft in 1969. In 1979, 35 of these were
+upgraded to MR.2 which included extensive modernization, a new radar, a
+new acoustic processor and many other features. Over time, additional
+capabilities such as in flight refueling and the carrying of external
+defensive weapons were added. Five squadrons operate the MR.2, including
+42 Sqn which was not disbanded in 1992 due to the increased threat in
+Northern Fury.
 
 | Sqn   | Nickname  | Location  | No | Type        | Remarks |
 | ----- | --------- | --------- | -- | ----------- | ------- |
@@ -209,18 +228,21 @@ Fury.
 | 201   |           | Kinloss   | 7  | Nimrod MR.2 |         |
 | 206   |           | Kinloss   | 7  | Nimrod MR.2 | OCU     |
 
-![](/assets/images/nato/uk/air/image11.jpeg)**Nimrod R.1**
+[**Nimrod R.1**](http://www.armedforces.co.uk/raf/listings/l0010.html)
+
+![](/assets/images/nato/uk/air/image11.jpeg)
 
 Three of the original Nimrods were adapted to collect signals
-intelligence and tracking of electronic signals. If the MR.2 is similar
-to the American P-3C Orion, the R.1 is equivalent of the EP-3e ARIES II.
+intelligence and track electronic signatures. If the MR.2 is similar to
+the American P-3C Orion, the R.1 is equivalent of the EP-3e ARIES II.
 All three aircraft are operated by No.51 Sqn at RAF Waddington. The most
 distinctive feature is the lack of a MAD (Magnetic Anomaly Detector)
 Boom extending from the tail of the aircraft.
 
 **Transport and Tanker Fleet**
 
-**VC-10 (C1K, K2, K3, K4)**
+[**VC-10 (C1K, K2, K3,
+K4)**](http://www.armedforces.co.uk/raf/listings/l0046.html)
 
 These converted Vickers VC-10 airliners came from a variety of sources
 and were converted into Air-to-Air refuelling tankers from the late ‘70s
@@ -231,17 +253,22 @@ totaling 27; all operated by No.10 and No.101 Sqn out of Brize Norton.
 
 ![](/assets/images/nato/uk/air/image12.jpeg)
 
-![](/assets/images/nato/uk/air/image13.jpg)**TriStar (K1, C2,
-KC1)**
+[**TriStar (K1, C2,
+KC1)**](http://www.armedforces.co.uk/raf/listings/l0048.html)
+
+![](/assets/images/nato/uk/air/image13.jpg)
 
 Another air refuelling aircraft with the RAF was the Lockheed TriStar.
 Nine were purchased in 1984 after the Falklands war highlighted the need
 for this type of capability. All nine were operated from Brize Norton by
-No.216 ‘Two.N Six’ Sqn. Two of the nine were dedicated tankers (K1)
+No.216 ‘Two N Six’ Sqn. Two of the nine were dedicated tankers (K1)
 which could carry some cargo and passengers, three were dedicated to
 cargo only (C2), and the other four could be used for either role (KC1).
 
-**C-130 Hercules (C1, C3)**
+[**C-130 Hercules (C1,
+C3)**](http://www.armedforces.co.uk/raf/listings/l0029.html)
+
+![](/assets/images/nato/uk/air/image14.jpg)
 
 This tactical transport is the workhorse of most western air forces; the
 RAF is no different. Of the 66 C-130E’s purchased and designated the
@@ -256,5 +283,3 @@ probe added. Five Sqns operate the Hercules out of RAF Lynham.
 | 47  |                       | Lynham   | 12 | C-130K C1/C3 |         |
 | 57  |                       | Lynham   | 12 | C-130K C1    |         |
 | 70  | Love and Kisses (LXX) | Lynham   | 12 | C-130K C1    |         |
-
-![](/assets/images/nato/uk/air/image14.jpg)

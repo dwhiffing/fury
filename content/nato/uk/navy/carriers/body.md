@@ -1,12 +1,13 @@
 **Royal Navy Aircraft Carriers**
 
 Although the RN had more true aircraft carriers than any other NATO
-country beside the United States. These three Invincible Class ships, by
-any measurement must be considered light carriers when compared to
-American Fleet Carriers. indeed, they are slightly more than half the
+country beside the United States at the end of the second world war and
+through much of the Cold War, the three Invincible Class ships, by any
+measurement must be considered light carriers when compared to American
+Fleet Carriers. Indeed, they are slightly more than half the
 displacement of American Wasp and Tarawa class Amphibious Assault ships,
 with a similar air group capacity. However, designed for Sea Control as
-opposed to power projection, these ships were quite capable and often
+opposed to power projection, these ships were very capable and often
 acted as flagships for NATO task groups.
 
 [**Invincible
@@ -22,13 +23,14 @@ operations are supported. With the three ships in the fleet, the RN
 counted on having two at sea nearly continuously while the third
 undergoes refit. At the start of Northern Fury, HMS Illustrious is
 returning to the UK to commence refit while Invincible is at sea in home
-waters and Ark Royal is departing South Africa for a tour up the east
-coast of Africa.
+waters working up its crew after her own overhaul. Ark Royal is
+departing South Africa for a tour up the east coast of Africa to rejoin
+the Anti-Piracy task force in the Gulf of Aden.
 
 ![](/assets/images/nato/uk/navy/carriers/image1.jpg)
 
 | Pennant | Name        | Location           | Remarks         |
 | ------- | ----------- | ------------------ | --------------- |
-| R06     | Invincible  | South of Ireland   | Training        |
-| R07     | Illustrious | Eastern Med        | Returning to UK |
-| R08     | Ark Royal   | South Indian Ocean | Tour of IO      |
+| R05     | Invincible  | South of Ireland   | Training        |
+| R06     | Illustrious | Eastern Med        | Returning to UK |
+| R07     | Ark Royal   | South Indian Ocean | Tour of IO      |

@@ -1,17 +1,17 @@
 **USAF Strike Aircraft**
 
-The primary purpose of these aircraft are to deliver ordinance onto key
+The primary purpose of these aircraft are to deliver ordinance onto
 enemy targets, these targets can range from the very tactical, such as a
 tank or bunker up to the strategic level, such as the strike targeting
 Libya’s dictator Muammar Kaddafi in 1986. Alternatively, some references
 refer to these platforms as ‘Attack’ aircraft.
 
 [**F-117 Nighthawk**](https://fas.org/man/dod-101/sys/ac/f-117.htm)The
-‘Stealth Fighter’ had its combat debut in Panama, but came to its own
-during the Gulf war where 36 of them were deployed. These aircraft are
-the first to use low observable technology and rely on their stealth to
-penetrate deep into enemy territory and conduct precision strikes with
-laser guided bombs. Based at Holloman AFB in New Mexico the
+‘Stealth Fighter’ had its combat debut in Panama, but came into its
+own during the Gulf war where 36 of them were deployed. These aircraft
+are the first to use low observable technology and rely on their stealth
+to penetrate deep into enemy territory and conduct precision strikes
+with laser guided bombs. Based at Holloman AFB in New Mexico the
 49<sup>th</sup> Fighter Wing fields two operational squadrons and a
 conversion training squadron. In total 59 aircraft were produced but
 only 52 of them are
@@ -52,19 +52,19 @@ AFB.
 [**A-10/OA-10 Thunderbolt
 II**](https://fas.org/man/dod-101/sys/ac/a-10.htm)
 
-This aircraft is not known by its official name but is universally
-called the ‘Warthog’. The A-10 is rugged, adaptable and survivable, but
-most importantly it is deadly. Specifically designed to conduct Close
-Air Support (CAS) missions in the dangerous and difficult area between
-friendly and enemy ground troops, the A-10 carries up to 16,000 lbs of
-ordinance and a 30mm Gatling gun. A derivative of the A-10 is the OA-10
-which constitutes about 1/3<sup>rd</sup> of the fleet and is designed to
-be an airborne Forward Air Controller (FAC) used to guide other aircraft
-onto targets, otherwise it has all the same capabilities as the A-10 and
-looks very similar. The ‘Hogs’ have seen extensive active service in the
-Balkans and the Gulf War. Some extensive reshuffling has occurred with
-these squadrons since the Gulf War but 21 squadrons remain in service
-including 5 ANG and 2 Air
+This aircraft is not generally known by its official name but is
+universally called the ‘Warthog’. The A-10 is rugged, adaptable and
+survivable, but most importantly it is deadly. Specifically designed to
+conduct Close Air Support (CAS) missions in the dangerous and difficult
+area between friendly and enemy ground troops, the A-10 carries up to
+16,000 lbs of ordinance and a 30mm Gatling gun. A derivative of the A-10
+is the OA-10 which constitutes about 1/3<sup>rd</sup> of the fleet and
+is designed to be an airborne Forward Air Controller (FAC) used to guide
+other aircraft onto targets, otherwise it has all the same capabilities
+as the A-10 and looks very similar. The ‘Hogs’ have seen extensive
+active service in the Balkans and the Gulf War. Some extensive
+reshuffling has occurred with these squadrons since the Gulf War but 21
+squadrons remain in service including 5 ANG and 2 Air
 Reserve.
 
 | Sqn    | Name             | Wing             | Location            | No. | Type    | Remarks     |

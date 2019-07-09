@@ -6,8 +6,8 @@ remain strong.  In addition to building some of the best ASW platforms
 in the world, the gathering threat from a resurgent Soviet Union
 compelled the RN to save a number of older Frigates from the breakers
 yard. Although this helped plug some gaps, the world wide commitments
-are stretching the RN quite thin, and it is their Frigates which are
-filling the pressure.
+are stretching the RN quite thin, and it’s their hard working Frigates
+which are filling the pressure.
 
 [**Leander Class –
 Type 12**](https://en.wikipedia.org/wiki/Leander-class_frigate): This is
@@ -17,14 +17,15 @@ new; by 1994 they were quite dated, and are only suitable for secondary
 roles. Built in three batches the 26 ships of this class received
 various mid-life upgrades to improve capability but historically all
 were retired by the mid 90’s.  In Northern Fury, 17 of these ships
-remain in active service from six different batches or modification
+remain on active service from six different batches or modification
 sets. Over time sensors and weapons changed considerably. Some key
 capabilities noted in the table are:
 
   - Gun = Twin 4.5in guns
 
-  - Ikara is a missile with launches an ASW torpedo to a range of 10
-    nautical miles and drops it into the sea.
+  - Ikara is a missile witch launches an ASW torpedo to a range of 10
+    nautical miles and drops it into the sea, ideally directly above the
+    target submarine.
 
   - SeaCat is an early short range SAM (4 miles) 24 or 32 missiles
     carried
@@ -63,7 +64,7 @@ helicopter
 [**Type 21** **Amazon
 class**](https://en.wikipedia.org/wiki/Type_21_frigate): Seven of the
 eight ships in this class deployed to the Falkland Islands campaign,
-were they proved excellent as shore bombardment but not much else.  They
+were they proved excellent at shore bombardment but not much else.  They
 were poor Air Defense ships and quite loud and dated as ASW ships.  Two
 were sunk in that campaign, ***F170 Antelope*** and ***F184 Ardent***. 
 Historically the remaining six of this class were sold to Pakistan in
@@ -85,12 +86,12 @@ escorts.
 ![](/assets/images/nato/uk/navy/frigates/image2.jpeg)
 
 [**Type 22** **Broadsword
-Class**](https://en.wikipedia.org/wiki/Type_22_frigate): A much improved
-class, consists of 14 ships in three batches.  Primarily ASW platforms,
-these are capable general purpose ships. Batch 3 is significantly
-improved due to the experience from the Falklands war, and the four
-ships of this batch were commissioned to replace four ships of other
-classes lost in that
+Class**](https://en.wikipedia.org/wiki/Type_22_frigate): This much
+improved class consists of 14 ships in three batches.  Primarily ASW
+platforms, these are capable general purpose ships. Batch 3 is
+significantly improved due to the experience from the Falklands war, and
+the four ships of this batch were commissioned to replace four ships of
+other classes lost in that
 war.
 
 | Class/Batch | Pennant | Ship        | Location      | Status | Remarks     |
@@ -113,10 +114,10 @@ war.
 ![](/assets/images/nato/uk/navy/frigates/image3.jpg)
 
 [**Type 23 Duke Class**](https://en.wikipedia.org/wiki/Type_23_frigate):
-These Frigates are very capable, well balanced ship capable of operating
-independently or as a key ASW, AAW or ASuW ship within a Task Force.
-They are one of the best ASW platforms in the world. Nine of these ships
-are available in Northern Fury, three being accelerated into service and
+These Frigates are very capable, well balanced ships capable of
+operating independently or as a key ASW, AAW or ASuW ship within a Task
+Force. They are one of the best ASW platforms in the world. Nine are
+available in Northern Fury, three being accelerated into service and
 commissioning 6-8 months earlier than they did historically. These ships
 are a valuable addition to any NATO task
 force.
