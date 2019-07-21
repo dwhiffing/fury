@@ -1,21 +1,20 @@
-NATO/US Navy/US Navy CVBGs
+[**CVBG John C. Stennis
+(CVN-74)**](https://en.wikipedia.org/wiki/USS_John_C._Stennis)
 
-CVBG John C. Stennis (CVN-74)
+CVN-74 ‘**Johnny Reb**’ is currently completing construction and is
+being rushed into service. She will put to sea for builder’s trials in
+Mar 94 and acceptance trials in early April. Commissioning will be
+accelerated to 10 April 94 when she will conduct rapid qualification of
+all her systems and transit to the North Sea by the end of April. Her
+air group, based on the Reserve Air wing for the West Coast (CVWR-30),
+is conducting carrier qualification on CV-64 Constellation which is in
+the process of reconstituting its air group at San Diego.
 
-CVN-74 is currently completing construction and is being rushed into
-service. She will put to sea for builder’s trials in Mar 94 and
-acceptance trials in early April. Commissioning will be on 10 April 94
-when she will conduct rapid qualification of all her systems and transit
-to the North Sea at the end of April. Her air group, based on the
-Reserve Air wing for the West Coast (CVWR-30), is conducting carrier
-qualification on CV-64 Constellation which is in the process of
-reconstituting its air group off the west coast.
-
-The Stennis is destined for the West Coast fleet but will conduct
-operations in the North Atlantic for two months prior to heading back
-into dry-dock for a month in July and transiting to San Diego in August.
-Her Battle Group will form as required near the end of April and until
-then will conduct other tasks.
+The Stennis is destined for the 3<sup>rd</sup> Fleet on the West Coast
+but will conduct operations in the North Atlantic for two months prior
+to heading back into dry-dock in July to work on any issues discovered
+and then transit to San Diego in August. Her Battle Group will form as
+required near the end of April and until then will conduct other tasks.
 
 ![](/assets/images/nato/us/navy/carriers/john-c-stennis/image1.jpg)
 
@@ -61,5 +60,5 @@ USS John C. Stennis CVBG
 
 Notes
 
-1\. VS-31, ‘Topcats’ will join the air wing from CVW-2 when CV-64
-Constellation withdraws.
+1\. VS-31, ‘Topcats’ will join the air wing from CVW-2 from CV-64
+Constellation.

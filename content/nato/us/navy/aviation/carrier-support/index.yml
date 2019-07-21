@@ -1,5 +1,6 @@
-label: Naval Aviation Carrier Support
+label: Carrier Support Aircraft
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 4

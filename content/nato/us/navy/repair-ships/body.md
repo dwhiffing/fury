@@ -1,4 +1,4 @@
-USN Repair Ships
+**USN Repair Ships**
 
 In order to conduct operations across the globe, the USN needs a network
 of repair facilities both fixed and afloat to keep its ships
@@ -8,14 +8,14 @@ ports facilities or conduct repairs at austere anchorages.
 
 **AD: Destroyer Tenders:**
 
-![](/assets/images/nato/us/navy/repair-ships/image1.jpg)These ships
-are vital to the general maintenance of surface ships up to CG size and
-can service several simultaneously. The oldest of the three remaining
+These ships are vital to the general maintenance of surface ships up to
+CG size and can service several simultaneously. The oldest of the three
+remaining
 [Dixie](https://en.wikipedia.org/wiki/Dixie-class_destroyer_tender)
 class [USS Prairie](https://en.wikipedia.org/wiki/USS_Prairie_\(AD-15\))
 was launched before the US entered World War Two, while her sisters
 served during the war, although historically retired in 93-94, as with
-many of the combat ships these venerable workhorses remain in service.
+many of the combat ships these, venerable workhorses remain in service.
 Much more modern, the [Samuel
 Gompers](https://fas.org/man/dod-101/sys/ship/ad-37.htm) class was built
 in the early 60’s while the latest ships of the
@@ -36,6 +36,8 @@ ships.
 |                | AD-43   | [<span class="underline">Cape Cod</span>](https://en.wikipedia.org/wiki/USS_Cape_Cod_\(AD-43\))                 | Pacific  | San Diego | Guam         |
 |                | AD-44   | [<span class="underline">Shenandoah</span>](https://en.wikipedia.org/wiki/USS_Shenandoah_\(AD-44\))             | Atlantic | Norfolk   | Tied up      |
 
+![](/assets/images/nato/us/navy/repair-ships/image1.jpg)
+
 **AS: Submarine Tenders:**
 
 These ships are similar to Destroyer Tenders but their tooling and
@@ -44,14 +46,15 @@ three remaining
 [Fulton](https://en.wikipedia.org/wiki/Fulton-class_submarine_tender)
 class are all veterans of World War Two and, like the Dixies, were not
 retired in the early 90’s. Four more classes provide support to
-![](/assets/images/nato/us/navy/repair-ships/image2.jpg)submarines
-around the world, the
+submarines around the world, the
 [Hunley](https://fas.org/nuke/guide/usa/slbm/as-31.htm) class from the
 early 60’s, [Simon Lake](https://fas.org/nuke/guide/usa/slbm/as-31.htm)
 class from the mid 60’s, [L.Y.
 Spear](https://fas.org/man/dod-101/sys/ship/as-36.htm) class from the
-early 70’s, and the Emory S. Land class from the early
-80’s.
+early 70’s, and the [Emory S.
+Land](https://navaltoday.com/2018/02/12/us-navys-sub-tenders-sail-on-into-the-2020s/)
+class from the late
+70’s.
 
 | Class         | Pennant | Name                                                                                                      | Fleet    | Home Port  | Task           |
 | ------------- | ------- | --------------------------------------------------------------------------------------------------------- | -------- | ---------- | -------------- |
@@ -68,8 +71,9 @@ early 70’s, and the Emory S. Land class from the early
 |               | AS-40   | [<span class="underline">Frank Cable</span>](https://en.wikipedia.org/wiki/USS_Frank_Cable_\(AS-40\))     | Pacific  | Guam       | Tied Up        |
 |               | AS-41   | [<span class="underline">McKee</span>](https://en.wikipedia.org/wiki/USS_McKee_\(AS-41\))                 | Pacific  | San Diego  | Tied Up        |
 
-![](/assets/images/nato/us/navy/repair-ships/image3.jpeg)**AR:
-Repair Ship:**
+![](/assets/images/nato/us/navy/repair-ships/image2.jpg)
+
+**AR: Repair Ship:**
 
 The four World War Two veterans of the
 [Vulcan](https://fas.org/man/dod-101/sys/ship/ar-5.htm) class are
@@ -84,6 +88,8 @@ status.
 | AR-6    | [<span class="underline">Ajax</span>](https://en.wikipedia.org/wiki/USS_Ajax_\(AR-6\))     | Pacific  | San Diego | Mothballed |
 | AR-7    | [<span class="underline">Hector</span>](https://en.wikipedia.org/wiki/USS_Hector_\(AR-7\)) | Pacific  | Portland  | Mothballed |
 | AR-8    | [<span class="underline">Jason</span>](https://en.wikipedia.org/wiki/USS_Jason_\(AR-8\))   | Pacific  | San Diego | Mothballed |
+
+![](/assets/images/nato/us/navy/repair-ships/image3.jpeg)
 
 There are literally dozens of smaller support and repair ships in the
 USN which will not be listed here. These include the 10 ARS (Salvage and
@@ -100,4 +106,4 @@ five ATS (Salvage Ships) of the
 three ARC (Cable Repair Ships) of the
 [Neptune](https://en.wikipedia.org/wiki/USNS_Neptune_\(ARC-2\)) and
 [Zeus](https://en.wikipedia.org/wiki/USNS_Zeus_\(T-ARC-7\)) class, and
-more.
+many more.

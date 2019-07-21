@@ -1,21 +1,20 @@
-NATO/US Navy/US Navy CVBGs
-
-CVBG George Washington (CVN-73)
+[**CVBG George Washington
+(CVN-73)**](https://en.wikipedia.org/wiki/USS_George_Washington_\(CVN-73\))
 
 Because CVN-70 was kept in the Atlantic due to the increasingly
-aggressive stance of a resurgent Soviet Union, joining both CVN-69
-Dwight D. Eisenhower and ultimately CVN-71 Theodore Roosevelt, the
-fleets were out of balance. Therefore, both CVN-72 Abraham Lincoln and
-CVN-73 George Washington were based in the Pacific immediately upon
-commissioning, joining CVN-68 Nimitz and equalizing the new carriers
+aggressive stance of a resurgent Soviet Union, joining both *CVN-69
+Dwight D. Eisenhower* and ultimately *CVN-71 Theodore Roosevelt*, the
+fleets were out of balance. Therefore, both *CVN-72 Abraham Lincoln* and
+*CVN-73 George Washington* were based in the Pacific immediately upon
+commissioning, joining *CVN-68 Nimitz* and equalizing the new carriers
 with three on each coast.
 
-USS Washington commenced here career with a 9-month tour of the Indian
-Ocean, Persian Gulf in 93 and has been conducting routine maintenance
-and training since in San Diego since Oct of 93. She is currently the
-ready reaction carrier on the West Coast and when hostilities commence
-she will deploy on the 17<sup>th</sup> of Feb and head to the
-Philippines
+*USS Washington* or *‘**GW***” commenced here career with a 9-month tour
+of the Indian Ocean and Persian Gulf in 93 and has been conducting
+routine maintenance and training since returning San Diego in October of
+93. She is currently the ready reaction carrier on the West Coast and
+when hostilities commence she will deploy on the 17<sup>th</sup> of Feb
+and head to the Philippines
 area.
 
 ![](/assets/images/nato/us/navy/carriers/george-washington/image1.jpg)
@@ -63,5 +62,5 @@ Notes
 1.  VA-34, deploys when the Navy reactivates 6x A-6E Sqns (only 8 AC)
 
 2.  CVW-10 does not currently have a VAQ (Electronic Warfare) Sqn, but
-    will pick up VAQ-131 ‘Lancers’ when CVW-2 disperses of CV-64
-    Constellation near the end of Feb 94.
+    will pick up VAQ-131 ‘Lancers’ when CVW-2 disperses from *CV-64
+    Constellation* near the end of Feb 94.

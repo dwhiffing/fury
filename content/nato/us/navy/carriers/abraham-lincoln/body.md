@@ -1,15 +1,16 @@
-NATO/US Navy/US Navy CVBGs
+[**CVBG Abraham Lincoln
+(CVN-72)**](https://en.wikipedia.org/wiki/USS_Abraham_Lincoln_\(CVN-72\))
 
-CVBG Abraham Lincoln (CVN-72)
-
-CVN-72 deployed to the Pacific Fleet as planned in 1991 to join CVN-68
-Nimitz. When war starts she is in the process of deploying to the Indian
-Ocean, Persian Gulf to replace the Nimitz. Deploying before Christmas 93
-she conducted an exercise with CV-62 Independence and CV-63 Kitty Hawk
-(just returning from the Persian Gulf) off of the Philippines in Jan
-which was followed by a port visit to Sydney Australia at the beginning
-of February. She is en route to the Indian Ocean at war start but will
-be almost immediately recalled to the Pacific to help stabilize maters
+CVN-72 or ‘**Abe**’ is deployed to the Pacific Fleet as planned in 1991
+to join *CVN-68 Nimitz* as the second nuclear powered carrier on the
+west coast. When war starts she’s in the process of deploying to the
+Indian Ocean, enroute to the Persian Gulf to replace the *Nimitz* for an
+8-month deployment. Departing the US before Christmas 1993 she conducted
+an exercise with *CV-62 Independence* and *CV-63 Kitty Hawk* (just
+returning from the Persian Gulf) off of the Philippines in January,
+followed by a port visit to Sydney Australia at the beginning of
+February. She is heading to the Indian Ocean at war start but will
+almost immediately be recalled to the Pacific to help stabilize maters
 there.
 
 ![](/assets/images/nato/us/navy/carriers/abraham-lincoln/image1.jpeg)

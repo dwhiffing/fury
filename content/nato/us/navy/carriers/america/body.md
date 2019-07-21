@@ -1,18 +1,18 @@
-NATO/US Navy/US Navy CVBGs
+[**USS America
+(CV-66)**](https://en.wikipedia.org/wiki/USS_America_\(CV-66\))
 
-USS America (CV-66)
-
-CV-66 had just returned from an 8-month patrol in the Mediterranean a
-week before war start. She had been replaced by CVN-69 Eisenhower and
-was long overdue for a 4-6-month maintenance overhaul in dry-dock. She
-enters dry-dock two days after war start and her air group (CVW-1) and
-battle group are dispersed amongst the fleet. She emerges from the Navy
-Yard in July of 94 with a rebuild air group based on the East Coast
-Reserve wing CVWR-20
+CV-66, nicknamed ‘**The Big A**’ had just returned from an 8-month
+patrol in the Mediterranean a week before war start. She’d been replaced
+by *CVN-69 Eisenhower* and was long overdue for a 4-6-month maintenance
+overhaul in dry-dock. She enters dry-dock two days after war start and
+her air group (CVW-1) and battle group are dispersed amongst the fleet.
+She hastily emerges from the Navy Yard in April of 94 with a rebuilt air
+group based on the East Coast Reserve wing CVWR-20 and is in time to
+joint the fleet actions in May.
 
 ![](/assets/images/nato/us/navy/carriers/america/image1.jpg)
 
-USS America
+USS America CVBG
 
   - CV-66 America
     
@@ -35,7 +35,7 @@ USS America
         
           - HS-11 Dragon Slayers SH-3H (To CVW-7 on Kennedy)
     
-      - CVWR-20 (Formed Jun and deploy to re-launched CV-66 July 94)
+      - CVWR-20 (Formed Apr and deploy to re-launched CV-66 May 94)
         
           - VF-201 Hunters F-14A
         

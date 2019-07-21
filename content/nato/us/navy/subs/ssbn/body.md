@@ -1,25 +1,27 @@
 **USN Ballistic Missile Submarines (SSBN)**
 
 The US Navy maintains a fleet of 24 SSBNs, of a projected 36 in the 600
-ship navy plan, the efficiency is achieved by having more missiles on
-each hull. Each submarine has two crews (Blue & Gold) and is designed to
-spend a considerable amount of time at sea. Considered the most secure
-leg of the US nuclear triad (SSBNs, Nuclear armed manned bombers, and
-land based ICBMs - Inter-Continental Ballistic Missiles) the fleet of
-SSBNs prowl the worlds oceans and can strike targets in Soviet Union
-from practically anywhere on the globe. The goal of any SSBN is to
-remain undetected for their entire patrol.
+ship navy plan, that number will reduce to 21 because of the efficiency
+achieved by the Ohio class having more missiles on each hull and
+maintaining more time at sea. Each submarine has two crews (Blue & Gold)
+and is designed to spend a considerable amount of time on patrol.
+Considered the most secure leg of the US nuclear triad (SSBNs, Nuclear
+armed manned bombers, and land based ICBMs - Inter-Continental Ballistic
+Missiles) the fleet of SSBNs prowl the worlds oceans and can strike
+targets in the Soviet Union from practically anywhere on the globe. The
+goal of any SSBN is to remain undetected for their entire patrol, thus
+ensuring that security.
 
 With the restructure of the US military commencing in 1990, US STRACOM
 (Strategic Command) controls the missiles onboard the USN operated
 submarines. Communications is through USN controlled E-6 Mercury
 aircraft allowing for targeting from STRATCOM and tasking from the USN
-while submerged. Both the US and the USSR continue to adhere to the SALT
-II (Strategic Arms Limitation Treaty) and START I (Strategic Arms
-Reduction Treaty) goals and commitments, so it is very likely that each
-submarine only carries a partial load of nuclear warheads. As with where
-they are patrolling, the number of warheads carried is highly
-classified.
+while submerged. In Northern Fury. both the US and the USSR continue to
+adhere to the SALT II (Strategic Arms Limitation Treaty) and START I
+(Strategic Arms Reduction Treaty) goals and commitments, so it’s very
+likely that each submarine only carries a partial load of nuclear
+warheads. As with where they are patrolling, the number of warheads
+carried is highly classified.
 
 [**Ohio Class**](https://fas.org/nuke/guide/usa/slbm/ssbn-726.htm): This
 class of SSBN marks a significant upgrade to the US nuclear deterrent,
@@ -30,22 +32,25 @@ fitting out and has not yet sortied on patrol. Historically this class
 was truncated at 18 boats and then four were converted to SSGN (Guided
 Missile Submarines) in the late 1990’s – In Northern Fury all 21 SSBN
 and the three additional hulls planned for Special Missions will be
-built out to the year 2000. Each of the eight boats based in the Pacific
-carry the Trident I (C-4) missile with 8 MIRV (Multiple Independently
-Targeted Re-entry Vehicle) warheads while the eight (eventually ten) in
-the Atlantic carry the newer Trident II (D-5) missiles with 12 MIRVs.
-These boats are very quiet, probably equivalent or better than the 688I
-class of SSN, and fast, probably about 25knts.
+built out by the year 2000. Each of the eight (eventually 10) boats
+based in the Pacific carry the Trident I (C-4) missile with 8 MIRV
+(Multiple Independently Targeted Re-entry Vehicle) warheads while the
+eight (eventually 11) in the Atlantic carry the newer Trident II (D-5)
+missiles with 12 MIRVs. These boats are very quiet, probably equivalent
+or better than the 688I class of SSN; and fast, probably about 25knts.
 
 ![](/assets/images/nato/us/navy/subs/ssbn/image1.jpg)
 
 Designed from the ground up for long durations at sea, a standard patrol
 is 70 days but can be up to 90 days, followed by 25-30 days in port with
-over 15 years between major (year long) overhauls. *SSBN-726 Ohio* is
-the first to undergo a long overhaul which will be complete in Jun 1994
-when *SSBN-727 Michigan* will take her place. The 21 Ohio class SSBNs
-will be able to deploy the same or more missiles at any time than the 41
-hulls of the
+over 15 years between major (year long) overhauls. While the patrol
+length is the same as in older boats, the Ohio class spends less than
+half the time in port between missions with only two refits over a
+50-year lifespan, again half that of the older classes of Boomers.
+*SSBN-726 Ohio* is the first to undergo a long overhaul which will be
+complete in Jun 1994 when *SSBN-727 Michigan* will take her place. The
+21 Ohio class SSBNs when completed, will be able to deploy the same or
+more missiles at any time than the 41 hulls of the
 ‘[Freedom-41](https://en.wikipedia.org/wiki/41_for_Freedom)’ boats
 discussed
 below.
@@ -72,6 +77,7 @@ below.
 |       | SSBN-743 | Louisiana        | Atlantic | Kings Bay | Building    |         |
 |       | SSBN-744 | \#19             | Pacific  | Bangor    | Building    |         |
 |       | SSBN-745 | \#20             | Pacific  | Bangor    | Building    |         |
+|       | SSBN-746 | \#21             | Atlantic | Kings Bay | Ordered     |         |
 
 ![](/assets/images/nato/us/navy/subs/ssbn/image2.jpg)
 
@@ -79,21 +85,22 @@ below.
 / [Lafayette](https://fas.org/nuke/guide/usa/slbm/ssbn-616.htm) / [James
 Madison
 Class](https://en.wikipedia.org/wiki/James_Madison-class_submarine)**:
-Forty-one boats of these three classes plus the *George Washington* and
-*Ethan Allen* classes carried the submarine leg of the nuclear triad for
-almost 30 years from the early 1960s to the late 1980s, the **41 for
-Freedom** boats that patrolled in the depths of the Cold War. Only eight
-of these older boats remain in service as SSBNs while two were converted
-to Special Mission boats (*Kamehameha* and *James K. Polk*). All were
-retrofitted to the SUBSAFE standard based on the lessons learned in the
-USS Thresher disaster. The remaining hulls were also fitted out to carry
-the same Trident I C-4 missile of the early Ohio class SSBNs. These
-boats started to retire in 1989 and are being quickly replaced by the
-Ohio class which carry 50% more missiles each with 50% more MIRVs, five
-more are due to retire in 1994; two in February, two in March and one in
-September. A standard patrol length of 70-90 days followed by a 60-day
-refit period with a major overhaul once every ten years means that they
-spend less than 50% of their lifetime at sea. All are in the Atlantic
+Forty-one boats of these three classes as well as the *George
+Washington* and *Ethan Allen* classes carried the submarine leg of the
+nuclear triad for almost 30 years from the early 1960s to the late
+1980s; the famous **41 for Freedom** boats that patrolled in the depths
+of the Cold War. Only eight of these older boats remain in service as
+SSBNs while two were converted to Special Mission boats (*Kamehameha*
+and *James K. Polk*). All were retrofitted to the SUBSAFE standard based
+on the lessons learned in the USS Thresher disaster. The remaining hulls
+were also fitted out to carry the same Trident I C-4 missile of the
+early Ohio class SSBNs. These boats started to retire in 1989 and are
+being quickly replaced by the Ohio class which carry 50% more missiles
+each with 50% more MIRVs, five more are due to retire in 1994; two in
+February, two in March and one in September. A standard patrol length of
+70-90 days followed by a 60-day refit period with a major overhaul once
+every ten years means that they spend less than 50% of their lifetime at
+sea. All are in the Atlantic
 Fleet.
 
 | Class             | Pennant  | Name              | Historic | Flt      | Home Port  | Task      | Remarks |

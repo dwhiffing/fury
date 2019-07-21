@@ -7,10 +7,9 @@ helicopters which are covered in the amphibious section.
 
 [**SH-2 Seasprite**](https://fas.org/man/dod-101/sys/ac/sh-2.htm)
 
-![](/assets/images/nato/us/navy/aviation/helicopters/image1.jpg)The
-Seasprite fulfilled the light ASW role, answering the specification for
-LAMPS 2 (Light Airborne Multi-Purpose System). The name is odd because
-the SH-2 is such a small platform that its ability to fulfil
+The Seasprite fulfilled the light ASW role, answering the specification
+for LAMPS I (Light Airborne Multi-Purpose System). The name is odd
+because the SH-2 is such a small platform that its ability to fulfil
 multi-purpose aspect of the title is questionable, although a hoist
 could be fitted and a slung load could be carried. The Seasprite was
 widely used throughout the Viet Nam war era, flying off the small decks
@@ -18,16 +17,16 @@ of many US ships, but it was approaching retirement and due to be
 replaced by the SH-60B. Complications arose to this plan in the 1980s
 because of the 600 ship navy plan. The SH-2 was the only helicopter able
 to operate off the Knox class and older frigates as well as many of the
-early Oliver Hazard Perry ships. So the SH-2G ‘Super Seasprite’ was
-developed, historically these were sent immediately to the Reserves due
-to a shrinking fleet and only 24 were acquired (6 new and 18
-conversions), in Northern Fury they all remain in the active fleet and
-24 more older aircraft were converted for a fleet total of 48 ‘Super
-Seasprites’. The plan was further complicated due to the Gulf War in
-1991, for deployment there 16 SH-2Fs were fitted with forward looking
-infra-red (FLIR) cameras and other fitting, these remain in service as
-well. In total there are 112 Seasprites are in the fleet and about a
-dozen held in
+early Oliver Hazard Perry ships (Short Hull). So the SH-2G ‘Super
+Seasprite’ was developed, historically these were sent immediately to
+the Reserves due to a shrinking fleet and only 24 were acquired (6 new
+and 18 conversions), in Northern Fury they all remain in the active
+fleet and 24 more older aircraft were converted for a fleet total of 48
+‘Super Seasprites’. The plan was further complicated due to the Gulf
+War in 1991, for deployment there, 16 SH-2Fs were fitted with forward
+looking infra-red (FLIR) cameras and other modifications, these remain
+in service as well and are known as the SH-2F(GW). In total there are
+112 Seasprites are in the fleet and about a dozen held in
 readiness.
 
 | Sqn    | Name            | Location         | No. | Type  | Remarks              |
@@ -41,19 +40,20 @@ readiness.
 | HSL-84 | Thunderbolts    | NAS Norfolk      | 16  | SH-2F | Several Gulf War Mod |
 | HSL-94 | Titans          | NAS Norfolk      | 12  | SH-2G |                      |
 
-![](/assets/images/nato/us/navy/aviation/helicopters/image2.jpeg)[**SH-3
-Sea King**](http://www.airvectors.net/avs61_1.html#m3)At its peak the
-USN operated well over 300 of the powerful and amphibious SH-3 Sea King
-helicopters but is currently retiring the bulk of that fleet. The two
-roles remaining to the Sea King are:
+![](/assets/images/nato/us/navy/aviation/helicopters/image1.jpg)
 
-  - ASW, where it is being replaced by the SH-60F Oceanhawk in the
+[**SH-3 Sea King**](http://www.airvectors.net/avs61_1.html#m3)At its
+peak the USN operated well over 300 of the powerful and amphibious SH-3
+Sea King helicopters but is currently retiring the bulk of that fleet.
+The two roles remaining to the Sea King are:
+
+  - ASW; where it is being replaced by the SH-60F Oceanhawk in the
     Carrier Air Wings (CVW). Both the Sea King and the new Oceanhawk
     differ from other US ASW helicopters by having dipping sonar,
-    allowing them to use active sonar at depth near the very noisy
-    carrier.
+    allowing them to use active sonar at depth near very noisy ships –
+    like Aircraft Carriers.
 
-  - SAR (Search and Rescue) and general utility. The SAR task will be
+  - SAR; (Search and Rescue) and general utility. The SAR task will be
     taken up by the HH-60H ‘Rescue Hawk’ but only on the CVWs and
     Special Forces squadrons. General duties and shore based SAR will be
     conducted by the last remaining 26 UH-3H Sea Kings and a variety of
@@ -84,54 +84,61 @@ means.
 |       | HS-17  | Neptune's Raiders | 6  | North Island        | Deactivating                 |
 |       | HS-85  | Golden Gators     | 6  | North Island        | Reserve Sqn                  |
 | UH-3H | HC-1   | Fleet Angels      | 8  | North Island        |                              |
-|       | HC-2   | Fleet Angles      | 2  | Norfolk             |                              |
+|       | HC-2   | Fleet Angles      | 4  | Norfolk             |                              |
 |       | HC-5   | Providers         | 7  | Agana Japan         |                              |
 |       | HC-11  | Gunbearers        | 4  | North Island        |                              |
 |       | HC-16  | Bullfrogs         | 4  | Pensacola           |                              |
 |       | HSL-51 | Warlords          | 1  | Yokosuka Japan      | 7<sup>th</sup> Fleet VIP Tpt |
 
-[**SH-60
-Seahawk**](https://fas.org/man/dod-101/sys/ac/sh-60.htm)
+![](/assets/images/nato/us/navy/aviation/helicopters/image2.jpeg)
 
-![](/assets/images/nato/us/navy/aviation/helicopters/image3.jpeg)Ideally
-the USN wanted to replace all (or most) helicopters with this one single
-family of aircraft. The very robust and capable Seahawk is the maritime
-variant of the armies UH-60 Blackhawk. The USAF and US Coast Guard were
-also adopting variants making pan-defence efficiencies. The USN acquired
-three variants, all with the name Seahawk but unofficially with adopted
-names:
+[**SH-60 Seahawk**](https://fas.org/man/dod-101/sys/ac/sh-60.htm)
+
+The very robust and capable Seahawk is the maritime variant of the
+armies UH-60 Blackhawk and its versatility was ideal for the Navy.
+Ideally the USN wanted to replace all (or most) helicopters with this
+one family of aircraft, but budgets got in the way of that idea, however
+because the Army, the USAF and the US Coast Guard are also adopting
+variants the pan-defence efficiencies may eventually allow that to
+happen. By 1994 the USN was acquiring three variants, all with the name
+Seahawk but unofficially with adopted names:
 
   - [SH-60B
     Seahawk](http://www.sikorskyarchives.com/S-60B%20\(SH-60B%20Seahawk,%20SH-60F%20CV,%20HH-60H%20Rescue%20Hawk,%20HH-60J%20Jayhawk,%20VH-60N\).php),
-    rugged and powerful ASW helicopter with modern and capable ASW
-    systems, a Magnetic Anomaly Detector (MAD), 25 sonobuoys, a powerful
-    search radar, FLIR and air launched torpedoes or Penguin Anti-Ship
-    Missiles (ASM). These are equipped with a RAST system to assist them
-    landing on a small deck. In total, 181 SH-60B were produced.
+    filling a LAMPS III role, these rugged and powerful ASW helicopter
+    have modern and capable ASW computation and targeting systems, a
+    Magnetic Anomaly Detector (MAD), 25 sonobuoys, a powerful search
+    radar, FLIR and either air launched torpedoes or Penguin Anti-Ship
+    Missiles (ASM). These are equipped with a RAST (Recovery Assist,
+    Secure and Traverse) system to assist them landing on a small deck.
+    In total, 181 SH-60B were produced.
+
+![](/assets/images/nato/us/navy/aviation/helicopters/image3.jpeg)
 
   - [SH-60F
     Oceanhawk](http://www.waymarking.com/waymarks/WMWYA2_Sikorsky_SH_60F_Seahawk_San_Diego_CA),
-    designed for operating of aircraft carriers, this model exchanges
-    the RAST system, the MAD, the search radar and the onboard sonobouys
-    for active dipping sonar enabling it to hunt submarines near the
+    designed to operate off aircraft carriers, this model exchanges the
+    RAST system, the MAD, the search radar and the onboard sonobouys for
+    an active dipping sonar, enabling it to hunt submarines near the
     center of a very noisy task group. The Oceanhawk has only 6
     sonobouys launched from an external mount. The USN procured 76
-    SH-60F but only 45 have been
-    delivered.
-    
-    ![](/assets/images/nato/us/navy/aviation/helicopters/image4.jpg)
+    SH-60F but only 45 have been delivered by the start of Northern
+    Fury.
+
+![](/assets/images/nato/us/navy/aviation/helicopters/image4.jpg)
 
   - [HH-60H Rescue
     Hawk](http://www.nhahistoricalsociety.org/index.php/sh-60f-sikorsky-s-70b-seahawk-helicopter/),
     primarily used by two Special Forces CSAR (Combat Search and Rescue)
     squadrons, this aircraft is based on the SH-60F but has many
-    survivability features including
-    ![](/assets/images/nato/us/navy/aviation/helicopters/image5.jpeg)electronic
-    countermeasures, jammers and chaff/flare dispensers. It can fire the
-    AGM-114 Hellfire missile. In addition to the CSAR squadrons, each HS
-    (Helicopter ASW) squadron is equipped with two HH-60H to augment the
-    six SH-60Fs. Only 42 of this type were
+    survivability features including electronic countermeasures, jammers
+    and chaff/flare dispensers. It can fire the AGM-114 Hellfire
+    missile. In addition to the CSAR squadrons, each HS (Helicopter ASW)
+    squadron is equipped with two HH-60H to augment the six SH-60Fs.
+    Only 42 of this type were
 produced.
+
+![](/assets/images/nato/us/navy/aviation/helicopters/image5.jpeg)
 
 | Sqn    | Name           | Location         | No. | Type          | Remarks               |
 | ------ | -------------- | ---------------- | --- | ------------- | --------------------- |
@@ -144,7 +151,7 @@ produced.
 | HS-4   | Eightballers   | CVW-14           | 6/2 | SH-60F/HH-60H | USS Carl Vinson       |
 | HS-15  | Red Lions      | CVW-6            | 6/2 | SH-60F/HH-60H | USS Enterprise        |
 | HS-16  | Nighthawks     | CVW-10           | 6/2 | SH-60F/HH-60H | USS George Washington |
-| HSL-34 | Greencheckers  | NAS Norfolk      | 18  | SH-60B        |                       |
+| HSL-34 | Greencheckers  | NAS Norfolk      | 18  | SH-60B        | FRS                   |
 | HSL-35 | Magicians      | NAS North Island | 14  | SH-60B        |                       |
 | HSL-36 | Lamplighters   | NAS Mayport      | 12  | SH-60B        |                       |
 | HSL-37 | Easy Riders    | NAS North Island | 14  | SH-60B        |                       |
@@ -156,7 +163,7 @@ produced.
 | HSL-46 | Grandmasters   | NAS Mayport      | 13  | SH-60B        |                       |
 | HSL-47 | Saberhawk      | NAS North Island | 14  | SH-60B        |                       |
 | HSL-48 | Vipers         | NAS Mayport      | 13  | SH-60B        |                       |
-| HSL-60 | Jaguars        | NAS Mayport      | 16  | SH-60B        |                       |
+| HSL-60 | Jaguars        | NAS Mayport      | 16  | SH-60B        | FRS                   |
 
 [**CH/UH/HH-46 Sea
 Knight**](https://en.wikipedia.org/wiki/Boeing_Vertol_CH-46_Sea_Knight)These
@@ -184,19 +191,19 @@ aircraft are also very capable heavy lift helicopters. All three
 squadrons are located at NAS Norfolk but are deployable worldwide via
 C-5 Galaxy to any trouble spot. HM-14 is affiliated with Pacific Fleet.
 
-| Sqn   | Name        | Location    | No. | Type   | Remarks        |
-| ----- | ----------- | ----------- | --- | ------ | -------------- |
-| HM-12 | Hawlin Hogs | NAS Norfolk | 12  | MH-53E | Fleet Repl Sqn |
-| HM-14 | Vanguard    | NAS Norfolk | 18  | MH-53E |                |
-| HM-15 | Blackhawks  | NAS Norfolk | 18  | MH-53E |                |
+| Sqn   | Name        | Location    | No. | Type   | Remarks |
+| ----- | ----------- | ----------- | --- | ------ | ------- |
+| HM-12 | Hawlin Hogs | NAS Norfolk | 12  | MH-53E | FRS     |
+| HM-14 | Vanguard    | NAS Norfolk | 18  | MH-53E |         |
+| HM-15 | Blackhawks  | NAS Norfolk | 18  | MH-53E |         |
 
 ![](/assets/images/nato/us/navy/aviation/helicopters/image7.jpg)
 
 [**UH-1N**](https://www.navy.mil/navydata/fact_display.asp?cid=1200&tid=100&ct=1)
 
 The Navy operates about 25 UH-1N Iroquois (Twin Huey) light utility
-helicopters in both the SAR , VIP transport and utility roles. As the
-USMC retires their UH-1N in favour of the UH-1Y, the USN is able to
-absorb more and deploy them as needed.
+helicopters in the SAR, VIP transport and utility roles. As the USMC
+retires their UH-1N in favour of the UH-1Y, the USN is able to absorb
+more and deploy them as needed.
 
 ![](/assets/images/nato/us/navy/aviation/helicopters/image8.jpg)

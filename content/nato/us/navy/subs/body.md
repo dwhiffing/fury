@@ -3,15 +3,16 @@
 ![](/assets/images/nato/us/navy/subs/image1.jpg)
 
 US submarines deploy globally on a myriad of tasks, running silent and
-deep. Whatever they are asked to do they are very capable sensor
-platforms and a potent weapons platform should it come to war. A
-submarine’s greatest strength is its stealth, in peacetime or in war,
-the ability to be somewhere and do something without being detected.
-When at peace, a submarine is constantly monitoring its surroundings,
-gathering electronic and acoustic intelligence, posing a hidden threat
-and training for any eventuality. At war in addition to everything else,
-the submarine is the silent hunter, the knife in the dark that can cut
-out key targets and escape.
+deep. Whatever they are asked to do they are very capable weapon and
+sensor platforms which would be a significant asset should it come to
+war. A submarine’s greatest strength is its stealth, in peacetime or in
+war, the ability to be somewhere and do something without being detected
+is paramount, US submarines are some of the stealthiest in the world in
+1994. When at peace, a submarine is constantly monitoring its
+surroundings, gathering electronic and acoustic intelligence, posing a
+hidden threat and training for any eventuality. At war in addition to
+everything else, the submarine is the silent hunter, the knife in the
+dark that can cut out key targets and escape.
 
 With the exception of the unarmed research vessel *USS Dolphin*, the
 entire fleet of [US
@@ -34,10 +35,10 @@ sensors and weapons can be used to great effect.
 
 The US Navy maintains a fleet of 24 SSBNs, 97 SSNs and 12 Special
 Mission SSNs, these are SSNs with a specialized role. Second only in
-size to the USSR, which maintains roughly twice as many, what the US
-lacks in numbers however they gain in technology, only the very latest
-generation of Soviet submarine can challenge the bulk of the US fleet in
-capability.
+size to the USSR, which maintains roughly twice as many submarines, what
+the US lacks in numbers however they gain in technology, only the very
+latest generation of Soviet submarine can challenge the bulk of the US
+fleet in capability.
 
 ![](/assets/images/nato/us/navy/subs/image2.jpeg)
 

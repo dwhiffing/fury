@@ -1,9 +1,8 @@
-NATO/US Navy/US Navy CVBGs
+**[CVBG Kitty Hawk
+(CV-63)](https://en.wikipedia.org/wiki/USS_Kitty_Hawk_\(CV-63\))**
 
-CVBG Kitty Hawk (CV-63)
-
-USS Kitty Hawk, or Battle Cat was commissioned in 1961, six months ahead
-of her sister ship the Constellation, and completed a 3-year long
+USS Kitty Hawk, or ‘**Battle Cat**’ was commissioned in 1961, six months
+ahead of her sister ship the Constellation, and completed a 3-year
 Service Life Extension Program (SLEP) in August of 1990 which prepared
 her for another 20 years of sailing. When war breaks out she is tied up
 at San Diego going through a period of routine maintenance. She will

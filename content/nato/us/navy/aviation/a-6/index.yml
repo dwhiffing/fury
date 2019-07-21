@@ -1,5 +1,6 @@
-label: Aviation A6
+label: A-6 Intruder
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3

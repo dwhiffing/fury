@@ -1,20 +1,19 @@
-NATO/US Navy/US Navy CVBGs
+**[CVBG Saratoga
+(CV-66)](https://en.wikipedia.org/wiki/USS_Saratoga_\(CV-60\))**
 
-CVBG Saratoga (CV-66)
-
-USS Saratoga, was commissioned in 1956 as the second of four Forrestal
-class carriers, she completed a 3-year long Service Life Extension
-Program (SLEP) in February of 1983, the first ship to do so, which
-prepared her for another 15 years of sailing. Although she spent most of
-her service life in the Mediterranean, she was now based in San Diego
-and in the middle of an eight-month deployment to the Indian Ocean
+*USS Saratoga*, or ‘**Sara**’ was commissioned in 1956 as the second of
+four Forrestal class carriers, she completed a 3-year Service Life
+Extension Program (SLEP) in February of 1983, the first ship to do so,
+preparing her for another 15-20 years of sailing. Although she spent
+most of her service life in the Mediterranean, she is now based in San
+Diego and in the middle of an eight-month deployment to the Indian Ocean
 Persian/Gulf region. At the start of the war, she was on patrol in the
 Arabian Sea and would soon find herself alone in that region as other
 carriers were pulled to the Mediterranean or the Pacific. Due to the
 reduced threat in the Indian Ocean region there was quite a bit of
 turmoil with Saratoga’s escorts. She is due for some badly needed
-maintenance starting late summer in San Diego and is relieved by USS
-Ranger.
+maintenance starting late summer in San Diego and is relieved by *USS
+Ranger*.
 
 ![](/assets/images/nato/us/navy/carriers/saratoga/image1.jpg)
 

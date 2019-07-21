@@ -5,8 +5,8 @@ patrol (Anti-Submarine Warfare) but also for intelligence gathering and
 strategic communications. These aircraft are all based on civilian
 airliners and have long endurance, large crews, very modular equipment
 which is easy to upgrade but are quiet vulnerable to enemy action. These
-are highly valuable aircraft so any loss would have a significant impact
-and gain high level attention.
+are valuable aircraft so any loss would have a significant impact and
+gain high level attention.
 
 ![](/assets/images/nato/us/navy/aviation/patrol/image1.jpg)
 
@@ -16,8 +16,8 @@ The US land based ASW fleet consists of only one aircraft type, the
 Lockheed P-3 Orion. Although it’s used across NATO, the USN is by far
 the most important operator with 24 ‘Fleet’ squadrons of 9 aircraft
 each, augmented by 13 Reserve squadrons, two Fleet Replacement squadrons
-and numerous testing, support and special duty units. All told the USN
-operates about 400 P-3s of various versions. Introduced in 1962, the
+(FRS) and numerous testing, support and special duty units. All told the
+USN operates about 400 P-3s of various versions. Introduced in 1962, the
 last of the original P-3As have been retired and all of the P-3Bs have
 been relegated to reserve and training squadrons, special purpose units
 or test and evaluation establishments. All 24 regular fleet squadrons as
@@ -26,10 +26,10 @@ different upgrade levels of that airframe in the mix. The most modern
 and capable version are the 37 P-3C Update III and the 121 older
 aircraft that have been upgraded to that standard (P-3C Update IIIR).
 Plans exist to bring all of the ‘Update I’ and ‘Update II’ airframes up
-to the ‘IIIR’ standard, but the ‘Update II.5’ will take a different path
-in the late ‘90s. Historically several squadrons were retired between
-1991 and 1994 but in Northern Fury this does not happen and therefore 5
-reserve squadrons held onto the P-3B longer than in real
+to the ‘IIIR’ standard, but the ‘Update II.5’ aircraft will take a
+different path in the late ‘90s. Historically several squadrons were
+retired between 1991 and 1994 but in Northern Fury this does not happen
+and therefore 5 reserve squadrons held onto the P-3B longer than in real
 life.
 
 | Sqn       | Name              | Location                  | No. | Type         | Remarks               |
@@ -94,7 +94,7 @@ historically these were delayed due to negotiations with the USAF and
 Congress, however in Northern Fury production was expedited and 8 of the
 planed 12 airframes are available. The two squadrons flying this type
 have a mix of the ARIES and ARIES II airframes and have global
-responsibilities, the aircraft are routinely deployed to any potential
+responsibilities. The aircraft are routinely deployed to any potential
 conflict zone or area where interesting electronic intelligence may be
 available or of
 use.
@@ -117,12 +117,11 @@ the USN still operates the aircraft and uses them to relay messages to
 all submarines, not just the SSBNs. The original production schedule had
 the last 4 airframes arriving in 1994, this has been accelerated
 slightly and all but the last aircraft have been received and the
-16<sup>th</sup> will arrive in March
-1994.
+16<sup>th</sup> will arrive in March 1994.
 
-| Sqn  | Name    | Location   | No. | Type | Remarks                     |
-| ---- | ------- | ---------- | --- | ---- | --------------------------- |
-| VQ-3 | Ironman | Tinker AFB | 8   | E-6A |                             |
-| VQ-4 | Shadows | Tinker AFB | 7   | E-6A | 8<sup>th</sup> AC in Mar 94 |
+| Sqn  | Name    | Location   | No. | Type | Remarks |
+| ---- | ------- | ---------- | --- | ---- | ------- |
+| VQ-3 | Ironman | Tinker AFB | 8   | E-6A |         |
+| VQ-4 | Shadows | Tinker AFB | 7   | E-6A |         |
 
 ![](/assets/images/nato/us/navy/aviation/patrol/image4.jpg)

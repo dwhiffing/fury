@@ -1,12 +1,11 @@
-NATO/US Navy/Naval Aviation/Carrier support AC
-
 **Carrier Support Aircraft**
 
 The 4 aircraft types that round out the CVW on any aircraft carrier
 perform vital functions which enable the entire CVBG to survive and
 fight much more effectively.
 
-***E-2C Hawkeye***
+[***E-2C
+Hawkeye***](https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye)
 
 ***This aircraft is the Navy’s AWACs (Airborne Warning and Control)
 aircraft.  Each CVW has a squadron of 4 of these highly capable
@@ -38,9 +37,10 @@ goal is to have 75 available to the fleet by
 | VAW-126 | Seahawks       | CVW-3   | 4   | E-2C | USS Eisenhower        |
 | VAW-127 | Seabats        | CVRW-20 | 5   | E-2C | NAS Oceana            |
 
-**C-2A-R Greyhound**
+[**C-2A-R
+Greyhound**](https://en.wikipedia.org/wiki/Grumman_C-2_Greyhound)
 
-Although not the ‘Sexiest’ role in a CVW, Carrier Onboard Delivery or
+Although not the ‘Sexiest’ role in a CVW; Carrier Onboard Delivery or
 COD, is critical to the functioning of every CVBG.  The C-2 Greyhound is
 built on the same airframe as the E-2C Hawkeye and is the overworked
 ‘Pack Mule’ of the fleet, carrying high priority cargo, casualties,
@@ -59,17 +59,19 @@ storage.
 | VRC-30 | Providers | Various | 14  | C-2A-R | NAS North Island |
 | VRC-40 | Rawhides  | Various | 18  | C-2A-R | NAS Norfolk      |
 | VRC-50 | Foo Dogs  | Various | 7   | C-2A-R | NAS Cubi Point   |
-|        |           |         | 7   | US-3A  |                  |
+|        |           |         | 7   | US-3A  | Modified S-3     |
 
-**EA-6B Prowler**
+[**EA-6B
+Prowler**](https://en.wikipedia.org/wiki/Northrop_Grumman_EA-6B_Prowler)
 
 **The EA-6B Prowler was an Electronic Warfare (EW) platform that could
 detect, classify, localize, supress and jam enemy electronic emissions.
 Equipped with jamming pods, or High-speed Anti-Radiation Missiles (HARM)
-or both this aircraft was ideal for escorting strike packages in order
+or both, this aircraft was ideal for escorting strike packages in order
 to conduct Suppression of Enemy Air Defences (SEAD) missions, protecting
-other aircraft from defensive systems. A squadron of 4 or 5 of these
-valuable aircraft were part of each
+other aircraft from enemy defensive Surface to Air Missiles (SAM) or
+detection by radar. A squadron of 4 or sometimes 5 of these valuable
+aircraft were part of each
 CVW.**
 
 | Sqn     | Name           | CVW     | No. | Type  | Remarks             |
@@ -80,7 +82,7 @@ CVW.**
 | VAQ-132 | Scorpions      | CVW-17  | 4   | EA-6B | USS Saratoga        |
 | VAQ-133 | Wizards        | CAW-6   | 4   | EA-6B | USS Enterprise      |
 | VAQ-134 | Garudas        | CVW-15  | 4   | EA-6B | USS Kitty Hawk      |
-| VAQ-135 | Black Ravens   | CVW-11  | 4   | EA-6B | USS Abraham Lincoln |
+| VAQ-135 | Black Ravens   | CVW-11  | 5   | EA-6B | USS Abraham Lincoln |
 | VAQ-136 | Gauntlets      | CVW-5   | 4   | EA-6B | USS Independence    |
 | VAQ-137 | Rooks          | CVW-1   | 4   | EA-6B | USS America         |
 | VAQ-138 | Yellow Jackets | CVW-9   | 4   | EA-6B | USS Nimitz          |
@@ -92,17 +94,19 @@ CVW.**
 
 ![](/assets/images/nato/us/navy/aviation/carrier-support/image3.jpeg)
 
-**S-3B Viking**
+[**S-3B Viking**](https://en.wikipedia.org/wiki/Lockheed_S-3_Viking)
 
 The S-3B Viking is an excellent ASW platform with modern electronics,
 computers and GPS navigation – a first for 1994. The S-3 platform is so
-versatile it has been adapted for several experimental designs such as
-**Gray Wolf** with multi-mode ISR systems, or the **Beartrap** ELINT
-versions. Therefore, this aircraft type is in high demand, so much so
-that the USN experimented with reducing the Squadron size from 10 to 6,
-but were forced to bring it up to 8 by 1991. There are simply not enough
-airframes however and the constant demands mean that there are
-absolutely no spare Vikings in the fleet.
+versatile it has been adapted to the ES-3A Shadow detailed below, a
+cargo version (US-3A), a dedicated tanker (KS-3A- not adopted), the
+**Aladdin** for ground surveillance (6), and for several experimental
+designs such as **Gray Wolf** with multi-mode ISR systems, or the
+**Beartrap** ELINT versions. Therefore, this aircraft type is in high
+demand, so much so that the USN experimented with reducing the Squadron
+size from 10 to 6, but were forced to bring it up to 8 by 1991. There
+are simply not enough airframes however, and the constant demands mean
+that there are absolutely no spare Vikings in the fleet.
 
 | Sqn   | Name           | CVW    | No. | Type | Remarks               |
 | ----- | -------------- | ------ | --- | ---- | --------------------- |
@@ -123,7 +127,7 @@ absolutely no spare Vikings in the fleet.
 
 ![](/assets/images/nato/us/navy/aviation/carrier-support/image4.jpg)
 
-**ES-3A Shadow**
+[**ES-3A Shadow**](https://fas.org/irp/program/collect/es-3_shadow.htm)
 
 Another derivative of the S-3 is the highly successful ES-3A which was
 converted from the original S-3A airframes to fulfill the role of

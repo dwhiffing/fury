@@ -1,12 +1,10 @@
-NATO/US Navy/US Navy CVBGs
+[**CVBG Nimitz (CVN-68)**](https://en.wikipedia.org/wiki/USS_Nimitz)
 
-CVBG Nimitz (CVN-68)
-
-The USS Nimitz is the lead ship of her class, the largest most ships
-afloat in any navy, ever. Nicknamed ‘Old Salt’ she has already been
+The *USS Nimitz* is the lead ship of her class, the largest most ships
+afloat in any navy, ever. Nicknamed ‘**Old Salt**’ she has already been
 active in the US Navy for 19 years by the time war starts in February
 1994. Based in San Diego as part of 3<sup>rd</sup> Fleet, she is just
-completing a six-month tour of duty in the Indian Ocean, Persian Gulf
+completing a six-month tour of duty in the Indian Ocean and Persian Gulf
 area. She will immediately be tasked with conducting a contested passage
 into the Mediterranean and beyond that into the North Atlantic to work
 with her East Coast sister ships.

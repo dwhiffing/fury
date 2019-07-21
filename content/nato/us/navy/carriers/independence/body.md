@@ -1,19 +1,18 @@
-NATO/US Navy/US Navy CVBGs
+**[CVBG Independence
+(CV-62)](https://en.wikipedia.org/wiki/USS_Independence_\(CV-62\))**
 
-CVBG Independence (CV-62)
-
-USS Independence, was commissioned in 1959 as the last of the four
-Forrestal class carriers, she completed a 3-year long Service Life
-Extension Program (SLEP) in June of 1988 which prepared her for another
-15 years of sailing. In 1991 the Independence replaced CV-43 Midway as
-the US Navies forward deployed carrier in Yokosuka Japan. When war
-breaks out she is conducting routine patrols with a reduced escort in
-the Sea of Japan, she will survive but the same cannot be said for some
-of her escort.
+*USS Independence*, or ‘**Indy**’ was commissioned in 1959 as the last
+of the four Forrestal class carriers, she completed a 3-year Service
+Life Extension Program (SLEP) in June of 1988 which prepared her for
+another 15 years of sailing. In 1991 the *Independence* replaced *CV-43
+Midway* as the US Navies forward deployed carrier in Yokosuka Japan.
+When war breaks out she is conducting a routine patrol with a reduced
+escort in the Sea of Japan, she will survive but the same cannot be said
+for some of her escort.
 
 ![](/assets/images/nato/us/navy/carriers/independence/image1.png)
 
-CVBG Independence
+USS Independence CVBG
 
   - CV-62 Independence (FLAG)
     

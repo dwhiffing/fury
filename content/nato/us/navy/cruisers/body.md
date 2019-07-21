@@ -1,30 +1,27 @@
-NATO/USN/CG
-
-USN CG/CGNs
+**USN CG/CGN**
 
 The US Navy fields three main classes of conventionally powered Guided
 Missile Cruiser (CG), in addition to the nine nuclear powered Cruisers
-(CGN) of various classe, these form the backbone of the fleets air
-defences. These are important ships that provide Anti-Air Warfare (AAW)
-escort to the aircraft carrier battle groups (CVBGs) and are often
+(CGN) of various classes. These powerful ships provide Anti-Air Warfare
+(AAW) escort to the aircraft carrier battle groups (CVBGs) and are often
 employed independently and as flagships of surface action groups (SAGs).
 Historically both the Leahy and Belknap classes, nine ships each, all
 newly upgraded with New Threat Update (NTU) overhauls, as well as the
 nine CGNs were retired as part of the ‘Peace Dividend’ leaving only the
 Ticonderoga class to serve past the mid 90’s.  Northern Fury has all of
-these ships retained in service, all had an average life of 28-30 years
+these ships retained in service, they had an average life of 28-30 years
 when historically decommissions and could easily have served another 10
 years.
 
 **[Long
 Beach](https://en.wikipedia.org/wiki/USS_Long_Beach_\(CGN-9\)):**
 (**CGN-9**) The Long Beach was a single ship class and was the first
-nuclear powered warship in service. Throughout her long life she set
-many records and by 1994 was the oldest cruiser in the Navy. She had
+nuclear powered surface warship in service. Throughout her long life she
+set many records and by 1994 was the oldest cruiser in the Navy. She
 completed her mid life overall in 1982 giving here two twin Terrier
-launchers the ability to fire SM-1(ER) Standard missiles, but she did
-not carry a helicopter and her upgrades would not be considered adequate
-for front line
+launchers the ability to fire SM-1(ER) Standard missiles, but although
+there was a landing pad she did not carry a helicopter, and her upgrades
+would not be considered adequate to keep her in front line
 operation.
 
 | Class      | Pennant | Name                                                                 | Fleet    | Home Port | Task         |
@@ -37,14 +34,16 @@ operation.
 Class**](https://en.wikipedia.org/wiki/Leahy-class_cruiser): The nine
 ships of the Leahy class and the single nuclear powered Bainbridge CGN
 were essentially the same ship except for the power plant. As double
-ended ![](/assets/images/nato/us/navy/cruisers/image2.jpg)SAM
-shooters, this class was designed without a main gun. Although no other
-class was built without a gun, the extra space allowed for more missile
-storage. All ships went through an NTU during the 1980s and can fire the
-SM-2(ER) Standard missile, the terrier launchers are slow compared to a
-Vertical Launch System (VLS). These ships do not carry a helicopter but
-had landing
-facilites.
+ended SAM shooters, this class was designed without a main gun but they
+had SAM launchers both bow and stern. Although no other class was built
+without a gun, the extra space allowed for more missile storage, 76
+missiles vice 50 in the Bainbridge class. All ships went through an NTU
+during the 1980s, USS Gridley as late as 1991, and can fire the SM-2(ER)
+Standard missile; the terrier launchers are slow compared to a Vertical
+Launch System (VLS) but with two double launchers and four Mk 76 Fire
+Control Radars, they were able to maintain a respectable rate of fire.
+These ships do not carry a helicopter but had landing
+facilities.
 
 | Class      | Pennant | Name                                                                                 | Fleet    | Home Port      | Task               |
 | ---------- | ------- | ------------------------------------------------------------------------------------ | -------- | -------------- | ------------------ |
@@ -59,16 +58,18 @@ facilites.
 |            | CG-24   | [Reeves](https://en.wikipedia.org/wiki/USS_Reeves_\(DLG-24\))                        | Pacific  | San Diego      | Lincoln CVBG       |
 | Bainbridge | CGN-25  | [Bainbridge](https://en.wikipedia.org/wiki/USS_Bainbridge_\(CGN-25\))                | Atlantic | Norfolk        | ARG Med            |
 
-**Belknap/Truxton Class**: The nine ships of the Belknap class along
-with the single Truxton CGN differed from the Leahy class as they had a
-gun but were only single ended SAM shooters. All had undergone and NTU
-in the 1980s and all could use the SM-2(ER) Standard missile from their
-single twin launcher. These ships were therefore more versatile but less
-capable in the AAW role than their predecessors. Like the Leahy class
-helicopters were able to land but there was no hangar for storage or
-servicing.
+![](/assets/images/nato/us/navy/cruisers/image2.jpg)
 
-![](/assets/images/nato/us/navy/cruisers/image3.jpeg)
+[**Belknap/Truxton
+Class**](https://en.wikipedia.org/wiki/Belknap-class_cruiser): The nine
+ships of the Belknap class along with the single Truxton CGN differed
+from the Leahy class as they had a gun but were only single ended SAM
+shooters. All had undergone and NTU in the 1980s and all could use the
+SM-2(ER) Standard missile from their single twin launcher. These ships
+were therefore more versatile but less capable in the AAW role than
+their predecessors. Like the Leahy class helicopters were able to land
+but there was no hangar for storage or
+servicing.
 
 | Class   | Pennant | Name                                                                                   | Fleet    | Home Port | Task            |
 | ------- | ------- | -------------------------------------------------------------------------------------- | -------- | --------- | --------------- |
@@ -83,17 +84,18 @@ servicing.
 |         | CG-34   | [Biddle](https://en.wikipedia.org/wiki/USS_Biddle_\(CG-34\))                           | Atlantic | Norfolk   | Gulf            |
 | Truxtun | CGN-35  | [Truxtun](https://en.wikipedia.org/wiki/USS_Truxtun_\(CGN-35\))                        | Pacific  | San Diego | Kitty Hawk CVBG |
 
-![](/assets/images/nato/us/navy/cruisers/image4.jpg)
+![](/assets/images/nato/us/navy/cruisers/image3.jpeg)
 
 [**California
 Class**](https://en.wikipedia.org/wiki/California-class_cruiser): Both
 California class CGNs had just emerged from their New Threat Upgrade
-(NTU) overhauls when they were historically retired as being too
-expensive to maintain. In Northern Fury they remain in service. These
-are big ships, 25% more displacement than the Belknap class and correct
-the weakness of both previous classes; they are double ended SAM
-shooters and have two guns. As with the other classes however, they do
-not have a hanger for a permanent
+(NTU) and nuclear refueling overhauls, in fact South Carolina completed
+her overhaul in Jan 94 (2 months early). These are big ships, 25% more
+displacement than the Belknap class and correct the weakness of both
+previous classes; they are double ended SAM shooters with a much more
+modern Mk 26 launchers and slightly more missiles than the Leahy class,
+plus they have two guns like the Belknaps. As with the other classes
+however, they do not have a hanger for a permanent
 helicopter.
 
 | Class      | Pennant | Name                                                                          | Fleet    | Home Port      | Task              |
@@ -101,60 +103,72 @@ helicopter.
 | California | CGN-36  | [California](https://en.wikipedia.org/wiki/USS_California_\(CGN-36\))         | Pacific  | Yokosuka Japan | Independence CVBG |
 |            | CGN-37  | [South Carolina](https://en.wikipedia.org/wiki/USS_South_Carolina_\(CGN-37\)) | Atlantic | Norfolk        | Kennedy CVBG      |
 
-![](/assets/images/nato/us/navy/cruisers/image5.jpg)
+![](/assets/images/nato/us/navy/cruisers/image4.jpg)
 
 **Virginia Class**: The four Virginia Class CGNs, although completed in
 the late 70’s, were somewhat out of date and a rapid ‘Semi-NTU’ program
-was commissioned to correct the shortfalls. Like the California Class
-these were ‘Double Enders’ with a much more modern Mk 26 launcher but
-only 64 missiles. These ships also carried two guns, harpoon SSMs,
-Tomahawk Land attack cruise missiles (TLAM) ASROC ASW rockets and other
-systems, but no landing pad for
+was commissioned to correct the shortfalls. From a long term budgeting
+standpoint these ships were expensive to maintain and were due for their
+mid-life refueling – this spelled their doom historically and in
+Northern Fury they have not yet been refueled. Like the California Class
+these were ‘Double Enders’ with the modern Mk 26 launcher but only 64
+missiles. These ships also carried two guns, harpoon SSMs, Tomahawk Land
+attack cruise missiles (TLAM) ASROC ASW rockets and other systems, but
+no landing pad for
 helicopters.
 
 | Class    | Pennant | Name                                                                    | Fleet    | Home Port | Task            |
 | -------- | ------- | ----------------------------------------------------------------------- | -------- | --------- | --------------- |
 | Virginia | CGN-38  | [Virginia](https://en.wikipedia.org/wiki/USS_Virginia_\(CGN-38\))       | Atlantic | Norfolk   | Eisenhower CVBG |
 |          | CGN-39  | [Texas](https://en.wikipedia.org/wiki/USS_Texas_\(CGN-39\))             | Pacific  | San Diego | Saratoga CVBG   |
-|          | CGN-40  | [Mississippi](https://en.wikipedia.org/wiki/USS_Mississippi_\(CGN-40\)) | Pacific  | San Diego | Refit           |
+|          | CGN-40  | [Mississippi](https://en.wikipedia.org/wiki/USS_Mississippi_\(CGN-40\)) | Pacific  | San Diego | Independent     |
 |          | CGN-41  | [Arkansas](https://en.wikipedia.org/wiki/USS_Arkansas_\(CGN-41\))       | Atlantic | Norfolk   | Carl Vinson BG  |
+
+![](/assets/images/nato/us/navy/cruisers/image5.jpg)
+
+This classic photo shows the two California class and four Virginia
+class sailing together:
 
 ![](/assets/images/nato/us/navy/cruisers/image6.jpg)
 
-![](/assets/images/nato/us/navy/cruisers/image7.jpg)[**Ticonderoga
+[**Ticonderoga
 Class**](https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser): The
 27 ships of the Ticonderoga class were truly a paradigm changing design.
 Sometimes considered the most powerful surface combatant in service in
 the world, these ships are capable of controlling the air defence
 firepower of an entire task force using the AEGIS Combat system.
-Augmented with vertical launch missile systems, Tomahawk Cruise missiles
-and onboard helicopters, these ships were built in five groups, each
-with gradually more capable systems. In Northern Fury, the building of
-the final ship **CG-73** Port Royal was accelerated by 5 months and she
-was commissioned in Jan 94 vice the historical date of 4 July 94.
+Augmented with VLS (vertical launch missile systems), Tomahawk Cruise
+missiles and onboard helicopters, these ships were built in five groups,
+each with gradually more capable equipment. In Northern Fury, the
+building of the final ship **CG-73** Port Royal was accelerated by 5
+months and she was commissioned in Jan 94 vice the historical date of 4
+July 94.
+
+![](/assets/images/nato/us/navy/cruisers/image7.jpg)
 
 The first 5 ships, Baseline ‘0’ and Baseline ‘1’ were equipped with the
-same two Mk 26 SAM launchers as
-![](/assets/images/nato/us/navy/cruisers/image8.jpg)the Virginia
-class but had a crew of half the size and had hangar space for two
-helicopters and more secondary capabilities. From Baseline ‘2’ onward
-the ships used 2x 61-Cell VLS launchers which were far quicker and able
-to employ almost any missile in the inventory. Baseline ‘2’, ‘3’, and
-‘4’ have gradually improving systems including lighter and more
-capable radar, better computing systems etc. More information is
+same two Mk 26 SAM launchers as the Virginia class but had a crew of
+half the size, operated the AEGIS combat system, had hangar space for
+two helicopters and more secondary capabilities. From Baseline ‘2’
+onward the ships used 2x 61-Cell VLS launchers which were far quicker
+and able to employ almost any missile in the inventory. Baseline ‘2’,
+‘3’, and ‘4’ have gradually improving systems including lighter and
+more capable radar, better computing systems etc. More information is
 available at this [link](https://www.navysite.de/cg/cg47class.htm). It
 is standard practice to have two Ticonderoga Class in each
 CVBG.
+
+![](/assets/images/nato/us/navy/cruisers/image8.jpg)
 
 | Class       | Pennant | Name                                                                             | Fleet    | Home Port      | Task                 |
 | ----------- | ------- | -------------------------------------------------------------------------------- | -------- | -------------- | -------------------- |
 | Ticonderoga | CG-47   | [Ticonderoga](https://en.wikipedia.org/wiki/USS_Ticonderoga_\(CG-47\))           | Atlantic | Norfolk        | TG Missouri          |
 |             | CG-48   | [Yorktown](https://en.wikipedia.org/wiki/USS_Yorktown_\(CG-48\))                 | Atlantic | Norfolk        | Kennedy CVBG         |
 | Baseline 1  | CG-49   | [Vincennes](https://en.wikipedia.org/wiki/USS_Vincennes_\(CG-49\))               | Pacific  | San Diego      | Constellation CVBG   |
-|             | CG-50   | [Valley Forge](https://en.wikipedia.org/wiki/USS_Valley_Forge_\(CG-50\))         |          |                | Port Refit           |
+|             | CG-50   | [Valley Forge](https://en.wikipedia.org/wiki/USS_Valley_Forge_\(CG-50\))         | Atlantic | Norfolk        | Port Refit           |
 |             | CG-51   | [Thomas S. Gates](https://en.wikipedia.org/wiki/USS_Thomas_S._Gates_\(CG-51\))   | Pacific  | San Diego      | Lincoln CVBG         |
 | Bunker Hill | CG-52   | [Bunker Hill](https://en.wikipedia.org/wiki/USS_Bunker_Hill_\(CG-52\))           | Pacific  | Yokosuka Japan | Independence CVBG    |
-|             | CG-53   | [Mobile Bay](https://en.wikipedia.org/wiki/USS_Mobile_Bay_\(CG-53\))             |          |                | West Pac             |
+|             | CG-53   | [Mobile Bay](https://en.wikipedia.org/wiki/USS_Mobile_Bay_\(CG-53\))             | Pacific  | San Diego      | Independent WestPac  |
 | Baseline 3  | CG-54   | [Antietam](https://en.wikipedia.org/wiki/USS_Antietam_\(CG-54\))                 | Pacific  | San Diego      | Kitty Hawk CVBG      |
 |             | CG-55   | [Leyte Gulf](https://en.wikipedia.org/wiki/USS_Leyte_Gulf_\(CG-55\))             | Atlantic | Norfolk        | Carl Vinson CVBG     |
 | San Jacinto | CG-56   | [San Jacinto](https://en.wikipedia.org/wiki/USS_San_Jacinto_\(CG-56\))           | Atlantic | Norfolk        | Eisenhower CVBG      |
@@ -177,3 +191,27 @@ CVBG.
 |             | CG-73   | [Port Royal](https://en.wikipedia.org/wiki/USS_Port_Royal_\(CG-73\))             | Atlantic | Norfolk        | Amphibs then Stennis |
 
 ![](/assets/images/nato/us/navy/cruisers/image9.jpeg)
+
+**[Albany Class](https://en.wikipedia.org/wiki/Albany-class_cruiser):**
+The two remaining ships of the Albany class are the only Cruisers in
+ready reserve. These ships are old; based on the Oregon City and
+Baltimore heavy cruiser classes of World War Two and were originally
+commissioned in 1945 and 1946, USS Chicago saw some limited war service.
+Extensively rebuilt in the early 1960s this three ship class (USS
+Columbus was scrapped in 1977) saw extensive service and both remaining
+ships served as long time Fleet Flagships. Historically they were
+scrapped in 1990/91 but are retained in reserve for Northern Fury. They
+have old missile systems with Mk 11 and Mk 12 launchers and
+[Tarter](https://en.wikipedia.org/wiki/RIM-24_Tartar) and
+[Talos](https://en.wikipedia.org/wiki/RIM-8_Talos) SAMs. Both ships will
+see active service in Northern Fury, releasing other CGs from secondary
+roles, the critical path however are the missiles which have all been
+refurbished but are in short
+supply.
+
+| Class  | Pennant | Name                                                            | Fleet   | Home Port       | Task |
+| ------ | ------- | --------------------------------------------------------------- | ------- | --------------- | ---- |
+| Albany | CG-10   | [Albany](https://en.wikipedia.org/wiki/USS_Albany_\(CA-123\))   | Reserve | Elizabeth River |      |
+|        | CG-11   | [Chicago](https://en.wikipedia.org/wiki/USS_Chicago_\(CA-136\)) | Reserve | Bremerton       |      |
+
+![](/assets/images/nato/us/navy/cruisers/image10.jpg)

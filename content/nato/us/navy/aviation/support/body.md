@@ -2,23 +2,23 @@
 
 The USN operates one of the largest air forces in the world, and
 supports another of the world’s largest air forces – the US Marine
-Corps. Therefore the number of aircraft needed to provide support to
-this force is large and diverse. This section does not hope to capture
-every non-combat aircraft operated by the USN but simply to highlight
-the major types and give an idea of the scope.
+Corps. Therefore the number of aircraft needed to sustain this force is
+large and diverse. This section does not hope to capture every
+non-combat aircraft operated by the USN but simply to highlight the
+major types and give an idea of the scope.
 
 **Transport**
 
-![](/assets/images/nato/us/navy/aviation/support/image1.jpg)Moving
-people, special cargo, important visitors and key senior officers around
-the world is a significant task performed by 14 ‘Fleet Logistics Support
-Squadrons’ (VR) flying three main types of aircraft, the venerable C-130
-Hercules, the converted airliner C-9 Skytrain II and converted executive
-Gulfstream II and IV jets. The job of delivering the passengers and
-cargo to the fleet falls to 3 more tactical squadrons with the same name
-but designated VRC. The VRCs conduct ‘Carrier Onboard Delivery’ or COD,
-landing directly on the carriers, they primarily use the C-2A-R
-Greyhound but are supplemented by a handful of converted E-3A
+Moving people, special cargo, important visitors and key senior officers
+around the world is a significant task performed by 14 ‘Fleet Logistics
+Support Squadrons’ (VR) flying three main types of aircraft, the
+venerable C-130 Hercules, the converted airliner C-9 Skytrain II and
+converted executive Gulfstream II and IV jets. The job of delivering the
+passengers and cargo to the fleet falls to 3 more tactical squadrons
+with the same name but designated VRC. The VRCs conduct ‘Carrier Onboard
+Delivery’ or COD, landing directly on the carriers, they primarily use
+the C-2A-R Greyhound but are supplemented by a handful of converted
+US-3A
 Vikings.
 
 | Type   | Name           | Role                     | No. | Sqns                          | Remarks         |
@@ -30,15 +30,16 @@ Vikings.
 | C-2A-R | Greyhound      | Carrier Onboard Delivery | 39  | VRC-30, 40, 50                | COD             |
 | US-3A  | Viking(COD)    | Carrier Onboard Delivery | 7   | VRC-50                        |                 |
 
+![](/assets/images/nato/us/navy/aviation/support/image1.jpg)
+
 ![](/assets/images/nato/us/navy/aviation/support/image2.jpeg)
 
-**Fleet Replacement Squadrons**
+**Fleet Replacement Squadrons (FRS)**
 
-![](/assets/images/nato/us/navy/aviation/support/image3.jpeg)In
-addition to the Fleet Replacement Squadrons mentioned specific to types
-of Aircraft these Three Sqns collected a wide range of aircraft and
-conducted adversary training for the Navy as a whole. All flew out of
-bases on the East Coast but deployed widely as tasks
+In addition to the Fleet Replacement Squadrons mentioned specific to
+types of Aircraft these Three Sqns collected a wide range of aircraft
+and conducted adversary training for the Navy as a whole. All flew out
+of bases on the East Coast but deployed widely as tasks
 required.
 
 | Sqn   | Name        | Location        | No. | Type          | Remarks                       |
@@ -49,6 +50,8 @@ required.
 |       |             |                 | 12  | F-4           | F-4S & F-4N                   |
 | VF-45 | Blackbirds  | Cecil Field, FL | 12  | A-4M          | Sometimes VA-45 based on role |
 |       |             |                 | 12  | TF-16N        |                               |
+
+![](/assets/images/nato/us/navy/aviation/support/image3.jpeg)
 
 ![](/assets/images/nato/us/navy/aviation/support/image4.jpeg)
 
@@ -66,8 +69,6 @@ squadrons are target towing, target drone, aerial target photography and
 general range
 services.
 
-![](/assets/images/nato/us/navy/aviation/support/image5.jpeg)
-
 | Sqn    | Name           | Location           | No. | Type      | Remarks                       |
 | ------ | -------------- | ------------------ | --- | --------- | ----------------------------- |
 | VC-1   | Blue Alli      | NAS Barbers Point  | 12  | TA-4J     | Various Helos & drones        |
@@ -80,7 +81,7 @@ services.
 | VFC-13 | Saints         | NAS Fallon         | 12  | F-5F/F-5N | Top Gun                       |
 |        |                |                    | 12  | F-16N     |                               |
 
-![](/assets/images/nato/us/navy/aviation/support/image6.jpg)
+![](/assets/images/nato/us/navy/aviation/support/image5.jpeg)
 
 **Basic flight and carrier Training**
 
@@ -97,8 +98,6 @@ for operational training. All who are destined for duty on aircraft
 carriers will proceed through VT-86 to practice carrier operations on
 the USS
 Forrestal.
-
-![](/assets/images/nato/us/navy/aviation/support/image7.jpg)
 
 | Sqn   | Name            | Location           | No. | Type     | Remarks                              |
 | ----- | --------------- | ------------------ | --- | -------- | ------------------------------------ |
@@ -125,7 +124,7 @@ Forrestal.
 | HT-18 | Vigilant Eagles | NAS Whiting Field  | 36  | TH-57B/C | Advanced Training-Helicopters        |
 | HT-28 | Hellions        | NAS Whiting Field  | 36  | TH-57B/C | Advanced Training-Helicopters        |
 
-![](/assets/images/nato/us/navy/aviation/support/image8.jpg)
+![](/assets/images/nato/us/navy/aviation/support/image6.jpg)
 
 **Test & Evaluation**
 
@@ -147,10 +146,10 @@ Fury.
 
 Aircraft and squadrons that don’t fit nicely into any other category are
 listed here. The Polar express LC-130Rs to the Navy Demonstration team
-the ***Blue
-Angels***.
+the ***Blue Angels***, as well as the specialists in Oceanographic
+mapping.
 
-![](/assets/images/nato/us/navy/aviation/support/image9.jpg)
+![](/assets/images/nato/us/navy/aviation/support/image7.jpg)
 
 | Sqn   | Name              | Location           | No. | Type      | Remarks                  |
 | ----- | ----------------- | ------------------ | --- | --------- | ------------------------ |
@@ -158,4 +157,4 @@ Angels***.
 | VXE-8 | Blue Eagles       | NAS Patuxent River | 2   | RP-3A     | Oceanographic research   |
 |       | Blue Angels       | NAS Pensacola      | 12  | F/A-18A/B | Plus 1x C-130            |
 
-![](/assets/images/nato/us/navy/aviation/support/image10.jpg)
+![](/assets/images/nato/us/navy/aviation/support/image8.jpg)
