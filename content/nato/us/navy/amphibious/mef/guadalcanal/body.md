@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Guadalcanal
+**TG Guadalcanal**
 
 TG Guadalcanal is transporting the Divisional troops for 2<sup>nd</sup>
 Marine

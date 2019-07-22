@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Bataan
+**TG Bataan**
 
 TG Bataan is transporting the combat elements of 8<sup>th</sup> Marine
 Regiment.

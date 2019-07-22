@@ -1,34 +1,32 @@
-NATO/US Navy/ Amphibious Forces/Support Ships
-
 **Amphibious Support Ships**
 
 Landing an army from the sea to operate inland is the most complex
 military operation there is. The USN during World War Two became experts
-at this type of power projection and as such developed and continued to
+at this type of power projection and as such developed, and continued to
 develop highly specialized naval vessels to enable amphibious assaults
 and maintain forces on a foreign and hostile shore with a sustainment
 system stretching back to US ports. What follows is a partial list of
 the types of ships involved. Not all of these ships are represented in
-scenarios but this will serve as background to describe many of the
-‘non-combat’ elements that are required to conduct a landing. For more
-detailed study this is a link to the [1996 Sealift
+Northern Fury scenarios but this will serve as background to describe
+many of the ‘non-combat’ elements that are required to conduct a
+landing. For more detailed study this is a link to the [1996 Sealift
 doctrine](https://fas.org/man/dod-101/sys/ship/docs/jp4_01_2.pdf) – note
 that this is not the latest publication but the one most applicable to
 Northern Fury.
 
 **LKA:** [Amphibious Cargo
 Ships](https://fas.org/man/dod-101/sys/ship/lka-113.htm). The Charleston
-class are the last in a long line of ships bearing the World War Two
+class are the latest in a long line of ships bearing the World War Two
 designation AKA (Attack Cargo Ship). While there were over 120 AKAs in
 the 40’s, the five Charleston class, commissioned between ‘68 and ’70
 have been put in reserve several times but remain active as a testament
 to their versatility and capability to help Marines stay ashore.
-Equipped with a flight deck, cargo elevators, hoists and cranes, she can
-carry 8x LCM, 4x LCVP and over 5000 Tons of cargo up to light vehicles.
-These ships will generally deploy with the lead elements of an
-Amphibious Force but remain in safe waters, once their LCMs are deployed
-they will remain in the landing area as the LKA returns to port for
-further
+Equipped with a flight deck, cargo elevators, hoists and cranes, they
+can carry 8x LCM, 4x LCVP and over 5000 Tons of cargo of a size up to
+light vehicles. These ships will generally deploy with the lead elements
+of an Amphibious Force but remain in safe waters, once their LCMs are
+deployed they remain in the landing area as the LKA returns to port for
+more
 supplies.
 
 ![](/assets/images/nato/us/navy/amphibious/support-ships/image1.jpg)
@@ -73,10 +71,10 @@ freighter
 
 **AVB**: [Auxiliary Aviation
 Repair](https://fas.org/man/dod-101/sys/ship/tavb-3.htm). The primary
-purpose of these ships is to deliver fixed an rotary wing repair and
-maintenance equipment supplies and workshops to the Marine Air Wing to a
-secure port facility. The maintenance facility can either operate from
-on board the ship, at a nearby base or a combination of both
+purpose of these ships is to deliver fixed and rotary wing repair and
+maintenance equipment, supplies, and workshops for the Marine Air Wing
+to a secure port facility. The maintenance facility can either operate
+from on board the ship, at a nearby base or a combination of both
 configurations. These two ships are unique to the
 USMC.
 
@@ -92,10 +90,10 @@ T-AVB-3 USNS Wright
 **AH**: [Hospital
 Ship](https://fas.org/man/dod-101/sys/ship/tah-19.htm). These two
 hospital ships are designed to provide rapid and effective medial
-treatment facilities close to the focus of operation. These ships are
-not specifically designed to support the Marines but that is an obvious
-task for them. Each ship has 12 operating theaters and a 1000 bed
-holding facility with a wide range of medical
+treatment facilities close an amphibious operation. These ships are not
+specifically designed to support the Marines but that is an obvious task
+for them. Each ship has 12 operating theaters and a 1000 bed holding
+facility with a wide range of medical
 capabilities.
 
 | Class | Pennant | Name                                                                                             | Fleet    | Home Port | Task |
@@ -108,7 +106,7 @@ capabilities.
 T-AH-19 USNS Mercy
 
 **AOT:** Tankers. These tankers have limited ‘At Sea’ refueling
-capability, and have the ability to conduct ‘Logistics Over Shore’
+capability, and have the ability to conduct ‘Logistics Over Shore’ –
 delivering fuel by pipeline to holding facilities ashore over a beach,
 this system is called OPDS (Offshore Petroleum Discharge System). In
 peacetime these ships keep far flung bases such as those in Antarctica
@@ -141,19 +139,19 @@ fleets.
 
 ![](/assets/images/nato/us/navy/amphibious/support-ships/image5.gif)
 
-**OPDS**![](/assets/images/nato/us/navy/amphibious/support-ships/image6.jpeg)
+![](/assets/images/nato/us/navy/amphibious/support-ships/image6.jpeg)
 
-**T-AOT 1122 USNS Paul Buck delivering fuel to Antarctica**
+**T-AOT 1122 USNS Paul Buck delivering fuel in Antarctica**
 
-**AK**: Cargo. There are a wide range of cargo ships employed, several
-with noteworthy delivery systems, for simplicity they will be listed in
-one section with notes and several phots will help explain the more
-interesting ships. To compensate for long distances and shortage of
-military infrastructure or facilities in certain areas many of these
-ships are positions in Maritime Prepositioning Squadrons (MPS). MPS 1 is
-responsible for the Atlantic and Mediterranean Sea, MPS 2 is in Diego
-Garcia and MPS 3 is located in Guam and Saipan. Those noted as RRF are
-in the [Ready Reserve
+**AK**: Cargo. There are a wide range of cargo ships employed by the
+USN, several with noteworthy delivery systems. For simplicity they will
+be listed in one section with notes and several phots to help explain
+the more interesting ships. To compensate for long distances and
+shortage of military infrastructure or facilities in certain areas many
+of these ships are positioned in Maritime Prepositioning Squadrons
+(MPS). MPS 1 is responsible for the Atlantic and Mediterranean Sea, MPS
+2 is at Diego Garcia and MPS 3 is located in Guam and Saipan. Those
+noted as RRF are in the [Ready Reserve
 Force](https://www.marad.dot.gov/ships-and-shipping/strategic-sealift/office-of-ship-operations/ready-reserve-force-rrf/).
 The RRF ships must be ready to sail and receive cargo within 5-10 days,
 those at 5 days’ readiness maintain a skeleton crew.
@@ -169,10 +167,10 @@ vessels.
 **LASH**: [Lighter Aboard
 Ship](http://www.logisticsglossary.com/term/lash-vessel/). These
 [ships](https://fas.org/man/dod-101/sys/ship/tak-2049.htm) hold a large
-number of standard sized barges or Lighters which can be quickly
-unloaded and dispatched to a holding area for later unloading or moved
-with a tug to a different area (smaller port or upriver) allowing the
-ship to depart the landing area quickly or to load empty barges before
+number of standard sized barges or ‘Lighters’ which can quickly debark
+and be dispatched to a holding area for later unloading or moved with a
+tug to a different area (smaller port or upriver) allowing the ship to
+depart the landing area quickly or to load empty barges before
 departing.
 
 ![](/assets/images/nato/us/navy/amphibious/support-ships/image8.jpg)
@@ -184,8 +182,8 @@ T-AK 1005 USNS Austral Rainbow with 75 LASH barges and two pusher boats
 **Heavy Cargo:** Although most heavy lift ships are contracted for
 specific jobs, [**AK-9204 Strong
 Virginian**](https://fas.org/man/dod-101/sys/ship/takr-9025.htm) is part
-of MPS Sqn 2. Normally transporting a 500 bed containerized hospital, as
-this photo shows, it is quite
+of MPS 2. Normally transporting a 500 bed containerized hospital, this
+photo shows, it is quite
 versatile.
 
 ![](/assets/images/nato/us/navy/amphibious/support-ships/image9.jpg)
@@ -210,11 +208,11 @@ T-AK 9301 Buffalo Soldier
 
 **Fast RO-RO:** These eight ships of the
 [Algol](https://fas.org/man/dod-101/sys/ship/takr-287.htm) class will
-cruise at 27 knots a full 10 knots faster than other RO-RO ships; they
+cruise at 27 knots, a full 10 knots faster than other RO-RO ships and
 have a maximum speed of 33 knots. Their speed and capacity make them
 invaluable for the rapid movement of equipment to Europe. During the
-Gulf War each of these ships delivered an equivalent of the cargo 116
-World War Two Liberty ships would contain in an equivalent
+Gulf War each of these ships delivered the equivalent cargo of 116 World
+War Two Liberty ships, in an equivalent
 time.
 
 ![](/assets/images/nato/us/navy/amphibious/support-ships/image12.jpg)

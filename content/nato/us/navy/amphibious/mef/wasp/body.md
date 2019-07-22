@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Wasp
+**TG Wasp**
 
 TG Wasp is transporting the combat elements of 6<sup>th</sup> Marine
 Regiment.

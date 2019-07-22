@@ -1,12 +1,10 @@
-NATO/US Navy/ Amphibious Forces/Landing Craft
-
 **Amphibious Landing Craft**
 
 Landing craft are transported to the amphibious assault area by the much
-larger landing ships, many in docking bays although some carried in the
-traditional way on deck and swung into the water on divots. The purpose
-of landing craft is to deliver Marines, equipment and supplies directly
-to the beach.
+larger landing ships, many in docking bays although some are carried in
+the traditional way, on deck and swung into the water on divots. The
+purpose of landing craft is to deliver Marines, equipment and supplies
+directly to the beach.
 
 **LCAC**: [Landing Craft Air
 Cushion](https://fas.org/man/dod-101/sys/ship/lcac.htm). This is a very
@@ -32,10 +30,10 @@ time.
 
 ![](/assets/images/nato/us/navy/amphibious/landing-craft/image1.jpg)
 
-LCAC with 4 x LAV-25 and 2 x HUMVEE
+LCAC with 4 x LAV-25 and 2 x HMMWV
 
 **LCU**: [Landing Craft
-Utility](https://fas.org/man/dod-101/sys/ship/lcu.htm). This heavy duty
+Utility](https://fas.org/man/dod-101/sys/ship/lcu.htm). These heavy duty
 but aging craft provide landing forces with reliable ship to shore
 delivery of tanks and outsized vehicles such as bulldozers and heavy
 trucks. The only class in USN is the LCU 1610 class (although the 1627
@@ -46,9 +44,9 @@ leaving 54: 18 at Little Creek on the east coast, 18 at Camp Pendleton,
 4 in Japan, 2 at Souda Bay Crete, 2 at Rota Spain, 2 at Guantanamo Bay
 Cuba, 2 at Guam, 2 at Subic Bay Philippines, and the remaining 4 on
 various other duties. Although the LCU can deliver up to 350 troops to
-the beach, its main purpose is to deliver 2 x M-1A1 tanks to the beach
-with additional cargo capacity to spare. An added feature is the ability
-to link LCUs to create a causeway to quickly unload larger ships from
+the beach, its main purpose is to deliver 2 x M-1A1 tanks with
+additional cargo capacity to spare. An added feature is the ability to
+link LCUs to create a causeway to quickly unload larger ships from
 deeper
 water.
 
@@ -67,39 +65,39 @@ on amphibious assault ships although they can be, they would usually be
 found with the larger cargo and pre-positioning ships that would arrive
 following the initial assault. The LCM-6 has a carrying capacity of 28
 tons or 80 troops but is being phased out by 1994, all of this type
-built in 1977 or later are available in reserve (48 east coast, 44 west
-coast, 92 total). LCM-8 is a much more capable design with a 67-ton
-capacity, it can carry every vehicle in a MEF except the M1A1 tank or up
-to 200 troops. The US Army has maintained about 40 LCM-8’s (out of 526
-originally, mostly used in Viet Nam), Spain has another 6, and the USN
-has retained 261 of an original 547 boats, all but 74 being in reserve
-at the start of the
+built from 1977 are available in reserve (48 east coast, 44 west coast,
+92 total). The LCM-8 is a much more capable design with a 67-ton
+capacity, it can carry every vehicle in a MEF except the M1A1 tank, or
+up to 200 troops. The US Army has maintained about 40 LCM-8’s (out of
+526 originally, mostly used in Viet Nam), Spain has another 6, and the
+USN has retained 261 of an original 547 boats, all but 74 being in
+reserve at the start of the
 war.
 
 ![](/assets/images/nato/us/navy/amphibious/landing-craft/image4.jpeg)![](/assets/images/nato/us/navy/amphibious/landing-craft/image5.jpg)
 
 LCM-8’s
 
-**Small Boats**: There are a myriad of small landing boats in the USN.
-Although by 1994 all of the
+**Small Boats**: There are a myriad of small landing boats in the USN,
+although by 1994 most of the
 [LCVPs](https://cs.stanford.edu/people/eroberts/courses/ww2/projects/fighting-vehicles/higgins-boat.htm)
 (Landing Craft Vehicle and Personnel) had been retired, some of the
 [2,000 built](http://shipbuildinghistory.com/smallships/lcother2.htm)
-for the Viet Nam war remain in reserve. A more modern version of the
+for Viet Nam remain in reserve. A more modern version of the
 [LCPL](http://www.ussrankin.org/lcpl.htm) (Landing Craft Personnel
 Large) was used for many interesting
 [purposes](http://www.warboats.org/lcpl.htm). Of the 612 LCPLs produced,
-some 200 are still active with another 125 in reserve. Replacing all of
-these craft however is the RHIB (Ridged Hull Insatiable Boat), developed
-initially for the British Royal National Lifeboat Institution (RNLI) in
-the 60’s the technology became a mainstay for the Canadian Coast Guard
-in the mid 70’s and in the US in the 80’s. The ease of production,
-transport, shipping, deployment and modification quickly made this the
-‘go-to’ technology for small boats. Historically the RHIB was slow to
-be adopted in the USN, although Special Forces were using them in the
-[early 90’s](https://fas.org/man/dod-101/sys/ship/rhib.htm), in Northern
-Fury, the increased threat sped this adoption of this technology into
-all arms and
+some 200 are still active with another 125 in reserve. Gradually
+replacing all of these craft however is the RHIB (Ridged Hull Insatiable
+Boat), developed initially for the British Royal National Lifeboat
+Institution (RNLI) in the 60’s the technology became a mainstay for the
+Canadian Coast Guard in the mid 70’s and in the US by the 80’s. The ease
+of production, transport, shipping, deployment and modification quickly
+made this the ‘go-to’ technology for small boats. Historically the RHIB
+was slow to be adopted in the USN, although Special Forces were using
+them in the [early 90’s](https://fas.org/man/dod-101/sys/ship/rhib.htm),
+in Northern Fury, the increased threat sped the adoption of this
+technology into all arms and
 services.
 
 ![](/assets/images/nato/us/navy/amphibious/landing-craft/image6.jpg)
@@ -116,7 +114,7 @@ Vehicle](https://fas.org/man/dod-101/sys/land/aavp7a1.htm). The USMC has
 over 1300 AAV-7 amphibious tracked vehicles. Their role is to deliver
 Marines to the beach in combat, and they can transition from boat to
 tracked armored vehicle instantly upon landing. They carry 21 combat
-troops and are armed with a .50 Caliber machine gun and grenade
+troops and are armed with a .50 Caliber machine gun and/or a grenade
 launcher. While they are big, clumsy and have limitations on land, no
 other vehicle in the inventory can load from the docking well of a
 landing ship, maneuver through he sea and up onto dry land where it can

@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/ESG Peleliu
+**Expeditionary Support Group (ESG) Peleliu**
 
 ESG Peleliu has been on patrol in the Indian Ocean with the primary task
 of watching the situation in Somalia unfold for the past five months. At
@@ -6,15 +6,13 @@ war start she is returning from a port visit to Diego Garcia and while
 returning to the coast of Africa she is enabling the rotation of her two
 detached LSTs. These LSTs are tasked with maintaining a presence off
 Mogadishu in case a Non Combatant Evacuation (NEO) is required or if
-directed troops need to be inserted back into the City. FFG-51 USS Gary
-is not part of the ESG but is attached to NATO’s CTF-150 providing
-maritime security along the coast of Somalia and the Gulf of Aden. The
-Gary will be attached to Under Command the ESG at war start.
+directed, troops need to be inserted back into the City. *FFG-51 USS
+Gary* is not part of the ESG but is part of the international force:
+CTF-150 providing maritime security along the coast of Somalia and the
+Gulf of Aden. The Gary will be attached to Under Command the ESG at war
+start.
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image1.jpeg)
-
-FFG 51 USS Gary is a ‘Long Hull’ Oliver Hazard Perry (OHP) class frigate
-with SH-60 helicopters. She is a very capable well rounded ship.
+![](/assets/images/nato/us/navy/amphibious/peleliu/image1.jpg)
 
 ESG Peleliu
 
@@ -46,12 +44,12 @@ ESG Peleliu
 
 ![](/assets/images/nato/us/navy/amphibious/peleliu/image2.jpg)
 
-LHA 5 USS Peleliu, in this photo it is accompanied by LPD 5 USS Ogden
-and LSD 42 USS Germantown
+*LHA 5 USS Peleliu*, in this photo it is accompanied by *LPD 5 USS
+Ogden* and *LSD 42 USS Germantown*
 
 ![](/assets/images/nato/us/navy/amphibious/peleliu/image3.jpeg)
 
-CG 34 USS Biddle, a Belknap class cruiser, the last conventionally
+*CG 34 USS Biddle*, a Belknap class cruiser, the last conventionally
 powered cruiser constructed before the Ticonderoga class. She has
 undergone a New Threat Upgrade (NTU) making her a moderately capable Air
 Defence ship with modern radars and 50 ‘Standard’ SM-2 missiles fired
@@ -59,8 +57,13 @@ from a twin rail launcher.
 
 ![](/assets/images/nato/us/navy/amphibious/peleliu/image4.jpg)
 
-DD 992 USS Fletcher is a fully modernized Spruance class destroyer. She
-is one of the best ASW ships available and has a vertical launch system
-with 45 Tomahawk Land Attack Cruise Missiles (T-LAM). Her air defences
-are relatively weak but her embarked helicopters provide significant
-flexibility.
+*DD 992 USS Fletcher* is a fully modernized Spruance class destroyer.
+She is one of the best ASW ships available and has a vertical launch
+system with 45 Tomahawk Land Attack Cruise Missiles (T-LAM). Her air
+defences are relatively weak but her embarked helicopters provide
+significant flexibility.
+
+![](/assets/images/nato/us/navy/amphibious/peleliu/image5.jpeg)
+
+*FFG 51 USS Gary* is a ‘Long Hull’ Oliver Hazard Perry (OHP) class
+frigate with SH-60 helicopters. She is a very capable well rounded ship.

@@ -1,5 +1,6 @@
-label: MEF Charleston
+label: Charleston
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3

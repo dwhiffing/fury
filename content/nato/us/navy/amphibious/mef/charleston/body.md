@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Charleston
+**TG Charleston**
 
 TG Charleston is transporting the support elements of 6<sup>th</sup>
 Marine Regiment and consists mainly of slower ships.

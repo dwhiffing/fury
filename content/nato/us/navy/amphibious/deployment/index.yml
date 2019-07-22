@@ -1,5 +1,6 @@
-label: Ground Combat Element
+label: deployment
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 1

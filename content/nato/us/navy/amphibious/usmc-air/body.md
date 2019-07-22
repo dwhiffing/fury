@@ -1,29 +1,27 @@
-NATO/US Navy/Amphibious Forces/USMC Air
-
 **USMC Air Element**
 
-The US Marine Corps has an air Element that would rival most Air Forces.
-With over 1300 airframes, half of which are fixed wing, and the
-remainder rotary wing, they can bring over 700 combat aircraft to
-battle, many more than most NATO allies. All but the F/A-18s normally
-deploy on the various amphibious ships to form the Marine Air Ground
-Task Force (MAGTAF), in direct support of the ground element in any
-landing or operation. The Squadrons are highly flexible often deploying
-on multiple ships or employing aircraft of other squadrons on
-independent missions.
+The US Marine Corps has an air Element that would rival most Air Forces
+around the world. With over 1300 airframes, half of which are fixed
+wing, and the remainder rotary wing, they can bring over 700 combat
+aircraft to battle, many more than most NATO allies or non-Soviet WP
+adversaries. All but the F/A-18s normally deploy on the various
+amphibious ships to form the Marine Air Ground Task Force (MAGTAF) in
+direct support of the ground element in any landing or operation. The
+Squadrons are highly flexible often deploying on multiple ships or
+employing aircraft of other squadrons on independent missions.
 
-**F/A-18**: Hornet. The F/A-18’s provide the USMC with an air attack
+**F/A-18** Hornet. The F/A-18’s provide the USMC with an air attack
 capability as well as the option to conduct air superiority missions,
 although that is not their primary role. Hornets will normally operate
-from a land base but are often flow off of USN aircraft carriers, and
-routinely form part of a Carrier Air Wing (CAW). The USMC uses two types
-of the F/A-18, the ‘A’ variant in its VMFA Squadrons (Marine Fighter
-Attack) and the ‘D’ variant in its VMFA(AW) (Marine Fighter Attack – All
-Weather Capable). Due to transition issues, two Sqns in the Pacific are
-temporarily equipped with the F/A-18C(N) which is a night capable single
-seat version of the ‘D’. The only major variation from history is that
-in Northern Fury all USMC Reserve Squadrons will receive the F/A-18A,
-these are ‘hand-me-downs’ from the USN F/A-18 Sqns which are all
+from a land base but are often flown off of USN aircraft carriers, and
+routinely form part of a Carrier Air Wing (CAW). The USMC uses three
+types of the F/A-18, the ‘A’ variant in its VMFA Squadrons (Marine
+Fighter Attack) and the ‘D’ variant in its VMFA(AW) (Marine Fighter
+Attack – All Weather Capable), some newer F/A-18C(N) are starting to
+flow into the squadrons providing a single seat aircraft with night
+precision attack capability. The only major variation from history is
+that in Northern Fury all USMC Reserve Squadrons will receive the
+F/A-18A, these are ‘hand-me-downs’ from the USN which are all
 transitioning to the ‘C’ variant early after the demise of the A-6E.
 With this change in effect, all but one of them have received their
 aircraft but five of those are still going through conversion training.
@@ -71,15 +69,15 @@ airframes.
 F/A-18D from VMFA(AW)-225 ‘Vikings’
 
 **AV-8B Harrier II/II+**: The USMC is the only service in the US which
-uses the Harrier and it has done so since 1968. The current version is
-the Harrier II+ which will eventually equip six Sqns, however only 4 are
-equipped with this version at the moment (this is a more rapid
-transition than historical). The key improvement between the Harrier II
-and the II+ is the provision of the AN/APG-65 Radar allowing the use of
-the AIM-7 Sparrow and AIM-120 AMRAAM air to air missiles. The Harriers
-primary mission is to fly off the LHD/LHA ships in support of Marine
-ground units ashore. The TAV variant is a two seat trainer, solely for
-use in conversion
+uses the Harrier and has done so since 1968. The current version is the
+Harrier II+ which will eventually equip six Sqns, however only 4 have
+this version at the moment (this is a more rapid transition than
+historical). The key improvement between the Harrier II and the II+ is
+the provision of the AN/APG-65 Radar allowing the use of the AIM-7
+Sparrow and AIM-120 AMRAAM air to air missiles. The Harriers primary
+mission is to fly off the LHD/LHA ships in support of Marine ground
+units ashore. The TAV variant is a two seat trainer, solely for use in
+conversion
 training
 
 | USMC Aircraft   |                   |                       |             |              |
@@ -103,9 +101,9 @@ training
 Two USMC AV-8B Harrier II loaded with AGM-65 Maverick, AIM-9 Sidewinder
 and GBU-16s
 
-**EA-6B**: The USMC uses the same Electronic Warfare (EW) as the USN.
-The EA-6B Sqns are mostly located at MCAS Cherry Point NC but operate
-detachments around the world when required.
+**EA-6B**: The USMC uses the same Electronic Warfare (EW) aircraft as
+the USN. The EA-6B Sqns are mostly located at MCAS Cherry Point NC but
+operate detachments around the world when required.
 
 | USMC Aircraft |           |          |             |          |
 | ------------- | --------- | -------- | ----------- | -------- |
@@ -122,12 +120,12 @@ detachments around the world when required.
 EA-6B from VMAQ-2 ‘Panthers’
 
 **OV-10D:** Although the OV-10 Bronco was supposed to be retiring in
-1995, increased tension meant that since there was nothing available to
-replace them, they were retained. This decision freed up other resources
-such as the Harriers and USAF A-10s to focus on major threat areas while
-the Bronco looked after the low intensity Counter Insurgency (COIN)
-conflicts, primarily in Central America. Of the 130 originally produced
-for the USMC, 51 remain.
+1995, but there was nothing available to replace them so the increased
+tension meant that they were retained. Keeping the Broncos frees up
+other resources such as Harriers and USAF A-10s to focus on major threat
+areas while the OV-10s look after the low intensity Counter Insurgency
+(COIN) conflicts, primarily in Central America. Of the 130 originally
+produced for the USMC, 51 remain.
 
 | USMC Aircraft |              |            |             |         |
 | ------------- | ------------ | ---------- | ----------- | ------- |
@@ -145,15 +143,15 @@ OV-10D Observation and light attack aircraft
 **KC-130**: The USMC uses the venerable C-130 Hercules almost
 exclusively in the ‘Tanker’ role, light tactical transport is also
 conducted but they rely on the USN and USAF to provide surge tactical
-transport when needed. Pilot and crew training is also conducted with
+transport as required. Pilot and crew training is also conducted with
 the USAF, although specific air to air refuelling and currency training
 is conducted by VMGRT-253. Because of the deployed nature of USMC forces
 there is a need for deployed KC-130 elements throughout the globe to
 support Amphibious Ready Groups (ARG) and other elements – this support
 is almost always provided by VMGR-252 which usually has between 10 and
-20 KC-130s deployed. Three versions of the ‘Hurc’ are in use in 1994;
-legacy KC-130F which date from the 1960’s, improved KC-130R and the
-latest KC-130T with updated
+20 KC-130s deployed. Three versions of the ‘Hurc’ are in use; legacy
+KC-130F which date from the 1960’s, improved KC-130R and the latest
+KC-130T with updated
 avionics.
 
 | USMC Aircraft |                 |                         |             |         |
@@ -164,7 +162,7 @@ avionics.
 | VMGR-252      | Otis (Depl Det) | 9x KC-130F, 12x KC-130R | Cherry Pt   |         |
 | VMGRT-253     | Titans          | 6x KC-130F              | Cherry Pt   |         |
 | Pacific       |                 |                         |             |         |
-| VMGR-152      | Sumos           | 13x KC-130              | Futenma Jap |         |
+| VMGR-152      | Sumos           | 13x KC-130T             | Futenma Jap |         |
 | VMGR-352      | Raiders         | 3x KC-130F, 10x KC-130R | El Toro     |         |
 
 ![](/assets/images/nato/us/navy/amphibious/usmc-air/image5.jpg)
@@ -177,11 +175,11 @@ version used in 1994, it is night capable and able to fire either 8x TOW
 or Hellfire missiles.
 
 **UH-1N**: Twin Huey. HMLA (Marine Helicopter Light Attack) Sqns are
-equipped both with the Whiskey Cobra and the UH-1N Huey. These two
+equipped with both the Whiskey Cobra and the UH-1N Huey. These two
 aircraft work together to provide ground support with the Huey
-conducting the reconnaissance and observation while the Cobra maneuvers
-to the best engagement position before exposing itself. In the USMC
-Reserve each Sqn is equipped with a single aircraft but they are grouped
+conducting reconnaissance and observation while the Cobra maneuvers to
+the best engagement position before exposing itself. In the USMC Reserve
+each Sqn is equipped with a single aircraft type but they are grouped
 for operations.
 
 <table>
@@ -340,7 +338,7 @@ AH-1W ‘Whiskey Cobra’ UH-1N ‘Twin Huey’
 
 **CH-46E**: ‘Sea Knight’. Known as ‘Phrogs’ these twin rotor workhorses
 are the standard medium lift helicopter in the USMC. They can carry 24
-Marines fully loaded with their combat equipment or 2.5 tons of cargo
+fully loaded Marines with their combat equipment or 2.5 tons of cargo
 either internally or slung underneath. Additionally, they are often
 configured for Combat Search and Rescue (CSAR), or Medical Evacuation
 (MEDEVAC) missions where they can carry 15 stretchers. An upgrade
@@ -381,12 +379,12 @@ Squadrons have at least 2-4 of these upgraded
 CH-46E from HMM-268 ‘Red Dragons’ picks up a slung load.
 
 **CH-53**: In 1994 the USMC flew both the CH-53D ‘Sea Stallion’ and the
-CH-53E ‘Super Stallion’. These aircraft provide the USMC with the heavy
-lift it needs to deploy Marine ground elements quickly onto the
-battlefield with the combat power needed to win the day. The ‘Sea
-Stallion’ is one of the fastest helicopters in the world even when
-carrying a heavy load. The ‘Super Stallion’ in addition to keeping the
-speed of the earlier model is one of the largest helicopters in the
+CH-53E ‘Super Stallion’. These aircraft provide heavy lift needed to
+deploy Marine ground elements quickly onto the battlefield with the
+combat power needed to win the day. The ‘Sea Stallion’ is one of the
+fastest helicopters in the world even when carrying a heavy load. The
+‘Super Stallion’ in addition to keeping the speed of the earlier model
+is one of the largest helicopters in the
 world.
 
 | USMC Aircraft   |               |                        |               |          |

@@ -1,4 +1,4 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Mobile
+**TG Mobile**
 
 TG Mobile is transporting the support elements of 8<sup>th</sup> Marine
 Regiment and consists mainly of slower ships.

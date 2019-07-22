@@ -1,35 +1,35 @@
-NATO/US Navy/ Amphibious Forces/Amphibious Ships
-
 **Amphibious ships**
 
-The core capability of the USMC, that of delivering combat power to
-contested shores falls on its ships. Once on land the ground and air
-elements take over the heavy fighting, but they need to get ashore in a
-coherent combat ready fashion to have the effect needed.
+The core capability of an amphibious force, that of delivering combat
+power to contested shores falls on its ships. Once on land the ground
+and air elements take over the heavy fighting, but they need to get
+ashore in a coherent combat ready fashion to have the effect needed.
 
 The US Navy (USN) has the largest and most modern collection of
 amphibious ships on the planet (The Gator Navy). Although not enough of
-these ships exist to satisfy the strategic requirement they are still
-very impressive. The Gator Navy consists of a multitude of ship types
-and capabilities. Some of which are listed here:
+these ships exist to satisfy the strategic requirement, they are very
+impressive ships an together form a formidable force. The Gator Navy
+consists of a multitude of ship types and capabilities. Some of which
+are listed here:
 
 **LHD**: [Landing Helicopter
 Dock](https://fas.org/man/dod-101/sys/ship/lhd-1.htm). These extremely
-capable ships of the Wasp Class are the latest and most capable
+capable ships of the Wasp Class are the largest and most capable
 Amphibious ships in the world. Capable of hosting AV-8B Harriers,
 helicopters and having a docking bay for landing craft or the LCAC
 (Landing Craft Air Cushioned) or hovercraft, one of these ships is
-capable of carrying 1800 Marines and a full Battalions worth of
+capable of carrying 1800 Marines and a full Battalion worth of
 equipment. At 40,000 tons, these exceptionally flexible ships displace
 as much or more then most World War Two Battleships and all war era
 aircraft carriers except the IJN Shinano (which only survived a few
 days).
 
-Historically only 3 of these ships were commissioned by 1994, however
-due to increased tensions in Northern Fury the original schedule was
-maintained and there were 2 more commissioned – LHD-5 Bataan joining the
-fleet at the end of Jan 1994, only two weeks old at war start. The next
-ship of this class to joint the fleet will be in mid 1995.
+Historically only three of these ships were commissioned by 1994,
+however due to increased tensions in Northern Fury the original schedule
+was maintained and there were two additional hulls available – LHD-5
+Bataan joining the fleet at the end of Jan 1994, only two weeks old at
+war start. The next ship of this class to joint the fleet will be in mid
+1995.
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image1.jpg)
 
@@ -47,11 +47,11 @@ Wasp
 **LHA**: [Landing Helicopter
 Assault](https://fas.org/man/dod-101/sys/ship/lha-1.htm). The
 predecessors to the Wasp class are the Tarawa Class LHA. These ships,
-while almost as capable as the LHD, are 10 years older both in design
-and in technology. Each is capable of conducting the same operations but
-the LHA has a few more limitations. These are still very fine ships and
-among the best in the world. Of the nine ships originally planned only
-five were built.
+while almost as capable as the LHD, but are 10 years older both in
+design and in technology, each is capable of conducting the same
+operations but the LHA has a few more limitations. These are still very
+fine ships and among the best in the world. Of the nine ships originally
+planned only five were built.
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image2.jpg)
 
@@ -65,18 +65,17 @@ Tarawa
 | LHA-3   | [<span class="underline">Belleau Wood</span>](https://en.wikipedia.org/wiki/USS_Belleau_Wood_\(LHA-3\)) | Pacific  | Sesebo Japan |                     |  |
 | LHA-4   | [<span class="underline">Nassau</span>](https://en.wikipedia.org/wiki/USS_Nassau_\(LHA-4\))             | Atlantic | Norfolk      | 6th Mar Regt        |  |
 | LHA-5   | [<span class="underline">Peleliu</span>](https://en.wikipedia.org/wiki/USS_Peleliu_\(LHA-5\))           | Pacific  | San Diego    | Indian Ocean 13 MEU |  |
-| LPH-2   | [<span class="underline">Iwo Jima</span>](https://en.wikipedia.org/wiki/USS_Iwo_Jima_\(LPH-2\))         | Atlantic |              | Reserve             |  |
 
 **LPH**: [Landing Platform
 Helicopter](https://fas.org/man/dod-101/sys/ship/lph-2.htm). The first
 dedicated post World War Two large Amphibious Assault ships were the Iwo
 Jima Class LPH. Only half the displacement of the Tarawa class, these
-ships have the same task of carrying up to 15-1800 Marines, however they
-can only carry a small fraction of the cargo, do not have a well deck
-and therefore cannot deploy an LCAC and can only host about half the air
-group of the larger ships. These ships are approaching retirement age,
-having been launched in the 60’s but were maintained in the fleet due to
-the heightened threat. The seven ships in this class are not
+ships have the same task of carrying up to 1800 Marines, however they
+can only carry a small fraction of the cargo, and do not have a well
+deck, therefore cannot deploy an LCAC and can only host about half the
+air group of the larger ships. These ships are approaching retirement
+age, having been launched in the 60’s but were maintained in the fleet
+due to the heightened threat. The seven ships in this class are not
 sequentially numbered.
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image3.jpeg)
@@ -96,16 +95,18 @@ Jima
 
 **LPD**: [Landing Platform
 Dock](https://fas.org/man/dod-101/sys/ship/lpd-4.htm). There are two
-main classes of these ships. The Raleigh class of two ships was due to
-retire in the early 90’s but was retained. The Austin class of eleven,
-with three sub classes, the Cleveland sub-class (7 ships) with an
-additional Flag deck and the Trenton sub-class (2 ships), all are
-effectively the same. It is worth noting that one Raleigh class and one
-Austin class were modified to be command ships (AGF-3 La Salle, and
-AGF-11 Coronado). These ships house about 850 Marines and good amount of
-heavy equipment. They are often used to carry heavy loads such as the
-tanks with landing craft Mechanized (LCM) to unload them. They are
-capable of independent operations.
+main classes of these smaller amphibious ships. The Raleigh class of two
+ships was due to retire in the early 90’s but were retained. The Austin
+class of eleven, with three sub classes, the Cleveland sub-class (7
+ships) with an additional space and communications to be a Flagship and
+the Trenton sub-class (2 ships) with updated systems, all are
+effectively the same. These ships house about 850 Marines and good
+amount of heavy equipment, and are often used to carry heavy loads such
+as the tanks with landing craft Mechanized (LCM) to unload them. They
+are capable of independent operations and when part of an ARG/ESG will
+often be detached to conduct separate duties. It is worth noting that
+one Raleigh class and one Austin class were modified to be command ships
+(AGF-3 La Salle, and AGF-11 Coronado).
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image4.jpg)
 
@@ -130,13 +131,14 @@ Duluth
 
 **LSD**: [Landing Ship
 Dock](https://fas.org/man/dod-101/sys/ship/lsd-41.htm). Although very
-similar in appearance and size to the LPD, the LSD’s primary purpose is
+similar in appearance and size to the LPD; the LSD’s primary purpose is
 to transport landing craft and LCACs, it only holds half the Marines of
-an LPD and much less heavy equipment and cargo. They can house up to 4
-LCACs however. Of the three classes, LSD-36 Anchorage (5 ships) is the
-smallest, holding 3x LCACs, LSD-41 Whidbey Island (8 ships) can hold 4x
-LCAC, while the newest class being rushed into service, LSD-49 Harpers
-Ferry can only hold 2x LCACs but 10 times the cargo of the others.
+an LPD and much less heavy equipment and cargo. An enormous docking bay
+enables them to house up to 4 LCACs. Of the three classes in service,
+LSD-36 Anchorage (5 ships) is the smallest, holding 3x LCACs, LSD-41
+Whidbey Island (8 ships) can hold 4x LCAC, while the newest class being
+rushed into service, LSD-49 Harpers Ferry can only hold 2x LCACs but 10
+times the cargo of the others.
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image5.jpg)
 
@@ -163,16 +165,16 @@ Island
 
 **LST**: [Landing Ship
 Tank](https://fas.org/man/dod-101/sys/ship/lst-1179.htm). The smallest
-of what can be called an amphibious ship in the USN, these specialty
-ships are much improved decedents of the famous LSTs that landed on the
-beaches of Normandy and virtually every other beach assaulted by the
-Allies in World War Two. Able to lay down a ramp to unload over its bow,
-and open a loading gate in the stern of the ship, these ships carry up
-to 29 tanks and 350 Marines directly to the landing area, land them
-directly onto the beach or dock, and can act as a causeway for larger
-ships unloading by ramp into the stern and driving through the LST onto
-the beach. Unloading by helicopter or crane onto a dock or small boats
-is also available.
+amphibious ship in the USN, these are much improved decedents of the
+famous LSTs that landed on the beaches of Normandy and virtually every
+other beach assaulted by the Allies in World War Two. These ships carry
+up to 29 tanks and 350 Marines, they’re the only ships that approach the
+shore and are able to lay down a ramp to unload over its bow directly
+onto the beach or dock, or open a loading gate in the stern of the ship,
+allowing a chain of LSTs to form a floating causeway for larger ships
+unloading by ramp into the stern and driving through the LST onto the
+beach. Unloading by helicopter or crane onto a dock or small boats is
+also workable.
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image6.jpeg)
 
@@ -203,5 +205,3 @@ Fresno
 | LST-1198 | [Bristol County](https://en.wikipedia.org/wiki/USS_Bristol_County_\(LST-1198\))         | Pacific  | San Diego    | Mediterranean         |
 
 ![](/assets/images/nato/us/navy/amphibious/ships/image7.jpeg)![](/assets/images/nato/us/navy/amphibious/ships/image8.jpeg)
-
-LST Unloading LST lowering ramp onto causeway

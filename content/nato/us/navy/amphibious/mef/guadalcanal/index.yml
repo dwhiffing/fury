@@ -1,5 +1,6 @@
-label: MEF Guadalcanal
+label: Guadalcanal
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 6

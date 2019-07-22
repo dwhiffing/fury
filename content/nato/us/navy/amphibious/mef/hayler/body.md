@@ -1,8 +1,8 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF/TG Hayler
+**TG Hayler**
 
-TG Hayler is tasked with providing close screen to the Amphibious Force.
-This is a small but potent group consisting of two destroyers and two
-frigates.
+TG Hayler is tasked with providing a close screen to the Amphibious
+Force. This is a small but potent group consisting of two destroyers and
+two frigates.
 
 TG Hayler
 
@@ -31,4 +31,4 @@ vertical launch systems and are very capable ASW Platforms.
 
 Both USS Sides and USS Duncan are ‘Short Hull’ Oliver Hazard Perry class
 FFGs, very capable and well balanced ships, but with the older SH-2 ASW
-helicopters..
+helicopters.

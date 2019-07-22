@@ -1,0 +1,6 @@
+label: Ground CE
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 7

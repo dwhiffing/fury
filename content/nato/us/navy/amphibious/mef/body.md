@@ -1,11 +1,89 @@
-NATO/US Navy/Amphibious Forces/Amphibious Groups/II MEF
+**II MEF**
 
-![](/assets/images/nato/us/navy/amphibious/mef/image1.jpeg)
+As 2<sup>nd</sup> Fleet and NATO forces gain air and sea dominance in
+the North Atlantic the significant problem of Iceland still needs to be
+tackled. The amphibious assault on Iceland is SACLANTs most significant
+operation of the war so far. With are over 100 ships directly involved
+including three CVBGs, two BBTGs, and almost every amphibious ship
+available on the east coast; this operation is being controlled directly
+by Comd 2<sup>nd</sup> Fleet afloat in his Flagship. The forces involved
+are
 
-As 2<sup>nd</sup> Fleet gains air and sea dominance in the North
-Atlantic the significant problem of Iceland remains. To tackle this II
-Marine Expeditionary Force (MEF) is formed base on 2<sup>nd</sup> Marine
-Division and is configured as follows:
+  - Command:
+    
+      - TG Mount Whitney
+        
+          - LCC-19 Mount Whitney
+            
+              - Elem HCS-5 ‘Firehawks’ 1x HH-60H
+        
+          - FFG-55 Elrod
+            
+              - Elem HSL-60 ‘Jaguars’ 2x SH-2F Seasprite
+        
+          - FF-1063 Reasoner
+            
+              - Elem HSL-48 ‘Vipers’ 1x SH-2F Seasprite
+
+![](/assets/images/nato/us/navy/amphibious/mef/image1.jpg)
+
+  - Covering Force:
+    
+      - [CVBG Carl
+        Vinson](http://northernfury.us/nato/us/navy/carriers/carl-vinson/)
+    
+      - [CVBG
+        Eisenhower](http://northernfury.us/nato/us/navy/carriers/eisenhower/)
+
+![](/assets/images/nato/us/navy/amphibious/mef/image2.jpg)
+
+  - Support Force:
+    
+      - [CVBG Theodore
+        Roosevelt](http://northernfury.us/nato/us/navy/carriers/tr/)
+    
+      - [TG
+        Missouri](http://northernfury.us/nato/us/navy/battleships/missouri/)
+    
+      - [TG
+        Wisconsin](http://northernfury.us/nato/us/navy/battleships/wisconsin/)
+
+![](/assets/images/nato/us/navy/amphibious/mef/image3.jpeg)
+
+  - Screening Force:
+    
+      - [TG
+        Hayler](http://northernfury.us/nato/us/navy/amphibious/mef/hayler/)
+
+![](/assets/images/nato/us/navy/amphibious/mef/image4.jpg)
+
+  - Amphibious Force:
+    
+      - 6<sup>th</sup> Mar Regt
+        
+          - [TG
+            Wasp](http://northernfury.us/nato/us/navy/amphibious/mef/wasp/)
+        
+          - [TG
+            Charleston](http://northernfury.us/nato/us/navy/amphibious/mef/charleston/)
+    
+      - 8<sup>th</sup> Mar Regt
+        
+          - [TG
+            Bataan](http://northernfury.us/nato/us/navy/amphibious/mef/bataan/)
+        
+          - [TG
+            Mobile](http://northernfury.us/nato/us/navy/amphibious/mef/mobile/)
+    
+      - 2 Mar Div
+        
+          - [TG
+            Guadalcanal](http://northernfury.us/nato/us/navy/amphibious/mef/guadalcanal/)
+
+![](/assets/images/nato/us/navy/amphibious/mef/image5.jpeg)
+
+To tackle this **II Marine Expeditionary Force (MEF)** is formed base on
+2<sup>nd</sup> Marine Division and is configured as follows:
 
   - **CE**: II MEF HQ Group
     
@@ -124,48 +202,4 @@ Division and is configured as follows:
     
       - 8<sup>th</sup> Engineer Support Bn
 
-There are over 100 ships involved in the initial assault making this the
-most significant operation of the war so far and is controlled directly
-by Comd 2<sup>nd</sup> Fleet afloat.
-
-  - Command:
-    
-      - TG Mount Whitney
-
-  - Covering Force:
-    
-      - CVBG Carl Vinson
-    
-      - CVBG Eisenhower
-
-  - Support Force:
-    
-      - CVBG Theodore Roosevelt
-    
-      - TG Missouri
-    
-      - TG Wisconsin
-
-  - Screening Force:
-    
-      - TG Hayler
-
-  - Amphibious Force:
-    
-      - 6<sup>th</sup> Mar Regt
-        
-          - TG Wasp
-        
-          - TG Charleston
-    
-      - 8<sup>th</sup> Mar Regt
-        
-          - TG Bataan
-        
-          - TG Mobile
-    
-      - 2 Mar Div
-        
-          - TG Guadalcanal
-
-![](/assets/images/nato/us/navy/amphibious/mef/image2.jpeg)
+![](/assets/images/nato/us/navy/amphibious/mef/image6.jpeg)
