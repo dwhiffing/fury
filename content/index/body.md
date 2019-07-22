@@ -2,6 +2,8 @@
 layout:  home
 ---
 
+##**Listen to the [Interview](/assets/audio/993interview_gauvin.mp3) on Country 99.3 FM**
+
 # Book on Sale now!
 
 ## **Get it on [Amazon](https://www.amazon.com/dp/B07R7BVQ31?ref_=pe_3052080_276849420)**
