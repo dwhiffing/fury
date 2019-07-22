@@ -7,7 +7,7 @@ export const capitalize = string =>
 const sanitizeLabel = label => {
   const match = label.match(/(Air Force|Navy|Army)/)
   const sanitizedLabel = match ? match[0] : label
-  if (sanitizedLabel.match(/air/)) {
+  if (sanitizedLabel.match(/^air/)) {
     return 'Air Force'
   }
 
