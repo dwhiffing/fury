@@ -27,9 +27,6 @@ const Dropdown = ({ tab, pathName }) => (
                 if (path === 'hu' && groupLabel[1] === 'navy') {
                   return false
                 }
-                if (path === 'pl' && groupLabel[1] === 'air') {
-                  return false
-                }
                 return true
               }).map(([groupLabel, groupPath]) => (
                 <Item
