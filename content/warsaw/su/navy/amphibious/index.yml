@@ -1,6 +1,6 @@
-label: Aircraft Carriers
+label: amphibious
 nav:
   - /_shared/nav.md
 
 main: body.md
-position: 2
+position: 8
