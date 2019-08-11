@@ -23,7 +23,9 @@ IV-P (18) nuclear bombers and one squadron of Mirage IV-R (12) in the
 reconnaissance role, the 94<sup>th</sup> bombardment wing providing
 training and conversion with Mirage IV-A (12) and IV-P(4), and an IRBM
 wing of two squadrons (18 silos). Supporting the Mirage IV-P was an air
-refueling wing of 3 KC-135F Squadrons (12 total).
+refueling squadron ERV 93 (Escadron de Ravitaillement en Vol) of 11
+C-135FR 'Bretagne' based at Istres-le-Tubes, the ‘FR’ standing for
+(F=French, R=Remotorized).
 
 **Mirage IV**
 
@@ -35,17 +37,15 @@ tanks. Even though this aircraft was a bomber – all ordinance was
 attached externally, that and the extra fuel storage allowed for high
 speed and long range.
 
-| Sqn     | Name        | Location       | Group | No. | Type        |
-| ------- | ----------- | -------------- | ----- | --- | ----------- |
-| EB 1/91 | Gascogne    | Mont-de-Marsan | CoFAS | 9   | Mirage IV-P |
-| EB 2/91 | Bretagne    | Cazaux         | CoFAS | 9   | Mirage IV-P |
-| EB 3/91 | Beauvaisis  | Creil          | CoFAS | 12  | Mirage IV-R |
-| EB 1/93 | Guyenne     | Istres         | CoFAS | 4   | KC-135F     |
-| EB 2/93 | Cevennes    | Orange         | CoFAS | 4   | KC-135F     |
-| EB 3/93 | Sambre      | Cambrie        | CoFAS | 4   | KC-135F     |
-| EB 1/94 | Bourbonnais | Avord          | CoFAS | 6   | Mirage IVA  |
-| EB 2/94 | Marne       | St Dizier      | CoFAS | 6   | Mirage IVA  |
-| EB 3/94 | Arbois      | Luxeuil        | CoFAS | 4   | Mirage IVP  |
+| Sqn      | Name        | Location        | Group | No. | Type        |
+| -------- | ----------- | --------------- | ----- | --- | ----------- |
+| EB 1/91  | Gascogne    | Mont-de-Marsan  | CoFAS | 9   | Mirage IV-P |
+| EB 2/91  | Bretagne    | Cazaux          | CoFAS | 9   | Mirage IV-P |
+| EB 3/91  | Beauvaisis  | Creil           | CoFAS | 12  | Mirage IV-R |
+| ERV 0/93 | Bretagne    | Istres-le-Tubes | CoFAS | 11  | C-135FR     |
+| EB 1/94  | Bourbonnais | Avord           | CoFAS | 6   | Mirage IVA  |
+| EB 2/94  | Marne       | St Dizier       | CoFAS | 6   | Mirage IVA  |
+| EB 3/94  | Arbois      | Luxeuil         | CoFAS | 4   | Mirage IVP  |
 
 **<span class="underline">Aid Defense Command (CAFDA)</span>**
 
