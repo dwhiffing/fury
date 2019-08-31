@@ -17,11 +17,11 @@ the later.
 
 The flagship of the Romanian navy is the locally designed and built
 [Mărășești](https://en.wikipedia.org/wiki/Romanian_frigate_M%C4%83r%C4%83%C8%99e%C8%99ti).
-Initially commissioned in ’86 the ship has spent half its life in refit
+Initially commissioned in 1986 the ship has spent half its life in refit
 to address design problems and is now christened with its third name,
-and third classification. As a Frigate, this is a marginally capable
-ship, it has outdated Surface to Surface missiles and SAMs, is slow by
-most standards and very large for its type.
+and third classification. As a Frigate it is a marginally capable ship
+with outdated Surface to Surface missiles and SAMs, it’s slow by most
+standards and very large for its type.
 
 ![](/assets/images/warsaw/ro/navy/image1.jpg)
 
@@ -31,14 +31,14 @@ Tetal Class. Another home grown design, these ships have no missiles and
 focus on ASW operations. The Tetal-II sub class has one gun turret
 removed and replaced by a helicopter landing deck.
 
-| Class    | Pennant | Name                            | Remarks |
-| -------- | ------- | ------------------------------- | ------- |
-| Tetal-I  | F-260   | Amiral Petre Barbuneanu         |         |
-|          | F-261   | Vice-Amiral Vasile Scodrea      |         |
-|          | F-262   | Vice-Amiral Vasile Urseanu      |         |
-|          | F-263   | Vice-Amiral Eugeniu Rosca       |         |
-| Tetal-II | F-264   | Contraamiral Eustațiu Sebastian |         |
-|          | F-265   | Contraamiral Horia Macellariu   |         |
+| Class    | Pennant | Name                            |
+| -------- | ------- | ------------------------------- |
+| Tetal-I  | F-260   | Amiral Petre Barbuneanu         |
+|          | F-261   | Vice-Amiral Vasile Scodrea      |
+|          | F-262   | Vice-Amiral Vasile Urseanu      |
+|          | F-263   | Vice-Amiral Eugeniu Rosca       |
+| Tetal-II | F-264   | Contraamiral Eustațiu Sebastian |
+|          | F-265   | Contraamiral Horia Macellariu   |
 
 ![](/assets/images/warsaw/ro/navy/image2.jpg)
 
@@ -63,26 +63,25 @@ weighing in at 495 tons.
 Class](http://russianships.info/eng/warfareboats/project_205.htm)** The
 Romanian Navy took delivery of three Osa I and three Osa II boats. The
 main improvement between the two sub classes was an improved version of
-the P-15 (S-N-2C) Styx SSM. All were based at Atia. The Osa I boats are
+the P-15 (S-N-2C) Styx SSM. All are based at Atia. The Osa I boats are
 in reserve and will take several days to activate.
 
-| Class  | Pennant | Name       | Status  | Remarks      |
-| ------ | ------- | ---------- | ------- | ------------ |
-| Osa I  | F-195   | Vulturul   | Reserve | Project 205  |
-|        | F-198   | Eretele    | Reserve |              |
-|        | F-199   | Albatrosul | Reserve |              |
-| Osa II | F-202   | Smeul      | Active  | Project 205U |
-|        | F-204   | Vijelia    | Active  |              |
-|        | F-209   | Vulcanul   | Active  |              |
+| Class  | Pennant | Name       | Status  | Remarks |
+| ------ | ------- | ---------- | ------- | ------- |
+| Osa I  | F-195   | Vulturul   | Reserve |         |
+|        | F-198   | Eretele    | Reserve |         |
+|        | F-199   | Albatrosul | Reserve |         |
+| Osa II | F-202   | Smeul      | Active  |         |
+|        | F-204   | Vijelia    | Active  |         |
+|        | F-209   | Vulcanul   | Active  |         |
 
 ![](/assets/images/warsaw/ro/navy/image4.jpg)
 
 **ASW Corvettes**
 
 **[Poti Class](http://russianships.info/eng/warships/project_204.htm)**
-These rugged little ships provided excellent service and had a good ASW
-suite in a small package. The Romanian Navy operated three of these
-ships.
+These rugged little ships have a good ASW suite in a small package. The
+Romanian Navy operate three, one of which is constantly on patrol.
 
 | Class | Pennant | Name | Status | Remarks |
 | ----- | ------- | ---- | ------ | ------- |

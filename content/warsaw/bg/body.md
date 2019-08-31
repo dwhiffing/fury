@@ -5,7 +5,7 @@ military and economic assistance which influences some elements in
 Bulgaria, but once the staunchest ally, now of any member, its loyalty
 to the Soviets is the weakest.
 
-The Bulgarian People’s Army (BKA) forms the bulk of the defence forces
+The Bulgarian People’s Army (BKA) forms the bulk of the defense forces
 with a small coastal navy designed to assist the Soviet Black Sea Fleet
 in securing the approaches to the Bosporus, and a moderately sized air
 force of about 300 combat aircraft.

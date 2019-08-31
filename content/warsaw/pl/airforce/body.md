@@ -1,237 +1,118 @@
 **Polish Air Force**
 
 The Polish Air Force is quite large with almost 1000 aircraft;
-unfortunately due to domestic turmoil it was suffering from failing
+unfortunately, due to domestic turmoil it suffers from failing
 maintenance and training. Organized along Soviet lines with an Air Force
-supporting the Army and an Air Defense Force focused solely on control
-of Polish airspace, the new reforms and organization promised by the
-Solidarity Government were largely stalled by intransigence and lack of
-political will or capacity. The one significant change that has occurred
-is that the Polish Naval Air Force has been folded into the Air Force.
-The domestic aircraft industry in Poland was very productive in
-throughout the Cold war, producing everything from light training/civil
-aircraft (PZL-104) and jet trainers (PZL I-22), to helicopters (PZL
-SM-2) to derivatives of the MiG-15 (PZL-Mielec Lim-1/2) and MiG-17
-(PZL-Mielec Lim-5/6). As war breaks out in Northern Fury Poland is in
-even more disorder as military formations try and determine who is in
+supporting the Army, an independent Naval Air Force and an Air Defense
+Force focused solely on control of Polish airspace, efforts to change
+this to a more western approach with new reforms and organizations were
+largely stalled by intransigence and lack of political will or capacity.
+The one significant change that has occurred is that the Polish Naval
+Air Force has been folded into the Air Force. The domestic aircraft
+industry in Poland was very productive throughout the Cold war,
+producing everything from light training/civil aircraft (**PZL-104**)
+and jet trainers (**PZL I-22**), to helicopters (**PZL SM-2**) to
+derivatives of the **MiG-15** (PZL-Mielec **Lim-1 & 2**) and MiG-17
+(PZL-Mielec **Lim-5 & 6**). As war breaks out in Northern Fury Poland is
+in even more disorder as military formations try and determine who is in
 control and where their loyalties lie.
 
 **MiG-29**
 
 Poland received 12 MiG-29 in 1989-1990 just before political troubles
-truncated any further delivery. Nine of the aircraft were MiG-29A while
-the remaining three were the training version (MiG-29UB). Allocated to
-the 1<sup>st</sup> Squadron of the 32<sup>nd</sup> Air Intercept Wing,
-these were meant to seize and maintain air superiority over the
-battlefield and prevent NATO aircraft, particularly the F-16 and A-10
-from harassing Polish maneuver forces on the ground. Although they have
-the capacity for strike and close air support, this would be a purely
-secondary role for the Polish Fulcrums.
+truncated any further delivery. Nine of the aircraft were **MiG-29A**
+while the remaining three were the training version (**MiG-29UB**).
+Allocated to the 1<sup>st</sup> Squadron of the 32<sup>nd</sup> Air
+Intercept Wing, these were meant to seize and maintain air superiority
+over the battlefield and prevent NATO aircraft, particularly the F-16
+and A-10 from harassing Polish maneuver forces on the ground. Although
+they have the capacity for strike and close air support, this would be a
+purely secondary role for the Polish Fulcrums.
 
 ![](/assets/images/warsaw/pl/airforce/image1.jpeg)
 
 **MiG-23**
 
-The Polish Air Force operated 36 MiG-23MF Flogger B’s and six MiG-23UB
-two seat training versions. The Floggers were also used primarily in the
-intercept mode to protect Polish ground formations although they could
-also be used in the ground attack role if needed.
+The Polish Air Force operated 36 **MiG-23MF** Flogger B’s and six
+MiG-23UB two seat training versions. The Floggers were also used
+primarily in the intercept mode to protect Polish ground formations
+although they could also be used in the ground attack role if needed.
 
 ![](/assets/images/warsaw/pl/airforce/image2.jpg)
 
 **MiG-21**
 
-About 450 MiG-21 Fishbed are in service with about 100 more in reserve.
-Most of the more modern variants are maintained for the Air Defense role
-with 72 MiG-21bis, 120 MiG-21MF and 36 MiG-21M as well as one Regiment
-of 36 MiG-21PFM being the main component of the Air Defense force. The
-remaining Fishbeds in service are 90 MiG-21PFM in the Fighter Bomber
-role, 36 reconnaissance (R) versions supporting the army and about 50
-two seat trainers (UB). There are about 80 older MiG-21PF as well as a
-few PFM, R and UB in ready reserve.
+About 450 **MiG-21** Fishbed are in service with about 100 more in
+reserve. Most of the more modern variants are maintained for the Air
+Defense role with 72 **MiG-21bis**, 120 **MiG-21MF** and 36 **MiG-21M**
+as well as one Regiment of 36 ageing **MiG-21PFM** being the main
+component of the Air Defense force. The remaining Fishbeds in service
+are 90 **MiG-21PFM** in the Fighter Bomber role, 36 reconnaissance (R)
+versions supporting the army and about 50 two seat trainers (UB). There
+are about 80 older **MiG-21PF** as well as a few PFM, R and UB in ready
+reserve.
 
 ![](/assets/images/warsaw/pl/airforce/image3.jpg)
 
 **Su-20/22**
 
-The Su-20 and 22 Fitter are the primary ground attack aircraft used by
-the Polish Air Force. The 27 older Su-20s were acquired in the 1970s and
-are over-due for retirement or relegation to reserve status. During the
-1980s 90 modern Su-22M4 were acquired with an intent to obtain a further
-45, this later purchase was overtaken by the internal strife in the
-later part of the decade but 20 Su-22UM3K two seat trainers were
-delivered. The Fitters form the lead Regiment in each of the Fighter
-Bomber Divisions. About 40 of the much older Su-7 FITTER A variants are
-held in reserve.
+The **Su-20** and 22 Fitter are the primary ground attack aircraft used
+by the Polish Air Force. The 27 older **Su-20**s were acquired in the
+1970s and are over-due for retirement or relegation to reserve status.
+During the 1980s 90 modern **Su-22M4** were acquired with an intent to
+obtain a further 45, this later purchase was overtaken by the internal
+strife in the later part of the decade but 20 **Su-22UM3K** two seat
+trainers were delivered. The Fitters form the lead Regiment in each of
+the Fighter Bomber Divisions. About 40 of the much older **Su-7** Fitter
+A variants are held in reserve.
 
 ![](/assets/images/warsaw/pl/airforce/image4.jpeg)
 
 **Lim-6**
 
 The domestic Polish aircraft industry was quite prolific and one of the
-main products was the Lim-6 Fresco, a derivative of the Soviet MiG-17.
-About 180 of these aircraft remain in service but are obsolete and
-poorly maintained. All have been upgraded to the Lim-6bis or are Lim-5
-rebuilt to the same standard as the Lim-6M.
+main products was the **Lim-6** Fresco, a derivative of the Soviet
+**MiG-17**. About 180 of these aircraft remain in service but are
+obsolete and poorly maintained. All have been upgraded to the
+**Lim-6bis** or are **Lim-5** rebuilt to the same standard and called
+the **Lim-6M**.
 
 ![](/assets/images/warsaw/pl/airforce/image5.jpg)
 
-**Combat Aircraft organization**
+**Combat Aircraft
+organization**
 
-<table>
-<thead>
-<tr class="header">
-<th>2<sup>nd</sup> F/B Div</th>
-<th>Pila</th>
-<th>Regt</th>
-<th>45x Su-22M4</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x MiG-21PFM</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x Lim-6M/bis</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Sqn</td>
-<td>12x Mig-21R</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3rd F/B Div</td>
-<td>Swidwin</td>
-<td>Regt</td>
-<td>45x Su-22M4</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x Lim-6M/bis</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x Lim-6M/bis</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Sqn</td>
-<td>12x Mig-21R</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4th F/B Div</td>
-<td>Malbork</td>
-<td>Regt</td>
-<td>27x Su-20</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x MiG-21PFM</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td>Regt</td>
-<td>45x Lim-6M/bis</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td>Sqn</td>
-<td>12x Mig-21R</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>1<sup>st</sup> AD Corps</td>
-<td>Minsk</td>
-<td>32<sup>nd</sup> Intercept wing</td>
-<td><p>12 x MiG-29A/UB</p>
-<p>36x MiG-23 MF</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Lask</td>
-<td>Regt</td>
-<td>36x MiG21bis</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2<sup>nd</sup> AD Corps</td>
-<td>Zegrze</td>
-<td>Regt</td>
-<td>36x MiG21bis</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Slupsk</td>
-<td>Regt</td>
-<td>36x MiG21MF</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Babie Doly</td>
-<td>Regt</td>
-<td>36x MiG21M</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3<sup>rd</sup> AD Corps</td>
-<td>Wroclaw</td>
-<td>Regt</td>
-<td>36x MiG21MF</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Mierzecice</td>
-<td>Regt</td>
-<td>36x Mig-21MF</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Pozanan</td>
-<td>Regt</td>
-<td>36x MiG-21PFM</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| **Formation**           | **Location** | **Unit**             | **No** | **Type**   |
+| ----------------------- | ------------ | -------------------- | ------ | ---------- |
+| 2<sup>nd</sup> F/B Div  | Pila         | Regt                 | 45     | Su-22M4    |
+|                         |              | Regt                 | 45     | MiG-21PFM  |
+|                         |              | Regt                 | 45     | Lim-6M/bis |
+|                         |              | Sqn                  | 12     | Mig-21R    |
+| 3rd F/B Div             | Swidwin      | Regt                 | 45     | Su-22M4    |
+|                         |              | Regt                 | 45     | Lim-6M/bis |
+|                         |              | Regt                 | 45     | Lim-6M/bis |
+|                         |              | Sqn                  | 12     | Mig-21R    |
+| 4th F/B Div             | Malbork      | Regt                 | 27     | Su-20      |
+|                         |              | Regt                 | 45     | MiG-21PFM  |
+|                         |              | Regt                 | 45     | Lim-6M/bis |
+|                         |              | Sqn                  | 12     | Mig-21R    |
+| 1<sup>st</sup> AD Corps | Minsk        | 32<sup>nd</sup> Wing | 12     | MiG-29A/UB |
+|                         |              |                      | 36     | MiG-23 MF  |
+|                         | Lask         | Regt                 | 36     | MiG21bis   |
+| 2<sup>nd</sup> AD Corps | Zegrze       | Regt                 | 36     | MiG21bis   |
+|                         | Slupsk       | Regt                 | 36     | MiG21MF    |
+|                         | Babie Doly   | Regt                 | 36     | MiG21M     |
+| 3<sup>rd</sup> AD Corps | Wroclaw      | Regt                 | 36     | MiG21MF    |
+|                         | Mierzecice   | Regt                 | 36     | MiG21MF    |
+|                         | Pozanan      | Regt                 | 36     | MiG-21PFM  |
 
 **Surface to Surface Missile forces**
 
-The Polish Air Force operates four Air Defense Brigades and one Regiment
-deployed at about 50 locations around the country. This force is in
-addition to Army Air Defences forces within the mobile formations. About
-300 SA2 and SA3 systems are in operation.
+The Polish Air Force operates four Air Defense Brigades and one
+independent Regiment deployed at about 50 locations around the country.
+These formations are part of the Air Defence Force and are in addition
+to Army Air Defences elements within the Army. About 300 SA2 and SA3
+systems are in operation.
 
 **Air Transport**
 

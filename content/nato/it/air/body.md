@@ -22,13 +22,13 @@ but in Northern Fury these dates are advanced by two years to 1991 and
 operating 124 Tornados including 100 IDS and 24
 ADVs.
 
-| Sqn          | Name         | Location        | No. | Type        | Remarks |
-| ------------ | ------------ | --------------- | --- | ----------- | ------- |
-| 12\* Gruppo  | White Tigers | Gioia del Colle | 24  | Tornado ADV |         |
-| 102\* Gruppo | Ducks        | Ghedi           | 24  | Tornado IDS |         |
-| 154\* Gruppo | Red Devils   | Ghedi           | 24  | Tornado IDS |         |
-| 155\* Gruppo | Panthers     | Piacenza        | 24  | Tornado IDS |         |
-| 156\* Gruppo | Lynx         | Ghedi           | 24  | Tornado IDS |         |
+| Sqn          | Name          | Location        | No. | Type        | Remarks |
+| ------------ | ------------- | --------------- | --- | ----------- | ------- |
+| 12\* Gruppo  | Saetta        | Gioia del Colle | 24  | Tornado ADV |         |
+| 102\* Gruppo | Paperi        | Ghedi           | 24  | Tornado IDS |         |
+| 154\* Gruppo | Diavoli Rossi | Ghedi           | 24  | Tornado IDS |         |
+| 155\* Gruppo | Pantere Nere  | Piacenza        | 24  | Tornado IDS |         |
+| 156\* Gruppo | Linci         | Ghedi           | 24  | Tornado IDS |         |
 
 ![](/assets/images/nato/it/air/image1.jpg)
 
@@ -42,19 +42,23 @@ in accidents the older variants had all but disappeared. Used primarily
 as air to air interceptors the F-104S was the ultimate fighter version
 with improved radar, increased stability and much needed safety
 improvements. 147 were subsequently modified to the ASA (Weapons Systems
-Update) standard improving the radar once again with a ‘Look-down –
+Update) standard, improving the radar once again with a ‘Look-down –
 Shoot-down’ capability. The ASA-2, which all were later modified to
 could fire ‘all-aspect’ Aim-9L Sidewinders, Aim-7 Sparrow and Aspide
-missiles.
+missiles. 28\* Gruppo historically lost all of its aircraft in 1982,
+which were moved to Grosseto but remained active until 1993 – in
+Northern Fury this squadron was re-equipped with F-104s instead of
+adopting the
+AMX.
 
-| Sqn         | Name       | Location   | No. | Type         | Remarks |
-| ----------- | ---------- | ---------- | --- | ------------ | ------- |
-| 9\* Gruppo  | Pegasis    | Grosseto   | 24  | F-104S/ASA-2 |         |
-| 10\* Gruppo | Blackhorse | Grazzanise | 24  | F-104S/ASA-2 |         |
-| 21\* Gruppo | Tigers     | Cameri     | 24  | F-104S/ASA-2 |         |
-| 22\* Gruppo | Scarecrows | Treviso    | 24  | F-104S/ASA-2 |         |
-| 23\* Gruppo | Grayhound  | Rimini     | 24  | F-104S/ASA-2 |         |
-| 28\* Gruppo |            | Grosseto   | 24  | F-104S/ASA-2 |         |
+| Sqn         | Name               | Location   | No. | Type   | Remarks |
+| ----------- | ------------------ | ---------- | --- | ------ | ------- |
+| 9\* Gruppo  | Meraviglioso       | Grosseto   | 24  | F-104S |         |
+| 10\* Gruppo | Cavallino Rampante | Grazzanise | 24  | F-104S |         |
+| 21\* Gruppo | Tigre              | Cameri     | 24  | F-104S |         |
+| 22\* Gruppo | Spauracchi         | Treviso    | 24  | F-104S |         |
+| 23\* Gruppo | Veltri             | Rimini     | 24  | F-104S |         |
+| 28\* Gruppo | Streghe            | Grosseto   | 24  | F-104S |         |
 
 ![](/assets/images/nato/it/air/image2.jpg)
 
@@ -65,12 +69,15 @@ but those plans were never followed through. The A-11 was useful in its
 limited ground attack role but could not compete internationally with
 the American A-10 or Soviet Su-25. Only Italy and Brazil operated these
 aircraft and Italy only acquired 35 operational aircraft and 11 two seat
-training versions.
+training versions. Some of the single and all of the double seat AMX
+were upgraded (in Northern Fury) to enable the use of PGM about two
+years before they were historically.
 
 | Sqn          | Name       | Location    | No. | Type | Remarks |
 | ------------ | ---------- | ----------- | --- | ---- | ------- |
-| 103\* Gruppo | Indians    | Treviso     | 16  | A-11 |         |
-| 132\* Gruppo | Black Cats | Villafranca | 16  | A-11 |         |
+| 103\* Gruppo | Indiani    | Treviso     | 16  | A-11 |         |
+| 132\* Gruppo | Gatti Neri | Villafranca | 16  | A-11 |         |
+| 201\* Gruppo | Scorpioni  | Capodichino | 14  | A-11 |         |
 
 ![](/assets/images/nato/it/air/image3.jpg)
 
@@ -81,9 +88,53 @@ line service, but not enough A-11s were procured to replace it. In
 Northern Fury, 65 aircraft remained with 48 employed in operational
 squadrons.
 
-| Sqn          | Name        | Location | No. | Type  | Remarks |
-| ------------ | ----------- | -------- | --- | ----- | ------- |
-| 13\* Gruppo  | Eagle       | Brindisi | 24  | G.91Y |         |
-| 101\* Gruppo | Thunderbolt | Rimini   | 24  | G.91Y |         |
+| Sqn          | Name   | Location | No. | Type  | Remarks |
+| ------------ | ------ | -------- | --- | ----- | ------- |
+| 13\* Gruppo  | Falchi | Brindisi | 24  | G.91Y |         |
+| 101\* Gruppo | Lampi  | Rimini   | 24  | G.91Y |         |
 
 ![](/assets/images/nato/it/air/image4.jpg)
+
+[**BR.1150
+Atlantic**](https://en.wikipedia.org/wiki/Bréguet_1150_Atlantic): A
+French designed Maritime Patrol Aircraft (MPA) primarily focused on
+Anti-Submarine Warfare (ASW) support to the Navy. Italy purchased 18
+which by 1994 were operated by two Stormo (Air Wing) each with one
+Gruppo (Squadron).
+
+| Sqn         | Wing        | Location       | No. | Type    | Remarks |
+| ----------- | ----------- | -------------- | --- | ------- | ------- |
+| 86\* Gruppo | 30\* Stormo | Cagliari-Elmas | 9   | BR.1150 |         |
+| 88\* Gruppo | 41\* Stormo | Sigonella      | 9   | BR.1150 |         |
+
+![](/assets/images/nato/it/air/image5.jpg)
+
+**[G.222](https://en.wikipedia.org/wiki/Aeritalia_G.222):** An Italian
+designed and built medium transport aircraft, the only other NATO
+country to purchase the G.222 was the US who acquired ten in 1990 for
+use in Panama (called the C-27A), although Venezuela, Nigeria, Somalia
+UAE, Thailand, Peru, Libya and Argentina. Compared to the French C.160
+Transall the G.222 has shorter range, is slower and carries about half
+the load. Italy operated about 50 aircraft (not including Fire Fighting
+versions), 44 of them being standard transports and two Electronic
+Warfare versions (G.222VS), and four Radio/Radar calibration version
+(G.222RM).
+
+| Sqn         | Name   | Location        | No. | Type       | Remarks |
+| ----------- | ------ | --------------- | --- | ---------- | ------- |
+| 2\* Gruppo  | Lyra   | Pisa            | 22  | G.222A     |         |
+| 71\* Gruppo | Persei | Pratica di Mare | 6   | G.222VS/RM |         |
+| 98\* Groppo | Lupi   | Pisa            | 22  | G.222A     |         |
+
+![](/assets/images/nato/it/air/image6.jpg)
+
+**Other Transport Aircraft**: Italy operated 14 C-130H Hercules and four
+Boeing 707
+Tankers
+
+| Sqn         | Name      | Location        | No. | Type          | Remarks |
+| ----------- | --------- | --------------- | --- | ------------- | ------- |
+| 8\* Gruppo  | Cavalieri | Pratica di Mare | 4   | Boeing 707T/T |         |
+| 50\* Gruppo | Vega      | Pisa            | 14  | C-130H        |         |
+
+![](/assets/images/nato/it/air/image7.jpg)

@@ -1,6 +1,6 @@
 **Romania** is one of the five remaining Warsaw Pact countries and is
 the clear winner in the re-shuffling of power within the alliance.
-Ceausescu the longtime dictator has clearly ingratiated himself with the
+Ceausescu the longtime dictator has openly ingratiated himself with the
 new regime in Moscow and much of the military and financial assistance
 that was going to East Germany and Poland is now heading to Bucharest,
 where the ruthless dictator has used it to prop up his faltering regime.

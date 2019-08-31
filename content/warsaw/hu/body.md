@@ -8,7 +8,7 @@ have grown substantially and are kept quite busy maintaining visibility
 on dissident groups, and individuals traveling into the Balkans. The
 border with Austria is closed.
 
-The Hungarian People’s Army (HPA) forms the bulk of the defence forces
+The Hungarian People’s Army (HPA) forms the bulk of the defense forces
 with a moderately sized but dated air force of about 230 combat
 aircraft. Recent arrivals of MiG-29 and Su-25s have greatly augmented
 capabilities which were otherwise all but perished. The Navy is composed
