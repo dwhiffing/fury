@@ -1,5 +1,7 @@
 **Soviet Union Air Force**
 
+![](/assets/images/warsaw/su/air/image1.jpeg)
+
 The USSR is a vast geographic country and naturally gravitated to air
 transport in its early days. The history of [Soviet
 aviation](https://www.centennialofflight.net/essay/Commercial_Aviation/soviet_air/Tran17.htm)
@@ -11,10 +13,15 @@ war.
 
 The Soviet Union actually has four Air Forces:
 
-  - Frontal Aviation: VVS – Voenno-Vozdushmiy Sily. Primarily
+  - Frontal Aviation: VVS – *Voenno-Vozdushmiy Sily*. Primarily
     responsible for air-superiority, strike and ground support, but not
-    including air defence of the USSR. Includes long range aviation
-    (Bombers), transport and army aviation units.
+    including air defence of the USSR. Includes:
+    
+      - Long range aviation (Bombers), VA VGK (SN) - *Verkhovnoye
+        komandovaniye (strategicheskaya tsel').*
+    
+      - Transport aviation, VTA – *Komandovaniye voyenno-transportnoy
+        aviatsii.*
 
   - Naval Aviation: VMF – Voenno-Morskoi Flota. Provides ship and shore
     based aviation to support the Navy including long range
@@ -50,7 +57,7 @@ These air forces combined have over 10,000 fighter and fighter bomber
 type aircraft, over 1,000 long range bombers, more than 8,000 transport
 aircraft and almost 15,000 helicopters. Over 30,000 active aircraft\!
 Many of these aircraft are old or very specialized, but there are more
-than 1,500 front line combat fighters (Mig-31, Mig-29, Su-27) – a
+than 2,000 front line combat fighters (Mig-31, Mig-29, Su-27) – a
 formidable force. More detail will be outlined in the pages that follow
 but some examples of the aircraft types can be found at this
 [link](https://www.militaryfactory.com/aircraft/cold-war-soviet-aircraft.asp).
@@ -61,4 +68,9 @@ termination date, such s the Mig-29 and Su-27. Development continues so
 that some aircraft models that did not appear until the late ‘90s or
 even 2003 will be available in 1994 – in small numbers.
 
-![](/assets/images/warsaw/su/air/image1.jpeg)
+A stylistic depiction of Soviet Aviation formations in Northern fury
+follows on these two grapics:
+
+![](/assets/images/warsaw/su/air/image2.png)
+
+![](/assets/images/warsaw/su/air/image3.png)

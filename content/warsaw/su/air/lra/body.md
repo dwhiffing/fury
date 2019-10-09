@@ -1,6 +1,6 @@
-Soviet Long Range Aviation
+**Soviet Long Range Aircraft**
 
-This includes Soviet Naval aviation
+This includes Soviet Naval aviation aircraft
 
 **[Tu-160](http://www.airvectors.net/avtu160.html)**
 

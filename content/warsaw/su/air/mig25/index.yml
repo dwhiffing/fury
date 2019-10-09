@@ -1,5 +1,6 @@
-label: mig25
+label: MiG-25
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 8

@@ -3,7 +3,7 @@
 [**MiG-21 ‘Fishbed’**](http://www.airvectors.net/avmig23.html)Although
 over 11,000
 [Fishbeds](http://www.topedge.com/panels/aircraft/sites/kraft/mig1.htm)
-were built and production did not end until 1985, only about 1500 remain
+were built and production did not end until 1985, only about 2000 remain
 in service with the Soviet Air Forces (VVS and PVO). This hugely
 successful aircraft was introduced in 1959 and served in over 60
 different air forces around the world. The delta wing, supersonic jet
@@ -42,6 +42,6 @@ bombs, or air to air combat with the very effective short range AA-8
 Aphid missile. The PVO operates about 200 of Fishbed-L, equipped with
 the *Lazur* GCI (Ground Control Intercept) system while the VVS uses
 about 800 Fishbed-H equipped with Polyot ILS (Instrument Landing
-System).
+System). Slightly more than 1000 remain in reserve.
 
 ![](/assets/images/warsaw/su/air/mig21/image4.jpg)
