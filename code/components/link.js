@@ -11,9 +11,7 @@ const sanitizeLabel = label => {
     return 'Air Force'
   }
 
-  return capitalize(
-    sanitizedLabel.replace(/Naval Aviation |MEF |Amphibious /, '')
-  )
+  return capitalize(sanitizedLabel)
 }
 
 export const Link = ({
