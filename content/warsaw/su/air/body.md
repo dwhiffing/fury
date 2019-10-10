@@ -13,25 +13,29 @@ war.
 
 The Soviet Union actually has four Air Forces:
 
-  - Frontal Aviation: VVS – *Voenno-Vozdushmiy Sily*. Primarily
-    responsible for air-superiority, strike and ground support, but not
-    including air defence of the USSR. Includes:
+  - [Frontal Aviation: VVS](http://northernfury.us/warsaw/su/air/vvs/) –
+    *Voenno-Vozdushmiy Sily*. Primarily responsible for air-superiority,
+    strike and ground support, but not including air defence of the
+    USSR. Includes:
     
-      - Long range aviation (Bombers), VA VGK (SN) - *Verkhovnoye
+      - [Long range aviation (Bombers), VA VGK
+        (SN)](http://northernfury.us/warsaw/su/air/vgk/) - *Verkhovnoye
         komandovaniye (strategicheskaya tsel').*
     
-      - Transport aviation, VTA – *Komandovaniye voyenno-transportnoy
-        aviatsii.*
+      - [Transport aviation,
+        VTA](http://northernfury.us/warsaw/su/air/vta/) – *Komandovaniye
+        voyenno-transportnoy aviatsii.*
 
-  - Naval Aviation: VMF – Voenno-Morskoi Flota. Provides ship and shore
-    based aviation to support the Navy including long range
-    reconnaissance and strike, fixed and rotary wing aircraft embarked
-    on ships and support to amphibious and littoral operations.
+  - [Naval Aviation: VMF](http://northernfury.us/warsaw/su/air/naval/) –
+    Voenno-Morskoi Flota. Provides ship and shore based aviation to
+    support the Navy including long range reconnaissance and strike,
+    fixed and rotary wing aircraft embarked on ships and support to
+    amphibious and littoral operations.
 
-  - Air Defence Force: PVO – Protivo-Vozdushnoi Oborony. Singularly
-    responsible for the Air Defence of the USSR including radar
-    surveillance, interception of enemy bombers and missiles and Surface
-    to Air Missile (SAM) defence.
+  - [Air Defence Force: PVO](http://northernfury.us/warsaw/su/air/pvo/)
+    – Protivo-Vozdushnoi Oborony. Singularly responsible for the Air
+    Defence of the USSR including radar surveillance, interception of
+    enemy bombers and missiles and Surface to Air Missile (SAM) defence.
 
   - Strategic Rocket Forces: RVS – Raketnye Voiyska Strategicheskogo
     Naznacheniya. Control of all Surface to Surface Missiles (SSM),
