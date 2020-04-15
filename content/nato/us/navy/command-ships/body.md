@@ -6,23 +6,12 @@ or two static locations would be difficult and demanding, plus risk
 nuclear obliteration in the event of a doomsday scenario. Therefore, a
 Command and Control network was established based on numbered Fleets.
 
-![](/assets/images/nato/us/navy/command-ships/image1.png)
+![A close up of a map Description automatically
+generated](/assets/images/nato/us/navy/command-ships/image1.JPG)
 
 This is a snapshot view of Fleet Areas of Responsibility (AOR) in the
-late 90’s and up to about 2011 and represents the reduction after the
-end of the Cold War (Blue). In the Northern Fury world, a slightly more
-historic disposition is shown, this map is only representational.
-
-The key Northern Fury differences (Red) are: 2<sup>nd</sup> Fleet’s AOR
-includes all of the Atlantic north of the Tropic of Cancer.
-3<sup>rd</sup> Fleets AOR is unchanged. 4<sup>th</sup> Fleet is
-responsible for everything south of the Tropic of Cancer including the
-west coast of Africa and from Cape Town South Africa to Antarctica.
-5<sup>th</sup> Fleets AOR starts at Cape Town and includes east to the
-Malay Barrier and the west coast of Australia 6<sup>th</sup> Fleet is
-responsible only for the Mediterranean and Black Sea area.
-7<sup>th</sup> Fleet will focus north of the Malay Barrier and from
-Darwin Australia (inclusive) eastward.
+Northern Fury world, historically these were different by 1994 but this
+represents how the world has changed.
 
 In order to command these widely dispersed fleets the USN uses
 Headquarters which are ‘Afloat’ in Command Ships. These are much more
@@ -36,29 +25,32 @@ today](http://www.relativelyinteresting.com/comparing-todays-computers-to-1995s/
 world.
 
 Numbered fleets were routinely commanded by a Vice Admiral (3\*), or
-Rear Admiral (Upper half) (2\*). 2<sup>nd</sup> Fleet, headquartered in
+Rear Admiral (Upper half) (2\*). 2<sup>nd</sup> Fleet headquartered in
 Norfolk Virginia was double tasked as commanding all NATO forces in the
 North Atlantic in times of War – Commander Striking Fleet Atlantic
-(**COMSTRIKFLTLANT**) was always a 3\*.
+(**COMSTRIKFLTLANT**) was always commanded by a senior 3\* Admiral.
 
 **2<sup>nd</sup> Fleet**: Commanded from Norfolk Virginia in peacetime
 but its ‘Afloat’ HQ is on board USS Mount Whitney
 ([LCC-20](https://en.wikipedia.org/wiki/USS_Mount_Whitney_\(LCC-20\))).
 As **COMSTRIKFLTLANT, the commander was responsible for all NATO forces
-in the Atlantic released for operations by Commander in Chief Atlantic
-(CINCLANT) after they’ve been declared by their national government, or
-for US forces by US Fleet Forces Command.**
+in the Atlantic that were released for operations by Commander in Chief
+Atlantic (CINCLANT) once they’d been declared by their national
+government, or in the case of US forces by US Fleet Forces Command.**
 
 ![](/assets/images/nato/us/navy/command-ships/image2.jpeg)
 
 **3<sup>rd</sup> Fleet**: Permanently located ashore at San Diego
 California.
 
-**4<sup>th</sup> Fleet**: Permanently located ashore at Tampa Bay
-Florida
+**4<sup>th</sup> Fleet**: Will be established at Tampa Bay Florida
+shortly after the war starts and will be responsible for the seas around
+South America and everything south of the Tropic of Cancer in the
+Atlantic, including the west coast of Africa and from Cape Town South
+Africa to Antarctica.
 
 **5<sup>th</sup> Fleet**: This fleet was deactivating after its heroic
-World War Two actions, but was reactivated to control activity in the
+World War Two actions but was reactivated to control activity in the
 Indian Ocean, Persian Gulf and Red Sea areas in Dec of 1993 (July 1995
 historically). With an HQ in Bahrain, sharing the Royal Navy Base at HMS
 Jufair in the port of Manama. In order to maintain mobility and
@@ -84,10 +76,10 @@ earlier than she did historically).
 **7<sup>th</sup> Fleet:** Of all US Navy fleets is the only one with a
 forward deployed Aircraft Carrier Battle Group (CVBG) and Marine
 Expeditionary Force (MEF) permanently established. 7<sup>th</sup> Fleet
-is located in Yokosuka, Japan. With responsibility for all of the
-Pacific Ocean west of the International Date Line, and west to include
-South Korea, Australia, Japan and the Malay Barrier, this is the largest
-deployed USN force. The Command Ship is USS Blue Ridge
+is located in Yokosuka, Japan. With responsibility for the Pacific and
+Indian Oceans west of the International Date Line to include South
+Korea, Australia, Japan and most of the African Coast, this is the
+largest deployed USN force. The Command Ship is USS Blue Ridge
 ([LCC-19](https://en.wikipedia.org/wiki/USS_Blue_Ridge_\(LCC-19\)))
 
 ![](/assets/images/nato/us/navy/command-ships/image5.jpg)
