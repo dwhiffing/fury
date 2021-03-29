@@ -5,6 +5,7 @@
 - Git (https://git-scm.com/)
 - pandoc (https://pandoc.org/installing.html)
 - Make github account
+- WinSCP (https://winscp.net/eng/download.php)
 
 # Get started
 
