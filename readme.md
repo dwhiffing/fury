@@ -24,4 +24,4 @@
 - Syncronize "html" folder via WINscp, make sure both local and remote end with \html and /html respectively
 - Confirm production site looks as expected
 - Commit all changes with a descriptive message
-- Git push (So I can help fix issues with changes)
+- `git push` (So I can help fix issues with changes)
