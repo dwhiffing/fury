@@ -1,8 +1,6 @@
-**Naval
-Aviation**
+**Naval Aviation**
 
-![C:\\Users\\Bart\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\CV
-Flyby.jpg](/assets/images/nato/us/navy/aviation/image1.jpeg)
+<img src="/assets\images\nato\us\navy\aviation\media\image1.jpeg" style="width:6.21875in;height:4.74402in" alt="C:\Users\Bart\AppData\Local\Microsoft\Windows\INetCache\Content.Word\CV Flyby.jpg" />
 
 **Naval Aviation**
 
@@ -17,8 +15,8 @@ moving to single fleet of F/A-18s using the new AMRAAM air to air
 missile by 1998/99.
 
 Technology was providing some improvement elsewhere however – the
-S-3B, introduced in the mid 80’s was a technological paradigm shift
-from the S-3A, and the latest E-2C’s were proving to be exceptional. 
+S-3B, introduced in the mid 80’s was a technological paradigm shift from
+the S-3A, and the latest E-2C’s were proving to be exceptional. 
 Augmented by a new generation of patrol aircraft, the P-3C; this fleet
 of surveillance aircraft were using the rapidly advancing power of
 computers to quickly and accurately categorize targets and showed the
@@ -55,4 +53,4 @@ to resume rotating air wings as the USN reverted to routine refit
 program.  As the events of the campaign unfold however, this does not
 happen and adjustments need to be made.
 
-![](/assets/images/nato/us/navy/aviation/image2.jpg)
+<img src="/assets\images\nato\us\navy\aviation\media\image2.jpg" style="width:6.5in;height:2.25694in" />

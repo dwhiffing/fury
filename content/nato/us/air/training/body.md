@@ -18,7 +18,7 @@ operated 255 T-41B in training and liaison duties.
 **Note**: Neither the T-3 nor the T-6 were available at the time of
 Northern Fury.
 
-![](/assets/images/nato/us/air/training/image1.jpg)
+<img src="/assets\images\nato\us\air\training\media\image1.jpg" style="width:4.44792in;height:2.74945in" />
 
 [**T-37B Tweet**](https://fas.org/man/dod-101/sys/ac/t-37.htm)
 
@@ -31,11 +31,10 @@ either the T-38 or the T-1A. Over 1,000 were produced for the USAF and
 about 580 remain in service in 1994, all are T-37B and used by 12 Flight
 Training Squadrons (FTS). The heavily modified T-37C can be armed and is
 in use by various air forces around the world as was the A-37 Super
-Tweet used extensively by the USAF in Viet
-Nam.
+Tweet used extensively by the USAF in Viet Nam.
 
 | Sqn                  | Name            | Wing             | Location         | No. | Type  | Remarks             |
-| -------------------- | --------------- | ---------------- | ---------------- | --- | ----- | ------------------- |
+|----------------------|-----------------|------------------|------------------|-----|-------|---------------------|
 | 8<sup>th</sup> FTS   | Eight Ballers   | 71<sup>st</sup>  | Vance AFB, OK    | 48  | T-37B |                     |
 | 25<sup>th</sup> FTS  | Shooters        | 71<sup>st</sup>  | Vance AFB, OK    | 48  | T-37B |                     |
 | 33<sup>rd</sup> FTS  | Dragons         | 71<sup>st</sup>  | Vance AFB, OK    | 48  | T-37B |                     |
@@ -49,7 +48,7 @@ Nam.
 | 455 FTS              | Hawks           | 323<sup>rd</sup> | Mather AFB, CA   | 48  | T-37B |                     |
 | 559<sup>th</sup> FTS | Billy Goats     | 12<sup>th</sup>  | Randolph AFB, TX | 48  | T-37B | Instructor training |
 
-![](/assets/images/nato/us/air/training/image2.jpg)
+<img src="/assets\images\nato\us\air\training\media\image2.jpg" style="width:4.63542in;height:2.94291in" />
 
 [**T-38 Talon**](https://fas.org/man/dod-101/sys/ac/t-38.htm)
 
@@ -64,11 +63,10 @@ Test Pilot School at Edwards AFB uses the T-38 to qualify its students,
 and all commands in the USAF as well as NASA use this versatile aircraft
 for various roles. Over 1,100 Talons were produced for the USAF and in
 1994 there are about 600 remaining in service, with around 500 available
-for flight
-training.
+for flight training.
 
 | Sqn                  | Name             | Wing            | Location         | No. | Type | Remarks             |
-| -------------------- | ---------------- | --------------- | ---------------- | --- | ---- | ------------------- |
+|----------------------|------------------|-----------------|------------------|-----|------|---------------------|
 | 5<sup>th</sup> FTS   | Spittin’ Kittens | 71st            | Vance AFB, OK    | 40  | T-38 |                     |
 | 26<sup>th</sup> FTS  | Tigers           | 71st            | Vance AFB, OK    | 40  | T-38 |                     |
 | 49<sup>th</sup> FTS  | Black Knights    | 14<sup>th</sup> | Columbus AFB, MI | 40  | T-38 |                     |
@@ -82,7 +80,7 @@ training.
 | 435<sup>th</sup> FTS | Black Eagles     | 43<sup>rd</sup> | Holloman AFB, NM | 40  | T-38 |                     |
 | 560<sup>th</sup> FTS | Chargin Cheetahs | 12<sup>th</sup> | Randolph AFB, TX | 40  | T-38 | Instructor training |
 
-![](/assets/images/nato/us/air/training/image3.jpg)
+<img src="/assets\images\nato\us\air\training\media\image3.jpg" style="width:5.92708in;height:4.44564in" />
 
 [**T-1A Jayhawk**](https://fas.org/man/dod-101/sys/ac/t-1.htm)
 
@@ -92,18 +90,17 @@ requiring multi-engine jet qualifications are trained by the USAF on
 these same squadrons. Programed for 180 aircraft, about 80 had been
 delivered by the end of 1993. New aircraft are arriving at a rate of two
 per month and will be distributed evenly until the training squadrons
-reach a strength of 36
-each.
+reach a strength of 36 each.
 
 | Sqn                 | Name            | Wing            | Location         | No. | Type | Remarks             |
-| ------------------- | --------------- | --------------- | ---------------- | --- | ---- | ------------------- |
+|---------------------|-----------------|-----------------|------------------|-----|------|---------------------|
 | 3<sup>rd</sup> FTS  | Peugeots        | 71<sup>st</sup> | Vance AFB, OK    | 16  | T-1A |                     |
 | 48<sup>th</sup> FTS | Alley Cats      | 14<sup>th</sup> | Columbus AFB, MI | 16  | T-1A |                     |
 | 52<sup>nd</sup> FTS | Gators          | 64<sup>th</sup> | Reese AFB, TX    | 16  | T-1A |                     |
 | 86<sup>th</sup> FTS | Lobos           | 47<sup>th</sup> | Lackland AFB, TX | 16  | T-1A |                     |
 | 99<sup>th</sup> FTS | Tuskegee Airmen | 82<sup>nd</sup> | Williams AFB, AZ | 16  | T-1A | Instructor Training |
 
-![](/assets/images/nato/us/air/training/image4.jpeg)
+<img src="/assets\images\nato\us\air\training\media\image4.jpeg" style="width:5.94792in;height:3.92494in" />
 
 [**T-43**](https://fas.org/man/dod-101/sys/ac/t-43.htm)
 
@@ -115,7 +112,7 @@ and 563<sup>rd</sup> ‘Ace of Spades’ Squadrons as part of
 12<sup>th</sup> Air Training Wing at Randolph AFB, Texas. The remaining
 three are used for general transport duties.
 
-![](/assets/images/nato/us/air/training/image5.jpg)
+<img src="/assets\images\nato\us\air\training\media\image5.jpg" style="width:5.01042in;height:3.35911in" />
 
 [**TC-18E**](https://en.wikipedia.org/wiki/Boeing_C-137_Stratoliner)
 
@@ -123,7 +120,7 @@ Two second hand Boeing 707s with the TC-18E designation are used for
 training of E-3 pilot and crews. They are operated out of Tinker AFB,
 Oklahoma by the 552d Operations Group.
 
-![](/assets/images/nato/us/air/training/image6.jpg)
+<img src="/assets\images\nato\us\air\training\media\image6.jpg" style="width:5.22917in;height:3.48575in" />
 
 [**TC-135**](https://en.wikipedia.org/wiki/Boeing_RC-135#TC-135)
 
@@ -131,7 +128,7 @@ Three aircraft designed to provide training to RC-135 Rivet Joint and
 Cobra Ball aircrew. They are operated by 338<sup>th</sup> Combat
 Training Squadron at Offutt AFB, Nebraska.
 
-![](/assets/images/nato/us/air/training/image7.jpeg)
+<img src="/assets\images\nato\us\air\training\media\image7.jpeg" style="width:5.26042in;height:3.94531in" />
 
 **U-2TR-1B**
 
@@ -140,4 +137,4 @@ by the 9<sup>th</sup> Strategic Reconnaissance Wing at Beale AFB,
 California. Four of the original five aircraft exist and they are
 modified and updated to the latest versions.
 
-![](/assets/images/nato/us/air/training/image8.jpeg)
+<img src="/assets\images\nato\us\air\training\media\image8.jpeg" style="width:6.25581in;height:4.14969in" />

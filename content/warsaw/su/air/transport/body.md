@@ -434,7 +434,7 @@ Aeroflot service however Poland manufactures this design as the PZL-
 Skytruck. The CASA C-212 or the DHC-6 Twin Otter perform similar roles
 in the west.
 
-![](/assets/images/warsaw/su/air/transport/image1.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image1.jpg" style="width:6.18039in;height:4.10417in" />
 
 [**An-26 Curl**](https://en.wikipedia.org/wiki/Antonov_An-26): Designed
 at a light tactical transport to service austere locations the
@@ -449,7 +449,7 @@ Surveillance, airborne hospital, radio rebroadcast, testbeds for various
 projects or airborne laboratories. Aeroflot also operates around 200 in
 both a cargo and passenger role.
 
-![](/assets/images/warsaw/su/air/transport/image2.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image2.jpg" style="width:6.29167in;height:4.19649in" />
 
 [**An-8 Camp**](https://en.wikipedia.org/wiki/Antonov_An-8): Only about
 150 of this twin Turbo-prop transport was produced, it could deliver 48
@@ -457,7 +457,7 @@ passengers or paratroopers to a range of 1700 miles. All are operated by
 the Air Force and some have been converted to uses such as search and
 rescue, radiation detection or testbeds for other projects.
 
-![](/assets/images/warsaw/su/air/transport/image3.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image3.jpg" style="width:6.5in;height:3.65625in" />
 
 [**An-12 Cub**](https://en.wikipedia.org/wiki/Antonov_An-12): An easily
 recognized and very popular turbo-prop transport roughly equivalent to
@@ -471,7 +471,7 @@ both, the remainder have been converted to a wide array of other tasks
 primarily providing ECM escort. There are another 200 operated by
 Aeroflot for general cargo transport.
 
-![](/assets/images/warsaw/su/air/transport/image4.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image4.jpg" style="width:6.41667in;height:3.61065in" />
 
 [**Il-76
 Candid**](https://en.wikipedia.org/wiki/Ilyushin_Il-76#Military_variants):
@@ -484,7 +484,7 @@ force operates all of the 860 cargo variants and many of the other 100
 airframes which are derivatives to this workhorse. In particular the
 A-50 AWACS which will be covered elsewhere.
 
-![](/assets/images/warsaw/su/air/transport/image5.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image5.jpg" style="width:7.16667in;height:4.92708in" />
 
 [**An-22 Cock**](https://en.wikipedia.org/wiki/Antonov_An-22): The
 world’s largest Turbo-prop aircraft the
@@ -499,7 +499,7 @@ extensive use in Afghanistan and on humanitarian missions around the
 world. The Soviet air force uses 45 of these aircraft and there are
 another 20 in ready reserve.
 
-![](/assets/images/warsaw/su/air/transport/image6.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image6.jpg" style="width:7in;height:5.25in" />
 
 **Strategic Transports**
 
@@ -516,15 +516,15 @@ second largest aircraft in production in 1994, only eclipsed by the
 Cossack. Slightly larger and with a 25% larger payload than the C-5
 Galaxy, this aircraft can carry any piece of equipment in the Soviet
 armies inventory – as an example in 2001 one was contracted to carry an
- [EP-3E Aries II](https://en.wikipedia.org/wiki/EP-3E_Aries_II) after
-it was forced to land on Hainan Island China. Historically production
+ [EP-3E Aries II](https://en.wikipedia.org/wiki/EP-3E_Aries_II) after it
+was forced to land on Hainan Island China. Historically production
 slowed considerably in the early 1990s but there were still 54 produced
 and in service by 1995 – in Northern that number is achieved by early
 1994.
 
-![](/assets/images/warsaw/su/air/transport/image7.jpeg)
+<img src="/assets\images\warsaw\su\air\transport\media\image7.jpeg" style="width:4.89583in;height:2.39583in" />
 
-![](/assets/images/warsaw/su/air/transport/image8.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image8.jpg" style="width:8.53333in;height:4.8in" />
 
 [**An-225
 Cossack**](https://en.wikipedia.org/wiki/Antonov_An-225_Mriya): The
@@ -532,12 +532,12 @@ largest aircraft ever built. Historically construction of the second
 airframe was halted with the breakup of the Soviet Union but in the
 Northern Fury world the two aircraft are operating and delivering cargo
 around the world. Maximum payload is about 250 tonnes and with a 200
-tonne payload this monster can still fly 2500 miles\! The
+tonne payload this monster can still fly 2500 miles! The
 [An-225](http://www.military-today.com/aircraft/an_225.htm) can carry
 internal cargo in a 1300m<sup>3</sup> hold or on external fittings. Both
 are operated by the Air Force.
 
-![](/assets/images/warsaw/su/air/transport/image9.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image9.jpg" style="width:7.8125in;height:4.38542in" />
 
 [**An-24 Coke**](https://en.wikipedia.org/wiki/Antonov_An-24): A very
 popular twin Turbo-prop passenger liner able to transport about 50
@@ -546,7 +546,7 @@ and Aeroflot as it is an ideal aircraft for short and/or austere
 runways. This was the basic airframe for An-26 and then An-32
 development.
 
-![](/assets/images/warsaw/su/air/transport/image10.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image10.jpg" style="width:7.73932in;height:4.22569in" />
 
 [**Il-18 Coot**](https://en.wikipedia.org/wiki/Ilyushin_Il-18): The
 [Coot](http://www.military-today.com/aircraft/il_18.htm) is a widely
@@ -556,21 +556,21 @@ between 65 and 120 passengers depending on configuration up to a range
 of 3000 miles. Aeroflot is the primary user but some are found in the
 air force, about 620 are in use.
 
-![](/assets/images/warsaw/su/air/transport/image11.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image11.jpg" style="width:7.76686in;height:5.24418in" />
 
 [**Il-62 Classic**](https://en.wikipedia.org/wiki/Ilyushin_Il-62): A
 narrow body jet airliner similar to a DC-8 or a Boeing 707, able to
 carry 168-186 passengers 5400 miles. Aeroflot operates about 250 of
 these aircraft.
 
-![](/assets/images/warsaw/su/air/transport/image12.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image12.jpg" style="width:8.09375in;height:3.95833in" />
 
 [**Il-86 Camber**](https://en.wikipedia.org/wiki/Ilyushin_Il-86): A wide
 body jet airliner similar to a DC-10 or an Airbus A300, able to carry up
 to 350 passengers or 40 tonnes of cargo to a range of 2000 miles.
 Aeroflot operates about 105 of these aircraft.
 
-![](/assets/images/warsaw/su/air/transport/image13.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image13.jpg" style="width:8.15in;height:5.09375in" />
 
 [**Tu-104 Camel**](https://en.wikipedia.org/wiki/Tupolev_Tu-104): A twin
 engine narrow bodied medium range jet airliner of the same vintage as
@@ -578,20 +578,20 @@ the de Havilland. A maximum of 115 passengers can be carried to a range
 of 1100 miles. Aeroflot operates about 160 of these aircraft but the
 safety record is not good.
 
-![](/assets/images/warsaw/su/air/transport/image14.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image14.jpg" style="width:8.31699in;height:4.67708in" />
 
 [**Tu-124 Cookpot**](https://en.wikipedia.org/wiki/Tupolev_Tu-124): A
 short range twin engine jet airliner carrying 56 passengers to a range
 of 1100 miles. About 160 were operated by Aeroflot.
 
-![](/assets/images/warsaw/su/air/transport/image15.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image15.jpg" style="width:8.25443in;height:4.50694in" />
 
 [**Tu-134 Crusty**](https://en.wikipedia.org/wiki/Tupolev_Tu-134): A
 narrow body twin engine jet airliner with a 1000 mile range and able to
 carry 84 passengers. This aircraft was widely used and Aeroflot operated
 about 800 of them.
 
-![](/assets/images/warsaw/su/air/transport/image16.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image16.jpg" style="width:7.97917in;height:5.19933in" />
 
 [**Tu-154 Careless**](https://en.wikipedia.org/wiki/Tupolev_Tu-154): A
 narrow body, three engine jet airliner similar to the Boing 727. There
@@ -600,21 +600,21 @@ doubles the range from 1600 miles to 3280 miles in the ‘M’. Maximum
 seating capacity is 180 and Aeroflot operates about 600 baseline and 200
 ‘M’ versions.
 
-![](/assets/images/warsaw/su/air/transport/image17.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image17.jpg" style="width:8.05208in;height:5.36806in" />
 
 [**Yak-40 Codling**](https://en.wikipedia.org/wiki/Yakovlev_Yak-40): A
 widely exported small three engine jetliner with a carrying capacity of
 32 passengers and a range of 1100 miles. Aeroflot operates about 600
 Codlings.
 
-![](/assets/images/warsaw/su/air/transport/image18.jpeg)
+<img src="/assets\images\warsaw\su\air\transport\media\image18.jpeg" style="width:5.48958in;height:3.08789in" />
 
 [**Yak-42 Clobber**](https://en.wikipedia.org/wiki/Yakovlev_Yak-42): A
 newer medium range jetliner using three modern engines. Carrying up to
 120 passengers to a range of about 2000 miles this aircraft was still in
 production in 1994 and Aeroflot operated about 100 of them.
 
-![](/assets/images/warsaw/su/air/transport/image19.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image19.jpg" style="width:5.39583in;height:3.60172in" />
 
 **Utility Transport**
 
@@ -634,7 +634,7 @@ to a range of about 500 miles and land on a runway of about 700 feet
 down its estimated that about 2000 are in use by the Soviet Air Force
 and Aeroflot combined with an equal number in reserve.
 
-![](/assets/images/warsaw/su/air/transport/image20.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image20.jpg" style="width:9.3125in;height:4.65625in" />
 
 [**Yak-12 Creek**](https://en.wikipedia.org/wiki/Yakovlev_Yak-12):
 Another light multi-role STOL aircraft which has largely been retired in
@@ -642,7 +642,7 @@ place of the An-2. This is a small high wing, single engine aircraft
 similar to a Cessna-170 or Piper PA-20. Over 3000 are in reserve but
 about 500 are still in service.
 
-![](/assets/images/warsaw/su/air/transport/image21.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image21.jpg" style="width:9.23958in;height:6.15972in" />
 
 [**An-14 Clod**](https://en.wikipedia.org/wiki/Antonov_An-14): A
 versatile and easy to fly STOL utility aircraft, the Clod can carry 6-8
@@ -650,7 +650,7 @@ passengers or 720Kg of cargo. With a range of 560 miles the An-14 can
 take off and land on a runway of about 110m (360ft) length. About 300
 were in service with some of these being used by Aeroflot.
 
-![](/assets/images/warsaw/su/air/transport/image22.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image22.jpg" style="width:8.61458in;height:5.49453in" />
 
 [**An-32 Cline**](https://en.wikipedia.org/wiki/Antonov_An-32): This is
 a re-engined An-26 which is more suitable for arctic or adverse
@@ -658,7 +658,7 @@ conditions and rugged runways. Able to carry 42 paratroops, 50
 passengers or 24 stretchers its useful load is slightly higher than the
 An-26. About 200 are in use, split between the Air Force and Aeroflot.
 
-![](/assets/images/warsaw/su/air/transport/image23.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image23.jpg" style="width:8.58333in;height:5.72716in" />
 
 [**An-72/An-74 Coaler**](https://en.wikipedia.org/wiki/Antonov_An-74): A
 small twin jet powered STOL aircraft the
@@ -671,4 +671,4 @@ dropped. Production of these aircraft continues and only 195 were ever
 produced (both variants) so an estimate of about 100 in service in 1994
 seems reasonable.
 
-![](/assets/images/warsaw/su/air/transport/image24.jpg)
+<img src="/assets\images\warsaw\su\air\transport\media\image24.jpg" style="width:8.60417in;height:5.85083in" />

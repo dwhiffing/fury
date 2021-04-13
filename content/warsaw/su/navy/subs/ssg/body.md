@@ -39,22 +39,22 @@ bewildering number of name and pennant changes for these boats, the
 names presented are those used in 1994 as best as can be determined.
 
 | Class    | Pennant | Name        | Fleet    | Remarks |
-| -------- | ------- | ----------- | -------- | ------- |
+|----------|---------|-------------|----------|---------|
 | Oscar I  | K-525   | Arkhangelsk | Northern |         |
-|          | K-206   | Murmansk    | Northern |         |
+|          | K-206   | Murmansk    | Northern |         |
 | Oscar II | K-148   | Krasnodar   | Northern |         |
-|          | K-119   | Voronezh    | Northern |         |
-|          | K-410   | Smolensk    | Northern |         |
-|          | K-266   | Orel        | Northern |         |
-|          | K-141   | Kursk       | Northern |         |
-|          | K-173   | Krasnoyarsk | Pacific  |         |
-|          | K-132   | Irkutsk     | Pacific  |         |
-|          | K-442   | Chelyabinsk | Pacific  |         |
-|          | K-456   | Kasatka     | Pacific  |         |
-|          | K-198   | Omsk        | Northern |         |
-|          | K-512   | Tomsk       | Pacific  |         |
+|          | K-119   | Voronezh    | Northern |         |
+|          | K-410   | Smolensk    | Northern |         |
+|          | K-266   | Orel        | Northern |         |
+|          | K-141   | Kursk       | Northern |         |
+|          | K-173   | Krasnoyarsk | Pacific  |         |
+|          | K-132   | Irkutsk     | Pacific  |         |
+|          | K-442   | Chelyabinsk | Pacific  |         |
+|          | K-456   | Kasatka     | Pacific  |         |
+|          | K-198   | Omsk        | Northern |         |
+|          | K-512   | Tomsk       | Pacific  |         |
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image1.jpg)
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image1.jpg" style="width:6.5in;height:4.475in" />
 
 [**Charlie Class**](https://fas.org/nuke/guide/russia/theater/670.htm)
 
@@ -70,30 +70,29 @@ have many design flaws, are relatively noisy and can only maintain
 perspective targets. By 1994, the Charlies are not likely to be used
 against US aircraft carriers, but will limit their hunting to commercial
 and logistic traffic, where their lack of stealth, short ranged and
-limited number of missiles may allow them to survive
-better.
+limited number of missiles may allow them to survive better.
 
 | Class      | Pennant | Name   | Fleet    | Remarks                                               |
-| ---------- | ------- | ------ | -------- | ----------------------------------------------------- |
+|------------|---------|--------|----------|-------------------------------------------------------|
 | Charlie I  | K-25    |        | Pacific  |                                                       |
-|            | K-43    |        | Pacific  |                                                       |
-|            | K-87    |        | Pacific  |                                                       |
-|            | K-121   |        | Pacific  |                                                       |
-|            | K-313   |        | Pacific  |                                                       |
-|            | K-308   |        | Pacific  |                                                       |
-|            | K-320   |        | Pacific  |                                                       |
-|            | K-302   |        | Pacific  |                                                       |
-|            | K-325   |        | Pacific  |                                                       |
-|            | K-429   |        | Pacific  | Sunk, refloated, sunk again: refloated and in service |
-|            | K-201   |        | Pacific  |                                                       |
+|            | K-43    |        | Pacific  |                                                       |
+|            | K-87    |        | Pacific  |                                                       |
+|            | K-121   |        | Pacific  |                                                       |
+|            | K-313   |        | Pacific  |                                                       |
+|            | K-308   |        | Pacific  |                                                       |
+|            | K-320   |        | Pacific  |                                                       |
+|            | K-302   |        | Pacific  |                                                       |
+|            | K-325   |        | Pacific  |                                                       |
+|            | K-429   |        | Pacific  | Sunk, refloated, sunk again: refloated and in service |
+|            | K-201   |        | Pacific  |                                                       |
 | Charlie II | K-458   |        | Northern |                                                       |
-|            | K-452   | Berkut | Northern |                                                       |
-|            | K-479   |        | Northern |                                                       |
-|            | K-503   |        | Northern |                                                       |
-|            | K-508   |        | Northern |                                                       |
-|            | K-209   |        | Northern |                                                       |
+|            | K-452   | Berkut | Northern |                                                       |
+|            | K-479   |        | Northern |                                                       |
+|            | K-503   |        | Northern |                                                       |
+|            | K-508   |        | Northern |                                                       |
+|            | K-209   |        | Northern |                                                       |
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image2.gif)
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image2.gif" style="width:6.5in;height:2.54097in" />
 
 [**Papa Class**](https://fas.org/nuke/guide/russia/theater/661.htm)This
 is a single unit class, with the design of submarine K-162 being
@@ -108,24 +107,24 @@ SSGN. K-162 was the fastest submarine in the world, reaching a speed of
 historically was stricken shortly after that – in Northern Fury he
 remains in reserve and will be recommissioned in the Northern Fleet.
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image3.png)
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image3.png" style="width:6.5in;height:2.32569in" />
 
 K-162 Papa Class SSGN
 
 [**Yankee Notch
 Class**](https://fas.org/nuke/guide/russia/slbm/667AR.htm)
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image4.jpg)The Yankee
-class was the largest class of ballistic missile submarines (SSBN) ever
-built, with 34 boats, one of which sank due to a missile fire. However,
-they were built in the mid 60’s and the limitations put on the number of
-submarine launched ballistic missiles (SLBM) in the Strategic Arms
-Limitation Talks (SALT I) treaty meant that as new SSBNs were produced
-the older ones needed to be retired. The Soviets felt that the Yankee
-class had years of service left in the basic design so they proceeded to
-convert many of them: 16 became SSNs (retired by 94), two became sonar
-testbed platforms (Yankee Pod and Yankee Big Nose), one was converted to
-be a mothership for
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image4.jpg" style="width:3.41736in;height:2.5625in" />The
+Yankee class was the largest class of ballistic missile submarines
+(SSBN) ever built, with 34 boats, one of which sank due to a missile
+fire. However, they were built in the mid 60’s and the limitations put
+on the number of submarine launched ballistic missiles (SLBM) in the
+Strategic Arms Limitation Talks (SALT I) treaty meant that as new SSBNs
+were produced the older ones needed to be retired. The Soviets felt that
+the Yankee class had years of service left in the basic design so they
+proceeded to convert many of them: 16 became SSNs (retired by 94), two
+became sonar testbed platforms (Yankee Pod and Yankee Big Nose), one was
+converted to be a mothership for
 the [Paltus-class ](http://www.hisutton.com/Spy%20Subs%20-%20X-RAY.html)mini-submarines
 (Yankee Stretch), one as a testbed for a cancel missile project (Yankee
 Sidecar), and four (six planned) were converted to SSGNs – the Yankee
@@ -134,7 +133,7 @@ converted and they each carry 40 conventional or nuclear tipped
 [SS-N-21](http://www.ausairpower.net/APA-Rus-Cruise-Missiles.html#mozTocId152650).
 
 | Class        | Pennant | Name | Fleet    | Remarks |
-| ------------ | ------- | ---- | -------- | ------- |
+|--------------|---------|------|----------|---------|
 | Yankee Notch | K-253   |      | Pacific  |         |
 |              | K-395   |      | Pacific  |         |
 |              | K-408   |      | Northern |         |
@@ -161,42 +160,41 @@ sunk in a collision but there have been 13 major collisions, fires, or
 reactor accidents involving these boats. Three boats had been converted
 to receive targeting data directly from satellites, and historically,
 one of the boats was converted to support divers and Special Forces, in
-Northern Fury four of the original boats have undergone this
-conversion.
+Northern Fury four of the original boats have undergone this conversion.
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image5.png)
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image5.png" style="width:6.5in;height:1.50486in" />
 
 | Class       | Pennant | Name           | Fleet    | SSM    | Remarks                   |
-| ----------- | ------- | -------------- | -------- | ------ | ------------------------- |
-| Echo II ST  | K-1     |                | Northern |        | Sat Tgt                   |
-| Echo II M   | K-127   |                | Northern | P-500  |                           |
-|             | K-10    |                |          |        | Sunk in collision, 1982   |
-| Echo II ST  | K-22    | Krasnovardeets | Northern |        | Sat Tgt                   |
-|             | K-23    |                | Pacific  |        |                           |
-| Echo II M   | K-428   |                | Pacific  | P-500  |                           |
-|             | K-431   |                | Northern |        | Reactor accident, Reserve |
-| Echo II M   | K-134   | Kefal          | Northern | P-500  |                           |
-| Echo II ST  | K-35    |                | Northern |        | Sat Tgt                   |
-| Echo II SOF | K-47    |                | Northern |        | SOF                       |
-| Echo II MKV | K-48    |                | Northern | P-1000 |                           |
-|             | K-56    |                | Pacific  |        |                           |
-| Echo II M   | K-557   |                | Northern | P-500  |                           |
-| Echo II MKV | K-74    |                | Northern | P-1000 |                           |
-| Echo II SOF | K-86    |                | Northern |        | SOF                       |
-| Echo II M   | K-90    |                | Pacific  | P-500  |                           |
-| Echo II SOF | K-94    |                | Pacific  |        | SOF                       |
-| Echo II M   | K-144   |                | Pacific  | P-500  |                           |
-| Echo II MKV | K-108   |                | Northern | P-1000 |                           |
-|             | K-116   |                | Pacific  |        | Reactor accident, Reserve |
-| Echo II M   | K-125   |                | Northern | P-500  |                           |
-| Echo II MKV | K-128   |                | Pacific  | P-1000 |                           |
-| Echo II M   | K-135   |                | Northern | P-500  |                           |
-| Echo II SOF | K-166   |                | Pacific  |        | SOF                       |
-| Echo II M   | K-172   |                | Northern | P-500  |                           |
-|             | K-175   |                | Pacific  |        |                           |
-| Echo II MKV | K-184   |                | Pacific  | P-1000 |                           |
-|             | K-189   |                | Pacific  |        |                           |
-|             | K-192   |                | Pacific  |        | Reactor accident, Reserve |
+|-------------|---------|----------------|----------|--------|---------------------------|
+| Echo II ST  | K-1     |                | Northern |        | Sat Tgt                   |
+| Echo II M   | K-127   |                | Northern | P-500  |                           |
+|             | K-10    |                |          |        | Sunk in collision, 1982   |
+| Echo II ST  | K-22    | Krasnovardeets | Northern |        | Sat Tgt                   |
+|             | K-23    |                | Pacific  |        |                           |
+| Echo II M   | K-428   |                | Pacific  | P-500  |                           |
+|             | K-431   |                | Northern |        | Reactor accident, Reserve |
+| Echo II M   | K-134   | Kefal          | Northern | P-500  |                           |
+| Echo II ST  | K-35    |                | Northern |        | Sat Tgt                   |
+| Echo II SOF | K-47    |                | Northern |        | SOF                       |
+| Echo II MKV | K-48    |                | Northern | P-1000 |                           |
+|             | K-56    |                | Pacific  |        |                           |
+| Echo II M   | K-557   |                | Northern | P-500  |                           |
+| Echo II MKV | K-74    |                | Northern | P-1000 |                           |
+| Echo II SOF | K-86    |                | Northern |        | SOF                       |
+| Echo II M   | K-90    |                | Pacific  | P-500  |                           |
+| Echo II SOF | K-94    |                | Pacific  |        | SOF                       |
+| Echo II M   | K-144   |                | Pacific  | P-500  |                           |
+| Echo II MKV | K-108   |                | Northern | P-1000 |                           |
+|             | K-116   |                | Pacific  |        | Reactor accident, Reserve |
+| Echo II M   | K-125   |                | Northern | P-500  |                           |
+| Echo II MKV | K-128   |                | Pacific  | P-1000 |                           |
+| Echo II M   | K-135   |                | Northern | P-500  |                           |
+| Echo II SOF | K-166   |                | Pacific  |        | SOF                       |
+| Echo II M   | K-172   |                | Northern | P-500  |                           |
+|             | K-175   |                | Pacific  |        |                           |
+| Echo II MKV | K-184   |                | Pacific  | P-1000 |                           |
+|             | K-189   |                | Pacific  |        |                           |
+|             | K-192   |                | Pacific  |        | Reactor accident, Reserve |
 
 [Juliett Class](https://fas.org/nuke/guide/russia/theater/651.htm) SSG
 
@@ -209,7 +207,7 @@ were all stricken between 1991 and 1994. They are able to fire Four
 from the surface only.
 
 | Class   | Pennant | Name | Fleet     | Remarks |
-| ------- | ------- | ---- | --------- | ------- |
+|---------|---------|------|-----------|---------|
 | Juliett | K-156   |      | Northern  |         |
 |         | K-85    |      | Baltic    |         |
 |         | K-70    |      | Pacific   |         |
@@ -227,4 +225,4 @@ from the surface only.
 |         | K-318   |      | Black Sea |         |
 |         | K-120   |      | Pacific   |         |
 
-![](/assets/images/warsaw/su/navy/subs/ssg/image6.jpeg)
+<img src="/assets\images\warsaw\su\navy\subs\ssg\media\image6.jpeg" style="width:5.30208in;height:3.95164in" />

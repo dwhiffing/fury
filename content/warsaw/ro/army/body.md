@@ -4,7 +4,7 @@ The Romanian Army is organized along Soviet lines but was long isolated
 from the Soviet Army by Nicolae Ceausescu’s hard line economic policies.
 Prohibited from importing equipment or even spare parts for existing
 equipment, Romanian industry created copies of Soviet equipment – almost
-all of a very inferior design. The dissolution of Yugoslavia into
+uniformly of a very inferior design. The dissolution of Yugoslavia into
 separate states and drawing NATO forces nearly adjacent to the Romanian
 border was a major factor in the renewed interest of the Soviet high
 command in bolstering the RPA. With the change in Soviet government in
@@ -21,18 +21,17 @@ areas. One CAA (probably 1<sup>st</sup>) would be deployed to Bulgaria
 and reinforce the Balkan Front while the other three would follow the
 Czech and Hungarian forces into Germany as part of the Western Group of
 Forces. It is very possible however that this overall deployment plan
-has changed, and it is possible that Romania will now form a FRONT HQ –
-probably called the Serbian Front. This new organization, reinforced by
-Soviet and possibly Hungarian forces would move to prevent NATO
-interference in the former
-Yugoslavia.
+has changed, and it is probable that Romania will now form a FRONT HQ –
+perhaps called the Serbian Front. The new organization reinforced by
+Soviet and conceivably Hungarian forces would move to prevent NATO
+interference in the former Yugoslavia.
 
-![](/assets/images/warsaw/ro/army/image1.png)
+<img src="/assets\images\warsaw\ro\army\media\image1.png" style="width:6.04167in;height:4.53651in" />
 
-![](/assets/images/warsaw/ro/army/image2.jpg)
+<img src="/assets\images\warsaw\ro\army\media\image2.jpg" style="width:6.05208in;height:4.21159in" />
 
 | **Role** | **Type** | **Version** | **No** | **Remarks**                                              |
-| -------- | -------- | ----------- | ------ | -------------------------------------------------------- |
+|----------|----------|-------------|--------|----------------------------------------------------------|
 | MBT      | T-72     |             | 254    | Former DDR                                               |
 |          | T-72M    |             | 193    | Former DDR                                               |
 |          | T-72M1   |             | 136    | Former DDR                                               |
@@ -81,4 +80,4 @@ Yugoslavia.
 | SSMs     | SCUD-B   |             | 18     |                                                          |
 |          | FROG-7   |             | 30     |                                                          |
 
-![](/assets/images/warsaw/ro/army/image3.jpg)
+<img src="/assets\images\warsaw\ro\army\media\image3.jpg" style="width:6.5in;height:3.87847in" />

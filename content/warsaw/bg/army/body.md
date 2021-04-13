@@ -2,57 +2,57 @@
 
 The Bulgarian Army is organized along Soviet lines and tasked with
 operating in the Southern Group of Forces (SGF). The army is highly
-trained and has some very good equipment but is largely of conscript
-forces. The primary task of the BKA is to field a FRONT (1<sup>st</sup>
-Balkan) of three Combined Arms Armies (CAA), then take Soviet and a
-Romanian CAAs under command and expel any NATO forces from its assigned
-area.
+trained and has some very good equipment but consists largely of
+conscript forces. The primary task of the BKA is to field a FRONT
+(1<sup>st</sup> Balkan) of three Combined Arms Armies (CAA), then take
+Soviet and a Romanian CAAs under command and expel any NATO forces from
+its assigned area.
 
 The three CAAs consisted of a mix of Motor Rifle Divisions (MRD), Tank
 Brigades TB) and supporting arms, these formations, like their Soviet
 equivalent have varying states of readiness:
 
-  - Category A-divisions which have 80% or more of their full strength
+-   Category A-divisions which have 80% or more of their full strength
 
-  - Category B-those with between 30% and 50%
+-   Category B-those with between 30% and 50%
 
-  - Category C-those with between 5% and 10%
+-   Category C-those with between 5% and 10%
 
-Category A formations could be ready to move in the matter of a few
-hours or less, while Category B would be ready in about 72 hours and
-Category C would take about 60 days.
+*Category A* formations could be ready to move in the matter of a few
+hours or less, while *Category B* would be ready in about 72 hours and
+*Category C* would take about 60 days.
 
-![](/assets/images/warsaw/bg/army/image1.png)
+<img src="/assets\images\warsaw\bg\army\media\image1.png" style="width:8.59375in;height:6.60417in" />
 
-Four of the Category A MRDs were equipped along standard Soviet lines
+Four of the *Category A* MRDs were equipped along standard Soviet lines
 with a mix of equipment. Details of the standard structure can be found
 [here](http://www.bits.de/NRANEU/others/amd-us-archive/fm100-2-3%2891%29.pdf).
-Two of the Category A (5<sup>th</sup> & 11<sup>th</sup> in 2 CAA) and
-the four Category C Divisions are not standard, they have 4x Motor Rifle
-Regiments (MRR) as opposed to the normal three, but no Tank Regiment
-(TR). The Category C Divisions have older equipment and 20<sup>th</sup>
-MRD is primarily a training organization and has Rear Area Security
-(RAS) duties in wartime.
+Two of the *Category A* (5<sup>th</sup> & 11<sup>th</sup> in 2 CAA) and
+the four *Category C* Divisions are not standard, they have 4x Motor
+Rifle Regiments (MRR) as opposed to the normal three, but no Tank
+Regiment (TR). The *Category C* Divisions have older equipment and
+20<sup>th</sup> MRD is primarily a training organization with Rear Area
+Security (RAS) duties in wartime.
 
 Four of the five TBs also followed the standard organization; however,
 9<sup>th</sup> TB was stationed near the capital and was organized quite
-differently. 9<sup>th</sup> TB has 3x Tank Bns each of 49 tanks (as
-opposed to 3x 31 tank Bns) plus 2x Infantry Bns which each have 10 tanks
-and an independent Tank Coy of 13 – a total of 182 tanks or twice the
-number of a standard TB.
+differently. The 9<sup>th</sup> TB has 3x Tank Bns each of 49 tanks (as
+opposed to standard tank Bns with 31) plus 2x Infantry Bns which each
+have 10 tanks and an independent Tank Coy of 13 – totaling 182 tanks or
+twice the number of a standard TB.
 
 The Airborne Bde does not have BMDs but is on very high readiness. The
 Naval Infantry Bn is largely used for garrisoning naval bases.
 
-Equipment is mixed and depends the division or brigade in question. The
-table below outlines the wide variety available and since nothing is
-ever thrown away, if it is not in use, it’s in reserve or
-storage.
+Equipment is mixed and depends on the division or brigade in question.
+The table below outlines the wide variety of equipment available and
+since nothing is ever thrown away, if it is not in use it’s in reserve
+or storage.
 
-![](/assets/images/warsaw/bg/army/image2.jpeg)
+<img src="/assets\images\warsaw\bg\army\media\image2.jpeg" style="width:6.17708in;height:4.37028in" />
 
 | **Role**  | **Type** | **Variant** | **No** | **Remarks**                                                                                       |
-| --------- | -------- | ----------- | ------ | ------------------------------------------------------------------------------------------------- |
+|-----------|----------|-------------|--------|---------------------------------------------------------------------------------------------------|
 | MBT       | T-72     | T-72A/AK    | 100    | Improvement on the base model with laser range finder(LRF) and improved Fire Control System (FCS) |
 |           |          | T-72B       | 90?    | Better protection, FCS & LRF. New gun and ATGM (Anti-Tank Guided Missile)                         |
 |           |          | T-72M1      | 240    | Czech version of the T-72A for export                                                             |
@@ -114,4 +114,4 @@ More detail can be found here:
 This Wiki has some good detail as well:
 <https://en.wikipedia.org/wiki/Structure_of_the_Bulgarian_People%27s_Army_1989#1st_Army>
 
-![](/assets/images/warsaw/bg/army/image3.jpg)
+<img src="/assets\images\warsaw\bg\army\media\image3.jpg" style="width:6.5in;height:4.75764in" />

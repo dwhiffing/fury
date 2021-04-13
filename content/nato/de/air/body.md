@@ -26,7 +26,7 @@ against the finest air forces in the alliance.
 
 [**MiG-29**](https://www.16va.be/mig-29_experience.htm)
 
-![](/assets/images/nato/de/air/image1.jpg)
+<img src="/assets\images\nato\de\air\media\image1.jpg" style="width:5.36042in;height:3.63542in" />
 
 The Soviet built MiG-29’s are the most modern aircraft in the German
 inventory. They are highly maneuverable multi-role aircraft which have
@@ -38,7 +38,7 @@ these aircraft, including 4 twin seat training variants were maintained
 in the 1<sup>st</sup> Squadron 73 JG (1/73 JG)
 
 [**Panavia
-Tornado**](http://www.military-today.com/aircraft/panavia_tornado_ids.htm)![](/assets/images/nato/de/air/image2.jpeg)
+Tornado**](http://www.military-today.com/aircraft/panavia_tornado_ids.htm)<img src="/assets\images\nato\de\air\media\image2.jpeg" style="width:5.09375in;height:3.39583in" />
 
 The Tornado is a result of a Tri-national (British, German and Italian)
 effort to replace aging, primarily American aircraft in the 80’s and
@@ -63,7 +63,7 @@ The Operational Conversion Unit for this type is maintained in the US at
 Holloman AFB.
 
 | Sqn      | Name      | Location  | No. | Type        |
-| -------- | --------- | --------- | --- | ----------- |
+|----------|-----------|-----------|-----|-------------|
 | 1/31 JBG | Boelcke   | Norvenich | 18  | Tornado IDS |
 | 2/31 JBG | Boelcke   | Norvenich | 18  | Tornado IDS |
 | 1/32 JBG | Tiger     | Lechfeld  | 18  | Tornado IDS |
@@ -74,15 +74,15 @@ Holloman AFB.
 | 1/34 JBG | Allgäu    | Memmingen | 18  | Tornado IDS |
 | 1/38 JBG | Friesland | Jever     | 18  | Tornado IDS |
 | 2/38 JBG | Friesland | Jever     | 16  | Tornado ECR |
-| 1/39 JBG |           | Erding    | 12  | Tornado IDS |
+| 1/39 JBG |           | Erding    | 12  | Tornado IDS |
 | 1/MFG 1  | Sea Hawks | Nordholtz | 24  | Tornado IDS |
 | 1/MFG 1  | Sea Hawks | Nordholtz | 24  | Tornado IDS |
-| 1/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
-| 2/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
+| 1/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
+| 2/MFG 2  |           | Eggebek   | 24  | Tornado IDS |
 
 [**Alpha Jet**](https://fas.org/man/dod-101/sys/ac/row/alpha-jet.htm)
 
-![](/assets/images/nato/de/air/image3.jpg)
+<img src="/assets\images\nato\de\air\media\image3.jpg" style="width:4.77083in;height:2.78328in" />
 
 Primarily an advanced jet trainer, the Luftwaffe chose to us this
 aircraft in the light attack role to replace the Fiat G91. Although used
@@ -94,7 +94,7 @@ but further sales of Alpha Jets were cancel and two wings were
 maintained in front line service.
 
 | Sqn      | Location         | No. | Type      |
-| -------- | ---------------- | --- | --------- |
+|----------|------------------|-----|-----------|
 | 1/49 JBG | Fürstenfeldbruck | 18  | Alpha Jet |
 | 2/49 JBG | Fürstenfeldbruck | 18  | Alpha Jet |
 | 1/43 JBG | Oldenburg        | 18  | Alpha Jet |
@@ -103,7 +103,7 @@ maintained in front line service.
 
 [**F-4 Phantom**](http://www.joebaugher.com/usaf_fighters/f4_43.html)
 
-![](/assets/images/nato/de/air/image4.jpeg)
+<img src="/assets\images\nato\de\air\media\image4.jpeg" style="width:5.22986in;height:3.99028in" />
 
 Germany used the F-4 extensively from 1971 onwards, originally operating
 175 F-4F’s and 88 RF-4E’s operationally and several F-4E’s for training
@@ -128,15 +128,15 @@ SLAR (Side Looking Airborne Radar). The preferred method of operation
 was low and fast.
 
 | Sqn      | Name       | Location   | No. | Type     |
-| -------- | ---------- | ---------- | --- | -------- |
-| 1/35 JBG |            | Memmingen  | 18  | F-4F     |
-| 2/35 JBG |            | Memmingen  | 18  | F-4F     |
-| 1/36 JBG |            | Hopsten    | 18  | F-4F     |
-| 2/36 JBG |            | Hopsten    | 18  | F-4F     |
+|----------|------------|------------|-----|----------|
+| 1/35 JBG |            | Memmingen  | 18  | F-4F     |
+| 2/35 JBG |            | Memmingen  | 18  | F-4F     |
+| 1/36 JBG |            | Hopsten    | 18  | F-4F     |
+| 2/36 JBG |            | Hopsten    | 18  | F-4F     |
 | 1/51 AG  | Immelman   | Bremgarten | 18  | RF-4E    |
 | 2/51 AG  | Immelman   | Bremgarten | 18  | RF-4E    |
-| 1/52 AG  |            | Leck       | 18  | RF-4E    |
-| 2/52 AG  |            | Leck       | 18  | RF-4E    |
+| 1/52 AG  |            | Leck       | 18  | RF-4E    |
+| 2/52 AG  |            | Leck       | 18  | RF-4E    |
 | 1/71 JG  | Richthofen | Witt\~mund | 16  | F-4F ICE |
 | 2/71 JG  | Richthofen | Witt\~mund | 16  | F-4F ICE |
 | 1/72 JG  | Westfalen  | Hopsten    | 18  | F-4F     |
@@ -148,7 +148,7 @@ was low and fast.
 [**HFB-320
 ECM**](http://www.vanwageningen.net/picture/4744-20110727_058_german_air_force_hamburger_flugzeugbau_hfb_320_ecm_hansa_jet_1626_luftwaffenmuseum_de/tags/5583-1626)
 
-![](/assets/images/nato/de/air/image5.jpg)
+<img src="/assets\images\nato\de\air\media\image5.jpg" style="width:5.90625in;height:3.93958in" />
 
 Eight of these rather odd business jets were used by the Luftwaffe for
 Electronic Countermeasures training and operations from the early 70’s.
@@ -163,12 +163,12 @@ Carrying almost as much as a C-130 Hercules, but over much shorter
 ranges, it was perfectly suited the intra-theater transport tasks it was
 designed for. The Luftwaffe acquired 90 of the ‘D’ models (another 20
 went to Turkey) in the late 60’s and grouped them in three transport
-wings (*Lufttransportgeschwader, or LTG)*.
+wings (Lufttransportgeschwader, or LTG).
 
 | Wing   | Location | No. | Type  |
-| ------ | -------- | --- | ----- |
+|--------|----------|-----|-------|
 | 61 LTG | Penzing  | 24  | C-160 |
 | 62 LTG | Wunsdorf | 24  | C-160 |
 | 63 LTG | Hohn     | 24  | C-160 |
 
-![](/assets/images/nato/de/air/image6.jpeg)
+<img src="/assets\images\nato\de\air\media\image6.jpeg" style="width:5.21875in;height:3.47577in" />

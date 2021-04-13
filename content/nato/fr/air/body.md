@@ -14,9 +14,9 @@ E-3F AWACS.
 
 **Strategic Air Force (CoFAS)**
 
-![](/assets/images/nato/fr/air/image1.jpg)
+<img src="/assets\images\nato\fr\air\media\image1.jpg" style="width:3.14583in;height:2.35903in" />
 
-![](/assets/images/nato/fr/air/image2.jpg)
+<img src="/assets\images\nato\fr\air\media\image2.jpg" style="width:1.11111in;height:1.48333in" />
 
 CoFAS operates the 91st bombardment wing with two squadrons of Mirage
 IV-P (18) nuclear bombers and one squadron of Mirage IV-R (12) in the
@@ -29,7 +29,7 @@ C-135FR 'Bretagne' based at Istres-le-Tubes, the ‘FR’ standing for
 
 **Mirage IV**
 
-![](/assets/images/nato/fr/air/image3.jpg)
+<img src="/assets\images\nato\fr\air\media\image3.jpg" style="width:5in;height:2.8125in" />
 
 The Mirage IV was twice the weight and 1.5 times the length of its
 predecessor the Mirage III (more later), which allowed for massive fuel
@@ -38,7 +38,7 @@ attached externally, that and the extra fuel storage allowed for high
 speed and long range.
 
 | Sqn      | Name        | Location        | Group | No. | Type        |
-| -------- | ----------- | --------------- | ----- | --- | ----------- |
+|----------|-------------|-----------------|-------|-----|-------------|
 | EB 1/91  | Gascogne    | Mont-de-Marsan  | CoFAS | 9   | Mirage IV-P |
 | EB 2/91  | Bretagne    | Cazaux          | CoFAS | 9   | Mirage IV-P |
 | EB 3/91  | Beauvaisis  | Creil           | CoFAS | 12  | Mirage IV-R |
@@ -47,7 +47,7 @@ speed and long range.
 | EB 2/94  | Marne       | St Dizier       | CoFAS | 6   | Mirage IVA  |
 | EB 3/94  | Arbois      | Luxeuil         | CoFAS | 4   | Mirage IVP  |
 
-**<span class="underline">Aid Defense Command (CAFDA)</span>**
+**<u>Aid Defense Command (CAFDA)</u>**
 
 CAFDA operates 4 wings of fighter interceptors focusing on the Air
 Defence and Air Superiority tasks. Comprising 13 squadrons (escadron de
@@ -55,7 +55,7 @@ chasse, translated ‘Pursuit Squadron’ or EC) equipped with two versions
 of Dassault Mirage aircraft, this force also had expeditionary tasks to
 Djibouti and the Persian Gulf.
 
-![](/assets/images/nato/fr/air/image4.jpeg)
+<img src="/assets\images\nato\fr\air\media\image4.jpeg" style="width:4.5in;height:3.09827in" />
 
 **Mirage F1C & F1C-200**
 
@@ -67,7 +67,7 @@ remaining F1C-200’s formed the core of two interceptor wings, the
 12<sup>th</sup> with four squadrons, and the 30<sup>th</sup> with three
 squadrons.
 
-![](/assets/images/nato/fr/air/image5.jpeg)
+<img src="/assets\images\nato\fr\air\media\image5.jpeg" style="width:4.80208in;height:3.67595in" />
 
 **Mirage 2000C**
 
@@ -79,7 +79,7 @@ compared to almost 5000 F-16’s. Two wings, the 2<sup>nd</sup> and
 5<sup>th</sup> each have three squadrons of these aircraft.
 
 | Sqn     | Name          | Location | Group | No. | Type         |
-| ------- | ------------- | -------- | ----- | --- | ------------ |
+|---------|---------------|----------|-------|-----|--------------|
 | EC 1/2  | Cigognes      | Dijon    | CAFDA | 18  | Mirage 2000C |
 | EC 2/2  | Cote d'or     | Dijon    | CAFDA | 18  | Mirage 2000C |
 | EC 3/2  | Alsace        | Dijon    | CAFDA | 18  | Mirage 2000C |
@@ -94,7 +94,7 @@ compared to almost 5000 F-16’s. Two wings, the 2<sup>nd</sup> and
 | EC 2/30 | Normandie     | Marsan   | CAFDA | 15  | Mirage F1C   |
 | EC 3/30 | Lorraine      | Marsan   | CAFDA | 15  | Mirage F1C   |
 
-**<span class="underline">Tactical Air Force (FATac)</span>**
+**<u>Tactical Air Force (FATac)</u>**
 
 FATac comprises a large segment of the French Air Force, with 25
 Squadrons there have been several variations from history in the
@@ -103,7 +103,7 @@ conventional and nuclear strike missions in a high threat environment.
 Thus, not only strike aircraft are required, but reconnaissance, and
 electronic warfare as well.
 
-![](/assets/images/nato/fr/air/image6.jpg)
+<img src="/assets\images\nato\fr\air\media\image6.jpg" style="width:4.83333in;height:3.22434in" />
 
 **Mirage F1CR**
 
@@ -120,7 +120,7 @@ Jaguar wing but in Northern Fury they formed a new wing, the
 in Djibouti. These aircraft look identical to the reconnaissance
 version.
 
-![](/assets/images/nato/fr/air/image7.jpg)
+<img src="/assets\images\nato\fr\air\media\image7.jpg" style="width:4.8125in;height:3.55213in" />
 
 **Mirage 5F**
 
@@ -132,7 +132,7 @@ made, the 50 aircraft were eventually adopted into the Armée de l'air as
 the Mirage 5F. They were designed for the clear weather ground attack
 role and were operated by the 13<sup>th</sup> wing at Colmar.
 
-![](/assets/images/nato/fr/air/image8.jpeg)
+<img src="/assets\images\nato\fr\air\media\image8.jpeg" style="width:3.8125in;height:2.49444in" />
 
 **Mirage 2000N**
 
@@ -155,12 +155,12 @@ aircraft are housed at Nancy, the 3<sup>rd</sup> was historically the
 first wing converted and also a new wing, the 20<sup>th</sup> forming to
 allow yet another Jaguar wing to be retained.
 
-![](/assets/images/nato/fr/air/image9.jpg)
+<img src="/assets\images\nato\fr\air\media\image9.jpg" style="width:5.27083in;height:2.43513in" />
 
 **SEPECAT Jaguar**
 
 Unique in the Armée de l'air’s fighter aircraft, the Jaguar was not
-produced by Dessault\! SEPECAT is a consortium of Breguet and British
+produced by Dessault! SEPECAT is a consortium of Breguet and British
 Aircraft Corporation (now BAE Systems). These very agile, rugged and
 versatile fighters equipped nine squadrons at one point but that has now
 been reduced to six. Until the introduction of Mirage 2000N, the Jaguar
@@ -168,17 +168,17 @@ maintained the tactical nuclear role. Although largely retired by 1994
 they have been retained in the Northern Fury world.
 
 | Sqn     | Name       | Location   | Group | No. | Type         |
-| ------- | ---------- | ---------- | ----- | --- | ------------ |
+|---------|------------|------------|-------|-----|--------------|
 | EC 1/3  | Navarre    | Nancy      | FATac | 12  | Mirage 2000D |
 | EC 2/3  | Champagne  | Nancy      | FATac | 12  | Mirage 2000D |
 | EC 3/3  | Ardennes   | Nancy      | FATac | 12  | Mirage 2000D |
 | EC 1/4  | Dauphine   | Luxeuil    | FATac | 18  | Mirage 2000N |
 | EC 2/4  | Lafayette  | Luxeuil    | FATac | 18  | Mirage 2000N |
-| EC 3/4  |            | Luxeuil    | FATac | 18  | Mirage 2000N |
-| EC 4/4  |            | Luxeuil    | FATac | 18  | Mirage 2000N |
-| EC 1/6  |            | Colmar     | FATac | 16  | Mirage F1CT  |
-| EC 2/6  |            | Colmar     | FATac | 16  | Mirage F1CT  |
-| EC 3/6  |            | Colmar     | FATac | 12  | Mirage F1CT  |
+| EC 3/4  |            | Luxeuil    | FATac | 18  | Mirage 2000N |
+| EC 4/4  |            | Luxeuil    | FATac | 18  | Mirage 2000N |
+| EC 1/6  |            | Colmar     | FATac | 16  | Mirage F1CT  |
+| EC 2/6  |            | Colmar     | FATac | 16  | Mirage F1CT  |
+| EC 3/6  |            | Colmar     | FATac | 12  | Mirage F1CT  |
 | EC 4/6  | Vexin      | Djibouti   | FATac | 8   | Mirage F1CT  |
 | EC 1/7  | Provence   | St Dizier  | FATac | 18  | Jaguar       |
 | EC 2/7  | Argonne    | St Dizier  | FATac | 18  | Jaguar       |
@@ -196,10 +196,10 @@ they have been retained in the Northern Fury world.
 | CR 2/33 | Savoie     | Strasbourg | FATac | 16  | Mirage F.1CR |
 | CR 3/33 | Mosell     | Strasbourg | FATac | 16  | Mirage F.1CR |
 
-**<span class="underline">Air Transport Command (CoTAM)</span>**
+**<u>Air Transport Command (CoTAM)</u>**
 
 CoTAM is a large command with 28 squadrons: ten fixed wing; 12 rotary
 wing; six overseas based squadrons which were uniquely tailored to the
 requirements of the post; and a VIP transport element.
 
-![](/assets/images/nato/fr/air/image10.jpg)
+<img src="/assets\images\nato\fr\air\media\image10.jpg" style="width:5.55208in;height:3.67588in" />

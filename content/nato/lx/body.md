@@ -14,4 +14,4 @@ crashed into the sea on takeoff from Preveza AB, Preveza, Greece. This
 happens after the Northern Fury campaign so all 18 airframes are
 available.
 
-![](/assets/images/nato/lx/image1.png)
+<img src="/assets\images\nato\lx\media\image1.png" style="width:3.10417in;height:1.76042in" />

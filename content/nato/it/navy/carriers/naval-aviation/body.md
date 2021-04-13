@@ -4,16 +4,16 @@ Italy’s Naval Air Arm is relatively small but, like its navy in general
 contains all relevant capabilities.
 
 **[Breguet Br.1150
-Atlantic](https://en.wikipedia.org/wiki/Breguet_Atlantic#Current_operators):
+Atlantic](https://en.wikipedia.org/wiki/Breguet_Atlantic#Current_operators):**
 These fixed wing Maritime Patrol Aircraft (MPA) were operated jointly,
 owned by the Italian Air Force and commanded by the Navy with a mix of
 Air and Navy crew. There were 18 used by the *88<sup>th</sup> Gruppo*
 flying out of Decimomannu Sardinia and Sigonella Sicily. Acquired in the
 1970s, these aircraft routinely conduct 12-hour surveillance and
 Anti-Submarine Warfare (ASW) patrols across the Mediterranean and
-further afield.**
+further afield.
 
-![](/assets/images/nato/it/navy/carriers/naval-aviation/image1.jpg)
+<img src="/assets\images\nato\it\navy\carriers\naval-aviation\media\image1.jpg" style="width:6.5in;height:4.33542in" />
 
 [**AV-8B Harrier
 II+**:](https://en.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II#Italian_Navy)
@@ -29,7 +29,7 @@ to air missile. Embarked on the aircraft carrier ***Giuseppe
 Garibaldi*** as they operate as part of *Gruppo AI* (Embarked Aircraft
 Group).
 
-![](/assets/images/nato/it/navy/carriers/naval-aviation/image2.jpg)
+<img src="/assets\images\nato\it\navy\carriers\naval-aviation\media\image2.jpg" style="width:6.5in;height:4.86875in" />
 
 [**AB-212**](http://www.marina.difesa.it/EN/thefleet/airfleet/Pagine/ab212.aspx):
 These are a derivative of the famous Bell Twin Huey and became the
@@ -40,7 +40,7 @@ FLIR (Forward Looking InfraRed), sonobouys and two torpedoes, these were
 very capable in their role. They were operated by *2\*, 3\* and 4\*
 Gruppos.*
 
-![](/assets/images/nato/it/navy/carriers/naval-aviation/image3.jpg)
+<img src="/assets\images\nato\it\navy\carriers\naval-aviation\media\image3.jpg" style="width:6.5in;height:3.09792in" />
 
 **[SH-3 Sea
 King](https://www.milavia.net/specials/italian-navy-sea-king/):** Two
@@ -58,4 +58,4 @@ Gruppo*** and ***3\* Gruppo*** operate these aircraft exclusively while
 The Air Force operates the second major version, the HH-3F (AS-61R) for
 Search and Rescue and supports the Navy in this task.
 
-![](/assets/images/nato/it/navy/carriers/naval-aviation/image4.jpg)
+<img src="/assets\images\nato\it\navy\carriers\naval-aviation\media\image4.jpg" style="width:6.45833in;height:4.1737in" />

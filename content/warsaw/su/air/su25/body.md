@@ -1,4 +1,4 @@
-![](/assets/images/warsaw/su/air/su25/image1.jpg)
+<img src="/assets\images\warsaw\su\air\su25\media\image1.jpg" style="width:6.5in;height:3.65625in" />
 
 [**Su-25 ‘Frogfoot’**](http://www.airvectors.net/avsu25.html)The Soviet
 answer to the American A-10 ‘Warthog’, drew on their long history of
@@ -32,4 +32,4 @@ significantly increased. In Northern Fury 150 of these are available and
 NATO has given them the Frogfoot-C designation even though that did not
 come until a much later version of this aircraft.
 
-![](/assets/images/warsaw/su/air/su25/image2.jpeg)
+<img src="/assets\images\warsaw\su\air\su25\media\image2.jpeg" style="width:6.5in;height:3.49931in" />

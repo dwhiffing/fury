@@ -1,5 +1,4 @@
-[**BBTG Iowa
-(BB-61)**](https://en.wikipedia.org/wiki/USS_Iowa_\(BB-61\))
+[**BBTG Iowa (BB-61)**](https://en.wikipedia.org/wiki/USS_Iowa_(BB-61))
 
 USS Iowa, ‘**The Grey Ghost**’ was lead ship of her class and saw
 service in World War Two and the Korean War. She was retired in 1958,
@@ -12,18 +11,18 @@ only has 6 functioning 16” guns.
 
 At war start she is on patrol in the Mediterranean.
 
-![](/assets/images/nato/us/navy/battleships/iowa/image1.jpeg)
+<img src="/assets\images\nato\us\navy\battleships\iowa\media\image1.jpeg" style="width:6.5in;height:5.08611in" />
 
 USS Iowa with USS Halyburton
 
 TG Iowa:
 
-  - BB-61 USS Iowa
-    
-      - Elem VC-6 'Firebees' 5x RQ-2A Pioneer
+-   BB-61 USS Iowa
 
-  - CG-23 USS Halsey
+    -   Elem VC-6 'Firebees' 5x RQ-2A Pioneer
 
-  - FFG-9 USS Wadsworth
-    
-      - Elem HSL-38 ‘Seawolves’ 2x SH-2F Seasprite
+-   CG-23 USS Halsey
+
+-   FFG-9 USS Wadsworth
+
+    -   Elem HSL-38 ‘Seawolves’ 2x SH-2F Seasprite

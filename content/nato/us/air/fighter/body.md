@@ -7,7 +7,7 @@ Phantoms lingered on in the Air National Guard (ANG).
 
 [**F-15A/C Eagle**](https://fas.org/man/dod-101/sys/ac/f-15.htm)
 
-![](/assets/images/nato/us/air/fighter/image1.png)
+<img src="/assets\images\nato\us\air\fighter\media\image1.png" style="width:4.85261in;height:3.16042in" />
 
 The F-15 is an all weather, highly maneuverable air superiority fighter.
 Arguably the best air superiority aircraft in the world, none have been
@@ -16,35 +16,34 @@ the F-15A which is limited to the original suite of weapons that were
 developed for the aircraft in the early ‘70s, and the F-15C which is
 able to use a much more modern Aim-120 AMRAAM air to air missile. It
 should be noted that the twin seat trainer versions are the ‘B’ and the
-‘D’ models and each squadron has two or three of these for
-continuation and certification training. The link above has many more
-details as does the
-[wiki](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle) and
-many other pages. By the beginning of Northern Fury almost all F-15A are
-in the ANG, while the regular air force is equipped with the F-15C with
-one exception; the 57<sup>th</sup> Fighter Squadron (FS) stationed at
-Keflavik Iceland. All of the F-15C on active service have undergone the
-MSIP (Multistage Improvement Program) upgrade. Northern Fury uses the
-same number of airframes that were originally produced, however in the
-real world the squadron size had been reduced to 18 aircraft, a couple
-squadrons had been deactivated and many older F-15A had been retired to
-the bone-yard. The chart below gives a comparison of where the aircraft
-were in real life and where they are in Northern Fury\[1\]:
+‘D’ models and each squadron has two or three of these for continuation
+and certification training. The link above has many more details as does
+the [wiki](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle)
+and many other pages. By the beginning of Northern Fury almost all F-15A
+are in the ANG, while the regular air force is equipped with the F-15C
+with one exception; the 57<sup>th</sup> Fighter Squadron (FS) stationed
+at Keflavik Iceland. All of the F-15C on active service have undergone
+the MSIP (Multistage Improvement Program) upgrade. Northern Fury uses
+the same number of airframes that were originally produced, however in
+the real world the squadron size had been reduced to 18 aircraft, a
+couple squadrons had been deactivated and many older F-15A had been
+retired to the bone-yard. The chart below gives a comparison of where
+the aircraft were in real life and where they are in Northern Fury[1]:
 
-|            | Northern Fury | Real History |         |         |
-| ---------- | ------------- | ------------ | ------- | ------- |
-|            | F-15A/B       | F-15C/D      | F-15A/B | F-15C/D |
+|            | Northern Fury | Real History |         |         |
+|------------|---------------|--------------|---------|---------|
+|            | F-15A/B       | F-15C/D      | F-15A/B | F-15C/D |
 | Production | 412           | 470          | 412     | 470     |
 | W/O        | 51            | 23           | 51      | 23      |
-| Retired    | 100           |              | 225     | 22      |
-| Storage    | 30            |              | 14      | 100     |
+| Retired    | 100           |              | 225     | 22      |
+| Storage    | 30            |              | 14      | 100     |
 | Other      | 20            | 2            | 20      | 10      |
 | ATEC       | 36            | 12           | 12      | 48      |
-| AF Mat C   | 7             | 7            |         | 15      |
-| ANG        | 168           |              | 90      |         |
-| ACC        |               | 192          |         | 126     |
-| USAFE      |               | 90           |         | 36      |
-| PacAF      |               | 144          |         | 90      |
+| AF Mat C   | 7             | 7            |         | 15      |
+| ANG        | 168           |              | 90      |         |
+| ACC        |               | 192          |         | 126     |
+| USAFE      |               | 90           |         | 36      |
+| PacAF      |               | 144          |         | 90      |
 | Total      | 412           | 470          | 412     | 470     |
 
 Squadron distribution in Northern Fury remains relatively consistent
@@ -56,11 +55,10 @@ in Germany did not close so the 53<sup>rd</sup> FS remained there
 instead of moving to Spangdahlem AB. The most substantive change is the
 retention of 24 aircraft per squadron vice the historic reduction to 18;
 the exception is 57<sup>th</sup> FS which had never been at 24. Squadron
-dispositions are listed
-below:
+dispositions are listed below:
 
 | Sqn      | Name               | Wing             | Location              | No. | Type    | Remarks   |
-| -------- | ------------------ | ---------------- | --------------------- | --- | ------- | --------- |
+|----------|--------------------|------------------|-----------------------|-----|---------|-----------|
 | 1 FS     | Fighting Furies    | 325<sup>th</sup> | Tyndall AFB, FL       | 24  | F-15A/C | ATEC      |
 | 2 FS     | American Beagles   | 325<sup>th</sup> | Tyndall AFB, FL       | 24  | F-15A   | ATEC      |
 | 12 FS    | Dirty Dozen        | 3<sup>rd</sup>   | Elmendorf AFB, AL     | 24  | F-15C   | PacAF     |
@@ -107,11 +105,10 @@ continuing into ‘93. Overall increasing the production by 100 aircraft.
 Factoring in attrition there are now 301 Strike eagles available which
 translates to one additional wing (6<sup>th</sup> Tactical Fighter Wing
 at Mountain Home AFB, ID) and the continuation of 550<sup>th</sup> FS as
-the conversion training unit into mid
-1994.
+the conversion training unit into mid 1994.
 
 | Sqn    | Name            | Wing  | Location                | No. | Type  | Remarks      |
-| ------ | --------------- | ----- | ----------------------- | --- | ----- | ------------ |
+|--------|-----------------|-------|-------------------------|-----|-------|--------------|
 | 90 FS  | Pair-O-Dice     | 3rd   | Elmsdorf AFB, AL        | 24  | F-15E | PacAF        |
 | 333 FS | Lancers         | 4th   | Seymore Johnson AFB, NC | 24  | F-15E |              |
 | 334 FS | Fighting Eagles | 4th   | Seymore Johnson AFB, NC | 24  | F-15E |              |
@@ -125,7 +122,7 @@ the conversion training unit into mid
 | 494 FS | Panthers        | 48th  | Lakenheath AB, UK       | 24  | F-15E | USAFE        |
 | 550 FS | Silver Eagles   | 56th  | Luke AFB, AZ            | 24  | F-15E | Deactivating |
 
-![](/assets/images/nato/us/air/fighter/image2.jpeg)
+<img src="/assets\images\nato\us\air\fighter\media\image2.jpeg" style="width:6.8737in;height:4.57292in" />
 
 [**F-16 Falcon**](https://fas.org/man/dod-101/sys/ac/f-16.htm)The F-16
 is the most numerous and versatile fighter in the USAF inventory. First
@@ -146,14 +143,14 @@ F-16ADF, and canceling several foreign sales a net increase of 15x F-16
 Squadrons is available. The aircraft in use by the USAF in Northern fury
 are:
 
-  - **F-16A** – Over 800 of these were built from 1978 through 1983, in
+-   **F-16A** – Over 800 of these were built from 1978 through 1983, in
     the mid ‘80s about 520 were converted to the ‘Air Defence Fighter’
     (ADF) version for NORAD and the remainder were shunted to secondary
     roles or preserved. One squadron used for training ANG pilots is
     still equipped with these aircraft, 40 more are undergoing refit to
     ADF and about 150 are in storage.
 
-  - **F-16ADF** – these are upgraded ‘A’ models to the Block 15
+-   **F-16ADF** – these are upgraded ‘A’ models to the Block 15
     standard, and specially optimized for the US ANG intercept mission
     for NORAD. These are the only US F-16s that fire the [Aim-7
     Sparrow](http://www.f-16.net/f-16_armament_article10.html) missile.
@@ -161,7 +158,7 @@ are:
     new aircraft was about 250 more than historically exited, and more
     are being converted.
 
-  - **F-16C/D Block 25** – This was the earliest version of the ‘C’
+-   **F-16C/D Block 25** – This was the earliest version of the ‘C’
     model and had a better radar, a glass cockpit, improved fire control
     computer and many other improvements. Fundamentally this looked like
     the ‘A’ model but was able to fire the much more capable [Aim-120
@@ -172,7 +169,7 @@ are:
     regular squadron. This leave 33 in storage after 49 have been
     written off through accidents and other losses.
 
-  - **F-16C/D Block 30/32** – There are two main upgrades in this block,
+-   **F-16C/D Block 30/32** – There are two main upgrades in this block,
     first and foremost is the ‘common engine bay’ and two improved
     engines. The General Electric F110 (Block 30) which equips 75% of
     the production run and the Prat & Whitney F100 (Block 32). The later
@@ -188,7 +185,7 @@ are:
     11 regular squadrons, one of them a training squadron. About 100 of
     these machines are in storage.
 
-  - **F-16C/D Block 40/42** – This version has a fully integrated
+-   **F-16C/D Block 40/42** – This version has a fully integrated
     LANTERN Pod giving the aircraft full day/night capabilities. Also
     improved were the ECM systems and cockpit controls. The first major
     production year was 1988 and the increase in Northern Fury
@@ -197,18 +194,17 @@ are:
     a total of 25 squadrons including three training squadrons are
     equipped with this aircraft.
 
-  - **F-16C/D Block 50/52** – The last version equipping the USAF in
+-   **F-16C/D Block 50/52** – The last version equipping the USAF in
     Northern Fury has improved engines, avionics, radar and ECM. These
     aircraft are destined to replace the Wild Weasel in the Suppression
     of Enemy Air Defence (SEAD) role. Production began in late 1991 and
     continues at an increased pace. By the start of Northern Fury there
     are 304 available after removing 33 due to attrition. There are none
     in the training system but 11 front line squadrons are equipped with
-    this
-version.
+    this version.
 
 | Sqn    | Name                  | Wing             | Location             | No. | Type          | Remarks          |
-| ------ | --------------------- | ---------------- | -------------------- | --- | ------------- | ---------------- |
+|--------|-----------------------|------------------|----------------------|-----|---------------|------------------|
 | 4 FS   | Fightin' Fuujins      | 388<sup>th</sup> | Hill AFB, UT         | 24  | F-16C Blk 40  |                  |
 | 10 FS  | Fighting Tenth        | 50<sup>th</sup>  | Hahn AFB, Ger        | 24  | F-16CJ Blk 50 | USAFE            |
 | 13 FS  | The Panther Pack      | 35<sup>th</sup>  | Misawa AB, Japan     | 24  | F-16CJ Blk 50 | PacAF            |
@@ -294,7 +290,7 @@ version.
 | 706 FS | Cajuns                | 926th            | NAS New Orleans      | 24  | F-16C Blk 30  | AF Reserve       |
 | Demo   | Thunderbirds          | 57<sup>th</sup>  | Nellis AFB, AZ       | 24  | F-16C Blk 32  | Air Demo Tm      |
 
-![](/assets/images/nato/us/air/fighter/image3.jpeg)
+<img src="/assets\images\nato\us\air\fighter\media\image3.jpeg" style="width:4.35764in;height:5.6375in" />
 
 [**F-4E
 Phantom**](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II)
@@ -310,20 +306,19 @@ Air-to-Air combat but are heavily outclassed by the latest Soviet
 fighters. Three ANG squadrons retain the Phantom which will likely serve
 into 1996 before there are enough F-16s available to retire them.
 Additionally, a squadron of this type operated by ATEC trains German
-Luftwaffe
-crews.
+Luftwaffe crews.
 
 | Sqn    | Name               | Wing             | Location         | No. | Type | Remarks |
-| ------ | ------------------ | ---------------- | ---------------- | --- | ---- | ------- |
+|--------|--------------------|------------------|------------------|-----|------|---------|
 | 20 FS  | Silver Lobos       | 49<sup>th</sup>  | Holloman AFB, NM | 24  | F-4E | ATEC    |
 | 113 FS | Racers             | 181<sup>st</sup> | Hulman, IN       | 24  | F-4E | ANG     |
 | 138 FS | Boys from Syracuse | 181<sup>st</sup> | Syracuse, NY     | 24  | F-4E | ANG     |
 | 163 FS | Blacksnakes        | 181<sup>st</sup> | Fort Wayne, IN   | 24  | F-4E | ANG     |
 
-![](/assets/images/nato/us/air/fighter/image4.jpg)
+<img src="/assets\images\nato\us\air\fighter\media\image4.jpg" style="width:6.60417in;height:4.30303in" />
 
-1.  The total production figures are derived from: Donald & Lake, The
-    Encyclopedia of World Military Aircraft, Aerospace Publishing 2000,
-    had 355 ‘A’ and 57 ‘B’ totaling 412 plus 408 ‘C’ and 62 ‘D’ totaling
-    470. The production numbers at the FAS link are similar but do not
-    seem to include F-15B production of 57.
+[1] The total production figures are derived from: Donald & Lake, The
+Encyclopedia of World Military Aircraft, Aerospace Publishing 2000, had
+355 ‘A’ and 57 ‘B’ totaling 412 plus 408 ‘C’ and 62 ‘D’ totaling 470.
+The production numbers at the FAS link are similar but do not seem to
+include F-15B production of 57.

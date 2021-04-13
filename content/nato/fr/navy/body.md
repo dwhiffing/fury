@@ -1,6 +1,6 @@
 **The French Navy**
 
-![](/assets/images/nato/fr/navy/image1.jpg)
+<img src="/assets\images\nato\fr\navy\media\image1.jpg" style="width:6.1875in;height:4.38834in" />
 
 The French Navy is relatively large but stretched thin with global
 commitments and is suffering from some dated technology. In addition to

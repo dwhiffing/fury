@@ -22,7 +22,7 @@ by two AB-212 Anti-Submarine Warfare (ASW) helicopters backed up by
 onboard torpedos and sonar.
 
 | Class     | Pennant | Name      | Task         | Remarks |
-| --------- | ------- | --------- | ------------ | ------- |
+|-----------|---------|-----------|--------------|---------|
 | Maestrale | F 570   | Maestrale | Atlantic     |         |
 |           | F 571   | Grecale   |              |         |
 |           | F 572   | Libeccio  |              |         |
@@ -32,7 +32,7 @@ onboard torpedos and sonar.
 |           | F 576   | Espero    |              |         |
 |           | F 577   | Zeffiro   |              |         |
 
-![](/assets/images/nato/it/navy/frigates/image1.jpg)
+<img src="/assets\images\nato\it\navy\frigates\media\image1.jpg" style="width:7.29167in;height:4.88542in" />
 
 [**Lupo/Artigliere
 Class**:](https://en.wikipedia.org/wiki/Lupo-class_frigate) The Lupo was
@@ -53,7 +53,7 @@ do have a helicopter which can carry out ASW work but it is primarily
 for maritime patrolling.
 
 | Class      | Pennant | Name        | Task          | Remarks |
-| ---------- | ------- | ----------- | ------------- | ------- |
+|------------|---------|-------------|---------------|---------|
 | Lupo       | F-564   | Lupo        | Persian Gulf  |         |
 |            | F-565   | Sagittario  | TG Garibaldi9 |         |
 |            | F-566   | Perseo      | STANAVFORLANT |         |
@@ -63,7 +63,7 @@ for maritime patrolling.
 |            | F-584   | Bersagliere | Philippines   |         |
 |            | F-585   | Granatiere  |               |         |
 
-![](/assets/images/nato/it/navy/frigates/image2.jpeg)
+<img src="/assets\images\nato\it\navy\frigates\media\image2.jpeg" style="width:4.85351in;height:3.23472in" />
 
 [**Alpino Class**](https://en.wikipedia.org/wiki/Alpino-class_frigate):
 Although these are the oldest of the ASW Frigates in the Italian Navy
@@ -74,11 +74,11 @@ air defense or anti shipping capability, having only Oto-Melara 76mm
 guns.
 
 | Class  | Pennant | Name        | Task | Remarks |
-| ------ | ------- | ----------- | ---- | ------- |
+|--------|---------|-------------|------|---------|
 | Alpino | F 580   | Alpino      |      |         |
 |        | F 581   | Carabiniere |      |         |
 
-![](/assets/images/nato/it/navy/frigates/image3.jpeg)
+<img src="/assets\images\nato\it\navy\frigates\media\image3.jpeg" style="width:6.26563in;height:4.17708in" />
 
 **Minerva Class**: This is a class of coastal ASW ship that are probably
 better described as a Corvette due to their small size of 1,200 tons.
@@ -87,7 +87,7 @@ Torpedoes while four of them carry eight Aspide SAMs in an Albatross
 launcher and the other four carry six Otomat Mk2 SSM
 
 | Class               | Pennant | Name    | Task | Remarks |
-| ------------------- | ------- | ------- | ---- | ------- |
+|---------------------|---------|---------|------|---------|
 | Minerva (Albatross) | F 551   | Minerva |      |         |
 |                     | F 552   | Urania  |      |         |
 |                     | F 553   | Danaide |      |         |
@@ -97,7 +97,7 @@ launcher and the other four carry six Otomat Mk2 SSM
 |                     | F 557   | Fenice  |      |         |
 |                     | F 558   | Sibilla |      |         |
 
-![](/assets/images/nato/it/navy/frigates/image4.jpg)
+<img src="/assets\images\nato\it\navy\frigates\media\image4.jpg" style="width:4.53646in;height:3.02431in" />
 
 [**Cassiopea Class
 OPV**](https://www.militaryfactory.com/ships/detail.asp?ship_id=cassiopea-class-patrol-vessel-italian-navy):
@@ -108,13 +108,13 @@ gun, two 25mm cannon and some machine guns. They operate an AB-212
 helicopter.
 
 | Class     | Pennant | Name      | Task         | Remarks |
-| --------- | ------- | --------- | ------------ | ------- |
+|-----------|---------|-----------|--------------|---------|
 | Cassiopea | P 401   | Cassiopea |              |         |
 |           | P 402   | Libra     | Persian Gulf |         |
 |           | P 403   | Spica     | Indian Ocean |         |
 |           | P 404   | Vega      |              |         |
 
-![](/assets/images/nato/it/navy/frigates/image5.jpg)
+<img src="/assets\images\nato\it\navy\frigates\media\image5.jpg" style="width:6.02083in;height:3.17395in" />
 
 **[Sparviero-class patrol
 boat](https://en.wikipedia.org/wiki/Sparviero-class_patrol_boat):**
@@ -124,7 +124,7 @@ missiles and a single Oto-Melara 76mm gun. With a crew of 10 they are
 hit and run weapon systems designed for the congested Adriatic Sea.
 
 | Class     | Pennant | Name      | Task    | Remarks |
-| --------- | ------- | --------- | ------- | ------- |
+|-----------|---------|-----------|---------|---------|
 | Sparviero | P 420   | Sparviero | Reserve |         |
 |           | P 421   | Nibbio    |         |         |
 |           | P 422   | Falcone   |         |         |
@@ -133,4 +133,4 @@ hit and run weapon systems designed for the congested Adriatic Sea.
 |           | P 425   | Gheppio   |         |         |
 |           | P 426   | Condor    |         |         |
 
-![](/assets/images/nato/it/navy/frigates/image6.jpg)
+<img src="/assets\images\nato\it\navy\frigates\media\image6.jpg" style="width:6.39583in;height:6.34365in" />
