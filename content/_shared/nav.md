@@ -39,7 +39,7 @@ tabs:
       - path: us
         label: United States
   warsaw:
-    label: WARSAW
+    label: Warsaw Pact
     items:
       - path: su
         label: Soviet Union
@@ -55,6 +55,21 @@ tabs:
         label: Poland
       - path: cz
         label: Czechoslovakia
+  aar:
+    label: Scenarios
+    Items:
+      path: nf
+      label: Northern Fury
+      path: bf
+      label: Baltic Fury
+      path: cf
+      label: Caribbean Fury
+      path: mf
+      label: Mediterranean Fury
+      path: iof
+      label: Indian Ocean Fury
+      path: pf
+      label: Pacific Fury
 ---
 
 Northern Fury
