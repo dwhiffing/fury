@@ -1,6 +1,6 @@
-**F-14 Tomcat**
+***F-14 Tomcat***
 
-<img src="/assets\images\nato\us\navy\aviation\f-14\media\image1.jpg" style="width:5.84375in;height:2.82691in" />
+![](/assets/images/nato/us/navy/aviation/f-14/image1.jpg)
 
 Designed in the 60’s, fielded in the 70’s, by 1994 the F-14 was beyond
 mid life.  Although an outstanding Air Superiority fighter, its prowess
@@ -31,33 +31,34 @@ and eight more arriving each month. Five squadrons are equipped with
 this version, another four are training and the Fleet Replacement Units
 (FRU) hold about 15 each.
 
-<img src="/assets\images\nato\us\navy\aviation\f-14\media\image2.jpg" style="width:6.5in;height:3.02083in" />
+![](/assets/images/nato/us/navy/aviation/f-14/image2.jpg)
 
 In the Northern Fury world there are some alterations to historical
 production which are listed here:
 
--   478 F-14A models were built which is historically accurate.
+  - 478 F-14A models were built which is historically accurate.
 
--   The F-14B was originally a mix of 67 rebuilt and 19 new production
+  - The F-14B was originally a mix of 67 rebuilt and 19 new production
     aircraft. However, in Northern Fury, all of these aircraft are new
     build and production continued from 1987 until 1992 at the rate of
     20 per year for a total of 120 Bombcats built.
 
--   The rebuild program to F-14D standard continues with 162 delivered
+  - The rebuild program to F-14D standard continues with 162 delivered
     and 8 more completing each month.
 
--   There are 29 Tomcat squadrons (VF) in the fleet, one more than there
+  - There are 29 Tomcat squadrons (VF) in the fleet, one more than there
     was historically.
 
--   VF-101 ‘Grim Reapers’ on the East Coast, and VF-124 ‘Gunfighters’ on
+  - VF-101 ‘Grim Reapers’ on the East Coast, and VF-124 ‘Gunfighters’ on
     the West Coast, are the F-14 FRU Squadrons with a mix of A, B and D
     models. They conduct certification and qualification training. Each
     has about 35 airframes but that fluctuates as replacements are
     needed in the fleet and they draw new ones from the replacement pool
-    or storage.
+    or
+storage.
 
 | Sqn    | Name               | CVW     | No. | Type      | Remarks               |
-|--------|--------------------|---------|-----|-----------|-----------------------|
+| ------ | ------------------ | ------- | --- | --------- | --------------------- |
 | VF-1   | Wolfpack           | CVW-2   | 12  | F-14A     | USS Constellation     |
 | VF-2   | Bounty Hunters     | CVW-2   | 12  | F-14A     | USS Constellation     |
 | VF-11  | Red Rippers        | CAW-14  | 12  | F-14D     | USS Carl Vinson       |

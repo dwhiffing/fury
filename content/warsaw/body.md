@@ -12,14 +12,14 @@ states of the WP were: Albania, Bulgaria, Czechoslovakia, East Germany,
 Hungary, Poland, Romania and he Soviet Union.
 
 Other than moral and material support for socialist movements in the
-“Proxy Wars” that raged throughout the globe during the Cold War (Korea,
-Vietnam, Cuba, throughout Africa), the only armed conflicts in which the
-WP engaged were operations to maintain its own status-quo. The Soviet
-Union intervened in Hungary in 1956 to crush a revolutionary government
-and reinstate a compliant communist regime. The USSR and its WP allies
-moved again in 1968 to invade Czechoslovakia and re-establish a
-pro-Soviet regime there as well. Albania, the only member to not share a
-geographic link to the Soviet Union, considered the invasion of
+“Proxy Wars” that raged throughout the globe during the Cold War
+(Korea, Vietnam, Cuba, throughout Africa), the only armed conflicts in
+which the WP engaged were operations to maintain its own status-quo. The
+Soviet Union intervened in Hungary in 1956 to crush a revolutionary
+government and reinstate a compliant communist regime. The USSR and its
+WP allies moved again in 1968 to invade Czechoslovakia and re-establish
+a pro-Soviet regime there as well. Albania, the only member to not share
+a geographic link to the Soviet Union, considered the invasion of
 Czechoslovakia too heavy-handed and left the alliance directly
 afterward, though it remained ideologically associated with the Soviets.
 
@@ -56,7 +56,7 @@ less certain. Several member countries remain within the alliance,
 partially out of fear of the USSR’s resurgent military and economic
 prowess, but primarily for their own reasons:
 
--   **Czechoslovakia** is essentially an armed camp. Most of the former
+  - **Czechoslovakia** is essentially an armed camp. Most of the former
     “Group of Soviet Forces Germany” otherwise known as the “Western
     Group of Forces” were displaced here in 1990 – and did not leave.
     These absorbed the “Central Group of Forces,” which was the
@@ -67,13 +67,13 @@ prowess, but primarily for their own reasons:
     country. More than any other member state, Czechoslovakia remains in
     the WP because it has no choice.
 
--   **Bulgaria** remains in the WP because of a fear that instability in
+  - **Bulgaria** remains in the WP because of a fear that instability in
     the former Yugoslavia will spill over its borders. The Soviets have
     provided some military and economic assistance which influences some
     elements in Bulgaria, but of any member, its loyalty to the Soviets
     is the weakest.
 
--   **Hungary** is a government at odds with its people. The current
+  - **Hungary** is a government at odds with its people. The current
     regime relies on Soviet assistance, both militarily and economically
     to remain solvent. To a lesser extent than in Czechoslovakia,
     displaced Soviet forces have established residence in Hungary,
@@ -82,18 +82,18 @@ prowess, but primarily for their own reasons:
     busy maintaining visibility on dissident groups, and individuals
     traveling into the Balkans. The border with Austria is closed.
 
--   **Romania’s** dictator Ceausescu is a beneficiary of the new order
+  - **Romania’s** dictator Ceausescu is a beneficiary of the new order
     in Eastern Europe. Much of the military and financial assistance
     that was going to East Germany and Poland is now heading to
     Bucharest, where the ruthless dictator has used it to prop up his
     faltering regime. Romania is now the staunchest ally to the Soviet
     Union within the WP.
 
--   **Serbia,** although not a member of the WP, has been receptive to
+  - **Serbia,** although not a member of the WP, has been receptive to
     diplomatic overtures from the USSR. NATOs recent action in the
     Balkans is quickly driving Serbia into the Soviet camp.
 
--   **Poland** is in turmoil as the Solidarity government has failed to
+  - **Poland** is in turmoil as the Solidarity government has failed to
     gain control over the communist dominated Interior and Defense
     ministries in that country. Soviet support for the opposition to
     Solidarity has ensured that the country remains mired in simmering

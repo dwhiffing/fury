@@ -1,10 +1,10 @@
-**<u>Caribbean Fury Background</u>**:
+**<span class="underline">Caribbean Fury Background</span>**:
 
 Note that this is fictional background to the scenarios for Command:
 Modern Air & Naval Operations. Events depicted here many not be exactly
 the same as in the books.
 
-<img src="/assets\images\blog\post20\media\image1.jpg" style="width:6.35417in;height:4.85697in" />
+![](/assets/images/blog/post20/image1.jpg)
 
 The short Caribbean series represent events running parallel to the
 early days of Northern Fury. The Soviet Foreign Service has been
@@ -36,7 +36,7 @@ withdraw of the expatriate community. The coup in May of 91 was widely
 anticipated but a forgone conclusion with the former President and
 family already living at their palatial residence near Portland Oregon.
 
-<img src="/assets\images\blog\post20\media\image2.jpg" style="width:6.5in;height:4.44444in" />
+![](/assets/images/blog/post20/image2.jpg)
 
 Following the coups’ in Honduras and Nicaragua, a militaristic
 anti-American movement gained momentum and these new governments started
@@ -66,7 +66,7 @@ Mexico is showing signs of emerging out of economic and political
 distress. It is relying heavily on the newly signed North American Free
 Trade Agreement and the population are expecting great things. So is the
 world, with the evolving revolt in the Chiapas region causing new
-concern! With 12 F-5s and Gearing class destroyers, the US will
+concern\! With 12 F-5s and Gearing class destroyers, the US will
 undoubtedly be drawn into any conflict. Rebellion is in the wings should
 NAFTA fail to improve the Mexican economy.
 
@@ -99,7 +99,7 @@ security agencies but it is unclear what was unloaded, indications are
 that it was not missiles, but probably aircraft, munitions and support
 equipment of various types.
 
-<img src="/assets\images\blog\post20\media\image3.jpg" style="width:5.07854in;height:2.30208in" />
+![](/assets/images/blog/post20/image3.jpg)
 
 **US Reaction**: In response to the increased tension in the region the
 US military has stationed about 20 ships including the aircraft carrier
@@ -109,9 +109,9 @@ other ships are based in Mayport Florida and Corpus Christy Texas.
 Additionally, forces and activities in Panama, Guantanamo Bay and other
 areas of the Gulf and Caribbean are at higher than normal levels.
 
-<img src="/assets\images\blog\post20\media\image4.jpg" style="width:5.96875in;height:4.01399in" />
+![](/assets/images/blog/post20/image4.jpg)
 
-**<u>Security Assessments:</u>**
+**<span class="underline">Security Assessments:</span>**
 
 <table>
 <thead>

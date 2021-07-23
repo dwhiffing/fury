@@ -26,19 +26,21 @@ can carry 8x LCM, 4x LCVP and over 5000 Tons of cargo of a size up to
 light vehicles. These ships will generally deploy with the lead elements
 of an Amphibious Force but remain in safe waters, once their LCMs are
 deployed they remain in the landing area as the LKA returns to port for
-more supplies.
+more
+supplies.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image1.jpg" style="width:6.5in;height:4.28264in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image1.jpg)
 
-LKA 117 USS El Paso
+LKA 117 USS El
+Paso
 
-| Pennant | Name                                                                     | Fleet    | Home Port    | Task         |
-|---------|--------------------------------------------------------------------------|----------|--------------|--------------|
-| LKA-113 | [USS Charleston](https://en.wikipedia.org/wiki/USS_Charleston_(LKA-113)) | Atlantic | Norfolk      | 6th Mar Regt |
-| LKA-114 | [USS Durham](https://en.wikipedia.org/wiki/USS_Durham_(LKA-114))         | Pacific  | Persian Gulf | Persian Gulf |
-| LKA-115 | [USS Mobile](https://en.wikipedia.org/wiki/USS_Mobile_(LKA-115))         | Atlantic | Norfolk      | 8th Mar Regt |
-| LKA-116 | [USS St. Louis](https://en.wikipedia.org/wiki/USS_St._Louis_(LKA-116))   | Atlantic | Norfolk      | Philippines  |
-| LKA-117 | [USS El Paso](https://en.wikipedia.org/wiki/USS_El_Paso_(LKA-117))       | Pacific  | San Diego    | 2 MEF        |
+| Pennant | Name                                                                       | Fleet    | Home Port    | Task         |
+| ------- | -------------------------------------------------------------------------- | -------- | ------------ | ------------ |
+| LKA-113 | [USS Charleston](https://en.wikipedia.org/wiki/USS_Charleston_\(LKA-113\)) | Atlantic | Norfolk      | 6th Mar Regt |
+| LKA-114 | [USS Durham](https://en.wikipedia.org/wiki/USS_Durham_\(LKA-114\))         | Pacific  | Persian Gulf | Persian Gulf |
+| LKA-115 | [USS Mobile](https://en.wikipedia.org/wiki/USS_Mobile_\(LKA-115\))         | Atlantic | Norfolk      | 8th Mar Regt |
+| LKA-116 | [USS St. Louis](https://en.wikipedia.org/wiki/USS_St._Louis_\(LKA-116\))   | Atlantic | Norfolk      | Philippines  |
+| LKA-117 | [USS El Paso](https://en.wikipedia.org/wiki/USS_El_Paso_\(LKA-117\))       | Pacific  | San Diego    | 2 MEF        |
 
 **ACS**: [Auxiliary Crane
 Ship](https://fas.org/man/dod-101/sys/ship/tacs-4.htm). The primary
@@ -46,24 +48,26 @@ purpose of these ships is to provide heavy lift cranes in the landing
 area, they are much more effective once a port is available but can
 operate their equipment at sea. These large ships have the additional
 capability to transport 711 standard sized containers of stores and
-supplies to the landing area.
+supplies to the landing
+area.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image2.jpg" style="width:6.60417in;height:4.72198in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image2.jpg)
 
-T-ACS 1 USNS Keystone State unloading a freighter
+T-ACS 1 USNS Keystone State unloading a
+freighter
 
-| Class          | Pennant  | <u>Name</u>                                                                         | Fleet     | Home Port    | Task    |
-|----------------|----------|-------------------------------------------------------------------------------------|-----------|--------------|---------|
-| Keystone State | T-ACS 1  | [Keystone State](https://en.wikipedia.org/wiki/SS_Keystone_State_(T-ACS-1))         | RRF       | Alameda CA   | 1 MEF   |
-|                | T-ACS 2  | [Gem State](https://en.wikipedia.org/wiki/SS_Gem_State_(T-ACS-2))                   | RRF       | Alameda CA   | 1 MEF   |
-|                | T-ACS 3  | [Grand Canyon State](https://en.wikipedia.org/wiki/SS_Grand_Canyon_State_(T-ACS-3)) | RRF       | Alameda CA   | 1 MEF   |
-| Gopher State   | T-ACS 4  | [Gopher State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                      | Army MPS  | Guam         | I Corps |
-|                | T-ACS 5  | [Flickertail State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                 | MPS Sqn 3 | Cheatham Anx | 3 MEF   |
-|                | T-ACS 6  | [Cornhusker State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                  | MPS Sqn 3 | Cheatham Anx | 3 MEF   |
-|                | T-ACS 7  | [Diamond State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                     | MPS Sqn 1 | Houston      | 2 MEF   |
-|                | T-ACS 8  | [Equality State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                    | MPS Sqn 1 | Houston      | 2 MEF   |
-|                | T-ACS 9  | [Green Mountain State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)              | MPS Sqn 2 | Vancouver    | Diego G |
-|                | T-ACS 10 | [Beaver State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                      | RRF       | Portland     | I Corps |
+| Class          | Pennant  | <span class="underline">Name</span>                                                   | Fleet     | Home Port    | Task    |
+| -------------- | -------- | ------------------------------------------------------------------------------------- | --------- | ------------ | ------- |
+| Keystone State | T-ACS 1  | [Keystone State](https://en.wikipedia.org/wiki/SS_Keystone_State_\(T-ACS-1\))         | RRF       | Alameda CA   | 1 MEF   |
+|                | T-ACS 2  | [Gem State](https://en.wikipedia.org/wiki/SS_Gem_State_\(T-ACS-2\))                   | RRF       | Alameda CA   | 1 MEF   |
+|                | T-ACS 3  | [Grand Canyon State](https://en.wikipedia.org/wiki/SS_Grand_Canyon_State_\(T-ACS-3\)) | RRF       | Alameda CA   | 1 MEF   |
+| Gopher State   | T-ACS 4  | [Gopher State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                        | Army MPS  | Guam         | I Corps |
+|                | T-ACS 5  | [Flickertail State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                   | MPS Sqn 3 | Cheatham Anx | 3 MEF   |
+|                | T-ACS 6  | [Cornhusker State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                    | MPS Sqn 3 | Cheatham Anx | 3 MEF   |
+|                | T-ACS 7  | [Diamond State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                       | MPS Sqn 1 | Houston      | 2 MEF   |
+|                | T-ACS 8  | [Equality State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                      | MPS Sqn 1 | Houston      | 2 MEF   |
+|                | T-ACS 9  | [Green Mountain State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                | MPS Sqn 2 | Vancouver    | Diego G |
+|                | T-ACS 10 | [Beaver State](http://fas.org/man/dod-101/sys/ship/tacs-4.htm)                        | RRF       | Portland     | I Corps |
 
 **AVB**: [Auxiliary Aviation
 Repair](https://fas.org/man/dod-101/sys/ship/tavb-3.htm). The primary
@@ -71,14 +75,15 @@ purpose of these ships is to deliver fixed and rotary wing repair and
 maintenance equipment, supplies, and workshops for the Marine Air Wing
 to a secure port facility. The maintenance facility can either operate
 from on board the ship, at a nearby base or a combination of both
-configurations. These two ships are unique to the USMC.
+configurations. These two ships are unique to the
+USMC.
 
-| Class | Pennant | Name                                                      | Fleet    | Home Port | Task   |
-|-------|---------|-----------------------------------------------------------|----------|-----------|--------|
-| Write | T-AVB 3 | [Wright](http://fas.org/man/dod-101/sys/ship/tavb-3.htm)  | Atlantic | Baltimore |  2 MEF |
-|       | T-AVB 4 | [Curtiss](http://fas.org/man/dod-101/sys/ship/tavb-3.htm) | Pacific  | Oakland   |  3 MEF |
+| Class | Pennant | Name                                                      | Fleet    | Home Port | Task  |
+| ----- | ------- | --------------------------------------------------------- | -------- | --------- | ----- |
+| Write | T-AVB 3 | [Wright](http://fas.org/man/dod-101/sys/ship/tavb-3.htm)  | Atlantic | Baltimore | 2 MEF |
+|       | T-AVB 4 | [Curtiss](http://fas.org/man/dod-101/sys/ship/tavb-3.htm) | Pacific  | Oakland   | 3 MEF |
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image3.jpg" style="width:6.39312in;height:2.76042in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image3.jpg)
 
 T-AVB-3 USNS Wright
 
@@ -88,14 +93,15 @@ hospital ships are designed to provide rapid and effective medial
 treatment facilities close an amphibious operation. These ships are not
 specifically designed to support the Marines but that is an obvious task
 for them. Each ship has 12 operating theaters and a 1000 bed holding
-facility with a wide range of medical capabilities.
+facility with a wide range of medical
+capabilities.
 
-| Class | Pennant | Name                                                                   | Fleet    | Home Port  | Task |
-|-------|---------|------------------------------------------------------------------------|----------|------------|------|
-| Mercy | T-AH-19 | [<u>Mercy</u>](https://en.wikipedia.org/wiki/USNS_Mercy_(T-AH-19))     | Pacific  |  Oakland   |      |
-|       | T-AH-20 | [<u>Comfort</u>](https://en.wikipedia.org/wiki/USNS_Comfort_(T-AH-20)) | Atlantic |  Baltimore |      |
+| Class | Pennant | Name                                                                                             | Fleet    | Home Port | Task |
+| ----- | ------- | ------------------------------------------------------------------------------------------------ | -------- | --------- | ---- |
+| Mercy | T-AH-19 | [<span class="underline">Mercy</span>](https://en.wikipedia.org/wiki/USNS_Mercy_\(T-AH-19\))     | Pacific  | Oakland   |      |
+|       | T-AH-20 | [<span class="underline">Comfort</span>](https://en.wikipedia.org/wiki/USNS_Comfort_\(T-AH-20\)) | Atlantic | Baltimore |      |
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image4.jpeg" style="width:6.5in;height:4.45694in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image4.jpeg)
 
 T-AH-19 USNS Mercy
 
@@ -108,31 +114,32 @@ and Tule Greenland replenished. In wartime they would first keep
 amphibious forces fueled and then pump various petroleum types (Diesel,
 Aviation fuel, Gasoline) ashore before returning to port for
 replenishment. These ships are not tied to home ports or generally
-assigned to fleets.
+assigned to
+fleets.
 
-| Class           | Pennant    | Name                                                                                                                 | Task                    |
-|-----------------|------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|
-| Sealift         | T-AOT-168  | Sealift Pacific                                                                                                      |                         |
-|                 | T-AOT-169  | Sealift Arabian Sea                                                                                                  | 8<sup>th</sup> Mar Regt |
-|                 | T-AOT-170  | Sealift China Sea                                                                                                    |                         |
-|                 | T-AOT-171  | Sealift Indian Ocean                                                                                                 |                         |
-|                 | T-AOT-172  | Sealift Atlantic                                                                                                     | 6<sup>th</sup> Mar Regt |
-|                 | T-AOT-173  | Sealift Mediterranean                                                                                                |                         |
-|                 | T-AOT-174  | Sealift Caribbean                                                                                                    |                         |
-|                 | T-AOT-175  | Sealift Arctic                                                                                                       |                         |
-|                 | T-AOT-176  | Sealift Antarctic                                                                                                    |                         |
-|                 | T-AOT-181  | Potomac                                                                                                              | Diego Garcia            |
-| Champion        | T-AOT-1121 | [MV Gus W. Darnell](https://en.wikipedia.org/w/index.php?title=MV_Gus_W._Darnell_(T-AOT-1121)&action=edit&redlink=1) | 2 MEF                   |
-|                 | T-AOT-1122 | [USNS Paul Buck](https://en.wikipedia.org/wiki/USNS_Paul_Buck_(T-AOT-1122))                                          |                         |
-|                 | T-AOT-1123 | [USNS Samuel L. Cobb](https://en.wikipedia.org/wiki/USNS_Samuel_L._Cobb_(T-AOT-1123))                                |                         |
-|                 | T-AOT-1124 | [Richard G. Matthiesen](https://en.wikipedia.org/wiki/USNS_Richard_G._Matthiesen_(T-AOT-1124))                       |                         |
-|                 | T-AOT-1125 | [Lawrence H. Gianella](https://en.wikipedia.org/wiki/USNS_Lawrence_H._Gianella_(T-AOT-1125))                         |                         |
-| American Osprey | T-AOT-5074 | [American Osprey](https://fas.org/man/dod-101/sys/ship/taot-5075.htm)                                                |                         |
-| Tonti           | T-AOG 82   | [Chattahoochee](http://www.navsource.org/archives/09/20/2082.htm)                                                    | Gasoline only           |
+| Class           | Pennant    | Name                                                                                                                   | Task                    |
+| --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Sealift         | T-AOT-168  | Sealift Pacific                                                                                                        |                         |
+|                 | T-AOT-169  | Sealift Arabian Sea                                                                                                    | 8<sup>th</sup> Mar Regt |
+|                 | T-AOT-170  | Sealift China Sea                                                                                                      |                         |
+|                 | T-AOT-171  | Sealift Indian Ocean                                                                                                   |                         |
+|                 | T-AOT-172  | Sealift Atlantic                                                                                                       | 6<sup>th</sup> Mar Regt |
+|                 | T-AOT-173  | Sealift Mediterranean                                                                                                  |                         |
+|                 | T-AOT-174  | Sealift Caribbean                                                                                                      |                         |
+|                 | T-AOT-175  | Sealift Arctic                                                                                                         |                         |
+|                 | T-AOT-176  | Sealift Antarctic                                                                                                      |                         |
+|                 | T-AOT-181  | Potomac                                                                                                                | Diego Garcia            |
+| Champion        | T-AOT-1121 | [MV Gus W. Darnell](https://en.wikipedia.org/w/index.php?title=MV_Gus_W._Darnell_\(T-AOT-1121\)&action=edit&redlink=1) | 2 MEF                   |
+|                 | T-AOT-1122 | [USNS Paul Buck](https://en.wikipedia.org/wiki/USNS_Paul_Buck_\(T-AOT-1122\))                                          |                         |
+|                 | T-AOT-1123 | [USNS Samuel L. Cobb](https://en.wikipedia.org/wiki/USNS_Samuel_L._Cobb_\(T-AOT-1123\))                                |                         |
+|                 | T-AOT-1124 | [Richard G. Matthiesen](https://en.wikipedia.org/wiki/USNS_Richard_G._Matthiesen_\(T-AOT-1124\))                       |                         |
+|                 | T-AOT-1125 | [Lawrence H. Gianella](https://en.wikipedia.org/wiki/USNS_Lawrence_H._Gianella_\(T-AOT-1125\))                         |                         |
+| American Osprey | T-AOT-5074 | [American Osprey](https://fas.org/man/dod-101/sys/ship/taot-5075.htm)                                                  |                         |
+| Tonti           | T-AOG 82   | [Chattahoochee](http://www.navsource.org/archives/09/20/2082.htm)                                                      | Gasoline only           |
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image5.gif" style="width:6.5in;height:2.69931in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image5.gif)
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image6.jpeg" style="width:6.5in;height:4.26389in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image6.jpeg)
 
 **T-AOT 1122 USNS Paul Buck delivering fuel in Antarctica**
 
@@ -150,9 +157,10 @@ The RRF ships must be ready to sail and receive cargo within 5-10 days,
 those at 5 days’ readiness maintain a skeleton crew.
 
 **MCDS**: Mechanized Cargo Delivery System allows a dry cargo merchant
-ship to provide limited Underway Replenishment of naval vessels.
+ship to provide limited Underway Replenishment of naval
+vessels.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image7.jpg" style="width:6.4375in;height:4.82184in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image7.jpg)
 
 **MCDS**: Mechanized Cargo Delivery System
 
@@ -165,7 +173,7 @@ tug to a different area (smaller port or upriver) allowing the ship to
 depart the landing area quickly or to load empty barges before
 departing.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image8.jpg" style="width:6.5in;height:2.79653in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image8.jpg)
 
 T-AK 1005 USNS Austral Rainbow with 75 LASH barges and two pusher boats
 
@@ -175,24 +183,26 @@ T-AK 1005 USNS Austral Rainbow with 75 LASH barges and two pusher boats
 specific jobs, [**AK-9204 Strong
 Virginian**](https://fas.org/man/dod-101/sys/ship/takr-9025.htm) is part
 of MPS 2. Normally transporting a 500 bed containerized hospital, this
-photo shows, it is quite versatile.
+photo shows, it is quite
+versatile.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image9.jpg" style="width:6.3125in;height:4.23548in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image9.jpg)
 
 AK-9204 Strong Virginian
 
 **RO-RO**: Roll On – Roll Off ships for rapid loading and unloading of
 vehicles such as the six [‘Cape’
 Class](https://fas.org/man/dod-101/sys/ship/takr-roro.htm) ships shown
-here as part of the RRF in Charleston South Carolina:
+here as part of the RRF in Charleston South
+Carolina:
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image10.jpg" style="width:6.04167in;height:3.97033in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image10.jpg)
 
-**Container ships** of various types some are also RO-RO such as [**T-AK
-9301 Buffalo
+**Container ships** of various types some are also RO-RO such as
+[**T-AK 9301 Buffalo
 Soldier**](https://fas.org/man/dod-101/sys/ship/tak-9301.htm).
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image11.jpg" style="width:6.07292in;height:4.03849in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image11.jpg)
 
 T-AK 9301 Buffalo Soldier
 
@@ -202,18 +212,20 @@ cruise at 27 knots, a full 10 knots faster than other RO-RO ships and
 have a maximum speed of 33 knots. Their speed and capacity make them
 invaluable for the rapid movement of equipment to Europe. During the
 Gulf War each of these ships delivered the equivalent cargo of 116 World
-War Two Liberty ships, in an equivalent time.
+War Two Liberty ships, in an equivalent
+time.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image12.jpg" style="width:6.5in;height:3.73681in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image12.jpg)
 
 T-AKR 287 Algol
 
 **Flo-Flo**: Float On – Float Off. **[T-AK 2062 American
 Cormorant](https://fas.org/man/dod-101/sys/ship/tak-2062.htm)** is used
 in MPS 2 at Diego Garcia to deliver small boats and LCUs as well as a
-floating crane to a landing area.
+floating crane to a landing
+area.
 
-<img src="/assets\images\nato\us\navy\amphibious\support-ships\media\image13.jpg" style="width:7.03321in;height:4.67708in" />
+![](/assets/images/nato/us/navy/amphibious/support-ships/image13.jpg)
 
 T-AK 2062 American Cormorant unloading.
 
@@ -489,7 +501,7 @@ Cargo Ship List:
 <td>Bulk</td>
 <td>Cape A</td>
 <td>T-AK-5005</td>
-<td><u>Adventurer</u></td>
+<td><span class="underline">Adventurer</span></td>
 <td>Atlantic</td>
 <td>James River</td>
 <td>RRF</td>
@@ -507,7 +519,7 @@ Cargo Ship List:
 <td> </td>
 <td> </td>
 <td>T-AK-5007</td>
-<td><u>Ambassador</u></td>
+<td><span class="underline">Ambassador</span></td>
 <td>Atlantic</td>
 <td>James River</td>
 <td>RRF</td>
@@ -912,7 +924,7 @@ Cargo Ship List:
 <td> </td>
 <td>Merlin</td>
 <td>AK-9302</td>
-<td><u>American Merlin</u></td>
+<td><span class="underline">American Merlin</span></td>
 <td>MPS Sqn 2</td>
 <td>Diego Garcia</td>
 <td>Container RoRo</td>

@@ -1,6 +1,6 @@
 **Indian Ocean Fury \#3 – Socotra Scramble**
 
-**<u>Playtest Report by AndrewJ July 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ July 2017</span>**
 
 ***From Primarchx:*** I hit the three closest airbases to Thumrait
 nearly immediately in quick succession. The closer two with Jaguars and
@@ -19,7 +19,7 @@ Meanwhile Nimitz is probing Socotra, taking out radars and interceptors
 while goading any hidden SAMs to come on line. Having a load of fun with
 this one
 
---------------------------------
+\--------------------------------
 
 I took the opposite approach, launching an immediate and massive strike
 on Socotra which arrived just as dawn broke. Carrier aircraft approached
@@ -49,21 +49,21 @@ environment like Socotra, and I don't feel like using them in the day
 when everyone can see them a mile away. I'm actually thinking about
 using them to hit Khartoum when it gets dark again. They've got the legs
 for it, and if ever there was a place that shouted "Please base Badgers
-here!" it's Khartoum. A big base with facilities for very large aircraft
-which is safely isolated far behind the front lines would be ideal for
-bombers. But we've no evidence that anything is there. Hmmm...As the
-Socotra strike heads for home, the four F-14s with the longest range
-loadouts (which haven't yet used any of their ordnance) are refuelled
-and directed to head west and tangle with forces in the Aden area. After
-initial successes against Mig-21s patrolling the area they head NNW
-towards Sana'a, and start running into more credible opposition in the
-form of Mig-23s and Mig-29s, and a couple of support planes. Their range
-advantage keeps them out of immediate danger, and they manage to get a
-decent score before running away back towards the tanker with their
-tanks nearly dry. (In retrospect, maybe I should have sent more of the
-heavy CAP F-14s along, and tried to get a more decisive engagement. But
-I'm nervous about leaving the carrier so undefended, so I hurried them
-home instead.)
+here\!" it's Khartoum. A big base with facilities for very large
+aircraft which is safely isolated far behind the front lines would be
+ideal for bombers. But we've no evidence that anything is there.
+Hmmm...As the Socotra strike heads for home, the four F-14s with the
+longest range loadouts (which haven't yet used any of their ordnance)
+are refuelled and directed to head west and tangle with forces in the
+Aden area. After initial successes against Mig-21s patrolling the area
+they head NNW towards Sana'a, and start running into more credible
+opposition in the form of Mig-23s and Mig-29s, and a couple of support
+planes. Their range advantage keeps them out of immediate danger, and
+they manage to get a decent score before running away back towards the
+tanker with their tanks nearly dry. (In retrospect, maybe I should have
+sent more of the heavy CAP F-14s along, and tried to get a more decisive
+engagement. But I'm nervous about leaving the carrier so undefended, so
+I hurried them home instead.)
 
 I had originally intended to have all my naval forces rendezvous NE of
 Socotra and proceed along the N shore of the Gulf of Aden, but looking
@@ -105,20 +105,20 @@ inform) when my ships get closer. Should I risk international censure
 and sink them? Probably not a good idea at this point. Maybe I'll have
 to risk a frigate to see how they'll respond to a warship.
 
-----------
+\----------
 
-Ha ha ha! We the French are ready for your perfidious sneak attack from
-behind! Victory is ours!
+Ha ha ha\! We the French are ready for your perfidious sneak attack from
+behind\! Victory is ours\!
 
 Er, a second incoming wave, you say?
 
-Zut alors!
+Zut alors\!
 
---
+\--
 
-Good lord, it's an An-2! It's just like an RPV, only slower...
+Good lord, it's an An-2\! It's just like an RPV, only slower...
 
----
+\---
 
 **Playthrough**
 
@@ -137,7 +137,7 @@ many shots from my I-HAWKs, and micro-managed cannon fire to keep them
 out of my airbase. Even my little frigate took a few shots with its deck
 gun as the attackers came rushing in - and that was a problem, because
 the attackers radioed back the position of the little frigate to the
-anti-carrier strike units!
+anti-carrier strike units\!
 
 These started to show up on radar just as I was congratulating myself on
 my hair-thin victory, and it was clear I wouldn't be able to stop them

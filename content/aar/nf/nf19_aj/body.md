@@ -1,12 +1,12 @@
 **Northern Fury – Decapitation**
 
-**<u>Playtest Report by AndrewJ Jan 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Jan 2017</span>**
 
-Wow! Nothing says "you've been working your planes too hard" like a
+Wow\! Nothing says "you've been working your planes too hard" like a
 hangar full of red...
 
 My first strike wave is coming back now, and most high priority targets
-have been destroyed (sing the praises of the TALD - Hallelujah!). First
+have been destroyed (sing the praises of the TALD - Hallelujah\!). First
 I tried sneaking some TLAMs through the valleys before the strike, and
 it actually worked reasonably well. For \~ 27 TLAMs at 2-3 per target I
 was able to pick off \~ 8 or so high value targets before engaging the
@@ -44,7 +44,7 @@ time against a reloaded SA-20 with its radar on from the beginning...
 Hopefully I'll be able to deal with it for good, and then run in with
 the Greenland bombers to deal with various warehouses etc.
 
-Mission complete!
+Mission complete\!
 
 More air-to-air skirmishing went on while I waited for wave 2, mainly
 because I went north to do CSAR 1, and then sent the helicopter's CAP
@@ -72,7 +72,7 @@ SA-20, but the site declined to fire as we got closer and closer and
 closer, holding its fire and refusing to waste missiles on decoys. But
 then it turned out it was out of missiles after all, having used its
 last few to take potshots at the tail end of retreating Wave 1. So much
-for my massive carefully planned assault on empty missile tubes! With
+for my massive carefully planned assault on empty missile tubes\! With
 the long range SAMs down the rest of the aircraft were able to work over
 the remaining targets at their leisure, getting most of them. (Some of
 the Hafnarfjordur strikes had to be waved off because the targets were

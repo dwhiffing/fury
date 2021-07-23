@@ -1,16 +1,16 @@
 **Northern Fury – Here Comes the Cavalry**
 
-**<u>Playtest Report by AndrewJ Oct 2015</u>**
+**<span class="underline">Playtest Report by AndrewJ Oct 2015</span>**
 
 Plans made, courses laid in, CAP and ELINT patrols spread out, and one
 reckless Sierra destroyed. Now the long wait through the night,
 monitoring the patrol paths of the Badgers, Mainstays, and Cubs, and
 cursing the limitations which prevent me from taking them down. Wait
-until tomorrow?? No action north of 65º??? GAAAAHHHHH! I know I could
+until tomorrow?? No action north of 65º??? GAAAAHHHHH\! I know I could
 bite off some of those juicy jammers and ELINT planes right now if it
 wasn't for those damned orders saying don't. All those valuable
 vulnerable support planes north of Iceland, just out of reach by
-regulations. I can't take it!
+regulations. I can't take it\!
 
 The quiet night continues... Things are relatively still on the big
 ships. ESM operators stare at their glowing screens, continuing to
@@ -19,9 +19,9 @@ their bunks and try futilely to get some sleep before the big day.
 
 But under the waves, the San Juan, cruising at 20 kts towards the
 carrier groups, has a direct path submerged contact in the layer. Slow
-to 5 kts! SSN for sure, but what type? Has it seen us? Can we wait for
+to 5 kts\! SSN for sure, but what type? Has it seen us? Can we wait for
 aircraft to deal with it safely? The San Juan turns west, then east, and
-the contact changes course to intercept each time. We've been had! Two
+the contact changes course to intercept each time. We've been had\! Two
 Mk 48s spread shot BOL, low speed at kinematic range, then duck under
 the layer and turn to run at flank in case he's already launched.
 Hopefully he'll evade, get pushed away, and lose us while he's running.
@@ -38,9 +38,9 @@ their bunks and try futilely to get some sleep before the big day.
 
 But under the waves, the San Juan, cruising at 20 kts towards the
 carrier groups, has a direct path submerged contact in the layer. Slow
-to 5 kts! SSN for sure, but what type? Has it seen us? Can we wait for
+to 5 kts\! SSN for sure, but what type? Has it seen us? Can we wait for
 aircraft to deal with it safely? The San Juan turns west, then east, and
-the contact changes course to intercept each time. We've been had! Two
+the contact changes course to intercept each time. We've been had\! Two
 Mk 48s spread shot BOL, low speed at kinematic range, then duck under
 the layer and turn to run at flank in case he's already launched.
 Hopefully he'll evade, get pushed away, and lose us while he's running.
@@ -52,7 +52,7 @@ carrier group.
 
 The night continues... Busy night for San Juan...
 
-CZ contact NNW! The San Juan cuts back to creep again, and the contact
+CZ contact NNW\! The San Juan cuts back to creep again, and the contact
 firms up rapidly. 1st CZ, under the layer, definitely an SSN, cruising
 on a course towards our position at the end of our speed run. Looks like
 he heard us charging around at flank speed in the deep sound channel and
@@ -119,7 +119,7 @@ reserved for clumsier Mig-23s (when I don't happen to be pointing at an
 enemy jammer). I try to keep my distance, so Sidewinder shots are rare
 (I've only used 7 so far). Besides, a Sidewinder launch usually means an
 Archer is coming my way in return, which is a bad exchange. Distance is
-my friend!
+my friend\!
 
 Attack wave 2 went in several hours later, with a ground attack
 component of F-18s toting SLAMs, HARMS, and TALDs following the fighters

@@ -26,14 +26,14 @@ Bardufoss with 4 additional ‘B’ model aircraft, elements of 4-6 aircraft
 are dispersed to Banak, Tromso and Evenes and they are maintaining a
 24/7 Combat Air Patrol(CAP).
 
-| Sqn | Name  | Location | No.  | Type  | Remarks  |
-|-----|-------|----------|------|-------|----------|
-| 331 | Lion  | Bodo     | 16+4 | F-16A | +4 F-16B |
-| 332 | Eagle | Regge    | 16   | F-16A |          |
-| 334 | Cola  | Bodo     | 16   | F-16A |          |
-| 338 | Tiger | Orland   | 12+4 | F-16A | +4 MLU   |
+| Sqn | Name  | Location | No.  | Type  | Remarks   |
+| --- | ----- | -------- | ---- | ----- | --------- |
+| 331 | Lion  | Bodo     | 16+4 | F-16A | \+4 F-16B |
+| 332 | Eagle | Regge    | 16   | F-16A |           |
+| 334 | Cola  | Bodo     | 16   | F-16A |           |
+| 338 | Tiger | Orland   | 12+4 | F-16A | \+4 MLU   |
 
-<img src="/assets\images\nato\no\air\media\image1.jpeg" style="width:5.10417in;height:3.55383in" />
+![](/assets/images/nato/no/air/image1.jpeg)
 
 [**F-5 Tiger II**](https://fas.org/man/dod-101/sys/ac/f-5.htm)
 
@@ -46,14 +46,14 @@ active in 1992. Although dated these aircraft were available and
 airworthy so were used to fill a gap.
 
 | Sqn | Name      | Location   | No. | Type          | Remarks  |
-|-----|-----------|------------|-----|---------------|----------|
-| 336 | Tigers    | Rygge      | 24  | F-5 Tiger II  |          |
-| 339 | Jager     | Orland     | 24  | F-5 Tiger II  |          |
-| 340 | Fox       | Gardermoen | 24  | F-5 Tiger II  |          |
+| --- | --------- | ---------- | --- | ------------- | -------- |
+| 336 | Tigers    | Rygge      | 24  | F-5 Tiger II  |          |
+| 339 | Jager     | Orland     | 24  | F-5 Tiger II  |          |
+| 340 | Fox       | Gardermoen | 24  | F-5 Tiger II  |          |
 | 717 | Raven     | Rygge      | 16  | RF-5 Tiger II | Recon    |
 | 718 | Night Owl | Sola       | 14  | F-5B Tiger II | Training |
 
-<img src="/assets\images\nato\no\air\media\image2.jpg" style="width:6.5in;height:4.39792in" />
+![](/assets/images/nato/no/air/image2.jpg)
 
 **Falcon 20**
 
@@ -62,7 +62,7 @@ Warfare (EW) aircraft. These were civilian pattern Dassaut Falcon
 executive jets, heavily modified and sold to several air forces as a
 stop-gap area EW platform. The programme was quite successful.
 
-<img src="/assets\images\nato\no\air\media\image3.jpeg" style="width:3.375in;height:2.25in" />
+![](/assets/images/nato/no/air/image3.jpeg)
 
 **P-3C & P-3N Orion**
 
@@ -73,7 +73,7 @@ Guard and were unable to carry weapons, did not have a Magnetic Anomaly
 Detector or Sonobuoys and was only able to conduct area surveillance and
 other non-military missions.
 
-<img src="/assets\images\nato\no\air\media\image4.jpeg" style="width:3.41333in;height:2.27667in" />
+![](/assets/images/nato/no/air/image4.jpeg)
 
 **C-130 Hercules**
 
@@ -81,7 +81,7 @@ No. 335 Sqn flying out of Gardermoen air base operated six C-130H
 Hercules conducting routine transport tasks for all branches of the
 service including the Coast Guard.
 
-<img src="/assets\images\nato\no\air\media\image5.jpg" style="width:6.5in;height:3.86667in" />
+![](/assets/images/nato/no/air/image5.jpg)
 
 **Sea King**
 
@@ -91,7 +91,7 @@ utility tasks. No. 330 ‘Viking’ Sqn operates 12 aircraft and are
 dispersed in groups of two or three throughout Norway as required by the
 Coast Guard.
 
-<img src="/assets\images\nato\no\air\media\image6.jpeg" style="width:5.60417in;height:3.73378in" />
+![](/assets/images/nato/no/air/image6.jpeg)
 
 **Lynx**
 
@@ -101,11 +101,11 @@ conduct may other tasks, they are not armed. They spend two weeks at a
 time on board the Nordkapp class OPVs as well as conducting routine
 rescue and utility work.
 
-<img src="/assets\images\nato\no\air\media\image7.jpeg" style="width:4.67708in;height:2.56725in" />
+![](/assets/images/nato/no/air/image7.jpeg)
 
 **Bell 412**
 
 Primarily used for army transport the 12 ‘Twin Huey’ operated by 441 Sqn
 are based at Gardermoen air base.
 
-<img src="/assets\images\nato\no\air\media\image8.jpg" style="width:6.5in;height:3.71319in" />
+![](/assets/images/nato/no/air/image8.jpg)

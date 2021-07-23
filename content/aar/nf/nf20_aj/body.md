@@ -1,12 +1,12 @@
 **Northern Fury – BUFF Stampede**
 
-**<u>Playtest Report by AndrewJ Feb 2016</u>**
+**<span class="underline">Playtest Report by AndrewJ Feb 2016</span>**
 
 I finally had a chance to try this one out. I think my approach was
 reasonably conventional.
 
 After some initial sniffing around with the RC-135, TR-1, and P-3
-(goodbye AGI!) I decided to use two of my TLAM allowance to remove the
+(goodbye AGI\!) I decided to use two of my TLAM allowance to remove the
 central surveillance radar and provoke the local radars to illuminate,
 and send pairs of the remainder to try and mess up the small southern
 island airport and the two western-most small airports on the N side of
@@ -64,7 +64,7 @@ that popped up. (Although things got a bit hairy at one point when I was
 confidently facing off against Su-27s. They had no jammers, and I was
 screened by 4 of them. Nice and safe, right? Except the buggers were
 cheerfully ignoring their radars, and using their IRSTs to lob long
-range IR-guided Bs and Ds at me, dammit!)
+range IR-guided Bs and Ds at me, dammit\!)
 
 Up to this point I'd stayed away from Hornafjordur in the SE corner of
 Iceland. I hadn't seen any modern long-range SAMs in the Ryk/Kef area so

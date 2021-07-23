@@ -1,6 +1,6 @@
 **Hellenic** **Army**
 
-<img src="/assets\images\nato\gr\army\media\image1.png" style="width:7.17708in;height:4.76775in" />
+![](/assets/images/nato/gr/army/image1.png)
 
 The Hellenic (Greek) army is primarily an infantry based force but they
 do have one Armored Davison, a Mechanized Division and three Armoured
@@ -33,49 +33,50 @@ Leopards while 2<sup>nd</sup> Mechanized Division would use M60s, as
 would the tank battalions in all other formations. The M47 and M48 MBT
 are probably in reserve.
 
--   396 M47 Patton
+  - 396 M47 Patton
 
--   390 M48A5 MOLF
+  - 390 M48A5 MOLF
 
--   357 M60A1 RISE
+  - 357 M60A1 RISE
 
--   312 M60A3 TTS
+  - 312 M60A3 TTS
 
--   104 Leopard 1A3
+  - 104 Leopard 1A3
 
--   190 AMX-30
+  - 190 AMX-30
 
-<img src="/assets\images\nato\gr\army\media\image2.jpg" style="width:6.5in;height:4.33056in" />
+![](/assets/images/nato/gr/army/image2.jpg)
 
 **APC**
 
 With almost 3000 Armored Personal Carriers (APC) available the Greeks
 have more than enough to equip the one mechanized division. Therefore
-it’s quite likely that some or all of the light infantry formations have
-some mechanized capability as well as much of the supporting forces. The
-Leonidas is a locally designed APC built in conjunction with Austria.
+it’s quite likely that some or all of the light infantry formations
+have some mechanized capability as well as much of the supporting
+forces. The Leonidas is a locally designed APC built in conjunction with
+Austria.
 
--   2500 M113, including:
+  - 2500 M113, including:
+    
+      - 257 M106A1 Mortar carriers
+    
+      - 362 M901A1 ITV
+    
+      - 12 M113 TOW
+    
+      - 249 M577A2
 
-    -   257 M106A1 Mortar carriers
+  - 100 Leonidas I
 
-    -   362 M901A1 ITV
+  - 344 Leonidas II
 
-    -   12 M113 TOW
-
-    -   249 M577A2
-
--   100 Leonidas I
-
--   344 Leonidas II
-
-<img src="/assets\images\nato\gr\army\media\image3.jpg" style="width:6.54167in;height:4.37414in" />
+![](/assets/images/nato/gr/army/image3.jpg)
 
 Leonidas II
 
 **Reconnaissance**
 
-<img src="/assets\images\nato\gr\army\media\image4.jpg" style="width:5.02083in;height:3.34722in" />
+![](/assets/images/nato/gr/army/image4.jpg)
 
 Reconnaissance battalions are equipped with a combination of light
 wheeled vehicles and 242 French VBL 4-wheeled light armored vehicles.
@@ -89,23 +90,23 @@ post WW2 equipment to some more modern versions. Close support
 throughout the army is provided by 105mm guns while general support is
 conducted by 155mm and heavy artillery.
 
--   18 Mod 56, 105mm Pack howitzer
+  - 18 Mod 56, 105mm Pack howitzer
 
--   478 M101, 105mm towed howitzer
+  - 478 M101, 105mm towed howitzer
 
--   180 M102, 105mm towed howitzer
+  - 180 M102, 105mm towed howitzer
 
--   325 M114, 155mm towed howitzer
+  - 325 M114, 155mm towed howitzer
 
--   84 M115, 155mm towed howitzer
+  - 84 M115, 155mm towed howitzer
 
--   130 M109 A1B/A2, 155mm SP howitzer
+  - 130 M109 A1B/A2, 155mm SP howitzer
 
--   12 M107, 175mm SP howitzer
+  - 12 M107, 175mm SP howitzer
 
--   28 M110A2, 8” SP howitzer
+  - 28 M110A2, 8” SP howitzer
 
-<img src="/assets\images\nato\gr\army\media\image5.jpeg" style="width:6.3125in;height:4.19189in" />
+![](/assets/images/nato/gr/army/image5.jpeg)
 
 **Air Defence**
 
@@ -113,16 +114,16 @@ The air defence systems, as many other elements in the Hellenic Army are
 dated. The I-Hawk is focused on defencing major infrastructure while the
 remainder is used for defence of the field force
 
--   101 RH-202 twin 20mm
+  - 101 RH-202 twin 20mm
 
--   24 Artemis twin 30mm
+  - 24 Artemis twin 30mm
 
--   227 Bofors 40mm
+  - 227 Bofors 40mm
 
--   101 M42 Duster twin 40mm
+  - 101 M42 Duster twin 40mm
 
--   42 I-Hawk
+  - 42 I-Hawk
 
--   FIM-43 Redeye MANPADS
+  - FIM-43 Redeye MANPADS
 
-<img src="/assets\images\nato\gr\army\media\image6.jpg" style="width:6.5in;height:4.875in" />
+![](/assets/images/nato/gr/army/image6.jpg)

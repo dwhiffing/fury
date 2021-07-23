@@ -1,11 +1,11 @@
 **Northern Fury \#41 – Tour de Force**
 
-**<u>Playtest Report by AndrewJ Feb 2020</u>**
+**<span class="underline">Playtest Report by AndrewJ Feb 2020</span>**
 
 ***Note: This scenario is quite large, and many changes were made based
 on Andrew’s fantastic reports which are shown below.***
 
----
+\---
 
 *"...at least five Oscar II SSGNs remain."*
 
@@ -16,9 +16,9 @@ run over some geriatric Whisky and lose a task group.
 
 All joking aside, this looks really challenging.
 
----
+\---
 
-Well, my usual slow rate of play hasn't improved - here's Day 1!
+Well, my usual slow rate of play hasn't improved - here's Day 1\!
 
 **THE SITUATION**
 
@@ -87,7 +87,7 @@ spot the launch location and launch a counter-attack if any missiles get
 fired.
 
 I do have some lone munitions ships near Keflavik, and these are ordered
-to stay put! I do not want them wandering around alone, where they can
+to stay put\! I do not want them wandering around alone, where they can
 blunder into some old SS and die. They are not to go anywhere until
 escorts arrive (probably TG Algonquin) in a few days.
 
@@ -104,16 +104,16 @@ can screen for incoming bombers and Bears, and the last thing I need is
 a MiG-25 or something popping up with an afterburner dash and picking
 off my slow soft targets.
 
-Therefore, 'Operation Northern Freedom' begins! My last few TLAMs in the
-region are launched immediately to eliminate the isolated radar stations
-(ignoring the space surveillance radars in the Globus array, which won't
-affect me), and then my aircraft start to patrol the vicinity of the
-island. It turns out that the Russians currently have some older MiG-23s
-and ASW planes patrolling near Svalbard, and there are several FFLs and
-patrol boats in the region. Mid-day fighter sweeps from the Roosevelt
-manage to take care of most of the MiGs, and the French Etendard pilots
-are quite happy to sink the largely defenceless light craft with
-Exocets.
+Therefore, 'Operation Northern Freedom' begins\! My last few TLAMs in
+the region are launched immediately to eliminate the isolated radar
+stations (ignoring the space surveillance radars in the Globus array,
+which won't affect me), and then my aircraft start to patrol the
+vicinity of the island. It turns out that the Russians currently have
+some older MiG-23s and ASW planes patrolling near Svalbard, and there
+are several FFLs and patrol boats in the region. Mid-day fighter sweeps
+from the Roosevelt manage to take care of most of the MiGs, and the
+French Etendard pilots are quite happy to sink the largely defenceless
+light craft with Exocets.
 
 In the meantime, preparations are put underway for the three northern
 carriers to try and shut the Svalbard runways late in the day.
@@ -145,7 +145,7 @@ northbound traffic. The biggest new item in the orders is a request for
 an alpha-strike on Bodo. Resources are limited, but I should be able to
 muster enough for a good strike after dark.
 
-**Oscar**!
+**Oscar**\!
 
 The Russians don't sit idly by an take my harassment on the chin. The
 first issue is the discovery of a fast-moving SSN near the Enterprise
@@ -164,9 +164,9 @@ the water pressure does the rest.
 The Alfa didn't get a shot off, but that doesn't mean it hadn't done
 damage. The Alfa had friends, and it had told them where we were. A few
 minutes later my E-2s start screaming about a cloud of high velocity
-sea-skimming missiles clearing the horizon from the north-east. Oscar!
+sea-skimming missiles clearing the horizon from the north-east. Oscar\!
 Fighters from the Enterprise and Roosevelt start dashing to intercept,
-when the E-2s call again. More missiles, these ones to the north-west!
+when the E-2s call again. More missiles, these ones to the north-west\!
 As my planes continue to scramble and intercept the first pack of
 missiles, it becomes evident that there are only two missiles coming in
 from the north-west, which is peculiar. Maybe some sort of hasty upgrade
@@ -439,7 +439,7 @@ down, I'm looking at the main Russian search radars with hostile intent.
 I'd love to knock those down, but I don't have precise enough locations
 on them to simply hit them with TLAMs. They're still deep in the SAM
 belt, so they may be out of reach for the moment. Planning staff are put
-on it. We shall see!
+on it. We shall see\!
 
 **DAY 3 (MARCH 20 1994)**
 
@@ -544,7 +544,7 @@ MiG-25s, but make it out intact in the end. In the meantime, one of my
 S-3s takes a moment to check up on the Murmansk fleet. It's still there,
 apparently resting at anchor, so for the moment all is well.
 
-**Damned Tango!**
+**Damned Tango\!**
 
 It's late-morning when the Russians hand me a serious setback. Urgent
 radio calls start coming in from one of my T-AOs off the south coast of
@@ -652,7 +652,7 @@ am unlikely to be able to interfere with) or even Svalbard (which would
 be a suicide run - if I can spot it). An S-3 and some F-14s are sent out
 for a coastal reconnaissance, and they find it slowly coming along the
 coast, just passing Murmansk – four tightly spaced central targets and
-three escorts. Alert the French!
+three escorts. Alert the French\!
 
 It takes a few hours to arrange, but, with the help of the VC-10 tankers
 out of Lossiemouth, the Clemenceau's complement of Etendards is sent
@@ -831,7 +831,7 @@ from a passive sonobuoy, yet remained undetected until it fired. This
 leads to another change in policy. Up to this point I'd been restricting
 myself to passive sonar, hoping to avoid alerting subs to my presence,
 but no more. I revert to my normal practice, and the order goes out for
-active sonar use on ships with powerful hull sonars. Let's blast away!
+active sonar use on ships with powerful hull sonars. Let's blast away\!
 Even if that draws them in, at least I'll see them in advance.
 
 (After their alarming experience, TG Algonquin docks alongside their
@@ -860,10 +860,10 @@ the ES-3 are confident they also picked up a tiny moving contact which
 had to be a surfaced or snorkelling sub headed into port. They also find
 the two escorts left over from yesterday's convoy, still headed west. By
 now the radar operators know the drill: For all your anti-shipping
-needs, call the Clemenceau! More Etendards make the flight, and although
-it takes a few more missiles (it's a daylight attack, so the ships can
-see the missiles incoming and shoot back), the results are the same, and
-the last of the convoy is sunk.
+needs, call the Clemenceau\! More Etendards make the flight, and
+although it takes a few more missiles (it's a daylight attack, so the
+ships can see the missiles incoming and shoot back), the results are the
+same, and the last of the convoy is sunk.
 
 **Rogachevo**
 
@@ -934,7 +934,7 @@ course. Or have tankers.)
 
 The not-so-good news is that they're sending 3 or 4 new battalions of
 modern heavy SAMs into the Bardufoss region. I just cleaned out
-Bardufoss! Hopefully they won't pop up just as I'm making operations in
+Bardufoss\! Hopefully they won't pop up just as I'm making operations in
 that area. Even with resupply, my HARM stocks are not endless, and these
 new forces may be tough to counter.
 
@@ -968,7 +968,7 @@ remaining destroyers and frigates that made it back to base. You know,
 the rag-tag remnants of their surface fleet. Instead, I've got five
 assorted Udaloys and Sovremennys, two Slavas, not one, but two Kirovs
 (when was the last time you saw that?), and, to my astonishment, the
-Kusnetsov! I thought she had sunk weeks ago.
+Kusnetsov\! I thought she had sunk weeks ago.
 
 **The Plan**
 
@@ -1018,7 +1018,7 @@ drops to low altitude, heading for Murmansk.
 As the strike approaches its launch point the distant ES-3 turns on its
 radar to illuminate the scene, only to find the ships have shuffled
 around some. They're not emitting, at the moment, so I'm no longer
-certain exactly who's who! There does seem to be a big contact in the
+certain exactly who's who\! There does seem to be a big contact in the
 exact same place the carrier was, and another pair of big contacts
 nearby, but the number of escorts seems to have diminished. Perhaps
 they've gone into port? )(Actually, it looks like some were lost in
@@ -1153,11 +1153,11 @@ neutralize their fleet. My F-14s are also operating in the area, making
 a series of sweeps towards Rogachevo, where they manage to shoot down
 some more of the MiG-25s.
 
-**SLCMs**!
+**SLCMs**\!
 
 Around noon, the AEW helicopter from the Ark Royal gets a vampire
 contact coming in from the north, sea-skimming at 500 knots, on a
-bearing for the new airbase at Jan Mayan. Cruise missile! Scramble
+bearing for the new airbase at Jan Mayan. Cruise missile\! Scramble
 orders immediately go out across the fleet, and AEW aircraft are pushed
 northward, trying to get a better look at potential launch zones. Radar
 operators search intently for the swarm of missiles following the first
@@ -1298,11 +1298,11 @@ The F-14s continue to head east, radars off, hoping to ID the orbiting
 bombers with their nose-mounted cameras before they are spotted
 themselves. They approach nervously, all too aware that there’s an SA-20
 lurking out there somewhere, until they finally resolve their targets.
-They're not bombers at all! It's a tight wagon-wheel of Su-27s, orbiting
-the Murmansk airbases. This is a bit of a conundrum. I'm outnumbered,
-they have better long-range missiles than I do, they're fuel-rich over
-their airbases, and I know there's at least one SA-20 and SA-10 in the
-region. Charging in is out of the question.
+They're not bombers at all\! It's a tight wagon-wheel of Su-27s,
+orbiting the Murmansk airbases. This is a bit of a conundrum. I'm
+outnumbered, they have better long-range missiles than I do, they're
+fuel-rich over their airbases, and I know there's at least one SA-20 and
+SA-10 in the region. Charging in is out of the question.
 
 What are they doing? They're awfully close-in for an effective CAP.
 Could they be waiting to escort some bombers I haven't spotted yet? Were
@@ -1381,7 +1381,7 @@ A returning TARPS bird is hastily vectored to a tanker, and then makes a
 burner dash into Bardufoss, arriving a few minutes before the incoming
 Soviet fighters. It hurtles across the airfield, just above the ceiling
 of the 57mm AAA which infests the area – but not above the 100mm guns
-which are mixed in among them! Thick black flack bursts envelop the
+which are mixed in among them\! Thick black flack bursts envelop the
 aircraft, and fragments rattle against the fuselage, but luckily the
 damage is minor, and the pilot makes it out with the news that yes, the
 runways are still wrecked.
@@ -1576,7 +1576,7 @@ heavy iron bombs, and even try cracking some of the hardened aircraft
 shelters, with limited success, F-18s from the Kennedy visit Bodo with
 another load of Walleyes, and succeed in wrecking more of the shelters
 there. It's expensive, but the captain has the munitions, and dammit,
-he's determined to use them! Interestingly, I find I'm keeping a large
+he's determined to use them\! Interestingly, I find I'm keeping a large
 proportion of my A-6s loaded for anti-shipping duty. Those two heavy
 cruisers in Murmansk are having a distinct "fleet in being" effect on my
 operations.
@@ -1597,7 +1597,7 @@ stealing his kill.
 
 The Brits get a kill of their own, later in the morning, when a Nimrod
 suddenly gets a radar contact in the open waters between Iceland and
-Norway. Somebody's snorkelling! It turns out to be an old Whiskey, and
+Norway. Somebody's snorkelling\! It turns out to be an old Whiskey, and
 she comes to a sudden end when the Stingray hits home. (This is the
 first snorkeller in six days - I had expected to see more.)
 
@@ -1620,7 +1620,7 @@ of SLAM-carrying A-6s. The intention is for the U-2 to take a quick
 look, and then for the A-6s to split north and south of Rogachevo, and
 engage the pair of surveillance radars there. However, what the U-2
 finds calls for a hasty change of plans. Rogachevo is packed with enemy
-planes! There are twenty of them, most of them look like MiG-25s, and
+planes\! There are twenty of them, most of them look like MiG-25s, and
 ramp space is so limited that they're jammed in three or four to a
 tarmac space. Oh, and there's an SA-10 (or better) parked in the open
 about 15 miles W of the airbase.
@@ -1659,7 +1659,7 @@ Afternoon brings some reconnaissance, some patrolling out towards
 Rogachevo, the shootdown of another pair of MiG-25s out there, and the
 polite cough of the Vinson’s liaison officer inquiring “By the way, sir,
 did you realize our magazines are completely out of Sparrows?” It seems
-all the heavy fighting with Su-27s and MiG-25s has used them up! The
+all the heavy fighting with Su-27s and MiG-25s has used them up\! The
 admiral heaves a heavy sigh, and proceeds to the next re-organization.
 Enterprise, the ‘spare’ carrier, is ordered to come back east and
 relieve Vinson. She’s been guarding the ASW bases from air attack, but
@@ -1758,7 +1758,7 @@ could be problematic, unless properly incinerated. Set aside the fact
 that we’ve been filling the oceans with wrecked nuclear reactors and
 broken tac-nukes, and littering the land with toxic compounds from
 ordnance and destroyed infrastructure… These missiles could be
-dangerous!
+dangerous\!
 
 F-14 TARPs birds set out to find the missiles, and they turn out to be
 near where we destroyed an SA-12 a few days back, which explains why
@@ -1775,14 +1775,14 @@ replenishment activity continue, but no major strikes or movements are
 currently planned. It looks like the pace on the ground will dictate the
 posture of the fleet, until new plans and priorities are established.
 
-And that is that! I think this is the second-longest scenario I’ve
+And that is that\! I think this is the second-longest scenario I’ve
 played, only behind the trans-Atlantic convoy scenario NF 12.6. Thanks
 very much for writing such a long and complex scenario for us.
 
 **General Impressions**
 
 This is a very interesting and involved scenario. I like big scenarios,
-and this one definitely qualifies! It's great to see large-scale
+and this one definitely qualifies\! It's great to see large-scale
 movements of ships and forces over time, and fuel and supply status
 really start to change the equation at this scale. It takes a lot of
 planning to make it run well, and I'm not sure I ever had my refuelling
@@ -1796,9 +1796,9 @@ definitely engaged in a series of aggressive heavy assaults throughout
 the scenario.
 
 It’s funny, that for all the work which we went to to set up those ASW
-stations, they never detected a single sub! I had been expecting a surge
-of old diesels and Echoes and Novembers to hunt down, but that never
-happened.
+stations, they never detected a single sub\! I had been expecting a
+surge of old diesels and Echoes and Novembers to hunt down, but that
+never happened.
 
 Munitions constraints were an issue in the early game, when low AAM
 stocks forced me to put many of my forward deployed fighters onto ferry
@@ -1819,7 +1819,7 @@ any bomber raids, and I hadn't used any against the Oscars, the need
 wasn't acute.
 
 Lack of TLAMs certainly changed my tactics. No more airfield saturation
-attacks here! Instead, it was SEAD with HARMs, and a lot more low-level
+attacks here\! Instead, it was SEAD with HARMs, and a lot more low-level
 CBU and Snakeye work than I normally use, followed by LGBs on the
 runways. Even when my additional TLAMs arrived I held off using them (or
 the CALCMs), preferring to keep them in case I needed to mount a major
@@ -1833,20 +1833,20 @@ requirements, so they got their fuel as a byproduct of munitions
 replenishment. The northern UK and French carriers cut it close, waiting
 until day 4/5/6 to refuel. My biggest refueling problem was the
 difficulty of finding relatively rare diesel fuel. Long live the
-Preserver! (Of course, if CMO eventually implements aviation fuel limits
-for ships, then the fuel constraint situation will get a lot more
+Preserver\! (Of course, if CMO eventually implements aviation fuel
+limits for ships, then the fuel constraint situation will get a lot more
 critical.)
 
 Five American carrier groups have a tremendous amount of stomping power,
 even when they're somewhat fuel and munitions constrained. Once they
 were all on-station and resupplied, the power they could bring to bear
 was colossal. The player should be able to kick the doors in on any
-particular target - provided they've paid for tankers! Without them
+particular target - provided they've paid for tankers\! Without them
 things get much much harder. If I hadn't had those 10 KC-135s, then it
 would have been a very different story. I had heavily loaded planes
 making trips of over 1100 miles each way to participate in the
 six-carrier strike which cracked the Murmansk group. Three VC-10s and a
-handful of S-3s could not have handled that! So, the player's tanker
+handful of S-3s could not have handled that\! So, the player's tanker
 choices are crucial.
 
 Balance was pretty good for most of the game, which I think is hard to

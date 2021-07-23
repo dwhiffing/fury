@@ -9,7 +9,7 @@ only 10-12 years old were the most modern major platform available.
 [**Tornado
 GR.1**](https://www.popularmechanics.com/military/aviation/a27073869/panavia-tornado/)
 
-<img src="/assets\images\nato\uk\air\media\image1.jpeg" style="width:6.09375in;height:3.42806in" />
+![](/assets/images/nato/uk/air/image1.jpeg)
 
 Known as the IDS (Inter**d**ictor/Strike) in Europe and GR1 (Ground
 Attack/Reconnaissance) in the UK, this highly capable low level swept
@@ -28,28 +28,29 @@ the two squadrons at Lossimouth equipped with a modified GR1B able to
 use the Sea Eagle anti-ship missile. The Operational Conversion Unit
 (OCU) is also at Lossiemouth. Historically almost half of these
 squadrons disbanded between 1991 and 1995, they remain extant in the
-Northern Fury world however.
+Northern Fury world
+however.
 
 | Sqn  | Nickname           | Location   | No. | Type          | Remarks         |
-|------|--------------------|------------|-----|---------------|-----------------|
-| 2    | Shiny Two          | Marham     | 12  | Tornado GR.1  |                 |
-| 9    | TABS               | Bruggen    | 12  | Tornado GR.1  |                 |
-| 13   | Stabbed Cats       | Marham     | 12  | Tornado GR.1  |                 |
-| 14   | Crusaders          | Bruggen    | 12  | Tornado GR.1  |                 |
-| XV   | Aim Sure           | Laarbruch  | 12  | Tornado GR.1  |                 |
-| 16   | The Saints         | Laarbruch  | 12  | Tornado GR.1  |                 |
-| 17   | Black Knights      | Bruggen    | 12  | Tornado GR.1  |                 |
-| 20   | Bitter and Twisted | Laarbruch  | 12  | Tornado GR.1  |                 |
-| 27   | The Bunsters       | Marham     | 12  | Tornado GR.1  |                 |
-| 31   | Goldstars          | Bruggen    | 12  | Tornado GR.1  |                 |
+| ---- | ------------------ | ---------- | --- | ------------- | --------------- |
+| 2    | Shiny Two          | Marham     | 12  | Tornado GR.1  |                 |
+| 9    | TABS               | Bruggen    | 12  | Tornado GR.1  |                 |
+| 13   | Stabbed Cats       | Marham     | 12  | Tornado GR.1  |                 |
+| 14   | Crusaders          | Bruggen    | 12  | Tornado GR.1  |                 |
+| XV   | Aim Sure           | Laarbruch  | 12  | Tornado GR.1  |                 |
+| 16   | The Saints         | Laarbruch  | 12  | Tornado GR.1  |                 |
+| 17   | Black Knights      | Bruggen    | 12  | Tornado GR.1  |                 |
+| 20   | Bitter and Twisted | Laarbruch  | 12  | Tornado GR.1  |                 |
+| 27   | The Bunsters       | Marham     | 12  | Tornado GR.1  |                 |
+| 31   | Goldstars          | Bruggen    | 12  | Tornado GR.1  |                 |
 | 45   | Flying Camels      | Lossimouth | 12  | Tornado GR.1B | Plus 14 for OCU |
-| 617  | Six foot Seven     | Lossimouth | 12  | Tornado GR.1B |                 |
+| 617  | Six foot Seven     | Lossimouth | 12  | Tornado GR.1B |                 |
 | 1435 | Special Flight     | Falklands  | 4   | Tornado GR.1  | On rotation     |
 
 [**Tornado
 F.3**](https://www.thedrive.com/the-war-zone/16752/how-sly-raf-tornado-crews-repeatedly-killed-u-s-navy-f-14s-and-f-a-18s-in-training)
 
-<img src="/assets\images\nato\uk\air\media\image2.jpeg" style="width:5.65625in;height:4.14308in" />
+![](/assets/images/nato/uk/air/image2.jpeg)
 
 Another major variant of the Tornado is the F.3 (Fighter, Mark 3). Known
 as the ADV (Air Defence Variant) in Europe this is a specialized
@@ -62,20 +63,20 @@ The nine squadrons are all located in the UK on three bases. The RAF has
 predecessor to the F.3 with less power and older avionics.
 
 | Sqn | Nickname       | Location  | No. | Type        | Remarks |
-|-----|----------------|-----------|-----|-------------|---------|
-| 5   | Archibald      | Coningsby | 12  | Tornado F.3 |         |
-| 11  | Fly united     | Leeming   | 12  | Tornado F.3 |         |
-| 23  | Red Eagles     | Leeming   | 12  | Tornado F.3 |         |
-| 25  | Gauntlet       | Leeming   | 12  | Tornado F.3 |         |
-| 29  | Triple XXX     | Coningsby | 12  | Tornado F.3 |         |
-| 43  | Fighting Cocks | Leuchars  | 12  | Tornado F.3 |         |
+| --- | -------------- | --------- | --- | ----------- | ------- |
+| 5   | Archibald      | Coningsby | 12  | Tornado F.3 |         |
+| 11  | Fly united     | Leeming   | 12  | Tornado F.3 |         |
+| 23  | Red Eagles     | Leeming   | 12  | Tornado F.3 |         |
+| 25  | Gauntlet       | Leeming   | 12  | Tornado F.3 |         |
+| 29  | Triple XXX     | Coningsby | 12  | Tornado F.3 |         |
+| 43  | Fighting Cocks | Leuchars  | 12  | Tornado F.3 |         |
 | 56  | Shifty-Fix     | Leuchars  | 12  | Tornado F.3 | Reserve |
 | 65  | East India     | Coningsby | 12  | Tornado F.3 | OCU     |
 | 111 | Tremblers      | Coningsby | 12  | Tornado F.3 |         |
 
 [**Harrier GR.7**](http://www.armedforces.co.uk/raf/listings/l0009.html)
 
-<img src="/assets\images\nato\uk\air\media\image3.jpg" style="width:4.8125in;height:3.20861in" />
+![](/assets/images/nato/uk/air/image3.jpg)
 
 The Harrier GR.7 was designed for ground attack missions conducted from
 dispersed airfields in a very high threat environment. Although similar
@@ -87,16 +88,16 @@ GR.5’s for a total of 88. Of these 24 were in storage and 64 in four
 squadrons, two in Germany and two, including the OCU in the UK.
 
 | Sqn | Nickname       | Location  | No. | Type         | Remarks |
-|-----|----------------|-----------|-----|--------------|---------|
-| 1   | F' Troop       | Wittering | 16  | Harrier GR.7 |         |
-| 3   | Cock on a Rock | Gutersloh | 16  | Harrier GR.7 |         |
-| 4   | Happy Four     | Gutersloh | 16  | Harrier GR.7 |         |
-| 223 |                | Wittering | 16  | Harrier GR.7 | OCU     |
+| --- | -------------- | --------- | --- | ------------ | ------- |
+| 1   | F' Troop       | Wittering | 16  | Harrier GR.7 |         |
+| 3   | Cock on a Rock | Gutersloh | 16  | Harrier GR.7 |         |
+| 4   | Happy Four     | Gutersloh | 16  | Harrier GR.7 |         |
+| 223 |                | Wittering | 16  | Harrier GR.7 | OCU     |
 
 [**FGR.2 Phantom
 II**](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II)
 
-<img src="/assets\images\nato\uk\air\media\image4.jpg" style="width:5.61875in;height:2.72917in" />
+![](/assets/images/nato/uk/air/image4.jpg)
 
 During the 70’s & 80’s the RAF went through some difficult times, with
 second generation aircraft such as the Lightning, Hunter and Canberra
@@ -113,16 +114,16 @@ written off leaving enough to equip four operational squadrons, a large
 OCU and holde 9 in reserve.
 
 | Sqn | Nickname    | Location   | No. | Type             | Remarks |
-|-----|-------------|------------|-----|------------------|---------|
-| 19  | Dolphins    | Wildenrath | 12  | FGR.2 Phantom II |         |
-| 56  | Shifty-Fix  | Wattisham  | 12  | FGR.2 Phantom II |         |
-| 74  | Ginger Toms | Leuchars   | 12  | FGR.2 Phantom II |         |
-| 92  | Cobras      | Wildenrath | 12  | FGR.2 Phantom II |         |
-| 228 |             | Leuchars   | 24  | FGR.2 Phantom II | OCU     |
+| --- | ----------- | ---------- | --- | ---------------- | ------- |
+| 19  | Dolphins    | Wildenrath | 12  | FGR.2 Phantom II |         |
+| 56  | Shifty-Fix  | Wattisham  | 12  | FGR.2 Phantom II |         |
+| 74  | Ginger Toms | Leuchars   | 12  | FGR.2 Phantom II |         |
+| 92  | Cobras      | Wildenrath | 12  | FGR.2 Phantom II |         |
+| 228 |             | Leuchars   | 24  | FGR.2 Phantom II | OCU     |
 
 [**Jaguar GR.3**](http://www.armedforces.co.uk/raf/listings/l0008.html)
 
-<img src="/assets\images\nato\uk\air\media\image5.jpg" style="width:5.52083in;height:4.14063in" />
+![](/assets/images/nato/uk/air/image5.jpg)
 
 Another 3<sup>rd</sup> generation fighter surviving in the RAF was the
 SEPECAT Jaguar. Due to be retied in the early 90’s, this nimble
@@ -131,18 +132,19 @@ during the Gulf war. Instead of being retired, 50 of them were upgraded
 to the GR3 standard which improved targeting and navigation equipment as
 well as other enhancements. Northern Fury accelerates this upgrade by
 about a year. The three remaining Jaguar squadrons are all based at
-Coltishall in the UK.
+Coltishall in the
+UK.
 
 | Sqn | Nickname              | Location   | No. | Type        | Remarks |
-|-----|-----------------------|------------|-----|-------------|---------|
-| 6   | The Flying Canopeners | Coltishall | 16  | Jaguar GR.3 |         |
-| 41  | Kodak Kids            | Coltishall | 16  | Jaguar GR.3 |         |
-| 54  | Fighting Newts        | Coltishall | 16  | Jaguar GR.3 |         |
+| --- | --------------------- | ---------- | --- | ----------- | ------- |
+| 6   | The Flying Canopeners | Coltishall | 16  | Jaguar GR.3 |         |
+| 41  | Kodak Kids            | Coltishall | 16  | Jaguar GR.3 |         |
+| 54  | Fighting Newts        | Coltishall | 16  | Jaguar GR.3 |         |
 
 [**Buccaneer
 S.2**](https://www.baesystems.com/en/heritage/blackburn-buccaneer)
 
-<img src="/assets\images\nato\uk\air\media\image6.jpeg" style="width:5.6875in;height:3.19961in" />
+![](/assets/images/nato/uk/air/image6.jpeg)
 
 Yet another venerable aircraft in the RAF was the Blackburn Buccaneer.
 The ‘Buc’ first flew for the Royal Navy (RN) in 1958, and entered RAF
@@ -155,13 +157,13 @@ these versatile low level penetrators was Maritime Attack with the Sea
 Eagle anti-ship missile.
 
 | Sqn | Nickname     | Location   | No. | Type         | Remarks |
-|-----|--------------|------------|-----|--------------|---------|
-| 12  | Flying Foxes | Lossimouth | 16  | Buccaneer S2 |         |
-| 208 | Navy 8       | Lossimouth | 16  | Buccaneer S2 |         |
+| --- | ------------ | ---------- | --- | ------------ | ------- |
+| 12  | Flying Foxes | Lossimouth | 16  | Buccaneer S2 |         |
+| 208 | Navy 8       | Lossimouth | 16  | Buccaneer S2 |         |
 
 [**T.1A Hawk**](http://www.armedforces.co.uk/raf/listings/l0027.html)
 
-<img src="/assets\images\nato\uk\air\media\image7.jpeg" style="width:4.66667in;height:2.5025in" />
+![](/assets/images/nato/uk/air/image7.jpeg)
 
 The RAF’s primary Jet training aircraft is the BAE T.1 Hawk. This highly
 successful aircraft is used around the world for the training role as
@@ -172,16 +174,16 @@ missiles. These are meant purely for UK airspace and not intended for
 deployment.
 
 | Sqn | Nickname  | Location   | No. | Type | Remarks |
-|-----|-----------|------------|-----|------|---------|
-| 63  |           | Brawdy     | 16  | Hawk |         |
-| 74  |           | Valley     | 16  | Hawk |         |
-| 79  |           | Brawdy     | 16  | Hawk |         |
-| 100 | Tatty Tom | Finningley | 16  | Hawk |         |
-| 234 |           | Valley     | 16  | Hawk |         |
+| --- | --------- | ---------- | --- | ---- | ------- |
+| 63  |           | Brawdy     | 16  | Hawk |         |
+| 74  |           | Valley     | 16  | Hawk |         |
+| 79  |           | Brawdy     | 16  | Hawk |         |
+| 100 | Tatty Tom | Finningley | 16  | Hawk |         |
+| 234 |           | Valley     | 16  | Hawk |         |
 
 [**E-3D**](http://www.armedforces.co.uk/raf/listings/l0026.html)
 
-<img src="/assets\images\nato\uk\air\media\image8.jpeg" style="width:5.29167in;height:3.175in" />
+![](/assets/images/nato/uk/air/image8.jpeg)
 
 RAF No.8 Squadron operates six E-3D Sentry AWACS at RAF Waddinton, the
 primary responsibility is UK airspace but they routinely deploy to other
@@ -192,12 +194,12 @@ Sqn retains its Tornados so all AWACS are operated by one Sqn.
 [**Canberra PR
 Mk.9**](https://en.wikipedia.org/wiki/English_Electric_Canberra)
 
-<img src="/assets\images\nato\uk\air\media\image9.jpg" style="width:5.34375in;height:3.81523in" />
+![](/assets/images/nato/uk/air/image9.jpg)
 
 Over 900 Canberra’s were produced in the UK during the 1950’s, the last
 23 of them built were the English Electric Canberra PR Mk.9. Entering
 service with the RAF in 1958 these Photo Reconnaissance specialists were
-still serving in 1994, and indeed only retired in 2006 after 55 years!
+still serving in 1994, and indeed only retired in 2006 after 55 years\!
 Based at Marham, No.12 Squadron RAF ‘Harry’s Mob’ operates 12 of them.
 The outstanding feature of this aircraft is its ability to operate at
 50,000 feet, certainly rivaled by the USAF ‘U-2’ and ‘SR-71’ but not
@@ -205,7 +207,7 @@ many other airframes could operate at that altitude.
 
 [**Nimrod MR.2**](http://www.armedforces.co.uk/raf/listings/l0010.html)
 
-<img src="/assets\images\nato\uk\air\media\image10.jpg" style="width:4.85417in;height:3.2214in" />
+![](/assets/images/nato/uk/air/image10.jpg)
 
 The Nimrod MR.2 was the primary Maritime Patrol Aircraft (MPA) used to
 conduct Anti-Submarine Warfare (ASW), mostly in the North Sea, the
@@ -218,17 +220,17 @@ defensive weapons were added. Five squadrons operate the MR.2, including
 42 Sqn which was not disbanded in 1992 due to the increased threat in
 Northern Fury.
 
-| Sqn   | Nickname  | Location  | No  | Type        | Remarks |
-|-------|-----------|-----------|-----|-------------|---------|
-| 38(R) |           | St Mawgan | 7   | Nimrod MR.2 | Reserve |
-| 42    |           | St Mawgan | 7   | Nimrod MR.2 |         |
-| 120   | Big Badge | Kinloss   | 7   | Nimrod MR.2 |         |
-| 201   |           | Kinloss   | 7   | Nimrod MR.2 |         |
-| 206   |           | Kinloss   | 7   | Nimrod MR.2 | OCU     |
+| Sqn   | Nickname  | Location  | No | Type        | Remarks |
+| ----- | --------- | --------- | -- | ----------- | ------- |
+| 38(R) |           | St Mawgan | 7  | Nimrod MR.2 | Reserve |
+| 42    |           | St Mawgan | 7  | Nimrod MR.2 |         |
+| 120   | Big Badge | Kinloss   | 7  | Nimrod MR.2 |         |
+| 201   |           | Kinloss   | 7  | Nimrod MR.2 |         |
+| 206   |           | Kinloss   | 7  | Nimrod MR.2 | OCU     |
 
 [**Nimrod R.1**](http://www.armedforces.co.uk/raf/listings/l0010.html)
 
-<img src="/assets\images\nato\uk\air\media\image11.jpeg" style="width:4.84375in;height:3.48326in" />
+![](/assets/images/nato/uk/air/image11.jpeg)
 
 Three of the original Nimrods were adapted to collect signals
 intelligence and track electronic signatures. If the MR.2 is similar to
@@ -249,12 +251,12 @@ same capability, to move freight and conduct mid-air refuelling of RAF
 and allied aircraft. There were 13x C1K, 5x K2, 4x K3, and 5x K4,
 totaling 27; all operated by No.10 and No.101 Sqn out of Brize Norton.
 
-<img src="/assets\images\nato\uk\air\media\image12.jpeg" style="width:6.5in;height:4.05833in" />
+![](/assets/images/nato/uk/air/image12.jpeg)
 
 [**TriStar (K1, C2,
 KC1)**](http://www.armedforces.co.uk/raf/listings/l0048.html)
 
-<img src="/assets\images\nato\uk\air\media\image13.jpg" style="width:4.16667in;height:3.33536in" />
+![](/assets/images/nato/uk/air/image13.jpg)
 
 Another air refuelling aircraft with the RAF was the Lockheed TriStar.
 Nine were purchased in 1984 after the Falklands war highlighted the need
@@ -266,7 +268,7 @@ cargo only (C2), and the other four could be used for either role (KC1).
 [**C-130 Hercules (C1,
 C3)**](http://www.armedforces.co.uk/raf/listings/l0029.html)
 
-<img src="/assets\images\nato\uk\air\media\image14.jpg" style="width:4.98958in;height:3.48125in" />
+![](/assets/images/nato/uk/air/image14.jpg)
 
 This tactical transport is the workhorse of most western air forces; the
 RAF is no different. Of the 66 C-130E’s purchased and designated the
@@ -274,10 +276,10 @@ Hercules K C1, about half (31) were converted into a stretched model
 (C3) adding 37% to the cargo space. Both versions have had a refueling
 probe added. Five Sqns operate the Hercules out of RAF Lynham.
 
-| Sqn | Nickname              | Location | No  | Type         | Remarks |
-|-----|-----------------------|----------|-----|--------------|---------|
-| 24  |                       | Lynham   | 12  | C-130K C3    |         |
-| 30  |                       | Lynham   | 12  | C-130K C3    |         |
-| 47  |                       | Lynham   | 12  | C-130K C1/C3 |         |
-| 57  |                       | Lynham   | 12  | C-130K C1    |         |
-| 70  | Love and Kisses (LXX) | Lynham   | 12  | C-130K C1    |         |
+| Sqn | Nickname              | Location | No | Type         | Remarks |
+| --- | --------------------- | -------- | -- | ------------ | ------- |
+| 24  |                       | Lynham   | 12 | C-130K C3    |         |
+| 30  |                       | Lynham   | 12 | C-130K C3    |         |
+| 47  |                       | Lynham   | 12 | C-130K C1/C3 |         |
+| 57  |                       | Lynham   | 12 | C-130K C1    |         |
+| 70  | Love and Kisses (LXX) | Lynham   | 12 | C-130K C1    |         |

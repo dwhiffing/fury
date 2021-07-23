@@ -1,6 +1,6 @@
 **Northern Fury – Jar Heads on Ice**
 
-**<u>Playtest Report by AndrewJ July 2018</u>**
+**<span class="underline">Playtest Report by AndrewJ July 2018</span>**
 
 So here's how it went on NF 25.
 
@@ -18,7 +18,7 @@ will follow each other down the same corridor, which will be patrolled
 by P-3s (in the west) or S-3s (in the east). Formations are tightened up
 and changed to put the valuable aviation ships and LKAs in the center,
 with less critical ships acting as missile soaks on the flanks. (Sorry
-LSTs!) Formations will travel radars off, but sonars active. My SSNs
+LSTs\!) Formations will travel radars off, but sonars active. My SSNs
 will be flank guard far to the outside of the passing formations.
 
 The Guadalcanal group (which will not participate in these landings) is
@@ -49,12 +49,12 @@ develop depending on what we find inland.
 
 It's only minutes into operations when radar operators in the Missouri
 group start screaming about sea-skimming targets inbound at high Mach.
-Oscar! The Ticonderoga immediately opens up with all launchers, getting
+Oscar\! The Ticonderoga immediately opens up with all launchers, getting
 many hits, but the stream of missiles gets closer and closer. The Perry
 starts shooting too, pumping missiles out as fast as it can, but the
 last ones are too close, and the white-faced crew hears the deep groan
 of the CIWS opening fire. There's a thunderous boom, and then silence.
-They look around. They're all alive! Brown shorts for everybody...
+They look around. They're all alive\! Brown shorts for everybody...
 
 The ASW helicopters rush to where the missiles were first spotted, but
 they find nothing, except in incoming Mig-23, which shoots down one of
@@ -90,7 +90,7 @@ friends suddenly hear a torpedo in the water as they pass the tip of the
 Sneafellsjoekull peninsula. Could this be the Oscar, so far from where I
 thought it was? My ships turn and flee, outrunning the torp, until the
 P-3 comes over to sink what turns out to be a Tango. This is getting a
-little alarming! What else is underwater here?
+little alarming\! What else is underwater here?
 
 Things calm down at sea for the next few hours, to be replaced by an
 upsurge of air activity. There are some minor ground troops opposite my
@@ -182,7 +182,7 @@ wondering if there would be a pop-up SA-10 or the like in my operation
 area, but there never was, and I didn't press the point looking for them
 in the east.
 
-Oscars! Never caught sight of any of them, launching far away in
+Oscars\! Never caught sight of any of them, launching far away in
 untouchable bastions, and damn-near lost a task group to them. They are,
 without doubt, the nastiest ambush predator out there. We hates them,
 Bagginses, we hates them...

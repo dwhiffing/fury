@@ -13,9 +13,9 @@ The SSF has elements assigned to the AMF (ACE \[Allied Command Europe\]
 Mobile Force) and expected to deploy to North Norway in an emergency, it
 also has defence of North America and domestic tasks.
 
-<img src="/assets\images\nato\ca\army\media\image1.png" style="width:6.54028in;height:2.44028in" />
+![](/assets/images/nato/ca/army/image1.png)
 
-<img src="/assets\images\nato\ca\army\media\image2.jpg" style="width:4.75278in;height:3.16667in" />
+![](/assets/images/nato/ca/army/image2.jpg)
 
 **Leopard I**
 
@@ -25,7 +25,7 @@ tanks are primarily in Germany with 78 of them forming the
 Brunswick as a training Cadre. The Canadian based armoured units are
 equipped with ‘Cougars’ but trained on Leopards.
 
-<img src="/assets\images\nato\ca\army\media\image3.jpg" style="width:4.02083in;height:3.21938in" />
+![](/assets/images/nato/ca/army/image3.jpg)
 
 **AVGP**
 
@@ -40,7 +40,7 @@ and they deployed to Bosnia, Croatia, Somalia and Africa on various
 missions - so they would undoubtedly be deployed to Europe in Northern
 Fury.
 
-<img src="/assets\images\nato\ca\army\media\image4.jpeg" style="width:5.0625in;height:3.40568in" />
+![](/assets/images/nato/ca/army/image4.jpeg)
 
 M109
 
@@ -49,4 +49,4 @@ Regiment Royal Canadian Horse Artillery (RCHA) in Germany and two
 regiments of 18 guns each in Canada supporting the other two Bdes of the
 Division.
 
-<img src="/assets\images\nato\ca\army\media\image5.jpg" style="width:6.88312in;height:4.23312in" />
+![](/assets/images/nato/ca/army/image5.jpg)

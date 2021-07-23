@@ -1,6 +1,6 @@
 **Northern Fury – Lance to the Chest**
 
-**<u>Playtest Report by AndrewJ Feb 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Feb 2017</span>**
 
 I tried this one as NATO.
 
@@ -19,7 +19,7 @@ found it anyway and destroyed it in short order. My F-5s were scrambled
 in response to the Migs, and they managed to get one while losing one of
 their own. The other one chased my surviving F-5 south all the way to
 the Skagerrak, before turning back. My F-5 lost track of it (a radar
-would be handy at night!), so it headed up towards Bergen to patrol.
+would be handy at night\!), so it headed up towards Bergen to patrol.
 
 Out to sea my Buccaneers turned to approach and detected a third ship
 behind the other two, and they decided to engage that one first. The

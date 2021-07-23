@@ -1,6 +1,6 @@
 **Northern Fury – Hammer**
 
-**<u>Playtest Report by Primarchx Apr 2017</u>**
+**<span class="underline">Playtest Report by Primarchx Apr 2017</span>**
 
 Looking the targets you're going to need ...
 
@@ -114,9 +114,9 @@ An SA-10 battery unmasks near the Evenes airbase. It shoots down the
 first set of 4 GBU-15s headed for the Bridge but gets a good dozen HARMs
 lofted its' way in return. Four GBU-15s destroy the Drag-Kjøpsvik (Route
 827 Ferry Pier). Of course I now realize that the GBU-24 has a 2k'
-minimum release altitude! (duh) Destroyed 4 tunnel entrances wiht a pair
-of GBU-24 Strike Eagles, dodging SA-11s and SA-6s while porpoising up
-from 200' to 4000' to release LGBs. Then two GBU-15s hit the Bognes
+minimum release altitude\! (duh) Destroyed 4 tunnel entrances wiht a
+pair of GBU-24 Strike Eagles, dodging SA-11s and SA-6s while porpoising
+up from 200' to 4000' to release LGBs. Then two GBU-15s hit the Bognes
 ferjekai (E6 Ferry Pier) and destroyed that. An AMRAAM fired 'over the
 shoulder' at the Su-24MP gets a lucky strike and it goes down as well.
 The backup pair of GBU-15 Strike Eagles successfully destoys the Skjomen

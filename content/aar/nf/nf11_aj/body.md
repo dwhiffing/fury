@@ -1,9 +1,10 @@
 **Northern Fury – Changing of the Guard**
 
-**<u>Playtest Report by AndrewJ 1 Sept 2015</u>**
+**<span class="underline">Playtest Report by AndrewJ 1 Sept
+2015</span>**
 
-Interesting! The first wave has passed and I've got some breathing space
-I think, so time to update the log.
+Interesting\! The first wave has passed and I've got some breathing
+space I think, so time to update the log.
 
 Given the sub threat I decided to get my units off the continental shelf
 ASAP. The last thing I need is something Russian creeping along the
@@ -35,11 +36,11 @@ towards the major threat coming in from Iceland.
 
 The horizon is dark with Su-27s, and I can't get a good look at what's
 behind the jammers, which are shutting down my Sparrow-armed planes and
-semi-active homing SAMs. Thank God for the HOJ ability of the Phoenix! I
-manage to kill enough of the northern jammers that I can fight and see
+semi-active homing SAMs. Thank God for the HOJ ability of the Phoenix\!
+I manage to kill enough of the northern jammers that I can fight and see
 (although I never do get that damned Cub), and then I start working on
 the ones to the NW, but as I do anti-shipping missiles start streaming
-towards me through the Blinder jammers. I should have concentrated NW!
+towards me through the Blinder jammers. I should have concentrated NW\!
 
 By the time I get the last of the jammers I can only shoot down a
 handful of bombers before they launch, but my pilots have their revenge
@@ -67,13 +68,14 @@ next wave of Mig-31s is already showing up. I try not to engage those
 too directly, and send forces skirting around the W and S flanks of the
 enemy to look for vulnerable support and recce aircraft. Earlier when I
 was chasing the bombers I had spotted some large aircraft 2/3 of the way
-to Iceland, and they turn out to be tankers! Phoenixes work very well on
-those lumbering targets, even at extreme range, and the Vinson's F-14s
-try to concentrate on them almost exclusively. Of course this means
-risking the Mig-31s, and some of my pilots never come back, but they
-claim a whopping 20 tankers (and 1 AWACS!) by the time we disengage.
-That's got to put a hole in anyone's air support plans, and I hope they
-can't just fly in replacements tomorrow to support another bomber wave.
+to Iceland, and they turn out to be tankers\! Phoenixes work very well
+on those lumbering targets, even at extreme range, and the Vinson's
+F-14s try to concentrate on them almost exclusively. Of course this
+means risking the Mig-31s, and some of my pilots never come back, but
+they claim a whopping 20 tankers (and 1 AWACS\!) by the time we
+disengage. That's got to put a hole in anyone's air support plans, and I
+hope they can't just fly in replacements tomorrow to support another
+bomber wave.
 
 ESM spots some Be-12 radar up by Iceland, but clouds of Mig-23s and
 Mig-29s come boiling up any time I get near the island, so I stay the
@@ -94,9 +96,9 @@ The Enterprise's AAM magazines are nearly empty now. My last few
 Phoenixes, AMRAAMs, and Sidewinders are all on my aircraft, and I'm down
 to 50 or so Sparrows in the magazines. The lack of Sidewinders was
 particularly problematic, because with none of them in the magazine the
-Air Ops window won't let you ready any AA loadouts that include them! At
-one point this left me with over 100 long range missiles, and no way to
-ready any of them. So what I've been doing is forcing a ready in the
+Air Ops window won't let you ready any AA loadouts that include them\!
+At one point this left me with over 100 long range missiles, and no way
+to ready any of them. So what I've been doing is forcing a ready in the
 editor, manually subtracting the proper number of missiles from the
 magazine, manually setting the proper ready time, and then manually
 subtracting the missing Sidewinders from the aircraft as they launch.
@@ -109,17 +111,17 @@ numbers to act as a limit for scenario purposes, so sorry if I've messed
 with the balance.
 
 So hopefully a calm night, and then trepidation about another bomber
-raid tomorrow! Time will tell...
+raid tomorrow\! Time will tell...
 
-Haha! As a parting shot, the Enterprise sends two Tomcats up the
+Haha\! As a parting shot, the Enterprise sends two Tomcats up the
 Greenland coast, with a tanker and EA-6 in attendance. Hooking in from
 the west they get three flying boats, an AWACs and a jammer Cub (and
 scare the crap out of another one with a near miss), before getting away
-scott free. Take that!
+scott free. Take that\!
 
 (Have you noticed I'm enjoying your scenario?)
 
-All Task Groups report safe in their destination zones sir!
+All Task Groups report safe in their destination zones sir\!
 
 Things definitely died down the next day. Submarines made their
 appearance, were detected by sonobuoys and surface ships, and were duly

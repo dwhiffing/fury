@@ -1,6 +1,7 @@
 **Northern Fury – Stab in the Dark**
 
-**<u>Playtest Report by AndrewJ 25 Oct 2015</u>**
+**<span class="underline">Playtest Report by AndrewJ 25 Oct
+2015</span>**
 
 Crept in along the bottom, keeping towards the S side of bay, while the
 SSN also came in closer to reduce Tomahawk flight time if necessary.
@@ -30,7 +31,7 @@ brought the SSN in too close as well, since it was actually inside the
 edge of the enemy's sonobuoy pattern at one point. Most alarmingly,
 looking at the expenditure logs it turns out they even fired a torpedo
 at something at one point, and I never even heard it. So much for my
-situational awareness!
+situational awareness\!
 
 Maybe consider making the escape part of the scenario as well? With
 batteries partly depleted and the probability of foes in your path it is

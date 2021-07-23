@@ -6,7 +6,8 @@ or two static locations would be difficult and demanding, plus risk
 nuclear obliteration in the event of a doomsday scenario. Therefore, a
 Command and Control network was established based on numbered Fleets.
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image1.JPG" style="width:14.27083in;height:7.15625in" alt="A close up of a map Description automatically generated" />
+![A close up of a map Description automatically
+generated](/assets/images/nato/us/navy/command-ships/image1.JPG)
 
 This is a snapshot view of Fleet Areas of Responsibility (AOR) in the
 Northern Fury world, historically these were different by 1994 but this
@@ -31,13 +32,13 @@ North Atlantic in times of War – Commander Striking Fleet Atlantic
 
 **2<sup>nd</sup> Fleet**: Commanded from Norfolk Virginia in peacetime
 but its ‘Afloat’ HQ is on board USS Mount Whitney
-([LCC-20](https://en.wikipedia.org/wiki/USS_Mount_Whitney_(LCC-20))). As
-**COMSTRIKFLTLANT,** the commander was responsible for all NATO forces
+([LCC-20](https://en.wikipedia.org/wiki/USS_Mount_Whitney_\(LCC-20\))).
+As **COMSTRIKFLTLANT, the commander was responsible for all NATO forces
 in the Atlantic that were released for operations by Commander in Chief
 Atlantic (CINCLANT) once they’d been declared by their national
-government, or in the case of US forces by US Fleet Forces Command.
+government, or in the case of US forces by US Fleet Forces Command.**
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image2.jpeg" style="width:8.51304in;height:6.07885in" />
+![](/assets/images/nato/us/navy/command-ships/image2.jpeg)
 
 **3<sup>rd</sup> Fleet**: Permanently located ashore at San Diego
 California.
@@ -58,7 +59,7 @@ communications the Command Ship USS Coronado
 to be the Flagship of 5<sup>th</sup> Fleet. The Coronado was originally
 an Austin Class Amphibious Platform Dock (LPD).
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image3.png" style="width:6.61395in;height:4.72338in" />
+![](/assets/images/nato/us/navy/command-ships/image3.png)
 
 **6<sup>th</sup> Fleet**: With its HQ in Naples and a major logistic
 operation at Rota Spain, is responsible for the Mediterranean and Black
@@ -70,7 +71,7 @@ coordinate the activity of all NATO naval forces in the region. The
 competed a major refit and assumed these duties on 1 Jan 94 (10 months
 earlier than she did historically).
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image4.jpg" style="width:6.76522in;height:4.7029in" />
+![](/assets/images/nato/us/navy/command-ships/image4.jpg)
 
 **7<sup>th</sup> Fleet:** Of all US Navy fleets is the only one with a
 forward deployed Aircraft Carrier Battle Group (CVBG) and Marine
@@ -79,9 +80,9 @@ is located in Yokosuka, Japan. With responsibility for the Pacific and
 Indian Oceans west of the International Date Line to include South
 Korea, Australia, Japan and most of the African Coast, this is the
 largest deployed USN force. The Command Ship is USS Blue Ridge
-([LCC-19](https://en.wikipedia.org/wiki/USS_Blue_Ridge_(LCC-19)))
+([LCC-19](https://en.wikipedia.org/wiki/USS_Blue_Ridge_\(LCC-19\)))
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image5.jpg" style="width:6.81773in;height:4.78261in" />
+![](/assets/images/nato/us/navy/command-ships/image5.jpg)
 
 **Communications**: One of the key aspects to enable Command and Control
 (C2) is Communications (C3), and to assist in this regard the USN has
@@ -96,4 +97,4 @@ communication systems on board these aircraft fulfill a much wider role
 and enable global secure communications to the fleet. At least two of
 these aircraft are airborne at any time, day or night, 365 days a year.
 
-<img src="/assets\images\nato\us\navy\command-ships\media\image6.jpeg" style="width:8.50166in;height:2.89565in" />
+![](/assets/images/nato/us/navy/command-ships/image6.jpeg)

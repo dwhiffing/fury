@@ -1,11 +1,11 @@
-<img src="/assets\images\warsaw\su\air\mig25\media\image1.jpg" style="width:6.40625in;height:4.00391in" />
+![](/assets/images/warsaw/su/air/mig25/image1.jpg)
 
 [**MiG-25
-‘Foxbat’**](http://www.ausairpower.net/TE-Foxbat-Foxhound-92.html)One of
-the flagship interceptors of the Soviet PVO (Air Defence Forces) is the
-MiG-25. This aircraft was historically and technically very important
-for the Soviet Union as it represented a significant leap in aviation
-standards, climbing faster (20,000ft in 2 min 49.8 sec), higher
+‘Foxbat’**](http://www.ausairpower.net/TE-Foxbat-Foxhound-92.html)One
+of the flagship interceptors of the Soviet PVO (Air Defence Forces) is
+the MiG-25. This aircraft was historically and technically very
+important for the Soviet Union as it represented a significant leap in
+aviation standards, climbing faster (20,000ft in 2 min 49.8 sec), higher
 (123,520ft) and flying faster (2,981.5 km/h) than any other aircraft. In
 all 29 records were claimed, several of which still stand today after
 being set in the 1970’s. The Foxbat was designed to intercept American
@@ -58,4 +58,4 @@ standard as well as 650 new build ‘PD’ airframes.
 use, able to fire the Kh-58 (AS-11 ‘Kilter’) or Kh-31 (AS-17 ‘Krypton’)
 anti-radiation missiles.
 
-<img src="/assets\images\warsaw\su\air\mig25\media\image2.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/warsaw/su/air/mig25/image2.jpg)

@@ -1,49 +1,50 @@
 **The North Atlantic Treaty Organization
-([<u>NATO</u>](https://www.nato.int/cps/ic/natohq/index.htm))** was
-formed on 4 April 1949, as a Military/Political body to counter the
+([<span class="underline">NATO</span>](https://www.nato.int/cps/ic/natohq/index.htm))**
+was formed on 4 April 1949, as a Military/Political body to counter the
 threat posed by the Soviet Union and the Warsaw Pact (WP)countries. The
-basis of the alliance is the collective defence codified in [<u>Article
-Five</u>](https://www.nato.int/cps/ic/natohq/topics_110496.htm) of the
-treaty which states: “…that an attack against one Ally is considered as
-an attack against all Allies.’
+basis of the alliance is the collective defence codified in
+[<span class="underline">Article
+Five</span>](https://www.nato.int/cps/ic/natohq/topics_110496.htm) of
+the treaty which states: “…that an attack against one Ally is considered
+as an attack against all Allies.’
 
 The 12 founding members of NATO are:
 
--   Belgium,
+  - Belgium,
 
--   Canada,
+  - Canada,
 
--   Denmark,
+  - Denmark,
 
--   France, (Withdrew from NATO’s integrated military command in 1966,
+  - France, (Withdrew from NATO’s integrated military command in 1966,
     rejoined 1994.)
 
--   Iceland,
+  - Iceland,
 
--   Italy,
+  - Italy,
 
--   Luxembourg,
+  - Luxembourg,
 
--   the Netherlands,
+  - the Netherlands,
 
--   Norway,
+  - Norway,
 
--   Portugal,
+  - Portugal,
 
--   the United Kingdom, and
+  - the United Kingdom, and
 
--   the United States.
+  - the United States.
 
 The following countries joined NATO between its foundation and the start
 of Northern Fury in 1994:
 
--   Greece (1952)
+  - Greece (1952)
 
--   Turkey (1952)
+  - Turkey (1952)
 
--   West Germany (1955)
+  - West Germany (1955)
 
--   Spain (1982)
+  - Spain (1982)
 
 The reunification of Germany in 1990, meant that the former East Germany
 was drawn into NATO. Between 1989 and 1994 the reunification of Germany
@@ -70,7 +71,7 @@ Atlantic (Allied Command Atlantic); and **Commander-in-Chief Allied
 Command Channel (CINCCHAN)**. The remainder of the operational portion
 of the NATO command structure is depicted on the chart below:
 
-<img src="/assets\images\nato\media\image1.png" style="width:7.34792in;height:5.33909in" />
+![](/assets/images/nato/image1.png)
 
 On the tactical level were dozens of Corps, Air Forces and Fleets,
 however clear distinction below the level depicted becomes complex
@@ -83,6 +84,6 @@ Chief FLEET (British Royal Navy) and Commander in Chief Eastern Atlantic
 Area, under SACLANT.
 
 Instead of digging into the detail of NATO’s tactical structures, this
-[<u>Wiki
-page</u>](https://en.wikipedia.org/wiki/Structure_of_NATO#Structure_in_1989)
+[<span class="underline">Wiki
+page</span>](https://en.wikipedia.org/wiki/Structure_of_NATO#Structure_in_1989)
 provides a good summary in the section ‘**Structure in 1989’**.

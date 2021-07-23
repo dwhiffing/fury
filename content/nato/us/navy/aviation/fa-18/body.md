@@ -1,6 +1,6 @@
-**F/A-18 Hornet**
+***F/A-18 Hornet***
 
-<img src="/assets\images\nato\us\navy\aviation\fa-18\media\image1.jpeg" style="width:6.5in;height:4.31806in" />
+![](/assets/images/nato/us/navy/aviation/fa-18/image1.jpeg)
 
 The F/A-18 was fast turning into a success story for the USN but the
 initial ‘A’ model came with some controversy and was a compromise of
@@ -30,50 +30,51 @@ which can use the much more capable Aim-120 AMRAAM missile. Later ‘C’
 models (delivered from 1989) are equipped with improved night attack
 capabilities.
 
-<img src="/assets\images\nato\us\navy\aviation\fa-18\media\image2.jpeg" style="width:6.5in;height:4.00069in" />
+![](/assets/images/nato/us/navy/aviation/fa-18/image2.jpeg)
 
 In the Northern Fury world there are some alterations to historical
 production detailed here:
 
--   Procurement of F/A-18A & B (2 seat) models was extended slightly to
+  - Procurement of F/A-18A & B (2 seat) models was extended slightly to
     acquire 70 additional airframes for a total of 480.
 
--   Procurement of F/A-18C & D (2 seat) models was extended with an
+  - Procurement of F/A-18C & D (2 seat) models was extended with an
     additional 320 ordered and 50 delivered by the start of Northern
     Fury for a total of 440 so far. The remainder, bringing the total to
     760 will be delivered by the end of 1996.
 
--   Procurement of USMC F/A-18D (N) – Night attack capable with the rear
+  - Procurement of USMC F/A-18D (N) – Night attack capable with the rear
     seat configured for a Weapon & Sensor Officer (WSO) remained steady
     at 96
 
--   Therefore, instead of 896 airframes (410 ‘A’ + 390 ‘C’ + 96 ‘C(N)’),
+  - Therefore, instead of 896 airframes (410 ‘A’ + 390 ‘C’ + 96 ‘C(N)’),
     Northern Fury starts with 1,016 F/A-18s. (+70 ‘A’, +50 ‘C’ models)
 
--   The additional production enabled the early retirement of the A-6E
+  - The additional production enabled the early retirement of the A-6E
     by the end of 1994
 
--   Foreign production of CF-18 (Canada), AF-18 (Australia), EF-18
+  - Foreign production of CF-18 (Canada), AF-18 (Australia), EF-18
     (Spain) and F/A-18C for Kuwait are complete.
 
--   Foreign orders for Switzerland and South Korea are ongoing.
+  - Foreign orders for Switzerland and South Korea are ongoing.
 
--   Foreign order for Finland has not been entertained.
+  - Foreign order for Finland has not been entertained.
 
--   F/A-18C & D production generally proceeded as originally planned,
+  - F/A-18C & D production generally proceeded as originally planned,
     allowing the flow through of A models to the USMC and Reserve.
 
--   Ongoing refit of older production ‘A’ models to ‘C’ models is
+  - Ongoing refit of older production ‘A’ models to ‘C’ models is
     ongoing at the rate of 12/month and includes life extension.
 
--   Upgrade from later production ‘A’ model to the ‘C’ model, less life
+  - Upgrade from later production ‘A’ model to the ‘C’ model, less life
     extension but enabling the use of AMRAAMs requires a software and
     minor hardware changes.
 
-USN Squadrons are equipped as follows:
+USN Squadrons are equipped as
+follows:
 
 | Sqn     | Name              | CVW     | No. | Type      | Remarks               |
-|---------|-------------------|---------|-----|-----------|-----------------------|
+| ------- | ----------------- | ------- | --- | --------- | --------------------- |
 | VFA-15  | Valions           | CVW-8   | 12  | F/A-18C   | USS T Roosevelt       |
 | VFA-22  | Fighting Redcocks | CVW-11  | 12  | F/A-18C   | USS Abraham Lincoln   |
 | VFA-25  | Fist of the Fleet | CAW-14  | 12  | F/A-18C   | USS Carl Vinson       |
@@ -102,15 +103,16 @@ USN Squadrons are equipped as follows:
 | VFA-161 | Chargers          | CVW-10  | 12  | F/A-18C   | USS George Washington |
 | VFA-192 | Golden Dragons    | CVW-5   | 12  | F/A-18C   | USS Independence      |
 | VFA-195 | Dam Busters       | CVW-5   | 12  | F/A-18C   | USS Independence      |
-| VFA-201 | Hunters           | CVWR-20 | 12  | F/A-18A   |  JRB Fort Worth       |
-| VFA-203 | Blue Dolphins     | CVWR-20 | 12  | F/A-18A   |  NAS Jacksonville     |
-| VFA-303 | Golden Hawks      | CVWR-30 | 12  | F/A-18C   |  NAS Alameda          |
-| VFA-305 | Lobos             | CVWR-30 | 12  | F/A-18C   |  NAS Los Alamitos     |
+| VFA-201 | Hunters           | CVWR-20 | 12  | F/A-18A   | JRB Fort Worth        |
+| VFA-203 | Blue Dolphins     | CVWR-20 | 12  | F/A-18A   | NAS Jacksonville      |
+| VFA-303 | Golden Hawks      | CVWR-30 | 12  | F/A-18C   | NAS Alameda           |
+| VFA-305 | Lobos             | CVWR-30 | 12  | F/A-18C   | NAS Los Alamitos      |
 
-USMC Squadrons are equipped as follows:
+USMC Squadrons are equipped as
+follows:
 
 | Sqn       | Name           | Location   | No. | Type       | Remarks         |
-|-----------|----------------|------------|-----|------------|-----------------|
+| --------- | -------------- | ---------- | --- | ---------- | --------------- |
 | VMFA-115  | Silver Eagles  | Med        | 12  | F/A-18A    |                 |
 | VMFA-122  | Werewolves     | CVW 14     | 12  | F/A-18A    | USS Carl Vinson |
 | VMFA-251  | Thunderbolts   | CVW 6      | 12  | F/A-18A    | USS Enterprise  |

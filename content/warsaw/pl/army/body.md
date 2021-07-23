@@ -24,11 +24,11 @@ Divisions (MRD), Tank Divisions (TD) and supporting arms; these
 formations, like their Soviet equivalent have varying states of
 readiness:
 
--   Category A-divisions which have 80% or more of their full strength
+  - Category A-divisions which have 80% or more of their full strength
 
--   Category B-those with between 30% and 50%
+  - Category B-those with between 30% and 50%
 
--   Category C-those with between 5% and 10%
+  - Category C-those with between 5% and 10%
 
 However, due to the troubles with leadership, moral, maintenance and
 training, these levels of readiness are hugely optimistic. Category A
@@ -53,7 +53,7 @@ Airborne and 7<sup>th</sup> Naval infantry Divisions as well as the
 3<sup>rd</sup> Surface to Surface Missile (SSM) Brigade, all of which
 are at a surprisingly high state of readiness.
 
-<img src="/assets\images\warsaw\pl\army\media\image1.png" style="width:7.44485in;height:5.30443in" />
+![](/assets/images/warsaw/pl/army/image1.png)
 
 Although organizationally Polish units were almost identical to the
 Soviet design, much of its equipment was manufactured in Poland or in
@@ -61,10 +61,10 @@ cooperation with Czechoslovakia. The basic designs were Soviet but
 Poland improved them in many ways and built a large export market within
 the Warsaw Pact and around the world.
 
-<img src="/assets\images\warsaw\pl\army\media\image2.jpg" style="width:6.33333in;height:4.52381in" />
+![](/assets/images/warsaw/pl/army/image2.jpg)
 
 | **Role** | **Type** | **Variant** | **No** | **Remarks** |
-|----------|----------|-------------|--------|-------------|
+| -------- | -------- | ----------- | ------ | ----------- |
 | MBT      | T-72     | T-72PT91    | 98     |             |
 |          |          | T-72M       | 135    |             |
 |          |          | T-72M1      | 586    |             |
@@ -108,4 +108,4 @@ the Warsaw Pact and around the world.
 |          | SA-13    |             |        |             |
 |          |          |             |        |             |
 
-<img src="/assets\images\warsaw\pl\army\media\image3.jpg" style="width:6.5in;height:3.31111in" />
+![](/assets/images/warsaw/pl/army/image3.jpg)

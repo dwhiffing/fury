@@ -1,8 +1,8 @@
-**<u>Caribbean Fury \#1 – Hot Tamales</u>**
+**<span class="underline">Caribbean Fury \#1 – Hot Tamales</span>**
 
-**<u>AAR by Tailhook, Sep 2016</u>**
+**<span class="underline">AAR by Tailhook, Sep 2016</span>**
 
-Quite the scenario! Not yet completed but I'm going to give a Spoiler
+Quite the scenario\! Not yet completed but I'm going to give a Spoiler
 Heavy account of the battle so far.
 
 The setup is standard peace time operations in the Caribbean, with the
@@ -43,8 +43,8 @@ forces manage to clear the skies for the most part, although in one lull
 between waves a handful of MiGs get through to bomb Key West, taking out
 a few F-16s on the ground. A Coast Guard cutter gets lucky and downs one
 with a lucky burst of 20mm fire as it passes overhead, scoring one for
-the Puddle Pirates! I order more F-16s from NAS Jacksonville to fly down
-to Homestead and reinforce the squadrons there. There are a lot of
+the Puddle Pirates\! I order more F-16s from NAS Jacksonville to fly
+down to Homestead and reinforce the squadrons there. There are a lot of
 reinforcements across the CONUS scheduled to fly into the area
 throughout the 3+ day scenario. Two notable twists occur: The Cubans
 spend a lot of ordnance sinking a 200,000 ton civilian cargo ship (which
@@ -64,7 +64,7 @@ in the area. I need the harriers because before long the Hondurans and
 Nicaraguans join the fight on the Soviet side. The Harriers tangle with
 F-5s, repelling them while I ferry my forces north. At the time of this
 posting there is a race to get the helicopter to pick up the last forces
-while a large force of Rebels moves on the Pickup zone. Stay tuned! I
+while a large force of Rebels moves on the Pickup zone. Stay tuned\! I
 reinforce the city with a British Frigate, using its onboard radar to
 detect incoming Honduran aircraft, vectoring my Harriers behind them to
 ambush them. Some get through, and I lose all of my British (light)
@@ -224,29 +224,29 @@ jets that were being tested at Eglin.
 
 So yeah that's the plan.
 
--   -Deliver the KO over Key West. I think the Tomcats are going to do
+  - \-Deliver the KO over Key West. I think the Tomcats are going to do
     just that.
 
--   -Get TG South Carolina (reinforced with Europe) to Gitmo.
+  - \-Get TG South Carolina (reinforced with Europe) to Gitmo.
 
--   -Reinforce CVBG with TG Long Beach and other US small boys. Figure
+  - \-Reinforce CVBG with TG Long Beach and other US small boys. Figure
     out what I'm supposed to do with all these tax dollars\*.
 
--   -Get Orions over the CVBG. I've been pushing it but I figured at
+  - \-Get Orions over the CVBG. I've been pushing it but I figured at
     Flank speed it would be hard for any subs to catch me for now, but
     I'm getting closer to Cuba.
 
--   -Strengthen TG Randolph (I might turn the French Frigate around too
+  - \-Strengthen TG Randolph (I might turn the French Frigate around too
     but it would be an easy kill if detected before joining the
     Americans) and position them south of Havana to annoy Castro.
 
--   ?Sneak a Compass Call out of Gitmo to Florida. Likely doable, but
+  - ?Sneak a Compass Call out of Gitmo to Florida. Likely doable, but
     risky.
 
--   ?Send Snake eaters out of Gitmo to go after that SA-10 site. The
+  - ?Send Snake eaters out of Gitmo to go after that SA-10 site. The
     more breathing space the better.
 
--   ?Reinforce the Bahamas. Venezuela is causing the Dutch concern, but
+  - ?Reinforce the Bahamas. Venezuela is causing the Dutch concern, but
     they haven't done anything remotely threatening yet. Still, better
     safe than sorry and I'm sure it will be a hard sell to convince NY
     National Guard boys to go from February in NY to the Bahamas...

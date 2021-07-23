@@ -1,6 +1,6 @@
 **Royal Navy Amphibious**
 
-[**HMS Ocean (L12)**](https://en.wikipedia.org/wiki/HMS_Ocean_(L12))
+[**HMS Ocean (L12)**](https://en.wikipedia.org/wiki/HMS_Ocean_\(L12\))
 
 Historically this ship was proposed in 1992, ordered in 93, laid down in
 94, launched in 95 and commissioned in 98. For Northern Fury however,
@@ -12,7 +12,7 @@ more capable and modern. She carries four small landing craft (LCVPs)
 and up to 18 helicopters in order to land the 830 Royal Marines that can
 be embarked.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image1.jpg" style="width:6.5in;height:4.875in" />
+![](/assets/images/nato/uk/navy/amphibious/image1.jpg)
 
 [**Fearless
 Class**](https://en.wikipedia.org/wiki/Fearless-class_landing_platform_dock)
@@ -29,7 +29,7 @@ structurally repaired as well as being fitted with 20 mm BMARC and
 Phalanx CIWS guns, new communications suites and better accommodation.
 Both ships are home ported at Portsmouth.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image2.jpg" style="width:6.5in;height:5.45903in" />
+![](/assets/images/nato/uk/navy/amphibious/image2.jpg)
 
 [**Round Table or Sir Lancelot
 Class**](https://en.wikipedia.org/wiki/Round_Table-class_landing_ship_logistics)
@@ -49,7 +49,7 @@ smaller aft, and another for a CH-47 or smaller amidships. They have
 both a front and rear loading ramp.
 
 | Pennant | Name           | Status | Remarks                   |
-|---------|----------------|--------|---------------------------|
+| ------- | -------------- | ------ | ------------------------- |
 | L3004   | Sir Bedivere   | Refit  |                           |
 | L3005   | Sir Galahad II | Active | New, launched in 1987     |
 | L3027   | Sir Geraint    | Active |                           |
@@ -57,7 +57,7 @@ both a front and rear loading ramp.
 | L3036   | Sir Percivale  | Active |                           |
 | L3505   | Sir Tristram   | Active | Damaged in 82 and rebuilt |
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image3.jpeg" style="width:6.5in;height:3.91667in" />
+![](/assets/images/nato/uk/navy/amphibious/image3.jpeg)
 
 [**LCU Mk.9**](http://www.navypedia.org/ships/uk/brit_aws_lcu9r.htm)
 
@@ -69,9 +69,9 @@ in and Argentinian Air attack during the Falklands war, and has not been
 replaced. Four are on each of the LPDs, four more at Pool for training
 and 2 are deployed on various tasks.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image4.jpg" style="width:5.38542in;height:3.53612in" />
+![](/assets/images/nato/uk/navy/amphibious/image4.jpg)
 
-[**LCVP Mk5**](https://en.wikipedia.org/wiki/LCVP_(United_Kingdom))
+[**LCVP Mk5**](https://en.wikipedia.org/wiki/LCVP_\(United_Kingdom\))
 
 In addition to the LCUs, each LPD and HMS Ocean carry four LCVP (Landing
 Craft, Vehicle & Personnel) on davits. Older RN LCVPs have been replaced
@@ -81,7 +81,7 @@ LCVPs which can carry 38 troops each (including 3 crew) or a light
 vehicle up to 210 nautical miles. In total 18 are in service with the
 RN, plus four older Mk4s are used by the Army.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image5.jpg" style="width:6.5in;height:2.93194in" />
+![](/assets/images/nato/uk/navy/amphibious/image5.jpg)
 
 [**RHIB**](http://www.eliteukforces.info/uksf-gear/ribs/)
 
@@ -91,7 +91,7 @@ are unarmed. Dozens are in service, some with modifications and, because
 the basic boat is available commercially, this can be expanded to
 hundreds at very short notice.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image6.jpeg" style="width:5.55208in;height:3.69235in" />
+![](/assets/images/nato/uk/navy/amphibious/image6.jpeg)
 
 [**RRC**](https://en.wikipedia.org/wiki/Rigid_Raider)
 
@@ -103,4 +103,4 @@ troops to the beach. Speed varies from 33 up to 50 knots depending on
 load. Dozens of these boats are available at every RN Base and they can
 be found in use on every ship.
 
-<img src="/assets\images\nato\uk\navy\amphibious\media\image7.jpg" style="width:4.92708in;height:2.77148in" />
+![](/assets/images/nato/uk/navy/amphibious/image7.jpg)

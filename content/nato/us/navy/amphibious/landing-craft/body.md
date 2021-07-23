@@ -18,16 +18,17 @@ With the LCAC, over 80% of the worlds shoreline is usable and it can be
 launched from over 50 miles offshore – significantly safer for the
 larger ships. Historically 82 craft were built but initial funding was
 granted for 91 and there was a requirement for about 114 (54 per coast,
-6 in Japan, 2 for R&D). In Northern Fury the authorized 91 have been
+6 in Japan, 2 for R\&D). In Northern Fury the authorized 91 have been
 delivered to the Navy by 1994; 42 on the East Coast based at Little
 Creek, 40 at Camp Pendleton California, 6 in Sasebo Japan with the 3
-remaining used for R&D and maintenance. Each LCAC can carry 60 Tons (75
+remaining used for R\&D and maintenance. Each LCAC can carry 60 Tons (75
 Tons if overloaded) of equipment, they can be used to unload tanks one
 at a time but are generally focused on delivering up to 4x LAV-25 (Light
 Armored Vehicle with a 25mm gun), or up to 12 High Mobility Multipurpose
-Wheeled Vehicle (HMMWV) at a time.
+Wheeled Vehicle (HMMWV) at a
+time.
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image1.jpg" style="width:6.60417in;height:4.95313in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image1.jpg)
 
 LCAC with 4 x LAV-25 and 2 x HMMWV
 
@@ -36,19 +37,21 @@ Utility](https://fas.org/man/dod-101/sys/ship/lcu.htm). These heavy duty
 but aging craft provide landing forces with reliable ship to shore
 delivery of tanks and outsized vehicles such as bulldozers and heavy
 trucks. The only class in USN is the LCU 1610 class (although the 1627
-and 1646 are sub-classes with minor variations). There were [72 LCU
-1610s built](http://shipbuildinghistory.com/smallships/lcu.htm) but 15
-were converted to other purposes and a further three were sold, leaving
-54: 18 at Little Creek on the east coast, 18 at Camp Pendleton, 4 in
-Japan, 2 at Souda Bay Crete, 2 at Rota Spain, 2 at Guantanamo Bay Cuba,
-2 at Guam, 2 at Subic Bay Philippines, and the remaining 4 on various
-other duties. Although the LCU can deliver up to 350 troops to the
-beach, its main purpose is to deliver 2 x M-1A1 tanks with additional
-cargo capacity to spare. An added feature is the ability to link LCUs to
-create a causeway to quickly unload larger ships from deeper water.
+and 1646 are sub-classes with minor variations). There were [72
+LCU 1610s built](http://shipbuildinghistory.com/smallships/lcu.htm) but
+15 were converted to other purposes and a further three were sold,
+leaving 54: 18 at Little Creek on the east coast, 18 at Camp Pendleton,
+4 in Japan, 2 at Souda Bay Crete, 2 at Rota Spain, 2 at Guantanamo Bay
+Cuba, 2 at Guam, 2 at Subic Bay Philippines, and the remaining 4 on
+various other duties. Although the LCU can deliver up to 350 troops to
+the beach, its main purpose is to deliver 2 x M-1A1 tanks with
+additional cargo capacity to spare. An added feature is the ability to
+link LCUs to create a causeway to quickly unload larger ships from
+deeper
+water.
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image2.jpeg" style="width:3.33333in;height:2.38105in" />
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image3.jpg" style="width:3.10463in;height:2.32847in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image2.jpeg)
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image3.jpg)
 
 LCU loading and unloading M1A1 tanks.
 
@@ -68,9 +71,10 @@ capacity, it can carry every vehicle in a MEF except the M1A1 tank, or
 up to 200 troops. The US Army has maintained about 40 LCM-8’s (out of
 526 originally, mostly used in Viet Nam), Spain has another 6, and the
 USN has retained 261 of an original 547 boats, all but 74 being in
-reserve at the start of the war.
+reserve at the start of the
+war.
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image4.jpeg" style="width:3.20486in;height:2.14548in" /><img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image5.jpg" style="width:3.28125in;height:2.18438in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image4.jpeg)![](/assets/images/nato/us/navy/amphibious/landing-craft/image5.jpg)
 
 LCM-8’s
 
@@ -93,13 +97,15 @@ made this the ‘go-to’ technology for small boats. Historically the RHIB
 was slow to be adopted in the USN, although Special Forces were using
 them in the [early 90’s](https://fas.org/man/dod-101/sys/ship/rhib.htm),
 in Northern Fury, the increased threat sped the adoption of this
-technology into all arms and services.
+technology into all arms and
+services.
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image6.jpg" style="width:5.40625in;height:2.36524in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image6.jpg)
 
-Heavily modified Viet Nam era LCVP
+Heavily modified Viet Nam era
+LCVP
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image7.jpg" style="width:5.55208in;height:3.06254in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image7.jpg)
 
 RHIBs
 
@@ -114,8 +120,9 @@ other vehicle in the inventory can load from the docking well of a
 landing ship, maneuver through he sea and up onto dry land where it can
 unload its marines in a sheltered area and provide fire support. Each
 Marine battalion has a platoon of 13 AA-7s but they can be brigaded for
-larger operations.
+larger
+operations.
 
-<img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image8.jpg" style="width:3.20208in;height:2.13472in" /><img src="/assets\images\nato\us\navy\amphibious\landing-craft\media\image9.jpg" style="width:3.17668in;height:2.11944in" />
+![](/assets/images/nato/us/navy/amphibious/landing-craft/image8.jpg)![](/assets/images/nato/us/navy/amphibious/landing-craft/image9.jpg)
 
 AAV-7s

@@ -1,6 +1,7 @@
-**<u>Northern Fury \#4 – A Cold and Lonely Place</u>**
+**<span class="underline">Northern Fury \#4 – A Cold and Lonely
+Place</span>**
 
-**<u>AAR by HalfLifeExpert, May 2019</u>**
+**<span class="underline">AAR by HalfLifeExpert, May 2019</span>**
 
 The Battle for Jan Mayen Island
 
@@ -84,11 +85,11 @@ Here's the Losses and Expenditures:
 
 SIDE: NATO
 
-===========================================================
+\===========================================================
 
 LOSSES:
 
--------------------------------
+\-------------------------------
 
 2x F-5A Freedom Fighter
 
@@ -102,7 +103,7 @@ LOSSES:
 
 EXPENDITURES:
 
-------------------
+\------------------
 
 9x AIM-9N Sidewinder
 
@@ -126,11 +127,11 @@ EXPENDITURES:
 
 SIDE: WP
 
-===========================================================
+\===========================================================
 
 LOSSES:
 
--------------------------------
+\-------------------------------
 
 4x Yak-38M Forger A
 
@@ -157,7 +158,7 @@ Deck\]
 
 EXPENDITURES:
 
-------------------
+\------------------
 
 110x RGB-NM-1 \[Passive Omni\]
 

@@ -1,9 +1,9 @@
-**<u>Northern Fury \#1 – H-Hour</u>**
+**<span class="underline">Northern Fury \#1 – H-Hour</span>**
 
-**<u>AAR by bladesinger79, Apr 2020</u>**
+**<span class="underline">AAR by bladesinger79, Apr 2020</span>**
 
-Finally! Finished off this massive scenario, H-Hour, \#1 of the long
-line of the Northern Fury campaign. The verdict? I KICKED THEIR ARSES!
+Finally\! Finished off this massive scenario, H-Hour, \#1 of the long
+line of the Northern Fury campaign. The verdict? I KICKED THEIR ARSES\!
 Numbers and long-ranged AA missiles favored the Russians, terrain and
 superior quality equipment from a squadron of F-15 Eagles from the UK
 favored myself as the Norwegians. For the invaders, it wasn’t even
@@ -34,7 +34,7 @@ Slaughter.
 The ground war was intense and fascinating. With proper positioning, I
 managed to kill far more of the enemy than they did to me. It started
 with sending 1plt/C from Kirkenes to find enemy artillery across the
-border. They wiped them out! The SAM section did a fine job of shooting
+border. They wiped them out\! The SAM section did a fine job of shooting
 down several helos at Kirkenes during the enemy deployment. Kirkenes
 completely destroyed the air assault wave of troops using their mortars
 and good tactics, but not without casualties. Didn’t anticipate a second
@@ -49,12 +49,12 @@ three platoons survived the scenario from the far eastern flank.
 
 The Battle for Banak was the story. Using the battery of artillery and
 keeping the mobile units moving around to spot the enemy, they killed
-everything that came their way! I counted six enemy Cubs shot down by
-APC gunners (yes, they rolled a 1 to get the job done)!!! Despite a few
-enemy airstrikes, D Cav did a masterful job of denying the enemy the
+everything that came their way\! I counted six enemy Cubs shot down by
+APC gunners (yes, they rolled a 1 to get the job done)\!\!\! Despite a
+few enemy airstrikes, D Cav did a masterful job of denying the enemy the
 airfield. The first wave was easily dispatched. The second wave of
 mechanized infantry followed by a company of airborne were splotch
-because THEY DID NOT ATTACK, THEY JUST STOOD THERE! Later on, enemy
+because THEY DID NOT ATTACK, THEY JUST STOOD THERE\! Later on, enemy
 airborne artillery and scout vehicles were destroyed. Banak was never
 threatened by ground forces again. The majority of the credit goes to
 the artillery which I used extensively. The Cavalry then mopped up the
@@ -96,14 +96,14 @@ Mehamn with little effect. A majority of damage at Banak was repaired
 when it was over. Mehamn, Batsfjord, Vadso, Vardo, and Kirkenes were in
 enemy hands, but the rest of Norway belongs to NATO. In 24 hours, the
 offensive in Norway was completely halted by the valiant Norwegian
-forces under my command!
+forces under my command\!
 
 The War Cross with Swords goes out to the commander of the Cavalry Troop
 in charge of defending Banak. I’m sure a few Royal Norwegian Orders of
 St. Olav and Merit will be handed out as well. For the Russians: they
-can expect some executions carried out!
+can expect some executions carried out\!
 
-What a great scenario! Final Score was 552! I don’t understand why the
+What a great scenario\! Final Score was 552\! I don’t understand why the
 designer didn’t have the Flankers and Fulcrums really go aggressive in
 the beginning against all AC. \#2, the Russian ground forces spent way
 too much time idling before they attacked their objectives, while the

@@ -14,9 +14,9 @@ defending the Baltic Approaches.
 
 **Destroyers**
 
-<img src="/assets\images\nato\de\navy\media\image1.jpg" style="width:6.5in;height:4.3463in" />
+![](/assets/images/nato/de/navy/image1.jpg)
 
-[**Hamburg
+[***Hamburg*
 Class**](https://en.wikipedia.org/wiki/Hamburg-class_destroyer): Built
 in the early 1960s these were the first warships built in Germany since
 the Second World War. They were not popular, had many faults, poor sea
@@ -28,15 +28,16 @@ obsolete Bofors guns were replaced with new Breda L70 40mm cannon, the
 radar and combat systems were improved. One of the original four ships
 retired in 1990 and the remaining three were historically decommissioned
 between December 1993 and December 1994, in Northern Fury those three
-remain active.
+remain
+active.
 
 | **Pennant** | **Class** | **Ship**           | **Status** | **Location** | **Task** |
-|-------------|-----------|--------------------|------------|--------------|----------|
+| ----------- | --------- | ------------------ | ---------- | ------------ | -------- |
 | D 181       | Hamburg   | Hamburg            | Active     | In Port      |          |
 | D 182       | Hamburg   | Schleswig-Holstein | Active     | In Port      |          |
 | D 183       | Hamburg   | Bayern             | Active     | Baltic       | Patrol   |
 
-<img src="/assets\images\nato\de\navy\media\image2.jpg" style="width:6.5in;height:4.3875in" />
+![](/assets/images/nato/de/navy/image2.jpg)
 
 **[Lutjens](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/D-609-FS-Aconit.htm)
 Class**: These three ships were derived from the US Charles F. Adams
@@ -45,17 +46,18 @@ operationally significant. The primary role of this class was air
 defence and had been upgraded over time to field both the Standard
 SM-1MR medium range Surface to Air Missiles (SAM) and the RAM (Rolling
 Airframe Missile) short range SAM. Considering that they were built in
-1969/70, their air defense capabilities were quite good.
+1969/70, their air defense capabilities were quite
+good.
 
-| **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Task** |
-|-------------|-----------|----------|------------|--------------|----------|
-| D 185       | Lütjens   | Lütjens  | Active     | In Port      |          |
-| D 186       | Lütjens   | Mölders  | Active     | In Port      |          |
-| D 187       | Lütjens   | Rommel   | Active     | North Sea    | Patrol   |
+| **Pennant** | **Class** | **Ship**  | **Status** | **Location** | **Task** |
+| ----------- | --------- | --------- | ---------- | ------------ | -------- |
+| D 185       | *Lütjens* | *Lütjens* | Active     | In Port      |          |
+| D 186       | *Lütjens* | Mölders   | Active     | In Port      |          |
+| D 187       | *Lütjens* | Rommel    | Active     | North Sea    | Patrol   |
 
 **Frigates**
 
-<img src="/assets\images\nato\de\navy\media\image3.jpg" style="width:6.5in;height:2.57083in" />
+![](/assets/images/nato/de/navy/image3.jpg)
 
 **[Bremen
 Class](http://www.seaforces.org/marint/German-Navy/Frigate/Type-122-Bremen-class.htm):**
@@ -67,10 +69,11 @@ as a basis, they were all commissioned between 1982 and 1990 and were
 well rounded ships. The main purpose was protecting the sea lanes and
 contributing to convoy operations. They each carried two Lynx ASW
 helicopters, Harpoon ASMs and short range Sea-Sparrow SAMs and are being
-fitted with the RAM system as well.
+fitted with the RAM system as
+well.
 
 | **Pennant** | **Class** | **Ship**        | **Status** | **Location** | **Task** |
-|-------------|-----------|-----------------|------------|--------------|----------|
+| ----------- | --------- | --------------- | ---------- | ------------ | -------- |
 | F 207       | Bremen    | Bremen          | Active     | In Port      |          |
 | F 208       | Bremen    | Niedersachsen   | Active     | Baltic       | Patrol   |
 | F 209       | Bremen    | Rheinland-Pfalz | Active     | North Sea    | Patrol   |
@@ -80,7 +83,7 @@ fitted with the RAM system as well.
 | F 213       | Bremen    | Augsburg        | Active     | In Port      |          |
 | F 214       | Bremen    | Lübeck          | Active     | In Port      |          |
 
-<img src="/assets\images\nato\de\navy\media\image4.jpg" style="width:6.5in;height:2.29722in" />
+![](/assets/images/nato/de/navy/image4.jpg)
 
 [**Brandenburg
 Class**](http://www.seaforces.org/marint/German-Navy/Frigate/Type-123-Brandenburg-class.htm):
@@ -91,14 +94,15 @@ completing her final fitting out before commissioning at war start. The
 other three ships have also been accelerated but are at least a year
 away from commissioning. Equipped with 2 Lynx ASW helicopters, Exocet
 ASM, Sea Sparrow, RAM and very modern sensors, these will be a valuable
-addition to the fleet.
+addition to the
+fleet.
 
-| **Pennant** | **Class**   | **Ship**               | **Status**  | **Location** | **Task** |
-|-------------|-------------|------------------------|-------------|--------------|----------|
-| F 215       | Brandenburg | Brandenburg            | Fitting out | In Port      | Mar 94   |
-| F 216       | Brandenburg | Schleswig-Holstein     | Launched    |              | Feb 95   |
-| F 217       | Brandenburg | Bayern                 | Launched    |              | Mar 95   |
-| F 218       | Brandenburg | Mecklenburg-Vorpommern | Building    |              | Jun 96   |
+| **Pennant** | **Class**     | **Ship**               | **Status**  | **Location** | **Task** |
+| ----------- | ------------- | ---------------------- | ----------- | ------------ | -------- |
+| F 215       | *Brandenburg* | *Brandenburg*          | Fitting out | In Port      | Mar 94   |
+| F 216       | *Brandenburg* | Schleswig-Holstein     | Launched    |              | Feb 95   |
+| F 217       | *Brandenburg* | Bayern                 | Launched    |              | Mar 95   |
+| F 218       | *Brandenburg* | Mecklenburg-Vorpommern | Building    |              | Jun 96   |
 
 **Fast Attack Craft:** The role of these ships is to defend the western
 end of the Baltic sea and in conjunction with the Danish Navy, prevent
@@ -108,16 +112,17 @@ of Kiel and remain at high readiness to sortie quickly against any
 threat. The NATO pennant numbers are prefixed with ‘P’ while the local
 German pennant number is only two digits and is prefixed with an ‘S’.
 
-<img src="/assets\images\nato\de\navy\media\image5.jpg" style="width:6.48958in;height:3.84375in" />
+![](/assets/images/nato/de/navy/image5.jpg)
 
 [**Albatros
 Class**](http://www.seaforces.org/marint/German-Navy/Patrol-Vessel/Type-143-Albatros-class.htm):
 Equipped with Exocet ASMs, torpedoes, and two 76mm Oto-Melara gun, these
 400 tonne boats attack at 40Knts and depend on their speed,
-maneuverability and a few decoys to escape.
+maneuverability and a few decoys to
+escape.
 
 | **Pennant**  | **Class** | **Ship** | **Status** | **Location** | **Task** |
-|--------------|-----------|----------|------------|--------------|----------|
+| ------------ | --------- | -------- | ---------- | ------------ | -------- |
 | P 6111 (S61) | Albatros  | Albatros | Active     | In Port      |          |
 | P 6112 (S62) | Albatros  | Falke    | Active     | In Port      |          |
 | P 6113 (S63) | Albatros  | Geier    | Active     | In Port      |          |
@@ -129,16 +134,17 @@ maneuverability and a few decoys to escape.
 | P 6119 (S69) | Albatros  | Habicht  | Active     | In Port      |          |
 | P 6120 (S70) | Albatros  | Kormoran | Active     | In Port      |          |
 
-<img src="/assets\images\nato\de\navy\media\image6.jpg" style="width:6.48958in;height:3.52083in" />
+![](/assets/images/nato/de/navy/image6.jpg)
 
-[**Gepard
+[***Gepard*
 Class**](http://www.seaforces.org/marint/German-Navy/Patrol-Vessel/Type-143A-Gepard-class.htm):
 Similarly equipped to the Albatros Class, the Gepards are a decade
 newer, have only one gun, more decoys and are equipped with the RAM
-short range SAM system with 21 missiles.
+short range SAM system with 21
+missiles.
 
 | **Pennant**  | **Class** | **Ship**  | **Status** | **Location** | **Task** |
-|--------------|-----------|-----------|------------|--------------|----------|
+| ------------ | --------- | --------- | ---------- | ------------ | -------- |
 | P 6121 (S71) | Gepard    | Gepard    | Active     | In Port      |          |
 | P 6122 (S72) | Gepard    | Puma      | Active     | In Port      |          |
 | P 6123 (S73) | Gepard    | Hermelin  | Active     | In Port      |          |
@@ -150,18 +156,19 @@ short range SAM system with 21 missiles.
 | P 6129 (S79) | Gepard    | Wiesel    | Active     | In Port      |          |
 | P 6130 (S80) | Gepard    | Hyäne     | Active     | In Port      |          |
 
-<img src="/assets\images\nato\de\navy\media\image7.jpg" style="width:6.49351in;height:4.39085in" />
+![](/assets/images/nato/de/navy/image7.jpg)
 
-[**Tiger
+[***Tiger*
 Class**](http://www.seaforces.org/marint/German-Navy/Patrol-Vessel/Type-143A-Gepard-class.htm):
 The oldest of the three classes of FAC in the German Navy, these have
 Exocet ASMs and two Oto-Melara 76mm guns, but also a Bofors 40mm gun
 instead of SAMs. Slightly slower and 130 tonnes lighter than the other
 two classes, the 20 boats of the Tiger Class will have difficulty
-surviving in the highly contested Baltic Approaches.
+surviving in the highly contested Baltic
+Approaches.
 
 | **Pennant**  | **Class** | **Ship** | **Status** | **Location** | **Task** |
-|--------------|-----------|----------|------------|--------------|----------|
+| ------------ | --------- | -------- | ---------- | ------------ | -------- |
 | P 6140 (S40) | Tiger     | Kalypso  | Active     | In Port      |          |
 | P 6141 (S41) | Tiger     | Tiger    | Active     | In Port      |          |
 | P 6142 (S42) | Tiger     | Iltis    | Active     | In Port      |          |
@@ -185,45 +192,46 @@ surviving in the highly contested Baltic Approaches.
 | P 6160 (S60) | Tiger     | Kranich  | Active     | In Port      |          |
 
 **Submarines:** German shipyards build some of the best diesel powered
-submarines in the world – for other navies! The only submarines, or
+submarines in the world – for other navies\! The only submarines, or
 U-Boats operated by the Germany Navy are the Type 205 and 206 designs,
 far smaller and less effective, but cheaper to build and operate than
 the Type 209/210 designs that are used by a dozen (in 1994) countries
 around the world. Design and testing is ongoing for the most advanced
 versions of the type 209 and even the type 212/214. Still the German
 boats are very effective and well suited for the shallow and confined
-waters of the Baltic Sea.
+waters of the Baltic
+Sea.
 
-<img src="/assets\images\nato\de\navy\media\image8.jpeg" style="width:6.5in;height:3.22014in" />
+![](/assets/images/nato/de/navy/image8.jpeg)
 
-[**Type
-205/205A**](http://www.seaforces.org/marint/German-Navy/Submarine/Type-205-class.htm):
+[**Type 205/205A**](http://www.seaforces.org/marint/German-Navy/Submarine/Type-205-class.htm):
 Only four boats remain active in this class, although two were supposed
 to retire in 1993, they did not. At a displacement of 450 tonnes
 submerged and with a crew of 22, these are very small, but also very
 quiet subs. The Type 205 had a single hull, the Type 205A had a double
 hull, neither were non-magnetic but had hulls made of a much better and
-less magnetic steel than earlier designs.
+less magnetic steel than earlier
+designs.
 
-| **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Task**  |
-|-------------|-----------|----------|------------|--------------|-----------|
-| S 188       | Type 205  | U-9      | Active     | Baltic       | On Patrol |
-| S 189       | Type 205  | U-10     | Active     | In Port      |           |
-| S 190       | Type 205A | U-12     | Active     | In Port      |           |
-| S 191       | Type 205A | U-12     | Active     | In Port      |           |
+| **Pennant** | **Class**   | **Ship** | **Status** | **Location** | **Task**  |
+| ----------- | ----------- | -------- | ---------- | ------------ | --------- |
+| S 188       | Type 205    | U-9      | Active     | Baltic       | On Patrol |
+| S 189       | Type 205    | U-10     | Active     | In Port      |           |
+| S 190       | Type 205A   | U-12     | Active     | In Port      |           |
+| S 191       | *Type 205A* | U-12     | Active     | In Port      |           |
 
-<img src="/assets\images\nato\de\navy\media\image9.jpg" style="width:6.5in;height:4.26597in" />
+![](/assets/images/nato/de/navy/image9.jpg)
 
-[**Type
-206**](http://www.seaforces.org/marint/German-Navy/Submarine/Type-206-class.htm):
+[**Type 206**](http://www.seaforces.org/marint/German-Navy/Submarine/Type-206-class.htm):
 This type is not much larger than the Type 205 but its systems are more
 advanced and it has a non-magnetic steel hull. 18 were built and 12 were
 upgraded to the Type 206A standard with a new sonar, periscopes, weapons
 control system, ability to use newer torpedoes and a refurbished
-propulsion system.
+propulsion
+system.
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Task** |
-|-------------|-----------|----------|------------|--------------|----------|
+| ----------- | --------- | -------- | ---------- | ------------ | -------- |
 | S 192       | Type 206  | U-13     | Active     | In Port      |          |
 | S 193       | Type 206  | U-14     | Active     | In Port      |          |
 | S 194       | Type 206A | U-15     | Active     | In Port      |          |

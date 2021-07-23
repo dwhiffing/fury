@@ -1,4 +1,5 @@
-**<u>Key Munitions for the USN in Northern Fury</u>**
+**<span class="underline">Key Munitions for the USN in Northern
+Fury</span>**
 
 As an example of the type of ‘Rabbit Hole’ I find myself exploring, here
 are some thoughts on US Navy ammunition stocks as the bear on the
@@ -54,7 +55,7 @@ are specific to the Northern battleset.
 As a reminder, below are the Northern Fury [USN Fleet
 boundaries](http://northernfury.us/blog/post4/):
 
-<img src="/assets\images\blog\post25\media\image1.JPG" style="width:6.5in;height:3.25972in" />
+![](/assets/images/blog/post25/image1.JPG)
 
 **Munitions under consideration:**
 
@@ -75,7 +76,7 @@ Distribution of the remaining 400 is:
 
 5.  7th Fleet: 150
 
-<img src="/assets\images\blog\post25\media\image2.jpg" style="width:6in;height:4.16667in" />
+![](/assets/images/blog/post25/image2.jpg)
 
 **[AGM-88C: HARM](about:blank):** Although thousands were eventually
 produced, the ‘C’ model only entered service in 1993. In a stretch for
@@ -98,7 +99,7 @@ with another 200 in stock. Distribution of the remainder is:
 
 5.  7th Fleet: 48
 
-<img src="/assets\images\blog\post25\media\image3.jpg" style="width:4.64583in;height:3.80402in" />
+![](/assets/images/blog/post25/image3.jpg)
 
 **[AIM-7P: Sparrow](about:blank):** This missile was an upgrade of the
 AIM-7M and was meant to be compatible (in regards to the
@@ -120,14 +121,14 @@ onboard the carriers. This leaves 800 for distribution:
 
 5.  7th Fleet: 100
 
-<img src="/assets\images\blog\post25\media\image4.jpg" style="width:5in;height:3.75in" />
+![](/assets/images/blog/post25/image4.jpg)
 
 **[AIM-54: Phoenix](about:blank):** The AIM-54C is a large and complex
 missile. Each takes two years to produce and costs an estimated
 $920-$970 thousand. Various estimates state that about 2000 AIM-54C were
 in inventory at the end of production in 1993. The most generous
 estimate is that about 2,500 of these weapons were produced. Deducting
-about 10% for R&D, testing and range firing brings that estimate to
+about 10% for R\&D, testing and range firing brings that estimate to
 about 2,250, which roughly agrees with other figures of available
 stocks. Assuming that production continued and was ramped up slightly,
 we can reasonably assume that about 2,800 AIM-54C (& ‘C+’) are available
@@ -146,7 +147,7 @@ of remaining stockpiles as follows:
 
 5.  7<sup>th</sup> Fleet: 200
 
-<img src="/assets\images\blog\post25\media\image5.jpg" style="width:6.5in;height:2.80139in" />
+![](/assets/images/blog/post25/image5.jpg)
 
 **[AIM-120A: AMRAAM](about:blank):** The ‘A’ model of this weapon became
 operational in 1991 with the Navy receiving the first deliveries in
@@ -171,7 +172,7 @@ another 500 for allocation:
 
 5.  7<sup>th</sup> Fleet: 120
 
-<img src="/assets\images\blog\post25\media\image6.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/blog/post25/image6.jpg)
 
 [**BGM-109C/D: TLAM/TSAM/SLCM**](about:blank): Collectively called
 **‘Tomahawk’** this family of missiles was fairly prolific, but the
@@ -232,6 +233,6 @@ expenditure. We believe about 400 have been expended in the Atlantic and
 confirm the numbers are accurate. We’ll need to save about 600-700 for
 the last couple scenarios—just saying.
 
-<img src="/assets\images\blog\post25\media\image7.jpg" style="width:5.68889in;height:4.26667in" />
+![](/assets/images/blog/post25/image7.jpg)
 
-<img src="/assets\images\blog\post25\media\image8.jpg" style="width:6in;height:3.23in" />
+![](/assets/images/blog/post25/image8.jpg)

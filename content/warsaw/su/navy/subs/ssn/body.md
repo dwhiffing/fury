@@ -9,7 +9,7 @@ spectrum there are a few examples that are ultra-modern, capable of
 challenging the latest western technologies; these however are quite few
 in number.
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image1.jpg" style="width:6.5in;height:3.03333in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image1.jpg)
 
 **SSN**
 
@@ -39,64 +39,65 @@ Victor II (7) program was terminated early after it was discovered that
 they were easily trackable by US sonars. The Victor III (27) sub class
 has a retractable towed array passive sonar system. One variation from
 historical deployments has three additional Victor IIIs in the Northern
-Fleet, re-deployed from the Pacific in the months preceding hostilities.
+Fleet, re-deployed from the Pacific in the months preceding
+hostilities.
 
 | Class                                                                  | Pennant | Name      | Fleet    | Remarks         |
-|------------------------------------------------------------------------|---------|-----------|----------|-----------------|
+| ---------------------------------------------------------------------- | ------- | --------- | -------- | --------------- |
 | [Victor I](http://russianships.info/eng/submarines/project_671.htm)    | K-38    | K-38      | Pacific  | Project 671     |
-|                                                                        | K-69    | K-69      | Northern |                 |
-|                                                                        | K-147   | K-147     | Northern |                 |
-|                                                                        | K-53    | K-53      | Pacific  |                 |
-|                                                                        | K-306   | K-306     | Northern |                 |
-|                                                                        | K-323   | K-323     | Northern |                 |
-|                                                                        | K-370   | K-370     | Northern |                 |
-|                                                                        | K-438   | K-438     | Northern |                 |
-|                                                                        | K-367   | K-367     | Northern |                 |
-|                                                                        | K-314   | K-314     | Northern | Project 671V    |
-|                                                                        | K-398   | K-398     | Northern |                 |
-|                                                                        | K-454   | K-454     | Pacific  | Project 671V    |
-|                                                                        | K-462   | K-462     | Northern |                 |
-|                                                                        | K-469   | K-469     | Northern | Project 671V    |
-|                                                                        | K-481   | K-481     | Northern |                 |
+|                                                                        | K-69    | K-69      | Northern |                 |
+|                                                                        | K-147   | K-147     | Northern |                 |
+|                                                                        | K-53    | K-53      | Pacific  |                 |
+|                                                                        | K-306   | K-306     | Northern |                 |
+|                                                                        | K-323   | K-323     | Northern |                 |
+|                                                                        | K-370   | K-370     | Northern |                 |
+|                                                                        | K-438   | K-438     | Northern |                 |
+|                                                                        | K-367   | K-367     | Northern |                 |
+|                                                                        | K-314   | K-314     | Northern | Project 671V    |
+|                                                                        | K-398   | K-398     | Northern |                 |
+|                                                                        | K-454   | K-454     | Pacific  | Project 671V    |
+|                                                                        | K-462   | K-462     | Northern |                 |
+|                                                                        | K-469   | K-469     | Northern | Project 671V    |
+|                                                                        | K-481   | K-481     | Northern |                 |
 | [Victor II](http://russianships.info/eng/submarines/project_671rt.htm) | K-371   | K-371     | Northern | Project 671RT   |
 |                                                                        | K-387   | K-387     | Northern | Project 671RT   |
-|                                                                        | K-467   | K-467     | Northern | Project 671RT   |
-|                                                                        | K-488   | K-488     | Northern | Project 671RT   |
-|                                                                        | K-495   | K-495     | Northern | Project 671RT   |
-|                                                                        | K-513   | K-513     | Northern | Project 671RT   |
-|                                                                        | K-517   | K-517     | Northern | Project 671RT   |
+|                                                                        | K-467   | K-467     | Northern | Project 671RT   |
+|                                                                        | K-488   | K-488     | Northern | Project 671RT   |
+|                                                                        | K-495   | K-495     | Northern | Project 671RT   |
+|                                                                        | K-513   | K-513     | Northern | Project 671RT   |
+|                                                                        | K-517   | K-517     | Northern | Project 671RT   |
 | Victor III                                                             | K-138   | K-138     | Northern | Project 671RTMK |
 |                                                                        | K-218   | K-218     | Northern | Project 671RTM  |
 |                                                                        | K-242   | Amur      | Pacific  | Project 671RTM  |
 |                                                                        | K-244   | K-244     | Northern | Project 671RTM  |
-|                                                                        | K-247   | K-247     | Pacific  | Project 671RTM  |
-|                                                                        | K-251   | K-251     | Pacific  | Project 671RTM  |
-|                                                                        | K-254   | K-254     | Northern | Project 671RTM  |
-|                                                                        | K-255   | K-255     | Northern | Project 671RTM  |
-|                                                                        | K-264   | K-264     | Pacific  | Project 671RTM  |
-|                                                                        | K-292   | K-292     | Northern | Project 671RTMK |
-|                                                                        | K-298   | K-298     | Northern | Project 671RTM  |
-|                                                                        | K-299   | K-299     | Northern | Project 671RTM  |
-|                                                                        | K-305   | K-305     | Northern | Project 671RTM  |
-|                                                                        | K-324   | K-324     | Northern | Project 671RTM  |
-|                                                                        | K-355   | K-355     | Pacific  | Project 671RTM  |
-|                                                                        | K-358   | Murmansky | Northern | Project 671RTM  |
-|                                                                        | K-360   | K-360     | Northern | Project 671RTM  |
-|                                                                        | K-388   | K-388     | Northern | Project 671RTMK |
-|                                                                        | K-412   | K-412     | Northern | Project 671RTM  |
-|                                                                        | K-414   | K-414     | Northern | Project 671RTMK |
-|                                                                        | K-448   | K-448     | Northern | Project 671RTMK |
-|                                                                        | K-492   | K-492     | Pacific  | Project 671RTM  |
-|                                                                        | K-502   | K-502     | Northern | Project 671RTM  |
-|                                                                        | K-507   | K-507     | Pacific  | Project 671RTM  |
-|                                                                        | K-524   | K-524     | Northern | Project 671RTM  |
-|                                                                        | K-527   | K-527     | Northern | Project 671RTM  |
+|                                                                        | K-247   | K-247     | Pacific  | Project 671RTM  |
+|                                                                        | K-251   | K-251     | Pacific  | Project 671RTM  |
+|                                                                        | K-254   | K-254     | Northern | Project 671RTM  |
+|                                                                        | K-255   | K-255     | Northern | Project 671RTM  |
+|                                                                        | K-264   | K-264     | Pacific  | Project 671RTM  |
+|                                                                        | K-292   | K-292     | Northern | Project 671RTMK |
+|                                                                        | K-298   | K-298     | Northern | Project 671RTM  |
+|                                                                        | K-299   | K-299     | Northern | Project 671RTM  |
+|                                                                        | K-305   | K-305     | Northern | Project 671RTM  |
+|                                                                        | K-324   | K-324     | Northern | Project 671RTM  |
+|                                                                        | K-355   | K-355     | Pacific  | Project 671RTM  |
+|                                                                        | K-358   | Murmansky | Northern | Project 671RTM  |
+|                                                                        | K-360   | K-360     | Northern | Project 671RTM  |
+|                                                                        | K-388   | K-388     | Northern | Project 671RTMK |
+|                                                                        | K-412   | K-412     | Northern | Project 671RTM  |
+|                                                                        | K-414   | K-414     | Northern | Project 671RTMK |
+|                                                                        | K-448   | K-448     | Northern | Project 671RTMK |
+|                                                                        | K-492   | K-492     | Pacific  | Project 671RTM  |
+|                                                                        | K-502   | K-502     | Northern | Project 671RTM  |
+|                                                                        | K-507   | K-507     | Pacific  | Project 671RTM  |
+|                                                                        | K-524   | K-524     | Northern | Project 671RTM  |
+|                                                                        | K-527   | K-527     | Northern | Project 671RTM  |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image2.png" style="width:6.5in;height:2.99653in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image2.png)
 
 Victor I
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image3.png" style="width:6.5in;height:2.19375in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image3.png)
 
 Victor III
 
@@ -120,15 +121,15 @@ being broken up it became a training platform. Only six other boats were
 built
 
 | Class | Pennant | Name  | Fleet    | Remarks |
-|-------|---------|-------|----------|---------|
-| Alpha | K-123   | K-123 | Northern |         |
-|       | K-316   | K-316 | Northern |         |
-|       | K-432   | K-432 | Northern |         |
-|       | K-373   | K-373 | Northern |         |
-|       | K-493   | K-493 | Pacific  |         |
-|       | K-463   | K-463 | Pacific  |         |
+| ----- | ------- | ----- | -------- | ------- |
+| Alpha | K-123   | K-123 | Northern |         |
+|       | K-316   | K-316 | Northern |         |
+|       | K-432   | K-432 | Northern |         |
+|       | K-373   | K-373 | Northern |         |
+|       | K-493   | K-493 | Pacific  |         |
+|       | K-463   | K-463 | Pacific  |         |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image4.jpg" style="width:3.01773in;height:2.01418in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image4.jpg)
 
 [**Sierra
 Class**](http://russianships.info/eng/submarines/project_945.htm)The
@@ -142,14 +143,14 @@ Sierra III which historically was scrapped before completion but is in
 service for Northern Fury.
 
 | Class      | Pennant | Name             | Fleet    | Remarks       |
-|------------|---------|------------------|----------|---------------|
+| ---------- | ------- | ---------------- | -------- | ------------- |
 | Sierra I   | K-276   | Kostroma         | Northern | Project 945   |
 |            | K-239   | Carp             | Pacific  | Project 945   |
 | Sierra II  | K-336   | Pskov            | Northern | Project 945A  |
 |            | K-534   | Nizhniy Novgorod | Northern | Project 945A  |
 | Sierra III | K-536   | Mars             | Northern | Project 945AB |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image5.jpg" style="width:6.5in;height:3.99444in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image5.jpg)
 
 [**Akula Class**](https://fas.org/nuke/guide/russia/slbm/667AR.htm)
 
@@ -165,23 +166,23 @@ have better sonars. The Final boat, the Akula II ‘Vepr’ has been
 compared to the Improved Los Angeles class.
 
 | Class      | Pennant | Name     | Fleet    | Remarks       |
-|------------|---------|----------|----------|---------------|
+| ---------- | ------- | -------- | -------- | ------------- |
 | Akula I    | K-317   | Pantera  | Northern | Project 971   |
-|            | K-480   | Ak Bars  | Northern | Project 971   |
-|            | K-331   | Magadan  | Pacific  | Project 971   |
-|            | K-391   | Bratsk   | Pacific  | Project 971   |
-|            | K-322   | Kashalot | Pacific  | Project 971   |
-|            | K-263   | Delfin   | Pacific  | Project 971   |
-|            | K-284   | Akula    | Pacific  | Project 971   |
+|            | K-480   | Ak Bars  | Northern | Project 971   |
+|            | K-331   | Magadan  | Pacific  | Project 971   |
+|            | K-391   | Bratsk   | Pacific  | Project 971   |
+|            | K-322   | Kashalot | Pacific  | Project 971   |
+|            | K-263   | Delfin   | Pacific  | Project 971   |
+|            | K-284   | Akula    | Pacific  | Project 971   |
 | Akula Impr | K-154   | Tigr     | Northern | Project 971-I |
-|            | K-328   | Leopard  | Northern | Project 971-I |
-|            | K-461   | Volk     | Northern | Project 971-I |
-|            | K-295   | Samara   | Pacific  | Project 971-I |
-|            | K-419   | Kuzbass  | Pacific  | Project 971-I |
-|            | K-152   | Nerpa    | Pacific  | Project 971-I |
+|            | K-328   | Leopard  | Northern | Project 971-I |
+|            | K-461   | Volk     | Northern | Project 971-I |
+|            | K-295   | Samara   | Pacific  | Project 971-I |
+|            | K-419   | Kuzbass  | Pacific  | Project 971-I |
+|            | K-152   | Nerpa    | Pacific  | Project 971-I |
 | Akula II   | K-157   | Vepr     | Northern | Project 971U  |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image6.jpg" style="width:6.45833in;height:2.40625in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image6.jpg)
 
 **SSK**
 
@@ -208,50 +209,51 @@ historically scrapped or not completed in 1994, and two with very slow
 construction, but in Northern Fury these were completed in time for the
 campaign. These are quiet, efficient boats able to use a variety of
 weapons and present a significant challenge to NATO forces who often
-call them the ‘Black Hole’ because they are so difficult to find.
+call them the ‘Black Hole’ because they are so difficult to
+find.
 
 | Class    | Pennant | Name                | Fleet     | Remarks           |
-|----------|---------|---------------------|-----------|-------------------|
-| Kilo     | B-248   |                     | Northern  |                   |
-|          | B-177   |                     | Black Sea |                   |
-|          | B-187   |                     | Pacific   |                   |
-|          | B-190   |                     | Pacific   |                   |
-|          | B-220   |                     | Baltic    |                   |
-|          | B-224   |                     | Baltic    |                   |
-|          | B-227   | Vyborg              | Northern  |                   |
-|          | B-229   |                     | Northern  |                   |
-|          | B-260   | Chita               | Pacific   |                   |
-|          | B-345   | Mogocha             | Pacific   |                   |
-|          | B-354   |                     | Black Sea | Divert from India |
+| -------- | ------- | ------------------- | --------- | ----------------- |
+| Kilo     | B-248   |                     | Northern  |                   |
+|          | B-177   |                     | Black Sea |                   |
+|          | B-187   |                     | Pacific   |                   |
+|          | B-190   |                     | Pacific   |                   |
+|          | B-220   |                     | Baltic    |                   |
+|          | B-224   |                     | Baltic    |                   |
+|          | B-227   | Vyborg              | Northern  |                   |
+|          | B-229   |                     | Northern  |                   |
+|          | B-260   | Chita               | Pacific   |                   |
+|          | B-345   | Mogocha             | Pacific   |                   |
+|          | B-354   |                     | Black Sea | Divert from India |
 | Imp Kilo | B-394   | Tadjkistana         | Baltic    | Divert from India |
-|          | B-401   | Novosibirsk         | Northern  |                   |
-|          | B-402   | Vologda             | Pacific   |                   |
-|          | B-404   |                     | Pacific   |                   |
-|          | B-405   | Tyumensky           | Northern  |                   |
-|          | B-425   |                     | Northern  | Divert from India |
-|          | B-437   | Yaroslavl\`         | Pacific   | Divert from India |
-|          | B-439   |                     | Northern  |                   |
-|          | B-445   | Svyatitel           | Pacific   |                   |
-|          | B-459   | Vladikavkaz         | Pacific   |                   |
-|          | B-464   | Ust\`-Kamchatsk     | Northern  |                   |
-|          | B-468   |                     | Northern  |                   |
-|          | B-470   |                     | Northern  | Completed         |
-|          | B-471   | Magnitogorsky       | Northern  |                   |
-|          | B-494   | Ust\`-Bol\`sheretck | Northern  |                   |
-|          | B-800   | Vologodsky          | Northern  |                   |
-|          | B-806   | Dmitrov             | Northern  |                   |
-|          | B-871   | Alrosa              | Northern  | Pump Jet          |
-|          | B-880   | Del'fin             | Northern  | Divert from India |
-|          | B-903   |                     | Black Sea | Divert from India |
-|          | B-917   |                     | Pacific   | Divert from China |
-|          | B-922   |                     | Pacific   | Divert from China |
-|          | B-351   |                     | Northern  | Divert from India |
-|          | B-944   |                     | Northern  | Divert from India |
-|          | B-947   |                     | Northern  | Completed         |
-|          | B-955   |                     | Pacific   | Not Scrapped      |
-|          | B-960   |                     | Northern  | Not Scrapped      |
+|          | B-401   | Novosibirsk         | Northern  |                   |
+|          | B-402   | Vologda             | Pacific   |                   |
+|          | B-404   |                     | Pacific   |                   |
+|          | B-405   | Tyumensky           | Northern  |                   |
+|          | B-425   |                     | Northern  | Divert from India |
+|          | B-437   | Yaroslavl\`         | Pacific   | Divert from India |
+|          | B-439   |                     | Northern  |                   |
+|          | B-445   | Svyatitel           | Pacific   |                   |
+|          | B-459   | Vladikavkaz         | Pacific   |                   |
+|          | B-464   | Ust\`-Kamchatsk     | Northern  |                   |
+|          | B-468   |                     | Northern  |                   |
+|          | B-470   |                     | Northern  | Completed         |
+|          | B-471   | Magnitogorsky       | Northern  |                   |
+|          | B-494   | Ust\`-Bol\`sheretck | Northern  |                   |
+|          | B-800   | Vologodsky          | Northern  |                   |
+|          | B-806   | Dmitrov             | Northern  |                   |
+|          | B-871   | Alrosa              | Northern  | Pump Jet          |
+|          | B-880   | Del'fin             | Northern  | Divert from India |
+|          | B-903   |                     | Black Sea | Divert from India |
+|          | B-917   |                     | Pacific   | Divert from China |
+|          | B-922   |                     | Pacific   | Divert from China |
+|          | B-351   |                     | Northern  | Divert from India |
+|          | B-944   |                     | Northern  | Divert from India |
+|          | B-947   |                     | Northern  | Completed         |
+|          | B-955   |                     | Pacific   | Not Scrapped      |
+|          | B-960   |                     | Northern  | Not Scrapped      |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image7.jpg" style="width:6.5in;height:3.53194in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image7.jpg)
 
 [**Tango Class**](https://en.wikipedia.org/wiki/Tango-class_submarine)
 
@@ -265,27 +267,27 @@ and communications systems, the Tango class was very capable and caused
 NATO ASW forces great concern.
 
 | Class | Pennant | Name          | Fleet     | Remarks |
-|-------|---------|---------------|-----------|---------|
-| Tango | B-380   | Gorkovsky     | Northern  |         |
-|       | B-30    |               | Northern  |         |
-|       | B-97    |               | Pacific   |         |
-|       | B-146   | Kazakhstana   | Northern  |         |
-|       | B-215   |               | Northern  |         |
-|       | B-225   |               | Med       |         |
-|       | B-290   |               | Northern  |         |
-|       | B-303   |               | Black Sea |         |
-|       | B-307   |               | Northern  |         |
-|       | B-312   |               | Med       |         |
-|       | B-319   | Chuvashii     | Northern  |         |
-|       | B-443   | Magnitogorsky | Baltic    |         |
-|       | B-474   |               | Northern  |         |
-|       | B-498   |               | Northern  |         |
-|       | B-504   | Novosibirsky  | Pacific   |         |
-|       | B-519   |               | Northern  |         |
-|       | B-546   |               | Northern  |         |
-|       | B-597   |               | Northern  |         |
+| ----- | ------- | ------------- | --------- | ------- |
+| Tango | B-380   | Gorkovsky     | Northern  |         |
+|       | B-30    |               | Northern  |         |
+|       | B-97    |               | Pacific   |         |
+|       | B-146   | Kazakhstana   | Northern  |         |
+|       | B-215   |               | Northern  |         |
+|       | B-225   |               | Med       |         |
+|       | B-290   |               | Northern  |         |
+|       | B-303   |               | Black Sea |         |
+|       | B-307   |               | Northern  |         |
+|       | B-312   |               | Med       |         |
+|       | B-319   | Chuvashii     | Northern  |         |
+|       | B-443   | Magnitogorsky | Baltic    |         |
+|       | B-474   |               | Northern  |         |
+|       | B-498   |               | Northern  |         |
+|       | B-504   | Novosibirsky  | Pacific   |         |
+|       | B-519   |               | Northern  |         |
+|       | B-546   |               | Northern  |         |
+|       | B-597   |               | Northern  |         |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image8.jpg" style="width:5.04167in;height:3.42656in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image8.jpg)
 
 [**Foxtrot
 Class**](https://en.wikipedia.org/wiki/Foxtrot-class_submarine)
@@ -298,7 +300,7 @@ impressive for the era. Four have been scrapped or sunk and the 54
 remaining submarines were obsolete by the late 1970’s, even though they
 were still building into 1983 and used to the year 2000.
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image9.jpeg" style="width:6.5in;height:4.30972in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image9.jpeg)
 
 [**Romeo Class**](https://en.wikipedia.org/wiki/Romeo-class_submarine)
 
@@ -308,7 +310,7 @@ canceled with advent of nuclear powered SSNs, but were still very useful
 in the export market. Representing the ultimate evolution of the Whiskey
 Class these were even more obsolete than the Foxtrot class by 1994.
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image10.jpg" style="width:3.66667in;height:2.93333in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image10.jpg)
 
 [**Whiskey
 Class**](http://russianships.info/eng/submarines/project_613.htm)Designed
@@ -323,13 +325,14 @@ Submarines (SSG) but the six *Whiskey Long Bin* and seven *Whiskey Twin
 Cylinder*, as well as the four radar picket *Whiskey Canvas Bag*
 variants were all retired. All remaining boats were a relatively
 universal design with six torpedo tubes and although unlikely, some may
-have had one, two or 25mm anti-aircraft guns.
+have had one, two or 25mm anti-aircraft
+guns.
 
 |         | Northern     | Pacific      | Black       | Baltic      | Total        |
-|---------|--------------|--------------|-------------|-------------|--------------|
+| ------- | ------------ | ------------ | ----------- | ----------- | ------------ |
 | Foxtrot | 22           | 18           | 6           | 8           | 54           |
 | Romeo   | 9            | 8            | 2           | 2           | 21           |
 | Whiskey | 3            | 1            |             | 2           | 6            |
 | Whiskey | 24 (Reserve) | 16 (Reserve) | 8 (Reserve) | 6 (Reserve) | 54 (Reserve) |
 
-<img src="/assets\images\warsaw\su\navy\subs\ssn\media\image11.jpg" style="width:6.04167in;height:2.61302in" />
+![](/assets/images/warsaw/su/navy/subs/ssn/image11.jpg)
