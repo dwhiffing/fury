@@ -1,8 +1,8 @@
-**<span class="underline">Pacific Fury \#5 – Shemya Shakedown</span>**
+**<u>Pacific Fury \#5 – Shemya Shakedown</u>**
 
-**<span class="underline">Playtest Report by AndrewJ June 2021</span>**
+**<u>Playtest Report by AndrewJ June 2021</u>**
 
-**Comrades, to War\!**
+**Comrades, to War!**
 
 HQ says to visit the Americans on Shemya, and rough them up a bit. So,
 off we go, all eight of our MiG-31s roaring away under beautiful clear
@@ -17,7 +17,7 @@ of their big missiles to rip up the runway, plus a couple to hit the
 radar building. Now that the air is safe, our other best friends, the
 Bears and Badgers, turn on their radars and start hunting around the
 area. Wouldn't do for those imperialist dogs to sneak a warship in and
-try and engage us with SAMs\! But nothing's there, so it's safe for the
+try and engage us with SAMs! But nothing's there, so it's safe for the
 next step.
 
 The bug-eyed boys in the recce Backfire start sniffing around the
@@ -26,7 +26,7 @@ forgot to mention. Oh well, I guess the Americans get to watch us work.
 The recce plane cautiously descends a little lower, and a little lower,
 until one of those little snivellers down on the base takes a shot with
 a Stinger or two, but fortunately the long-ranged shots miss. Minimum
-safe altitude: 5 km\!
+safe altitude: 5 km!
 
 So, the recce Backfire takes on the role of raid director, and starts
 loitering like a mega-FAC, while he calls in his bomber friends. First
@@ -37,7 +37,7 @@ they can't see us coming. So the Backfires come in one at a time,
 dropping a few bombs at a time, before flying off and waiting for the
 raid director's assessment. 'Too long, comrade, aim shorter next time.'
 'Off to the side, Alexei, remember the wind.' 'Are you still drunk
-Dmitry? The other radar\!' Accuracy is rotten, but we've got plenty of
+Dmitry? The other radar!' Accuracy is rotten, but we've got plenty of
 bombs.
 
 Eventually, the bombers get lucky, hitting both the radars, and then
@@ -55,18 +55,18 @@ and a new bunch arrive in the afternoon. These guys are carrying bigger
 1500 kilo bombs, and they start doing a lot better. Five hangars, two
 AvGas facilities, the tower, and 2 parked tankers all get smashed up by
 the big weapons, and this raid director is a lot more cheerful than his
-morning friend. Hero of the Soviet Union for everybody\!
+morning friend. Hero of the Soviet Union for everybody!
 
 Well, there's no Russian like a jealous grumbling Russian, and the first
 raid director comes back in the evening, and this time he's going to
-show them what's what\! Now that it's night, and the radars are down,
-and the Stingers can't see, he sends two of his planes dashing in
-slightly lower (3,600m), making a radar-bombing test run on the cluster
-of barracks on the north side of the island. Well, Bozhe Moi, it turns
-out the little Stingers can see just fine, and they open fire with a
-blast of missiles, and riddle the wing of one of the Backfires with
-fragments. Sulkily, he calls off the plans for a low-level attack, and
-they all return to higher altitude.
+show them what's what! Now that it's night, and the radars are down, and
+the Stingers can't see, he sends two of his planes dashing in slightly
+lower (3,600m), making a radar-bombing test run on the cluster of
+barracks on the north side of the island. Well, Bozhe Moi, it turns out
+the little Stingers can see just fine, and they open fire with a blast
+of missiles, and riddle the wing of one of the Backfires with fragments.
+Sulkily, he calls off the plans for a low-level attack, and they all
+return to higher altitude.
 
 The bombers manage to plaster 4 barracks blocks, plus a communications
 bunker, and they accidentally hit two of the hidden Stingers as well.
@@ -87,5 +87,5 @@ Why, if he were back in Moscow right now...
 
 **Impressions**
 
-Sometimes it's fun just to stomp on the enemy\! This quick and cheerful
-scenario certainly provides\!
+Sometimes it's fun just to stomp on the enemy! This quick and cheerful
+scenario certainly provides!

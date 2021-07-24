@@ -5,7 +5,7 @@
 Post 1
 
 I have been playing this scenario in Command every spare moment I can
-steal lately, and I thought I’d do an AAR for it (my first ever\!). This
+steal lately, and I thought I’d do an AAR for it (my first ever!). This
 is the first in a whole series of scenarios that I plan to play, so
 probably more AAR’s forthcoming.
 
@@ -238,10 +238,10 @@ a spread of long-range semi-active radar homing missiles at them, but
 these end up falling short for no effect, but more Migs are coming on.
 Just when it seems things are going to get ugly for this pair, the
 Russian fighters begin turning back, reducing power, and heading for
-home. The short-legged Fulcrums are going Bingo fuel\! After a few more
+home. The short-legged Fulcrums are going Bingo fuel! After a few more
 minutes of running, my northern CAP slows and begins circling over the
 Cape, though their cannons are the only weapons remaining. Just in time,
-too\! A flight of four Su-24Ms are heading for the Radar station at the
+too! A flight of four Su-24Ms are heading for the Radar station at the
 North Cape, and the Mig-29s are all heading home, leaving them naked.
 The AWACs vectors these hard-worked F-16s back southwest and onto the
 tails of the Soviet fighter-bombers. Complicating factors further for
@@ -507,12 +507,12 @@ Mig-29s. All four Tigersharks go down in the span of ten seconds.
 Another F-5 falls prey to the tail gun of an An-12. The exchange rate of
 F-16s to enemy fighters is not as favorable as we would like, but the
 Russians are taking a pounding. Then, suddenly, there are no more
-Russian fighters\! My own jets have won the fight against the escorts
-and the transports are completely undefended. My remaining pilots show
-no mercy. The Russian pilots show courage, pressing ahead to try to
-deliver their paratroopers to the drop zone, but F-5s and F-16s flash
-into and out of their formation, littering the white tundra southeast of
-Banak with nearly fifty oily pyres, each marking the death or at least
+Russian fighters! My own jets have won the fight against the escorts and
+the transports are completely undefended. My remaining pilots show no
+mercy. The Russian pilots show courage, pressing ahead to try to deliver
+their paratroopers to the drop zone, but F-5s and F-16s flash into and
+out of their formation, littering the white tundra southeast of Banak
+with nearly fifty oily pyres, each marking the death or at least
 scattering of dozens of Soviet paratroopers. The drop on Banak has been
 defeated.
 
@@ -598,11 +598,10 @@ before turning to try to get back into the fjords ahead of the advancing
 Tarantul frigates. The Russian hovercraft have significant defenses,
 however, and three of the missiles fall to gun and missile fire. The
 fourth streaks in and wrecks one of the massive Zubrs. This attack
-hasn’t prevented the Russians from occupying Mehamn, which I’m sure
-they will do as soon as they get around to overrunning the platoon
-there, but hopefully the loss of one of these very large and capable
-vessels will help to curtail further landings along the coast in the
-coming days.
+hasn’t prevented the Russians from occupying Mehamn, which I’m sure they
+will do as soon as they get around to overrunning the platoon there, but
+hopefully the loss of one of these very large and capable vessels will
+help to curtail further landings along the coast in the coming days.
 
 In the meantime, the other missile boat is racing east to try to stay
 ahead of the Tarantuls, which are heading for the mouth of the fjord,
@@ -695,7 +694,7 @@ Alas, this is a mistake. Before the F-16s can intercept, one of the
 Russian flights alters course south and releases four air-to-ground
 missiles aimed at the Backstop radar array. These all fly true and
 demolish my most important surviving ground-based sensor array. If only
-I had had a CAP up with sufficient fuel\! They could have intercepted on
+I had had a CAP up with sufficient fuel! They could have intercepted on
 afterburner and saved the radar. As it is, the airspace over Finnmark,
 the shortest route to my airfields, will now only be swept from afar by
 the AWACS off the coast.
@@ -723,7 +722,7 @@ Desperate, the F-5 Pilots drop to under 1,000 feet and strain their eyes
 to make out the dark shapes of the Russian jets against the snowy
 mountains below. The AWACS guides them to within two miles but the
 pilots must now scan for the Russians while trying not to drive their
-fighters into a fjord cliff-face. There\! The flight leader spots one of
+fighters into a fjord cliff-face. There! The flight leader spots one of
 the Russians cresting a ridgeline and dropping into the fjord valley
 below. He increases speed to close and fires two sidewinder into the
 Russian’s tail at half a mile. The missiles hit, and the Mig flips over
@@ -746,11 +745,11 @@ heavy, but with the reinforcements from the UK and the Netherlands I am
 actually stronger than I was when the war started in the air. So far
 I’ve lost:
 
-  - 21 x F-16As
+-   21 x F-16As
 
-  - 2 x F-16AMs capable of carrying AMRAAMs
+-   2 x F-16AMs capable of carrying AMRAAMs
 
-  - 8 x F-5s
+-   8 x F-5s
 
 31 (32 if you count the Lynx helicopter lost when the Coast guard cutter
 Nordkap was lost) precious aircraft in total (more than half my pre-war
@@ -759,40 +758,40 @@ strength), though I’ve been reinforced by 36 capable fighters, including
 
 Against this butcher’s bill the J2 tells me he believes we’ve destroyed:
 
-  - 1 x Tu-16 recon bomber
+-   1 x Tu-16 recon bomber
 
-  - 2 x An-12 EW aircraft
+-   2 x An-12 EW aircraft
 
-  - 2 x Su-24 EW aircraft
+-   2 x Su-24 EW aircraft
 
-  - 49 x An-12 transports likely carrying a brigade of Soviet
+-   49 x An-12 transports likely carrying a brigade of Soviet
     paratroopers
 
-  - 15 x Mi-24 Hinds, mostly destroyed by ground fire over Kirkenes and
+-   15 x Mi-24 Hinds, mostly destroyed by ground fire over Kirkenes and
     Banak
 
-  - 8 x Mi-8 transports likely carrying another company of paratroopers
+-   8 x Mi-8 transports likely carrying another company of paratroopers
     or Spetznaz
 
 For fighter-bombers we tally:
 
-  - 18 x Mig-27s
+-   18 x Mig-27s
 
-  - 10 x Su-17s
+-   10 x Su-17s
 
-  - 6 x Su-17s configured for recon missions
+-   6 x Su-17s configured for recon missions
 
-  - 25 x Su-24s
+-   25 x Su-24s
 
-  - 6 x Su-25s
+-   6 x Su-25s
 
 In fighters we claim:
 
-  - 10 x Mig-23s
+-   10 x Mig-23s
 
-  - 24 x Mig-29s
+-   24 x Mig-29s
 
-  - 38 x Su-27s (Along with the two now patrolling over Banak, we
+-   38 x Su-27s (Along with the two now patrolling over Banak, we
     believe this accounts for the entirety of the Su-27 regiment
     assigned to this front)
 
@@ -885,7 +884,7 @@ two AMRAAM-equipped Norwegian F-16s available. They turn northwest and
 flip on their radars, acquiring the two circling Su-27s, and loosing two
 AIM-120s at each. The missiles fly true and blot the two Russians from
 the sky before they can get into range to return fire. What a difference
-a long missile makes\! The two fighters streak over Banak, bent on
+a long missile makes! The two fighters streak over Banak, bent on
 hunting more Russians. The withdrawing Mig-29s are beyond our reach, but
 two EW Su-24s are nearby, northeast and southeast of Banak. One falls to
 an AMRAAM, the other to a Sidewinder as my enraged pilots sweep the sky.
@@ -1115,4 +1114,4 @@ though I think for the context of later scenarios I was supposed to
 suffer heavier losses and be harder pressed, with the Russians
 maintaining air superiority over northern Norway and pressing my bases
 further south. I’ll post any updates if there are any. If not, stay
-tuned for Northern Fury 2: X-Ray Station\!)
+tuned for Northern Fury 2: X-Ray Station!)

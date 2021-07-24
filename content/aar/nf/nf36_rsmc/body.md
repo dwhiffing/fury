@@ -1,7 +1,6 @@
-**<span class="underline">Northern Fury \#36 – Shoulder to
-Shoulder</span>**
+**<u>Northern Fury \#36 – Shoulder to Shoulder</u>**
 
-**<span class="underline">AAR by RSMC, Feb 2017</span>**
+**<u>AAR by RSMC, Feb 2017</u>**
 
 I started with some notes to keep things straight for myself - Gunner,
 how you do it is beyond me.

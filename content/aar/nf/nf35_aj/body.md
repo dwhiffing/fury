@@ -1,16 +1,16 @@
 **Northern Fury – Shoulder to Shoulder**
 
-**<span class="underline">Playtest Report by AndrewJ Aug 2016</span>**
+**<u>Playtest Report by AndrewJ Aug 2016</u>**
 
-Damn, that's a lot of stuff\! Seven carriers of various shades and
+Damn, that's a lot of stuff! Seven carriers of various shades and
 stripes, plus land-based air and a bunch of surface groups. My
 micro-manage-to-the-max policy's probably not going to work for this
-one\!
+one!
 
 This is going to be very interesting indeed, assuming I can set aside a
-week or two to play it\!
+week or two to play it!
 
-I finally have some time to play this mighty scenario, so here goes\!
+I finally have some time to play this mighty scenario, so here goes!
 
 For the most part my plans didn't involve major changes to the opening
 layout. I'm going to take half an hour for ELINT /assets to spread out
@@ -45,7 +45,7 @@ the threat grows and grows. Before long I'm trying to fend off Mig-31s,
 and somehow get my short-ranged F-16's into the fight without losing
 them all. At first it seems like the Mig-31s are on a high-speed
 southern dash to nowhere, before I realize they're pointing right at my
-NATO AWACS. Flee AWACS, flee\! Intervening fighters manage to get those
+NATO AWACS. Flee AWACS, flee! Intervening fighters manage to get those
 Mig-31s, and I manage to destroy an incoming Mig-29 raid, after which I
 try to pull back and disengage while dealing with the remaining Su-27s
 and Mig-31s. The enemy is far enough south that they're in SAM range
@@ -81,11 +81,11 @@ sending most of an Su-27 squadron out to meet them, I decide to engage
 them rather than hang around uselessly. That exchange goes well, but as
 I start wrapping it up I get urgent ESM reports of Mig-31 radars over
 northern Norway, Not one or two of them, but 12 of them. A full
-squadron\! With that much power something major's going on. This has to
+squadron! With that much power something major's going on. This has to
 be the heavy aviation anti-carrier raid, and I've just used up most of
-my airborne Phoenixes\! Perfect timing...
+my airborne Phoenixes! Perfect timing...
 
-Finally, a chance to play again\! I'm continuing with V1.1.
+Finally, a chance to play again! I'm continuing with V1.1.
 
 The southern push of the massive Soviet air strike into Norway
 continues, with what looks (at first) like an endless river flowing
@@ -151,7 +151,7 @@ mostly by towed arrays, and then prosecuted by helicopters and Alizes,
 bringing the total sunk up to 6, including one each by TG De Ruyter and
 TG Algonquin. The most alarming is when SSMs start erupting out of the
 water E of TG20, just as an air battle is heating up overhead. "OMG,
-Oscar, Oscar\!" wails the admiral, until his bridge crew point out the
+Oscar, Oscar!" wails the admiral, until his bridge crew point out the
 missiles are too slow and too few. Some of the launching fighters dip
 down and neatly intercept the missiles before they get much further, and
 an S-3 is sent to deal with the Charlie.
@@ -169,7 +169,7 @@ some Mig-31s and withdrawing. No signs of bombers up there - yet.
 The main Mig-31 force that has me so alarmed now has a large number of
 extra contacts up very high, but remaining radar silent, which can only
 mean Mig-25s, as well as numerous high powered Badger surveillance
-radars. This isn't a raid, it's a heavy recce\! If they can escort those
+radars. This isn't a raid, it's a heavy recce! If they can escort those
 recce Badgers in, or the Mig-25s dash past met, then I'll have no end of
 angry visitors. I'm launching plenty of F-14s and AMRAAM F-18s by this
 point, backed with jammers, and I'm able to meet the Mig-31s with a
@@ -190,7 +190,7 @@ up over northern Norway, of half a dozen Mig-31s and a dozen Mig-25s
 this an actual bomber escort this time? Or a response to my provocations
 in the Svalbard gap? Maybe it's time to get more F-14s airborne...
 
-Very interesting scenario this\! I'm really enjoying the scope and scale
+Very interesting scenario this! I'm really enjoying the scope and scale
 of it, and I'm glad you haven't cut it up into segments. Despite the
 unit count it seems to run smoothly enough, even on my old machine, so
 no worries in that regard.

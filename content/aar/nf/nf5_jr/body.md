@@ -809,7 +809,7 @@ chase. Talent’s screw thrashed the water to get away but the torpedo
 closed relentlessly.
 
 At the last moment Pimm ordered, “launch countermeasures, hard to
-starboard\!”
+starboard!”
 
 The Russian weapon bored in and accelerated through the cloud of bubbles
 created by the noisemaker and into the knuckle of water created by

@@ -1,6 +1,6 @@
 **Northern Fury \#26 – Land of Fire & Ice**
 
-**<span class="underline">Playtest Report by AndrewJ March 2020</span>**
+**<u>Playtest Report by AndrewJ March 2020</u>**
 
 Well, the new computer's finally installed, so what better way to
 christen it than with a good game of Command?
@@ -65,7 +65,7 @@ can do anything to the incoming helicopters.
 The F-18s are almost at their target as the first helicopter sets down
 in the LZ, and then things start going very wrong...
 
-**SAMBUSH**\!
+**SAMBUSH**!
 
 All throughout the LZ, Soviet troops fling off their snow-covered
 camouflage covers, shoulder their MANPADs, elevate the barrels on their
@@ -79,7 +79,7 @@ directly in their path, before hauling around on afterburner and fleeing
 out of the kill zone and into the mountains. They have to stay low,
 because the other pair, loitering at medium altitude with one HARM left,
 start screaming about new SAM emissions from the far side of the fjord
-north of Akureyri. Is it an SA-11, they hope? Hell no\! It's an SA-20,
+north of Akureyri. Is it an SA-11, they hope? Hell no! It's an SA-20,
 and they dive for the deck, firing their last HARM in its general
 direction. They make it down safely, as the SAMs roar blindly overhead,
 but the SA-20 easily swats down the single HARM. All four of the F-18s
@@ -172,7 +172,7 @@ The team at Saurdakrokur doesn't find any sign of Soviet aircraft, so
 they wreck a few airport facilities (which does not make any friends
 with the locals) before retiring for pickup. The team at Akureyri has an
 accident crossing the river, and most of their explosives are swept
-away. Only two charges are left\! Sneaking into the airfield, they stuff
+away. Only two charges are left! Sneaking into the airfield, they stuff
 a charge up the tailpipe of the first two MiG-23s they come across,
 making a satisfying bang, but still far less than they had hoped to
 accomplish.
@@ -218,14 +218,14 @@ with lots of specific details to make the mission objectives clear. I
 thought I was pretty much on top of the situation, seeing what I had
 expected around the LZ (some minor troops, some modest mobile SAM
 defences) until the landing started. I have to admit I was pretty
-incensed when the ambush sprang ("I already looked there\!"), but I
+incensed when the ambush sprang ("I already looked there!"), but I
 suppose it makes sense given what you could accomplish in terms of
 digging in to hide in the snow, which could certainly defeat IR
 surveillance. It seemed no matter which way I ran, there was another SAM
 in front of me, cutting me down just before I could make it to cover.
 And the SA-20, well that was a sphincter tightener to be sure, and
 certainly forced me out of the high-altitude environment. Fortunately,
-mountain valleys are deep\!
+mountain valleys are deep!
 
 My inherent laziness saved me on this one. My helicopters went in at the
 same rate they take off from their base, which made the long thin

@@ -1,7 +1,6 @@
-**<span class="underline">Northern Fury \#4 – Dagger to the
-Heart</span>**
+**<u>Northern Fury \#4 – Dagger to the Heart</u>**
 
-**<span class="underline">AAR by fitzpatv, Apr 2021</span>**
+**<u>AAR by fitzpatv, Apr 2021</u>**
 
 In this relatively small scenario, the Soviet carrier Kiev and her task
 force move to support the capture of the Norwegian outpost on the Arctic

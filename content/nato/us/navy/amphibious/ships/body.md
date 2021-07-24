@@ -31,18 +31,17 @@ Bataan joining the fleet at the end of Jan 1994, only two weeks old at
 war start. The next ship of this class to joint the fleet will be in mid
 1995.
 
-![](/assets/images/nato/us/navy/amphibious/ships/image1.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image1.jpg" style="width:6.5in;height:4.19722in" />
 
-LHD-1 USS
-Wasp
+LHD-1 USS Wasp
 
-| Pennant | Name                                                                                              | Date   | Fleet    | Home Port | Task         |
-| ------- | ------------------------------------------------------------------------------------------------- | ------ | -------- | --------- | ------------ |
-| LHD-1   | [<span class="underline">Wasp</span>](https://en.wikipedia.org/wiki/USS_Wasp_\(LHD-1\))           | Jul-89 | Atlantic | Norfolk   | 6th Mar Regt |
-| LHD-2   | [<span class="underline">Essex</span>](https://en.wikipedia.org/wiki/USS_Essex_\(LHD-2\))         | Oct-92 | Pacific  | San Diego |              |
-| LHD-3   | [<span class="underline">Kearsarge</span>](https://en.wikipedia.org/wiki/USS_Kearsarge_\(LHD-3\)) | Jun-93 | Atlantic | Norfolk   | Med 22 MEU   |
-| LHD-4   | [<span class="underline">Boxer</span>](https://en.wikipedia.org/wiki/USS_Boxer_\(LHD-4\))         | Oct-93 | Pacific  | San Diego |              |
-| LHD-5   | [<span class="underline">Bataan</span>](https://en.wikipedia.org/wiki/USS_Bataan_\(LHD-5\))       | Jan-94 | Atlantic | Norfolk   | 8th Mar Regt |
+| Pennant | Name                                                                    | Date   | Fleet    | Home Port | Task         |
+|---------|-------------------------------------------------------------------------|--------|----------|-----------|--------------|
+| LHD-1   | [<u>Wasp</u>](https://en.wikipedia.org/wiki/USS_Wasp_(LHD-1))           | Jul-89 | Atlantic | Norfolk   | 6th Mar Regt |
+| LHD-2   | [<u>Essex</u>](https://en.wikipedia.org/wiki/USS_Essex_(LHD-2))         | Oct-92 | Pacific  | San Diego |              |
+| LHD-3   | [<u>Kearsarge</u>](https://en.wikipedia.org/wiki/USS_Kearsarge_(LHD-3)) | Jun-93 | Atlantic | Norfolk   | Med 22 MEU   |
+| LHD-4   | [<u>Boxer</u>](https://en.wikipedia.org/wiki/USS_Boxer_(LHD-4))         | Oct-93 | Pacific  | San Diego |              |
+| LHD-5   | [<u>Bataan</u>](https://en.wikipedia.org/wiki/USS_Bataan_(LHD-5))       | Jan-94 | Atlantic | Norfolk   | 8th Mar Regt |
 
 **LHA**: [Landing Helicopter
 Assault](https://fas.org/man/dod-101/sys/ship/lha-1.htm). The
@@ -53,18 +52,17 @@ operations but the LHA has a few more limitations. These are still very
 fine ships and among the best in the world. Of the nine ships originally
 planned only five were built.
 
-![](/assets/images/nato/us/navy/amphibious/ships/image2.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image2.jpg" style="width:6.38542in;height:4.24098in" />
 
-LHA-1 USS
-Tarawa
+LHA-1 USS Tarawa
 
-| Pennant | Name                                                                                                    | Fleet    | Home Port    | Task                |  |
-| ------- | ------------------------------------------------------------------------------------------------------- | -------- | ------------ | ------------------- |  |
-| LHA-1   | [<span class="underline">Tarawa</span>](https://en.wikipedia.org/wiki/USS_Tarawa_\(LHA-1\))             | Pacific  | San Diego    |                     |  |
-| LHA-2   | [<span class="underline">Saipan</span>](https://en.wikipedia.org/wiki/USS_Saipan_\(LHA-2\))             | Atlantic | Norfolk      | 8th Mar Regt        |  |
-| LHA-3   | [<span class="underline">Belleau Wood</span>](https://en.wikipedia.org/wiki/USS_Belleau_Wood_\(LHA-3\)) | Pacific  | Sesebo Japan |                     |  |
-| LHA-4   | [<span class="underline">Nassau</span>](https://en.wikipedia.org/wiki/USS_Nassau_\(LHA-4\))             | Atlantic | Norfolk      | 6th Mar Regt        |  |
-| LHA-5   | [<span class="underline">Peleliu</span>](https://en.wikipedia.org/wiki/USS_Peleliu_\(LHA-5\))           | Pacific  | San Diego    | Indian Ocean 13 MEU |  |
+| Pennant | Name                                                                          | Fleet    | Home Port    | Task                |     |
+|---------|-------------------------------------------------------------------------------|----------|--------------|---------------------|-----|
+| LHA-1   | [<u>Tarawa</u>](https://en.wikipedia.org/wiki/USS_Tarawa_(LHA-1))             | Pacific  | San Diego    |                     |     |
+| LHA-2   | [<u>Saipan</u>](https://en.wikipedia.org/wiki/USS_Saipan_(LHA-2))             | Atlantic | Norfolk      | 8th Mar Regt        |     |
+| LHA-3   | [<u>Belleau Wood</u>](https://en.wikipedia.org/wiki/USS_Belleau_Wood_(LHA-3)) | Pacific  | Sesebo Japan |                     |     |
+| LHA-4   | [<u>Nassau</u>](https://en.wikipedia.org/wiki/USS_Nassau_(LHA-4))             | Atlantic | Norfolk      | 6th Mar Regt        |     |
+| LHA-5   | [<u>Peleliu</u>](https://en.wikipedia.org/wiki/USS_Peleliu_(LHA-5))           | Pacific  | San Diego    | Indian Ocean 13 MEU |     |
 
 **LPH**: [Landing Platform
 Helicopter](https://fas.org/man/dod-101/sys/ship/lph-2.htm). The first
@@ -78,20 +76,19 @@ age, having been launched in the 60’s but were maintained in the fleet
 due to the heightened threat. The seven ships in this class are not
 sequentially numbered.
 
-![](/assets/images/nato/us/navy/amphibious/ships/image3.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image3.jpeg" style="width:6.5in;height:4.325in" />
 
-LPH-2 USS Iwo
-Jima
+LPH-2 USS Iwo Jima
 
-| Pennant | Name                                                                                                   | Fleet    | Home Port    | Task         |
-| ------- | ------------------------------------------------------------------------------------------------------ | -------- | ------------ | ------------ |
-| LPH-2   | [<span class="underline">Iwo Jima</span>](https://en.wikipedia.org/wiki/USS_Iwo_Jima_\(LPH-2\))        | Atlantic | Norfolk      | 6th Mar Regt |
-| LPH-3   | [<span class="underline">Okinawa</span>](https://en.wikipedia.org/wiki/USS_Okinawa_\(LPH-3\))          | Pacific  | San Diego    | Refit        |
-| LPH-7   | [<span class="underline">Guadalcanal</span>](https://en.wikipedia.org/wiki/USS_Guadalcanal_\(LPH-7\))  | Atlantic | Norfolk      | 2 MEF        |
-| LPH-9   | [<span class="underline">Guam</span>](https://en.wikipedia.org/wiki/USS_Guam_\(LPH-9\))                | Atlantic | Norfolk      | 2 MEF        |
-| LPH-10  | [<span class="underline">Tripoli</span>](https://en.wikipedia.org/wiki/USS_Tripoli_\(LPH-10\))         | Pacific  | Persian Gulf | MCMG         |
-| LPH-11  | [<span class="underline">New Orleans</span>](https://en.wikipedia.org/wiki/USS_New_Orleans_\(LPH-11\)) | Pacific  | San Diego    |              |
-| LPH-12  | [<span class="underline">Inchon</span>](https://en.wikipedia.org/wiki/USS_Inchon_\(LPH-12\))           | Atlantic | Norfolk      | 8th Mar Regt |
+| Pennant | Name                                                                         | Fleet    | Home Port    | Task         |
+|---------|------------------------------------------------------------------------------|----------|--------------|--------------|
+| LPH-2   | [<u>Iwo Jima</u>](https://en.wikipedia.org/wiki/USS_Iwo_Jima_(LPH-2))        | Atlantic | Norfolk      | 6th Mar Regt |
+| LPH-3   | [<u>Okinawa</u>](https://en.wikipedia.org/wiki/USS_Okinawa_(LPH-3))          | Pacific  | San Diego    | Refit        |
+| LPH-7   | [<u>Guadalcanal</u>](https://en.wikipedia.org/wiki/USS_Guadalcanal_(LPH-7))  | Atlantic | Norfolk      | 2 MEF        |
+| LPH-9   | [<u>Guam</u>](https://en.wikipedia.org/wiki/USS_Guam_(LPH-9))                | Atlantic | Norfolk      | 2 MEF        |
+| LPH-10  | [<u>Tripoli</u>](https://en.wikipedia.org/wiki/USS_Tripoli_(LPH-10))         | Pacific  | Persian Gulf | MCMG         |
+| LPH-11  | [<u>New Orleans</u>](https://en.wikipedia.org/wiki/USS_New_Orleans_(LPH-11)) | Pacific  | San Diego    |              |
+| LPH-12  | [<u>Inchon</u>](https://en.wikipedia.org/wiki/USS_Inchon_(LPH-12))           | Atlantic | Norfolk      | 8th Mar Regt |
 
 **LPD**: [Landing Platform
 Dock](https://fas.org/man/dod-101/sys/ship/lpd-4.htm). There are two
@@ -108,26 +105,25 @@ often be detached to conduct separate duties. It is worth noting that
 one Raleigh class and one Austin class were modified to be command ships
 (AGF-3 La Salle, and AGF-11 Coronado).
 
-![](/assets/images/nato/us/navy/amphibious/ships/image4.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image4.jpg" style="width:6.5in;height:2.78542in" />
 
-LPD 6 USS
-Duluth
+LPD 6 USS Duluth
 
-| Pennant | Name                                                                                                 | Fleet    | Home Port    | Task                |
-| ------- | ---------------------------------------------------------------------------------------------------- | -------- | ------------ | ------------------- |
-| LPD-1   | [<span class="underline">Raleigh</span>](https://en.wikipedia.org/wiki/USS_Raleigh_\(LPD-1\))        | Atlantic | Norfolk      | 6th Mar Regt        |
-| LPD-2   | [<span class="underline">Vancouver</span>](https://en.wikipedia.org/wiki/USS_Vancouver_\(LPD-2\))    | Pacific  | San Diego    |                     |
-| LPD-4   | [<span class="underline">Austin</span>](https://en.wikipedia.org/wiki/USS_Austin_\(LPD-4\))          | Atlantic | Norfolk      | 8th Mar Regt        |
-| LPD-5   | [<span class="underline">Ogden</span>](https://en.wikipedia.org/wiki/USS_Ogden_\(LPD-5\))            | Pacific  | San Diego    |                     |
-| LPD-6   | [<span class="underline">Duluth</span>](https://en.wikipedia.org/wiki/USS_Duluth_\(LPD-6\))          | Pacific  | San Diego    |                     |
-| LPD-7   | [<span class="underline">Cleveland</span>](https://en.wikipedia.org/wiki/USS_Cleveland_\(LPD-7\))    | Pacific  | San Diego    | Indian Ocean 13 MEU |
-| LPD-8   | [<span class="underline">Dubuque</span>](https://en.wikipedia.org/wiki/USS_Dubuque_\(LPD-8\))        | Pacific  | San Diego    |                     |
-| LPD-9   | [<span class="underline">Denver</span>](https://en.wikipedia.org/wiki/USS_Denver_\(LPD-9\))          | Pacific  | San Diego    |                     |
-| LPD-10  | [<span class="underline">Juneau</span>](https://en.wikipedia.org/wiki/USS_Juneau_\(LPD-10\))         | Pacific  | Sasebo Japan |                     |
-| LPD-12  | [<span class="underline">Shreveport</span>](https://en.wikipedia.org/wiki/USS_Shreveport_\(LPD-12\)) | Atlantic | Norfolk      | 6th Mar Regt        |
-| LPD-13  | [<span class="underline">Nashville</span>](https://en.wikipedia.org/wiki/USS_Nashville_\(LPD-13\))   | Atlantic | Norfolk      | Med 22 MEU          |
-| LPD-14  | [<span class="underline">Trenton</span>](https://en.wikipedia.org/wiki/USS_Trenton_\(LPD-14\))       | Atlantic | Norfolk      | 6th Mar Regt        |
-| LPD-15  | [<span class="underline">Ponce</span>](https://en.wikipedia.org/wiki/USS_Ponce_\(LPD-15\))           | Atlantic | Norfolk      | 8th Mar Regt        |
+| Pennant | Name                                                                       | Fleet    | Home Port    | Task                |
+|---------|----------------------------------------------------------------------------|----------|--------------|---------------------|
+| LPD-1   | [<u>Raleigh</u>](https://en.wikipedia.org/wiki/USS_Raleigh_(LPD-1))        | Atlantic | Norfolk      | 6th Mar Regt        |
+| LPD-2   | [<u>Vancouver</u>](https://en.wikipedia.org/wiki/USS_Vancouver_(LPD-2))    | Pacific  | San Diego    |                     |
+| LPD-4   | [<u>Austin</u>](https://en.wikipedia.org/wiki/USS_Austin_(LPD-4))          | Atlantic | Norfolk      | 8th Mar Regt        |
+| LPD-5   | [<u>Ogden</u>](https://en.wikipedia.org/wiki/USS_Ogden_(LPD-5))            | Pacific  | San Diego    |                     |
+| LPD-6   | [<u>Duluth</u>](https://en.wikipedia.org/wiki/USS_Duluth_(LPD-6))          | Pacific  | San Diego    |                     |
+| LPD-7   | [<u>Cleveland</u>](https://en.wikipedia.org/wiki/USS_Cleveland_(LPD-7))    | Pacific  | San Diego    | Indian Ocean 13 MEU |
+| LPD-8   | [<u>Dubuque</u>](https://en.wikipedia.org/wiki/USS_Dubuque_(LPD-8))        | Pacific  | San Diego    |                     |
+| LPD-9   | [<u>Denver</u>](https://en.wikipedia.org/wiki/USS_Denver_(LPD-9))          | Pacific  | San Diego    |                     |
+| LPD-10  | [<u>Juneau</u>](https://en.wikipedia.org/wiki/USS_Juneau_(LPD-10))         | Pacific  | Sasebo Japan |                     |
+| LPD-12  | [<u>Shreveport</u>](https://en.wikipedia.org/wiki/USS_Shreveport_(LPD-12)) | Atlantic | Norfolk      | 6th Mar Regt        |
+| LPD-13  | [<u>Nashville</u>](https://en.wikipedia.org/wiki/USS_Nashville_(LPD-13))   | Atlantic | Norfolk      | Med 22 MEU          |
+| LPD-14  | [<u>Trenton</u>](https://en.wikipedia.org/wiki/USS_Trenton_(LPD-14))       | Atlantic | Norfolk      | 6th Mar Regt        |
+| LPD-15  | [<u>Ponce</u>](https://en.wikipedia.org/wiki/USS_Ponce_(LPD-15))           | Atlantic | Norfolk      | 8th Mar Regt        |
 
 **LSD**: [Landing Ship
 Dock](https://fas.org/man/dod-101/sys/ship/lsd-41.htm). Although very
@@ -140,28 +136,27 @@ Whidbey Island (8 ships) can hold 4x LCAC, while the newest class being
 rushed into service, LSD-49 Harpers Ferry can only hold 2x LCACs but 10
 times the cargo of the others.
 
-![](/assets/images/nato/us/navy/amphibious/ships/image5.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image5.jpg" style="width:6.5in;height:2.38611in" />
 
-LSD-41 Whidbey
-Island
+LSD-41 Whidbey Island
 
-| Pennant | Name                                                                                                         | Fleet    | Home Port    | Task                |
-| ------- | ------------------------------------------------------------------------------------------------------------ | -------- | ------------ | ------------------- |
-| LSD-36  | [<span class="underline">USS Anchorage</span>](https://en.wikipedia.org/wiki/USS_Anchorage_\(LSD-36\))       | Pacific  | San Diego    |                     |
-| LSD-37  | [<span class="underline">USS Portland</span>](https://en.wikipedia.org/wiki/USS_Portland_\(LSD-37\))         | Atlantic | Little Creek | 8th Mar Regt        |
-| LSD-38  | [<span class="underline">USS Pensacola</span>](https://en.wikipedia.org/wiki/USS_Pensacola_\(LSD-38\))       | Atlantic | Little Creek | 8th Mar Regt        |
-| LSD-39  | [<span class="underline">USS Mount Vernon</span>](https://en.wikipedia.org/wiki/USS_Mount_Vernon_\(LSD-39\)) | Pacific  | San Diego    | Indian Ocean 13 MEU |
-| LSD-40  | [<span class="underline">USS Fort Fisher</span>](https://en.wikipedia.org/wiki/USS_Fort_Fisher_\(LSD-40\))   | Pacific  | San Diego    |                     |
-| LSD-41  | [<span class="underline">Whidbey Island</span>](https://en.wikipedia.org/wiki/USS_Whidbey_Island_\(LSD-41\)) | Atlantic | Little Creek | 6th Mar Regt        |
-| LSD-42  | [<span class="underline">Germantown</span>](https://en.wikipedia.org/wiki/USS_Germantown_\(LSD-42\))         | Pacific  | Japan        |                     |
-| LSD-43  | [<span class="underline">Fort McHenry</span>](https://en.wikipedia.org/wiki/USS_Fort_McHenry_\(LSD-43\))     | Atlantic | Little Creek | 6th Mar Regt        |
-| LSD-44  | [<span class="underline">Gunston Hall</span>](https://en.wikipedia.org/wiki/USS_Gunston_Hall_\(LSD-44\))     | Atlantic | Little Creek | 6th Mar Regt        |
-| LSD-45  | [<span class="underline">Comstock</span>](https://en.wikipedia.org/wiki/USS_Comstock_\(LSD-45\))             | Pacific  | San Diego    |                     |
-| LSD-46  | [<span class="underline">Tortuga</span>](https://en.wikipedia.org/wiki/USS_Tortuga_\(LSD-46\))               | Atlantic | Little Creek | Med 22 MEU          |
-| LSD-47  | [<span class="underline">Rushmore</span>](https://en.wikipedia.org/wiki/USS_Rushmore_\(LSD-47\))             | Pacific  | San Diego    |                     |
-| LSD-48  | [<span class="underline">Ashland</span>](https://en.wikipedia.org/wiki/USS_Ashland_\(LSD-48\))               | Pacific  | Japan        |                     |
-| LSD-49  | [<span class="underline">Harpers Ferry</span>](https://en.wikipedia.org/wiki/USS_Harpers_Ferry_\(LSD-49\))   | Pacific  | San Diego    |                     |
-| LSD-50  | [<span class="underline">Carter Hall</span>](https://en.wikipedia.org/wiki/USS_Carter_Hall_\(LSD-50\))       | Atlantic | Little Creek | 8th Mar Regt        |
+| Pennant | Name                                                                               | Fleet    | Home Port    | Task                |
+|---------|------------------------------------------------------------------------------------|----------|--------------|---------------------|
+| LSD-36  | [<u>USS Anchorage</u>](https://en.wikipedia.org/wiki/USS_Anchorage_(LSD-36))       | Pacific  | San Diego    |                     |
+| LSD-37  | [<u>USS Portland</u>](https://en.wikipedia.org/wiki/USS_Portland_(LSD-37))         | Atlantic | Little Creek | 8th Mar Regt        |
+| LSD-38  | [<u>USS Pensacola</u>](https://en.wikipedia.org/wiki/USS_Pensacola_(LSD-38))       | Atlantic | Little Creek | 8th Mar Regt        |
+| LSD-39  | [<u>USS Mount Vernon</u>](https://en.wikipedia.org/wiki/USS_Mount_Vernon_(LSD-39)) | Pacific  | San Diego    | Indian Ocean 13 MEU |
+| LSD-40  | [<u>USS Fort Fisher</u>](https://en.wikipedia.org/wiki/USS_Fort_Fisher_(LSD-40))   | Pacific  | San Diego    |                     |
+| LSD-41  | [<u>Whidbey Island</u>](https://en.wikipedia.org/wiki/USS_Whidbey_Island_(LSD-41)) | Atlantic | Little Creek | 6th Mar Regt        |
+| LSD-42  | [<u>Germantown</u>](https://en.wikipedia.org/wiki/USS_Germantown_(LSD-42))         | Pacific  | Japan        |                     |
+| LSD-43  | [<u>Fort McHenry</u>](https://en.wikipedia.org/wiki/USS_Fort_McHenry_(LSD-43))     | Atlantic | Little Creek | 6th Mar Regt        |
+| LSD-44  | [<u>Gunston Hall</u>](https://en.wikipedia.org/wiki/USS_Gunston_Hall_(LSD-44))     | Atlantic | Little Creek | 6th Mar Regt        |
+| LSD-45  | [<u>Comstock</u>](https://en.wikipedia.org/wiki/USS_Comstock_(LSD-45))             | Pacific  | San Diego    |                     |
+| LSD-46  | [<u>Tortuga</u>](https://en.wikipedia.org/wiki/USS_Tortuga_(LSD-46))               | Atlantic | Little Creek | Med 22 MEU          |
+| LSD-47  | [<u>Rushmore</u>](https://en.wikipedia.org/wiki/USS_Rushmore_(LSD-47))             | Pacific  | San Diego    |                     |
+| LSD-48  | [<u>Ashland</u>](https://en.wikipedia.org/wiki/USS_Ashland_(LSD-48))               | Pacific  | Japan        |                     |
+| LSD-49  | [<u>Harpers Ferry</u>](https://en.wikipedia.org/wiki/USS_Harpers_Ferry_(LSD-49))   | Pacific  | San Diego    |                     |
+| LSD-50  | [<u>Carter Hall</u>](https://en.wikipedia.org/wiki/USS_Carter_Hall_(LSD-50))       | Atlantic | Little Creek | 8th Mar Regt        |
 
 **LST**: [Landing Ship
 Tank](https://fas.org/man/dod-101/sys/ship/lst-1179.htm). The smallest
@@ -176,32 +171,31 @@ unloading by ramp into the stern and driving through the LST onto the
 beach. Unloading by helicopter or crane onto a dock or small boats is
 also workable.
 
-![](/assets/images/nato/us/navy/amphibious/ships/image6.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image6.jpeg" style="width:6.5in;height:4.31736in" />
 
-LST 1182 USS
-Fresno
+LST 1182 USS Fresno
 
-| Pennant  | Name                                                                                    | Fleet    | Home Port    | Task                  |
-| -------- | --------------------------------------------------------------------------------------- | -------- | ------------ | --------------------- |
-| LST-1179 | [Newport](https://en.wikipedia.org/wiki/USS_Newport_\(LST-1179\))                       | Atlantic | Little Creek | 8th Mar Regt          |
-| LST-1180 | [Manitowoc](https://en.wikipedia.org/wiki/USS_Manitowoc_\(LST-1180\))                   | Atlantic | Little Creek | 8th Mar Regt          |
-| LST-1181 | [Sumter](https://en.wikipedia.org/wiki/USS_Sumter_\(LST-1181\))                         | Atlantic | Little Creek | Mediterranean         |
-| LST-1182 | [Fresno](https://en.wikipedia.org/wiki/USS_Fresno_\(LST-1182\))                         | Pacific  | San Diego    |                       |
-| LST-1183 | [Peoria](https://en.wikipedia.org/wiki/USS_Peoria_\(LST-1183\))                         | Pacific  | San Diego    | Philippines           |
-| LST-1184 | [Frederick](https://en.wikipedia.org/wiki/USS_Frederick_\(LST-1184\))                   | Pacific  | Pearl Hbr    |                       |
-| LST-1185 | [Schenectady](https://en.wikipedia.org/wiki/USS_Schenectady_\(LST-1185\))               | Pacific  | San Diego    |                       |
-| LST-1186 | [Cayuga](https://en.wikipedia.org/wiki/USS_Cayuga_\(LST-1186\))                         | Pacific  | San Diego    | Standby off Mogadishu |
-| LST-1187 | [Tuscaloosa](https://en.wikipedia.org/wiki/USS_Tuscaloosa_\(LST-1187\))                 | Pacific  | San Diego    | Australia             |
-| LST-1188 | [Saginaw](https://en.wikipedia.org/wiki/USS_Saginaw_\(LST-1188\))                       | Pacific  | San Diego    |                       |
-| LST-1189 | [San Bernardino](https://en.wikipedia.org/wiki/USS_San_Bernardino_\(LST-1189\))         | Pacific  | San Diego    | Philippines           |
-| LST-1190 | [Boulder County](https://en.wikipedia.org/wiki/USS_Boulder_\(LST-1190\))                | Atlantic | Little Creek | 8th Mar Regt          |
-| LST-1191 | [Racine](https://en.wikipedia.org/wiki/USS_Racine_\(LST-1191\))                         | Atlantic | Little Creek | 8th Mar Regt          |
-| LST-1192 | [Spartanburg County](https://en.wikipedia.org/wiki/USS_Spartanburg_County_\(LST-1192\)) | Atlantic | Little Creek | 6th Mar Regt          |
-| LST-1193 | [Fairfax County](https://en.wikipedia.org/wiki/USS_Fairfax_County_\(LST-1193\))         | Atlantic | Little Creek | 6th Mar Regt          |
-| LST-1194 | [La Moure County](https://en.wikipedia.org/wiki/USS_La_Moure_County_\(LST-1194\))       | Atlantic | Little Creek | 6th Mar Regt          |
-| LST-1195 | [Barbour County](https://en.wikipedia.org/wiki/USS_Barbour_County_\(LST-1195\))         | Pacific  | San Diego    | Transit to Mogadishu  |
-| LST-1196 | [Harlan County](https://en.wikipedia.org/wiki/USS_Harlan_County_\(LST-1196\))           | Atlantic | Little Creek | 6th Mar Regt          |
-| LST-1197 | [Barnstable County](https://en.wikipedia.org/wiki/USS_Barnstable_County_\(LST-1197\))   | Atlantic | Little Creek | Caribbean             |
-| LST-1198 | [Bristol County](https://en.wikipedia.org/wiki/USS_Bristol_County_\(LST-1198\))         | Pacific  | San Diego    | Mediterranean         |
+| Pennant  | Name                                                                                  | Fleet    | Home Port    | Task                  |
+|----------|---------------------------------------------------------------------------------------|----------|--------------|-----------------------|
+| LST-1179 | [Newport](https://en.wikipedia.org/wiki/USS_Newport_(LST-1179))                       | Atlantic | Little Creek | 8th Mar Regt          |
+| LST-1180 | [Manitowoc](https://en.wikipedia.org/wiki/USS_Manitowoc_(LST-1180))                   | Atlantic | Little Creek | 8th Mar Regt          |
+| LST-1181 | [Sumter](https://en.wikipedia.org/wiki/USS_Sumter_(LST-1181))                         | Atlantic | Little Creek | Mediterranean         |
+| LST-1182 | [Fresno](https://en.wikipedia.org/wiki/USS_Fresno_(LST-1182))                         | Pacific  | San Diego    |                       |
+| LST-1183 | [Peoria](https://en.wikipedia.org/wiki/USS_Peoria_(LST-1183))                         | Pacific  | San Diego    | Philippines           |
+| LST-1184 | [Frederick](https://en.wikipedia.org/wiki/USS_Frederick_(LST-1184))                   | Pacific  | Pearl Hbr    |                       |
+| LST-1185 | [Schenectady](https://en.wikipedia.org/wiki/USS_Schenectady_(LST-1185))               | Pacific  | San Diego    |                       |
+| LST-1186 | [Cayuga](https://en.wikipedia.org/wiki/USS_Cayuga_(LST-1186))                         | Pacific  | San Diego    | Standby off Mogadishu |
+| LST-1187 | [Tuscaloosa](https://en.wikipedia.org/wiki/USS_Tuscaloosa_(LST-1187))                 | Pacific  | San Diego    | Australia             |
+| LST-1188 | [Saginaw](https://en.wikipedia.org/wiki/USS_Saginaw_(LST-1188))                       | Pacific  | San Diego    |                       |
+| LST-1189 | [San Bernardino](https://en.wikipedia.org/wiki/USS_San_Bernardino_(LST-1189))         | Pacific  | San Diego    | Philippines           |
+| LST-1190 | [Boulder County](https://en.wikipedia.org/wiki/USS_Boulder_(LST-1190))                | Atlantic | Little Creek | 8th Mar Regt          |
+| LST-1191 | [Racine](https://en.wikipedia.org/wiki/USS_Racine_(LST-1191))                         | Atlantic | Little Creek | 8th Mar Regt          |
+| LST-1192 | [Spartanburg County](https://en.wikipedia.org/wiki/USS_Spartanburg_County_(LST-1192)) | Atlantic | Little Creek | 6th Mar Regt          |
+| LST-1193 | [Fairfax County](https://en.wikipedia.org/wiki/USS_Fairfax_County_(LST-1193))         | Atlantic | Little Creek | 6th Mar Regt          |
+| LST-1194 | [La Moure County](https://en.wikipedia.org/wiki/USS_La_Moure_County_(LST-1194))       | Atlantic | Little Creek | 6th Mar Regt          |
+| LST-1195 | [Barbour County](https://en.wikipedia.org/wiki/USS_Barbour_County_(LST-1195))         | Pacific  | San Diego    | Transit to Mogadishu  |
+| LST-1196 | [Harlan County](https://en.wikipedia.org/wiki/USS_Harlan_County_(LST-1196))           | Atlantic | Little Creek | 6th Mar Regt          |
+| LST-1197 | [Barnstable County](https://en.wikipedia.org/wiki/USS_Barnstable_County_(LST-1197))   | Atlantic | Little Creek | Caribbean             |
+| LST-1198 | [Bristol County](https://en.wikipedia.org/wiki/USS_Bristol_County_(LST-1198))         | Pacific  | San Diego    | Mediterranean         |
 
-![](/assets/images/nato/us/navy/amphibious/ships/image7.jpeg)![](/assets/images/nato/us/navy/amphibious/ships/image8.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\ships\media\image7.jpeg" style="width:2.11458in;height:2.56288in" /><img src="/assets\images\nato\us\navy\amphibious\ships\media\image8.jpeg" style="width:3.8125in;height:2.54663in" />

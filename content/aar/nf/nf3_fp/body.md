@@ -1,7 +1,6 @@
-**<span class="underline">Northern Fury \#3 – Dagger to the
-Heart</span>**
+**<u>Northern Fury \#3 – Dagger to the Heart</u>**
 
-**<span class="underline">AAR by fitzpatv, Apr 2021</span>**
+**<u>AAR by fitzpatv, Apr 2021</u>**
 
 This scenario is also set on the first day of WW3. On a cold, murky
 February morning, the Soviets launch a spoiling attack on various
@@ -28,9 +27,9 @@ loadout.
 
 If you expand the map to view the whole of the USA, you will see a weird
 assortment of damage markers relating to the shipping around New York
-Harbor sitting off California (\!\!), along with the destroyer Spruance
+Harbor sitting off California (!!), along with the destroyer Spruance
 and a frigate, USS Sides. Some or all of this will teleport to the area
-of operations as the game progresses, depending on events\!.
+of operations as the game progresses, depending on events!.
 
 There’s lots of civilian shipping to protect, including the iconic liner
 QE2. A cloud of civilian aircraft will develop over the city’s many
@@ -104,7 +103,7 @@ the QE2) to pick-up survivors by placing them over the distress beacons
 for ten minutes. This worked reasonably well, but most boats actually
 got to the evacuation stations under their own steam (which scores the
 same). Not all lifeboats are marked and I only found out that the tanker
-African Gem had been hit when her invisible boat reached safety\!.
+African Gem had been hit when her invisible boat reached safety!.
 Although the QE2 sinking costs you 200VP, you are compensated by a
 steady stream of 5VP awards for rescues if any RHIBS get to the area.
 

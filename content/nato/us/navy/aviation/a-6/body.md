@@ -1,6 +1,6 @@
-***A-6 Intruder***
+**A-6 Intruder**
 
-![](/assets/images/nato/us/navy/aviation/a-6/image1.jpg)
+<img src="/assets\images\nato\us\navy\aviation\a-6\media\image1.jpg" style="width:6.5in;height:4.30625in" />
 
 The A-6 family of aircraft were venerable workhorses within the USN with
 445 of them working in the fleet since they were introduced in the mid
@@ -32,7 +32,7 @@ The A-6 family of aircraft were venerable workhorses within the USN with
     receiving their aircraft and undergoing type training at the
     outbreak of the war.
 
-![](/assets/images/nato/us/navy/aviation/a-6/image2.jpg)
+<img src="/assets\images\nato\us\navy\aviation\a-6\media\image2.jpg" style="width:6.04167in;height:2.09375in" />
 
 In the early days of the conflict the pentagon would partially reverse
 the first decision, rebuilding 6 Squadrons of A-6E SWIP and fielding
@@ -49,7 +49,7 @@ used during their lifetime, they were unrecoverable and would not be
 re-commissioned.
 
 | Sqn    | Name             | CVW  | No. | Type  | Remarks            |
-| ------ | ---------------- | ---- | --- | ----- | ------------------ |
+|--------|------------------|------|-----|-------|--------------------|
 | VA-176 | Thunderbolts     | A-6E | 10  | CAW-6 | USS Enterprise     |
 | VA-115 | Eagles           | A-6E | 10  | CVW-5 | USS Independence   |
 | VA-42  | Green Pawns      | A-6E | 20  | FRS   | NAS Oceana         |
@@ -65,4 +65,4 @@ production (4/yr) was restarted in 1992 with the first aircraft coming
 off the line in July or Aug of 1994, this aircraft is detailed in the
 Carrier Support section.
 
-![](/assets/images/nato/us/navy/aviation/a-6/image3.jpeg)
+<img src="/assets\images\nato\us\navy\aviation\a-6\media\image3.jpeg" style="width:6.5in;height:4.23542in" />

@@ -1,6 +1,6 @@
 **Pacific Fury \#1 – Bolt from the Blue**
 
-**<span class="underline">Playtest Report by AndrewJ April 2021</span>**
+**<u>Playtest Report by AndrewJ April 2021</u>**
 
 **SITUATION**
 
@@ -93,13 +93,13 @@ ordered to hurry east to meet them, to provide a modicum of air defence.
 
 **FIRST BLOOD**
 
-First to fire are actually the Japanese\! Their destroyers manage to get
+First to fire are actually the Japanese! Their destroyers manage to get
 contacts on a pair of probable subs in the western approaches to the
 Tsugaru Strait, and they start to maneuver aggressively to engage.
 Admiralty manages to wave them off in time, but the memo doesn’t get
 through to their P-3s, who sink a Tango before anyone can stop them.
 (Translation: I switched sides and adjusted the ROE for the destroyers’
-ASW patrols, but forgot to do it for the P-3s. Ooops\!)
+ASW patrols, but forgot to do it for the P-3s. Ooops!)
 
 They’re heading for the second contact, when they get ordered to wave
 off. I almost wish they had engaged, because now the second contact has
@@ -124,12 +124,12 @@ that I won’t need to. My carrier group is collected together and headed
 for shore, and maybe, just maybe, we’re going to get out of this without
 help.
 
-**WAR\!**
+**WAR!**
 
 Suddenly, AWACS reports supersonic sea-skimming missiles appearing in
-mid-ocean. Oscar\! Moments later, a second one opens fire. Two streams
-of missiles are headed for the carrier group, and a few more are headed
-for the northern Japanese destroyers, which are essentially defenceless
+mid-ocean. Oscar! Moments later, a second one opens fire. Two streams of
+missiles are headed for the carrier group, and a few more are headed for
+the northern Japanese destroyers, which are essentially defenceless
 against this particular threat.
 
 Our response is immediate. Harpoons roar away across the waves, rapidly
@@ -163,7 +163,7 @@ I’ll continue to retire towards the coast and then head north, but
 making the rendezvous as scheduled is entirely optional now. Hopefully
 there aren’t too many subs in my path. And maybe my single F-16 will get
 to that eastern Badger before it can summon a world of hate for my
-lonely tanker? We shall see\!
+lonely tanker? We shall see!
 
 **MISSILES INBOUND**
 
@@ -255,7 +255,7 @@ remember that if the carrier gets up there.)
 
 Japanese ASW planes are also active in the area, and one of their P-3s
 decides now is the perfect time to go hunting for the northern Oscar,
-which is half-way to Russia\! This provokes an angry response from the
+which is half-way to Russia! This provokes an angry response from the
 squadron of MiG-25s loitering there, who swoop in towards the foolish
 plane. Executive orders are issued telling the pilot to return home
 immediately, and my last F-16 manages to kill the two leading MiGs with
@@ -307,7 +307,7 @@ distance from the foe. Unfortunately, this is going south-east, and I’m
 supposed to be going north-east to rendezvous with my tanker. Do I risk
 turning, or continue to safety?
 
-Decisions must be made\!
+Decisions must be made!
 
 The fight continues…
 
@@ -318,7 +318,7 @@ east towards the straits, and F-16s from Misawa dash in on afterburner,
 but they’re still over 50 miles away when the MiGs reach the plane – and
 fly right past, ignoring it. They’re going for my S-3 which is
 patrolling the straits; the buggers in the P-3 have led the enemy right
-to me\! Fortunately, the extra distance is just enough for the F-16s to
+to me! Fortunately, the extra distance is just enough for the F-16s to
 make it in, and they manage to knock down the enemy before they can do
 any damage.
 
@@ -370,7 +370,7 @@ Suddenly, we get radar reports that the small groups of half a dozen
 planes (now assessed to be Su-24s – possibly ARM carriers?) are turning
 back towards their to bases. A few minutes later a stream of contacts is
 seen leaving the loitering northern bombers. The Backfires are
-retreating without firing a shot\!
+retreating without firing a shot!
 
 The admiral decides that this is a crucial turning point. The carrier
 group is currently fleeing south for the shelter of the Komatsu airbase,
@@ -378,7 +378,7 @@ which is only 43 miles away now. But if the Su-24s are retiring, the
 central bombers are gone, and the northern Backfires are already on the
 way home, then the threat is effectively over. The moment of decision
 has come. The carrier group is ordered to turn NE and head for the
-straits at full speed\!
+straits at full speed!
 
 The problem is, the admiral has got it wrong. What he’s seeing in the
 north are a stream of unidentified Su-24s going home, not Backfires. The
@@ -459,7 +459,7 @@ en-route to patrol ahead of the Pacos, and my Perry is ordered to go to
 flank speed to escort the tanker as soon as possible. Of course, that’s
 when someone tries to torpedo the Perry…
 
-‘Counterfire\!’ yells the captain, and a spread of two Mk46s is launched
+‘Counterfire!’ yells the captain, and a spread of two Mk46s is launched
 down the torpedo bearing, while the ship heels over in a maximum
 performance turn away from the threat. The helicopter’s leaping off the
 deck, and as it thunders away the Perry turns again, hoping that the
@@ -492,7 +492,7 @@ battery, forcing him to snorkel. That’s probably what brings a May out
 from the safety of its SAM umbrella, so I send out a pair of F-14s,
 escorted by F-18s, to try and reach past nearby fighters and shoot it
 down. Before they can get there, however, a passing F-15 manages to
-sneak through a gap and snipe their kill. Go Air Force\!
+sneak through a gap and snipe their kill. Go Air Force!
 
 **LOGISTICAL ITEMS AND PLANNING**
 
@@ -579,7 +579,7 @@ Good fortune also comes to my 688, the USS Buffalo, which has been
 hanging out over the sea-mount 70 miles south of Vladivostok, waiting
 for anything to come in or out of the port. Its sonar operator gradually
 picks up a submerged contact and classifies it as an SSGN. It’s the
-other Oscar, presumably headed for Vladivostok to reload\! The Buffalo
+other Oscar, presumably headed for Vladivostok to reload! The Buffalo
 takes a bearing, goes into the layer, and starts creeping towards the
 enemy.
 
@@ -658,8 +658,8 @@ day to a fine end.
 
 **IMPRESSIONS**
 
-Woo\! A nice big in-your face attack, with all sorts of enemy, and not
-enough resources to deal with them. Intense, and very enjoyable\!
+Woo! A nice big in-your face attack, with all sorts of enemy, and not
+enough resources to deal with them. Intense, and very enjoyable!
 
 You’re going to be in big trouble if you stay spread out. You’ve got to
 gather in tight and run like heck for shelter, and if you haven’t poked
@@ -678,7 +678,7 @@ worked as intended this would probably have been a lot closer to a draw.
 
 I definitely enjoyed the chance to sneak and be snuck by the subs. The
 twin Oscars were nasty, but the Charlie attack out of the CZ was
-classic\! That’s why these SSGNs would have been such a game-changer,
+classic! That’s why these SSGNs would have been such a game-changer,
 when they showed up in the seventies, compared with the risks of closing
 to torpedo range. It’s so rare to see it work from the AI side in
 Command, and it was a real pleasure to be sunk by it here. Plus having
@@ -686,4 +686,4 @@ the chance to cut off subs returning home for reloads, and nearly
 getting ganked while running recklessly to help the tanker. What’s not
 to like?
 
-Thanks again for these massive and challenging scenarios\!
+Thanks again for these massive and challenging scenarios!

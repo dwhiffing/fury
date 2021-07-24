@@ -24,10 +24,9 @@ reality their tasking comes directly from Moscow and the FRONT HQ staff
 are informed of their presence when other land forces are in close
 proximity – no earlier.
 
-**<span class="underline">Red Banner Northern Fleet</span>**
+**<u>Red Banner Northern Fleet</u>**
 
-![C:\\Users\\BGauvin\\Pictures\\Web
-pages\\Soviet\\oscar\_2\_class\_l7.jpg](/assets/images/blog/post23/image1.jpeg)
+<img src="/assets\images\blog\post23\media\image1.jpeg" style="width:10.66667in;height:7.34375in" alt="C:\Users\BGauvin\Pictures\Web pages\Soviet\oscar_2_class_l7.jpg" />
 
 Of the 400+ vessels in the Northern Fleet, about 350 are involved in
 Plan BOYAR. The centerpiece of Soviet naval activity for this
@@ -54,11 +53,9 @@ support naval and air force targeting efforts. Finally, maritime air
 forces will support all activities with intelligence gathering,
 disruption, surveillance and strike activities.
 
-![C:\\Users\\BGauvin\\Pictures\\Web pages\\Soviet\\Kirov
-class.jpg](/assets/images/blog/post23/image2.jpeg)
+<img src="/assets\images\blog\post23\media\image2.jpeg" style="width:10in;height:6.26042in" alt="C:\Users\BGauvin\Pictures\Web pages\Soviet\Kirov class.jpg" />
 
-**<span class="underline">Air Forces Supporting North-Western
-TVD</span>**
+**<u>Air Forces Supporting North-Western TVD</u>**
 
 All told, there are about 1,500 aircraft under the direct or indirect
 control of North-Western TVD. The coordinating authority is the
@@ -71,29 +68,29 @@ aircraft this formation will increase by about 50% in the few days prior
 to operations commencing and more than double in size a few days later.
 These forces, when fully assembled will comprise of:
 
-  - 149<sup>th</sup> Bomber Aviation Division: \~70x Su-24
+-   149<sup>th</sup> Bomber Aviation Division: \~70x Su-24
 
-  - 122<sup>nd</sup> Fighter Aviation Division: \~120x Su-27
+-   122<sup>nd</sup> Fighter Aviation Division: \~120x Su-27
 
-  - 246<sup>th</sup> Fighter Aviation Division (Reinforced with
+-   246<sup>th</sup> Fighter Aviation Division (Reinforced with
     32<sup>nd</sup> Guards Fighter Regiment): \~135x MiG-23MLD
 
-  - 131<sup>st</sup> Fighter Aviation Division (Reinforcing with an
+-   131<sup>st</sup> Fighter Aviation Division (Reinforcing with an
     additional Fighter Regiment, the 73<sup>rd</sup> Guards): 31x
     MiG-29M, 41x Su-27, 45x MiG-23MLD
 
-  - 125<sup>th</sup> Fighter Bomber Division (Reinforcing): 32x MiG-27,
+-   125<sup>th</sup> Fighter Bomber Division (Reinforcing): 32x MiG-27,
     \~70x Su-17M4
 
-  - 259<sup>th</sup> Mixed Assault Division (Reinforcing, newly formed
+-   259<sup>th</sup> Mixed Assault Division (Reinforcing, newly formed
     with 372<sup>nd</sup> Independent Assault Regiment and four rotary
     wing regiments): 24x Su-25, 160x Mi-8, 80x Mi-24, 12x Mi-26, 12x
     Mi-6, 48x Mi-2)
 
-  - Army forces including: 50x Su-24, \~60x Su-17M3/M3R and about two
+-   Army forces including: 50x Su-24, \~60x Su-17M3/M3R and about two
     dozen specialized MiG-25 and other aircraft.
 
-![Related image](/assets/images/blog/post23/image3.jpeg)
+<img src="/assets\images\blog\post23\media\image3.jpeg" style="width:13.125in;height:7.94792in" alt="Related image" />
 
 **Air Arm of The Red Banner Northern Fleet:** With a primary focus on
 supporting the fleet, this force operates almost 700 aircraft including
@@ -105,10 +102,7 @@ and many backup and training aircraft for the aircraft carriers
 (MiG-29K, Su-25, Yak-38 & 141) which could be pushed into combat if
 required.
 
-![C:\\Users\\BGauvin\\Pictures\\Web pages\\Soviet\\Russian aircraft
-carrier Admiral Kuznetsov Admiral Flota Sovetskovo Soyuza Kuznetsov
-Sukhoi Su-33 Flanker-D MiG-29K Varyag Su-27K j-15 russian navy plan
-(6).jpg](/assets/images/blog/post23/image4.jpeg)
+<img src="/assets\images\blog\post23\media\image4.jpeg" style="width:11.11458in;height:7.375in" alt="C:\Users\BGauvin\Pictures\Web pages\Soviet\Russian aircraft carrier Admiral Kuznetsov Admiral Flota Sovetskovo Soyuza Kuznetsov Sukhoi Su-33 Flanker-D MiG-29K Varyag Su-27K j-15 russian navy plan (6).jpg" />
 
 **6<sup>th</sup> Air Defence Army (PVO)**: This formation is not under
 direct control of North-Western TVD but is cooperating and can receive
@@ -124,8 +118,7 @@ Mainstay Airborne Early Warning and Control aircraft are assigned to the
 formation and training has been conducted with controlling aircraft from
 the 76<sup>th</sup> Air Army as well.
 
-![Image result for a-50
-mainstay](/assets/images/blog/post23/image5.jpeg)
+<img src="/assets\images\blog\post23\media\image5.jpeg" style="width:10.69792in;height:4.92842in" alt="Image result for a-50 mainstay" />
 
 **10<sup>th</sup> Air Defence Army (PVO)**: While the 6<sup>th</sup> Air
 Defence Army looks west and north-west, the 10<sup>th</sup> looks
@@ -135,7 +128,7 @@ are stationed in the Murmansk area including \~80x MiG-25, \~60x MiG-31
 and \~40x Su-27. Additionally, three Beriev A-50 Mainstay are operating
 with this Army but they are focused towards the north.
 
-![](/assets/images/blog/post23/image6.jpg)
+<img src="/assets\images\blog\post23\media\image6.jpg" style="width:4.26667in;height:2.66667in" />
 
 **18<sup>th</sup> Air Defence Corps (PVO)**: This formation is part of
 Leningrad Military District (MD) and will likely deploy a regiment to
@@ -144,9 +137,9 @@ likely the 180<sup>th</sup> Guards Fighter Regiment with MiG-31M/SM,
 although if reinforced from other areas the 177<sup>th</sup> Fighter
 Regiment with MiG-23MLDs could also deploy forward.
 
-![](/assets/images/blog/post23/image7.png)
+<img src="/assets\images\blog\post23\media\image7.png" style="width:11.70833in;height:3.52083in" />
 
-**<span class="underline">KARELIAN FRONT</span>**
+**<u>KARELIAN FRONT</u>**
 
 In addition to the air and naval forces based on and around the Kola
 Peninsula, the major Army formation under North-Western TVD’s command is
@@ -155,7 +148,7 @@ KARELIAN FRONT is responsible for controlling all land forces in
 North-Western TVD and in addition to security of the Leningrad MD has
 the task of seizing Norway and other areas.
 
-![](/assets/images/blog/post23/image8.png)
+<img src="/assets\images\blog\post23\media\image8.png" style="width:6.864in;height:5.96867in" />
 
 In a retrospectively obvious attempt at disinformation and deflection,
 the 6<sup>th</sup> Combined Arms Army (CAA) was significantly weakened
@@ -164,7 +157,7 @@ shuffling occurred in the other formations. The lead formation of the
 Front became the 26<sup>th</sup> Army Corps, now referred to by the
 historical name **Archangel Corps**.
 
-  - **Archangel Corps (26<sup>th</sup> Army Corps)**, significantly
+-   **Archangel Corps (26<sup>th</sup> Army Corps)**, significantly
     reinforced from its pre-coup structure is responsible for seizing
     Norway. In the year preceding hostilities, the 115<sup>th</sup>
     Mobilization Motor Rifle Division (MRD) was shifted to the
@@ -173,18 +166,18 @@ historical name **Archangel Corps**.
     Additionally, the 17<sup>th</sup> Tank Brigade which was formally
     known as the 6<sup>th</sup> Independent Guards ‘Berlin’ Motor Rifle
     Brigade, was added.
-    
-      - 45<sup>th</sup> Gds MRD (T-80, BMP-2, BTR-70/80)
-    
-      - 69<sup>th</sup> MRD (T-64/72, BMP-2, BTR-70/80)
-    
-      - 77<sup>th</sup> Gds MRD (T-80, MTLB)
-    
-      - 111<sup>th</sup> MRD (T-72, MTLB, BTR-60/70)
-    
-      - 17<sup>th</sup> Tank Brigade (T-72/64, BMP-3, BTR-80)
 
-  - **Vyborg Corps (30<sup>th</sup> Guards Army Corps)**, remains in the
+    -   45<sup>th</sup> Gds MRD (T-80, BMP-2, BTR-70/80)
+
+    -   69<sup>th</sup> MRD (T-64/72, BMP-2, BTR-70/80)
+
+    -   77<sup>th</sup> Gds MRD (T-80, MTLB)
+
+    -   111<sup>th</sup> MRD (T-72, MTLB, BTR-60/70)
+
+    -   17<sup>th</sup> Tank Brigade (T-72/64, BMP-3, BTR-80)
+
+-   **Vyborg Corps (30<sup>th</sup> Guards Army Corps)**, remains in the
     role of defending the Finnish frontier from Vyborg to Rayakoski,
     although it is heavily weighted to the south. The 37<sup>th</sup>
     Guards and the newly arrived 115<sup>th</sup> MRDs are now mobilized
@@ -192,30 +185,29 @@ historical name **Archangel Corps**.
     MRD only has only a Tank Battalion but is equipped with very modern
     T-80s and, although rated as a Category ‘B’ Division, this formation
     is well trained and capable of offensive operations.
-    
-      - 64<sup>th</sup> Gds MRD (T-80/54, MTLB, BTR-50/60)
-    
-      - 37<sup>th</sup> Gds MRD (T-80/64, BMP-1, MTLB, BTR-60)
-    
-      - 115<sup>th</sup> MRD (T-64, BMP-1, BTR-60, BTR-152)
 
-  - **6<sup>th</sup> Combined Arms Army (CAA)** forms the second echelon
+    -   64<sup>th</sup> Gds MRD (T-80/54, MTLB, BTR-50/60)
+
+    -   37<sup>th</sup> Gds MRD (T-80/64, BMP-1, MTLB, BTR-60)
+
+    -   115<sup>th</sup> MRD (T-64, BMP-1, BTR-60, BTR-152)
+
+-   **6<sup>th</sup> Combined Arms Army (CAA)** forms the second echelon
     force to the **Archangel Corps** but its primary role is the defence
     of the Kola Peninsula. Although Plan BOYAR calls for 6<sup>th</sup>
     CAA to occupy Norway once that country has collapsed, in its current
     construct this formation lacks offensive punch with only one BMP
     equipped Motor Rifle Regiment (MRR) and less than 200 modern tanks.
-    
-      - 16<sup>th</sup> Gds MRD (T-72/54, BMP-1, MTLB, BTR-152)
-    
-      - 54<sup>th</sup> MRD (T-80/54, BTR-60, MTLB, BTR-152)
-    
-      - 116<sup>th</sup> MRD (T-54, truck mounted infantry)
-    
-      - 131<sup>st</sup> MRD (T-80/54, MTLB, BTR-152)
 
-![Image result for T-80
-snow](/assets/images/blog/post23/image9.png)
+    -   16<sup>th</sup> Gds MRD (T-72/54, BMP-1, MTLB, BTR-152)
+
+    -   54<sup>th</sup> MRD (T-80/54, BTR-60, MTLB, BTR-152)
+
+    -   116<sup>th</sup> MRD (T-54, truck mounted infantry)
+
+    -   131<sup>st</sup> MRD (T-80/54, MTLB, BTR-152)
+
+<img src="/assets\images\blog\post23\media\image9.png" style="width:6.66667in;height:2.94792in" alt="Image result for T-80 snow" />
 
 Supporting activities are controlled directly by the Front HQ and
 coordinated with the Northern Fleet, 76<sup>th</sup> Air Army,
@@ -225,26 +217,23 @@ Defence Corps). The primary object of these operations is to reinforce
 the efforts of **Archangel Corps** or to distract and confuse NATO
 reactions.
 
-**<span class="underline">Operations in Norway</span>**: For the most
-part the remainder of the Front troops, particularly 36<sup>th</sup> Air
-Landing (AL) Brigade, Naval Infantry, 2<sup>nd</sup> Guards Artillery
-Division and the bulk of the other artillery, engineering air defence
-and logistics (not shown above) units are supporting operations in
-Norway. Further, a large portion of 2<sup>nd</sup> Spetsnaz Brigade is
-involved in Norway. These elements fall into three broad roles: maneuver
-such as the AL, NI and Spetsnaz elements; fire support including
-artillery and air defence; and maneuver support including engineering
-and logistics forces.
+**<u>Operations in Norway</u>**: For the most part the remainder of the
+Front troops, particularly 36<sup>th</sup> Air Landing (AL) Brigade,
+Naval Infantry, 2<sup>nd</sup> Guards Artillery Division and the bulk of
+the other artillery, engineering air defence and logistics (not shown
+above) units are supporting operations in Norway. Further, a large
+portion of 2<sup>nd</sup> Spetsnaz Brigade is involved in Norway. These
+elements fall into three broad roles: maneuver such as the AL, NI and
+Spetsnaz elements; fire support including artillery and air defence; and
+maneuver support including engineering and logistics forces.
 
-![](/assets/images/blog/post23/image10.png)
+<img src="/assets\images\blog\post23\media\image10.png" style="width:9.45833in;height:6.12468in" />
 
-**<span class="underline">SUPPORTING OPERATIONS</span>**: Activities in
-Norway will consume the bulk of North-Western TVD’s attention and
-resources, but there is plenty of scope for other thrusts aimed at
-disrupting NATOs response by providing multiple dilemmas to deal with.
-To quote from the Commander North-Western TVD – “The Americans might
-have coined the phrase ‘Shock and Awe’, but it was the Russians who
-invented it\!”
+**<u>SUPPORTING OPERATIONS</u>**: Activities in Norway will consume the
+bulk of North-Western TVD’s attention and resources, but there is plenty
+of scope for other thrusts aimed at disrupting NATOs response by
+providing multiple dilemmas to deal with. To quote from the Commander
+North-Western TVD – “The Americans might have coined the phrase ‘Shock
+and Awe’, but it was the Russians who invented it!”
 
-![Image result for btr-80
-amphibious](/assets/images/blog/post23/image11.jpeg)
+<img src="/assets\images\blog\post23\media\image11.jpeg" style="width:10.66667in;height:5.80208in" alt="Image result for btr-80 amphibious" />

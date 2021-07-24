@@ -1,6 +1,6 @@
 **USN Battleships**
 
-![](/assets/images/nato/us/navy/battleships/image1.jpg)
+<img src="/assets\images\nato\us\navy\battleships\media\image1.jpg" style="width:6.5in;height:4.875in" />
 
 The US is the only nation in the world still holding on to World War Two
 era Battleships (BB) in 1994, the closest in size and scale would be the
@@ -24,4 +24,4 @@ Pacific Fleet.  USS Missouri (**BB-63**), and USS Wisconsin (**BB-64**)
 are in the Atlantic Fleet. The Iowa is on patrol in the Mediterranean
 when Northern Fury starts.
 
-![](/assets/images/nato/us/navy/battleships/image2.jpg)
+<img src="/assets\images\nato\us\navy\battleships\media\image2.jpg" style="width:6.5in;height:4.44722in" />

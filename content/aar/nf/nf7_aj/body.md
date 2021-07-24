@@ -1,9 +1,8 @@
 **Northern Fury – Keflavik Capers**
 
-**<span class="underline">Playtest Report by AndrewJ 20 Apr
-2015</span>**
+**<u>Playtest Report by AndrewJ 20 Apr 2015</u>**
 
-I just finished this one last night - what an excellent scenario\! All
+I just finished this one last night - what an excellent scenario! All
 sorts of interesting things going on.
 
 The Russians definitely had me off balance at first. I managed to put a
@@ -43,4 +42,4 @@ and another cargo-plane massacre followed. None of them crossed the
 Icelandic coast. It would have been absolutely impossible to accomplish
 all those tanker kills with Sparrows.
 
-That was so much fun I'm going to go try another one\!
+That was so much fun I'm going to go try another one!

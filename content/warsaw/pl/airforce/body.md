@@ -29,7 +29,7 @@ and A-10 from harassing Polish maneuver forces on the ground. Although
 they have the capacity for strike and close air support, this would be a
 purely secondary role for the Polish Fulcrums.
 
-![](/assets/images/warsaw/pl/airforce/image1.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image1.jpeg" style="width:6.5in;height:3.65625in" />
 
 **MiG-23**
 
@@ -38,7 +38,7 @@ MiG-23UB two seat training versions. The Floggers were also used
 primarily in the intercept role to protect Polish ground formations,
 although they could also be used for ground attack if needed.
 
-![](/assets/images/warsaw/pl/airforce/image2.jpg)
+<img src="/assets\images\warsaw\pl\airforce\media\image2.jpg" style="width:6.5in;height:3.72292in" />
 
 **MiG-21**
 
@@ -52,7 +52,7 @@ versions supporting the army and about 50 two seat trainers (UB). There
 are about 80 older **MiG-21PF** as well as a few PFM, R and UB airframes
 in ready reserve.
 
-![](/assets/images/warsaw/pl/airforce/image3.jpg)
+<img src="/assets\images\warsaw\pl\airforce\media\image3.jpg" style="width:6.5in;height:4.06458in" />
 
 **Su-20/22**
 
@@ -66,7 +66,7 @@ by the internal strife in the later part of the decade but 20
 lead Regiment in each of the Fighter Bomber Divisions. About 40 of the
 much older **Su-7** Fitter A variants are held in reserve.
 
-![](/assets/images/warsaw/pl/airforce/image4.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image4.jpeg" style="width:6.5in;height:4.0625in" />
 
 **Lim-6**
 
@@ -77,13 +77,12 @@ obsolete and poorly maintained. All have been upgraded to the
 **Lim-6bis** or are **Lim-5** rebuilt to the same standard and called
 the **Lim-6M**.
 
-![](/assets/images/warsaw/pl/airforce/image5.jpg)
+<img src="/assets\images\warsaw\pl\airforce\media\image5.jpg" style="width:6.5in;height:4.33542in" />
 
-**Combat Aircraft
-organization**
+**Combat Aircraft organization**
 
 | **Formation**           | **Location** | **Unit**             | **No** | **Type**   |
-| ----------------------- | ------------ | -------------------- | ------ | ---------- |
+|-------------------------|--------------|----------------------|--------|------------|
 | 2<sup>nd</sup> F/B Div  | Pila         | Regt                 | 45     | Su-22M4    |
 |                         |              | Regt                 | 45     | MiG-21PFM  |
 |                         |              | Regt                 | 45     | Lim-6M/bis |
@@ -114,9 +113,7 @@ These formations are part of the Air Defence Force and are in addition
 to Army Air Defences elements. About 300 old SA2 and SA3 systems are in
 operation with a few longer range SA5.
 
-![Anti-Aircraft units from Strakonice practising air defence over Poland
-together with NATO partners | CZDEFENCE - czech army and defence
-magazine](/assets/images/warsaw/pl/airforce/image6.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image6.jpeg" style="width:6.91323in;height:4.61458in" alt="Anti-Aircraft units from Strakonice practising air defence over Poland together with NATO partners | CZDEFENCE - czech army and defence magazine" />
 
 **Air Transport**
 
@@ -124,105 +121,102 @@ The Polish Air Force operate a wide range of transport aircraft in three
 Regiments, two based in Warsaw (36<sup>th</sup> and 37<sup>th</sup>) and
 one in Krakow (13<sup>th</sup>). Together these units operate:
 
-  - 18x Yak-40 Codling
+-   18x Yak-40 Codling
 
-  - 2x Tu-154 Careless
+-   2x Tu-154 Careless
 
-  - 4x Tu-134 Crusty
+-   4x Tu-134 Crusty
 
-  - 6x Il-62 Classic
+-   6x Il-62 Classic
 
-  - 6x An-24 Coke
+-   6x An-24 Coke
 
-  - 2x An-12 Cub
+-   2x An-12 Cub
 
-  - 12x An-26 Curl
+-   12x An-26 Curl
 
-  - 138x An-2 Colt (some retired)
+-   138x An-2 Colt (some retired)
 
-  - 25x M-28B Skytruck; Polish built derivative of the An-28, capable of
+-   25x M-28B Skytruck; Polish built derivative of the An-28, capable of
     short takeoff and landing (STOL) able to carry 19 passengers, cargo
     or paratroops.
 
-![Polish Air Force PZL-Mielec M-28B-PT Skytruck 0210 RDO 23-… |
-Flickr](/assets/images/warsaw/pl/airforce/image7.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image7.jpeg" style="width:4.92977in;height:3.29167in" alt="Polish Air Force PZL-Mielec M-28B-PT Skytruck 0210 RDO 23-… | Flickr" />
 
 **Helicopter Forces**
 
 Two aviation Regiments support the Army and operate:
 
-  - 3x Mi-6 Hook
+-   3x Mi-6 Hook
 
-  - 36x Mi-8 Hip
+-   36x Mi-8 Hip
 
-  - 48x W-3; Polish built utility helicopter, 12 passengers
+-   48x W-3; Polish built utility helicopter, 12 passengers
 
-  - 26x Mi-2 Hoplite
+-   26x Mi-2 Hoplite
 
-![PZL W-3 Sokół -
-Wikipedia](/assets/images/warsaw/pl/airforce/image8.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image8.jpeg" style="width:7.22301in;height:4.8125in" alt="PZL W-3 Sokół - Wikipedia" />
 
 **Maritime Support**
 
 Recently grouped as part of the air force, the maritime aviation
 elements are:
 
-  - 9x M28B Bryza 1R; Maritime patrol and reconnaissance
+-   9x M28B Bryza 1R; Maritime patrol and reconnaissance
 
-  - 4x M28B Bryza 1E; Maritime ecological reconnaissance
+-   4x M28B Bryza 1E; Maritime ecological reconnaissance
 
-  - 12x Mi-14PL; ASW helicopter
+-   12x Mi-14PL; ASW helicopter
 
-  - 4x Mi-14PS; SAR helicopter
+-   4x Mi-14PS; SAR helicopter
 
-  - 4x Mi-2; Light utility and reconnaissance
+-   4x Mi-2; Light utility and reconnaissance
 
-![](/assets/images/warsaw/pl/airforce/image9.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image9.jpeg" style="width:8.90401in;height:6.01021in" />
 
 **Training**
 
 Air training is concentrated at the Air Force University located at
 Deblin which operates:
 
-  - 16x PZL I-22 Jet trainers
+-   16x PZL I-22 Jet trainers
 
-  - 50x Mig-21UM
+-   50x Mig-21UM
 
-  - 20x Su22UM3K
+-   20x Su22UM3K
 
-  - 6x Mig-23UB
+-   6x Mig-23UB
 
-  - 16x Mi-1 Hare
+-   16x Mi-1 Hare
 
-![PZL I-22 Iryda -
-Wikipedia](/assets/images/warsaw/pl/airforce/image10.jpeg)
+<img src="/assets\images\warsaw\pl\airforce\media\image10.jpeg" style="width:7.41667in;height:4.8332in" alt="PZL I-22 Iryda - Wikipedia" />
 
 **Reserves**
 
 Held in reserve are the following aircraft:
 
-  - 84 MiG-21PF
+-   84 MiG-21PF
 
-  - 36 Mig-19
+-   36 Mig-19
 
-  - 12 MiG-17
+-   12 MiG-17
 
-  - 250 MiG-15
+-   250 MiG-15
 
-  - 36 Su-7
+-   36 Su-7
 
-  - 700 Lim-1/2
+-   700 Lim-1/2
 
-  - 200 Lim-5/6
+-   200 Lim-5/6
 
-  - 72 Il-28
+-   72 Il-28
 
-  - 15 Il-28R
+-   15 Il-28R
 
-  - 17 Il-14
+-   17 Il-14
 
-  - 5 Il-18
+-   5 Il-18
 
-  - 30 SM-1 (utility Helicopter)
+-   30 SM-1 (utility Helicopter)
 
-  - 17 Mi-4
+-   17 Mi-4

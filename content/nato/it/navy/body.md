@@ -1,6 +1,6 @@
 **Italian Navy**
 
-![](/assets/images/nato/it/navy/image1.jpg)
+<img src="/assets\images\nato\it\navy\media\image1.jpg" style="width:6.5in;height:4.29375in" />
 
 Italy is a maritime nation and one of the premier navies in the
 Mediterranean. Much of her equipment is of Italian design, exploiting a
@@ -26,4 +26,4 @@ nationalist and ethnic factions in the FRY, which had the side benefit
 of intercepting contraband headed for Italy. The Italian navy was
 decisively engaged in supporting these operations.
 
-![](/assets/images/nato/it/navy/image2.jpg)
+<img src="/assets\images\nato\it\navy\media\image2.jpg" style="width:6.39823in;height:4.55554in" />

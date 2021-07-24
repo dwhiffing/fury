@@ -1,19 +1,19 @@
 **Northern Fury – Sub Surge**
 
-**<span class="underline">Playtest Report by AndrewJ Nov 2015</span>**
+**<u>Playtest Report by AndrewJ Nov 2015</u>**
 
-"ESM Contact\! Bearing 38º. Wet-Eye radar, probably a May sir."
+"ESM Contact! Bearing 38º. Wet-Eye radar, probably a May sir."
 
 "Lower the mast, helm to 300, back into the layer. We'll see a lot more
 of those..."
 
-"Sonar contact\! Underwater explosion sir, very faint, somewhere to the
+"Sonar contact! Underwater explosion sir, very faint, somewhere to the
 NW."
 
 "None of ours should be up there yet. Sounds like our Russian friends
 are nervous."
 
-Interesting scenario\!
+Interesting scenario!
 
 Here's a quick summary of how it worked out for me, from NW to SE.
 
@@ -43,12 +43,12 @@ delivered its team as Triumph and Rivers moved on to the cable area.
 Triumph stood guard while Rivers started looking for the cable, but they
 never found it before active sonobuoys and torpedoes started splashing
 into the center of the zone, and both subs had to flee. That ASW Strike
-is dangerous\! Triumph nearly died (Phit: 75, die roll: 78), and the
+is dangerous! Triumph nearly died (Phit: 75, die roll: 78), and the
 cable remains undiscovered.
 
 Augusta had a very busy time, heading for Patrol Zone B, and finding a
 juicy SSN contact to the NW. It was just about to head after it when a
-second quieter SSN appeared from the SE... Pincered\! The SE contact was
+second quieter SSN appeared from the SE... Pincered! The SE contact was
 very close, so three torps immediately went to it, and one torp BOL-ed
 to keep the NW contact busy, while Augusta tried to break contact. The
 SE contact died, but the NW one got away, until it came back looking for
@@ -96,4 +96,4 @@ captains would know this in advance, so it seems reasonable to tell the
 players too.
 
 Thanks for another great scenario. I'm looking forward to seeing what's
-next\!
+next!

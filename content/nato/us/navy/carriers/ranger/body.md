@@ -1,5 +1,5 @@
 **[USS Ranger
-(CV-61)](https://en.wikipedia.org/wiki/USS_Ranger_\(CV-61\))**
+(CV-61)](https://en.wikipedia.org/wiki/USS_Ranger_(CV-61))**
 
 *USS Ranger*, was commissioned in 1957 as the third of four Forrestal
 class carriers and through her long life she doesn’t complete a Service
@@ -15,34 +15,34 @@ direct support of the USMC 3<sup>rd</sup> Marine Amphibious Force, and
 then the Indian Ocean to relieve her sister ship *CV-60 Saratoga*,
 allowing ‘Sara’ some badly needed and overdue maintenance time.
 
-![](/assets/images/nato/us/navy/carriers/ranger/image1.jpg)
+<img src="/assets\images\nato\us\navy\carriers\ranger\media\image1.jpg" style="width:7.04167in;height:4.66923in" />
 
 USS Ranger
 
 > CV-61 Ranger
 
-  - USMC/USN Composite wing (April – Jul 94)
-    
-      - VF-191 Satan's Kittens F-14A
-    
-      - VMFA-232 Red Devils F/A-18D
-    
-      - VMFA-121 Green Knights F/A-18C (N)
-    
-      - VMFA-225 Vikings F/A-18D
-    
-      - VA-155 Silver Foxes A-6E SWIP
-    
-      - VMAQ-4 Seahawks EA-6B
-    
-      - VAW-127 Seabats E-2C
-    
-      - VS-21 Redtails S-3B
-    
-      - HS-17 Neptune's Raiders SH-3H
+-   USMC/USN Composite wing (April – Jul 94)
 
-  - In July 94 when CV-60 Saratoga is relieved, partial cross decking
+    -   VF-191 Satan's Kittens F-14A
+
+    -   VMFA-232 Red Devils F/A-18D
+
+    -   VMFA-121 Green Knights F/A-18C (N)
+
+    -   VMFA-225 Vikings F/A-18D
+
+    -   VA-155 Silver Foxes A-6E SWIP
+
+    -   VMAQ-4 Seahawks EA-6B
+
+    -   VAW-127 Seabats E-2C
+
+    -   VS-21 Redtails S-3B
+
+    -   HS-17 Neptune's Raiders SH-3H
+
+-   In July 94 when CV-60 Saratoga is relieved, partial cross decking
     with CVW-17 will take place when the USMC Sqns are able to establish
     on land bases.
 
-  - Escorts as needed
+-   Escorts as needed

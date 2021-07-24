@@ -33,23 +33,23 @@ hangar for a helicopter but in the restricted waters of the Baltic, the
 landing platform is considered sufficient.
 
 | Class      | Pennant | Name     | Status | Remarks |
-| ---------- | ------- | -------- | ------ | ------- |
+|------------|---------|----------|--------|---------|
 | Kashin Mod | 271     | Warszawa | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image1.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image1.jpg" style="width:4.91667in;height:3.42118in" />
 
 **Submarines**
 
-[Kilo Class](https://en.wikipedia.org/wiki/ORP_Orze%C5%82_\(1986\)): The
+[Kilo Class](https://en.wikipedia.org/wiki/ORP_Orze%C5%82_(1986)): The
 single Kilo class (Project 877E) was transferred to Poland in 1986 and
 is the centerpiece of the submarine force. In the shallow, noisy waters
 of the Baltic Sea this boat is a very dangerous opponent.
 
 | Class | Pennant | Name  | Status | Remarks |
-| ----- | ------- | ----- | ------ | ------- |
+|-------|---------|-------|--------|---------|
 | Kilo  | 291     | Orzel | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image2.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image2.jpg" style="width:6.5in;height:3.65625in" />
 
 [Foxtrot
 Class](https://www.deviantart.com/zaku1986/art/ORP-Wilk-204327913): Two
@@ -58,11 +58,11 @@ these boats are far less capable than the Kilo but still able to operate
 effectively due to the noisy confines of the Baltic.
 
 | Class   | Pennant | Name | Status | Remarks |
-| ------- | ------- | ---- | ------ | ------- |
+|---------|---------|------|--------|---------|
 | Foxtrot | 292     | Wilk | Active |         |
 |         | 293     | Gryf | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image3.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image3.jpg" style="width:6.44792in;height:4.78125in" />
 
 [Whisky V Class](https://en.wikipedia.org/wiki/Whiskey-class_submarine):
 The four boats of this class were transferred to the Polish Navy in 1965
@@ -70,13 +70,13 @@ and retied into reserve in 1985 as the newer boats arrived. It will take
 60-90 days to make these boats operational again.
 
 | Class    | Pennant | Name   | Status  | Remarks |
-| -------- | ------- | ------ | ------- | ------- |
+|----------|---------|--------|---------|---------|
 | Whisky V | 292     | Orzel  | Reserve |         |
 |          | 293     | Sokół  | Reserve |         |
 |          | 294     | Kondor | Reserve |         |
 |          | 295     | Bielik | Reserve |         |
 
-![](/assets/images/warsaw/pl/navy/image4.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image4.jpg" style="width:6.5in;height:3.81667in" />
 
 **Fast Attack Craft (FAC)**
 
@@ -93,13 +93,13 @@ Knots and both electronic and physical defensive countermeasures these
 are very potent foes in the restricted waters of the Baltic Sea.
 
 | Class  | Pennant | Name       | Status | Remarks |
-| ------ | ------- | ---------- | ------ | ------- |
+|--------|---------|------------|--------|---------|
 | Górnik | 434     | Górnik     | Active |         |
 |        | 435     | Hutnik     | Active |         |
 |        | 436     | Metalowiec | Active |         |
 |        | 437     | Rolnik     | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image5.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image5.jpg" style="width:6.5in;height:4.31458in" />
 
 **Osa I Class**
 
@@ -111,7 +111,7 @@ but in Northern Fury, this is stalled, they are currently unmanned and
 unmaintained but have retained their weapons systems.
 
 | Class | Pennant | Name         | Status       | Remarks |
-| ----- | ------- | ------------ | ------------ | ------- |
+|-------|---------|--------------|--------------|---------|
 | Osa I | 421     | Hel          | Reserve      |         |
 |       | 422     | Gdansk       | Reserve      |         |
 |       | 423     | Gdynia       | Coast Guard  |         |
@@ -126,7 +126,7 @@ unmaintained but have retained their weapons systems.
 |       | 432     | Dziwnow      | Active       |         |
 |       | 433     | Wladyslawowo | Active       |         |
 
-![](/assets/images/warsaw/pl/navy/image6.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image6.jpg" style="width:6.5in;height:2.07431in" />
 
 **ASW Corvette**
 
@@ -141,10 +141,10 @@ Gecko) were replaced by Strela MANPADS. She also has a 35mm cannon, four
 23mm cannon in twin mounts, RBS ASW launchers and torpedo tubes.
 
 | Class  | Pennant | Name   | Status | Remarks |
-| ------ | ------- | ------ | ------ | ------- |
+|--------|---------|--------|--------|---------|
 | Kaszub | 240     | Kaszub | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image7.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image7.jpg" style="width:6.5in;height:4.34722in" />
 
 **Patrol Craft (PC)/Fast Patrol Craft (PCF)**
 
@@ -159,12 +159,12 @@ are still potent little ships generally comparable to the Tarantul
 except for the lack of SSMs.
 
 | Class  | Pennant | Name   | Status | Remarks |
-| ------ | ------- | ------ | ------ | ------- |
+|--------|---------|--------|--------|---------|
 | Górnik | 421     | Orkan  | Active |         |
 |        | 422     | Piorun | Active |         |
 |        | 423     | Grom   | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image8.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image8.jpg" style="width:6.5in;height:4.33056in" />
 
 **Obluze class**
 
@@ -175,7 +175,7 @@ transfer to the new Coast Guard. Some are in a very poor state of
 repair, the final eight are sometimes called the Grozny class.
 
 | Class  | Pennant | Name      | Status | Remarks |
-| ------ | ------- | --------- | ------ | ------- |
+|--------|---------|-----------|--------|---------|
 | Obluze | 301     | Fala      | Active |         |
 |        | 302     | Szkwal    | Active |         |
 |        | 303     | Zefir     | Active |         |
@@ -190,7 +190,7 @@ repair, the final eight are sometimes called the Grozny class.
 |        | 312     | Nieugiety | Active |         |
 |        | 313     | Czujny    | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image9.JPG)
+<img src="/assets\images\warsaw\pl\navy\media\image9.JPG" style="width:6.5in;height:4.875in" />
 
 **Pilica class**
 
@@ -201,7 +201,7 @@ charges, a twin 23mm cannon and potentially MANPADS, they cannot be
 ignored.
 
 | Class  | Pennant | Name | Status | Remarks |
-| ------ | ------- | ---- | ------ | ------- |
+|--------|---------|------|--------|---------|
 | Pilica | 161     |      | Active |         |
 |        | 162     |      | Active |         |
 |        | 163     |      | Active |         |
@@ -219,7 +219,7 @@ ignored.
 |        | 175     |      | Active |         |
 |        | 176     |      | Active |         |
 
-![](/assets/images/warsaw/pl/navy/image10.jpeg)
+<img src="/assets\images\warsaw\pl\navy\media\image10.jpeg" style="width:6.5in;height:4.51667in" />
 
 **Patrol Boats (PB):** About 20 craft of various designs are active with
 several others in reserve. These are generally small and armed with
@@ -235,7 +235,7 @@ Mine Sweepers (MS), two Leniwka Class Coastal MS, 11 Orlik class. Those
 in reserve include, 12 Zubr class Mine Countermeasures vessels (MCM),
 and 32 K-8 class MS.
 
-![](/assets/images/warsaw/pl/navy/image11.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image11.jpg" style="width:6.5in;height:4.33889in" />
 
 **Amphibious Ships (LST, LC)**: Polish shipyards designed and built the
 [Polnochny
@@ -248,7 +248,7 @@ primary user of this type, and holds 26 in service, although 15 of the
 older ships are in reserve.
 
 | Class    | Pennant | Name       | Status  | Remarks                  |
-| -------- | ------- | ---------- | ------- | ------------------------ |
+|----------|---------|------------|---------|--------------------------|
 | Grunwald |         | Grunwald   | Active  | Polnochny C Command ship |
 | Lublin   | 821     | Lublin     | Active  | Polnochny C              |
 |          | 822     | Gniezno    | Active  | Polnochny C              |
@@ -279,7 +279,7 @@ older ships are in reserve.
 Additionally, there are 19 smaller Landing Craft (LC); 15x Eichstaden
 Class (LC857-871) and 4x Deba Class (LC516-519)
 
-![](/assets/images/warsaw/pl/navy/image12.jpg)
+<img src="/assets\images\warsaw\pl\navy\media\image12.jpg" style="width:6.5in;height:4.33056in" />
 
 <https://www.worldnavalships.com/polish_navy.htm>
 

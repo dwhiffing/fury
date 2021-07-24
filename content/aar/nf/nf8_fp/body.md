@@ -1,6 +1,6 @@
-**<span class="underline">Northern Fury \#8 – Plug the Gap</span>**
+**<u>Northern Fury \#8 – Plug the Gap</u>**
 
-**<span class="underline">AAR by fitzpatv, June 2021</span>**
+**<u>AAR by fitzpatv, June 2021</u>**
 
 For the purposes of this scenario, the Soviets have made a
 partially-successful landing at Trondheim, Narvik has fallen and the

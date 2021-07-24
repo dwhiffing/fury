@@ -12,17 +12,17 @@ The three CAAs consisted of a mix of Motor Rifle Divisions (MRD), Tank
 Brigades TB) and supporting arms, these formations, like their Soviet
 equivalent have varying states of readiness:
 
-  - Category A-divisions which have 80% or more of their full strength
+-   Category A-divisions which have 80% or more of their full strength
 
-  - Category B-those with between 30% and 50%
+-   Category B-those with between 30% and 50%
 
-  - Category C-those with between 5% and 10%
+-   Category C-those with between 5% and 10%
 
 *Category A* formations could be ready to move in the matter of a few
 hours or less, while *Category B* would be ready in about 72 hours and
 *Category C* would take about 60 days.
 
-![](/assets/images/warsaw/bg/army/image1.png)
+<img src="/assets\images\warsaw\bg\army\media\image1.png" style="width:8.59375in;height:6.60417in" />
 
 Four of the *Category A* MRDs were equipped along standard Soviet lines
 with a mix of equipment. Details of the standard structure can be found
@@ -47,13 +47,12 @@ Naval Infantry Bn is largely used for garrisoning naval bases.
 Equipment is mixed and depends on the division or brigade in question.
 The table below outlines the wide variety of equipment available and
 since nothing is ever thrown away, if it is not in use it’s in reserve
-or
-storage.
+or storage.
 
-![](/assets/images/warsaw/bg/army/image2.jpeg)
+<img src="/assets\images\warsaw\bg\army\media\image2.jpeg" style="width:6.17708in;height:4.37028in" />
 
 | **Role**  | **Type** | **Variant** | **No** | **Remarks**                                                                                       |
-| --------- | -------- | ----------- | ------ | ------------------------------------------------------------------------------------------------- |
+|-----------|----------|-------------|--------|---------------------------------------------------------------------------------------------------|
 | MBT       | T-72     | T-72A/AK    | 100    | Improvement on the base model with laser range finder(LRF) and improved Fire Control System (FCS) |
 |           |          | T-72B       | 90?    | Better protection, FCS & LRF. New gun and ATGM (Anti-Tank Guided Missile)                         |
 |           |          | T-72M1      | 240    | Czech version of the T-72A for export                                                             |
@@ -115,4 +114,4 @@ More detail can be found here:
 This Wiki has some good detail as well:
 <https://en.wikipedia.org/wiki/Structure_of_the_Bulgarian_People%27s_Army_1989#1st_Army>
 
-![](/assets/images/warsaw/bg/army/image3.jpg)
+<img src="/assets\images\warsaw\bg\army\media\image3.jpg" style="width:6.5in;height:4.75764in" />

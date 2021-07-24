@@ -1,7 +1,6 @@
-**<span class="underline">Mediterranean Fury \#1 – Road to
-Byzantium</span>**
+**<u>Mediterranean Fury \#1 – Road to Byzantium</u>**
 
-**<span class="underline">AAR by maverick3320, May 2021</span>**
+**<u>AAR by maverick3320, May 2021</u>**
 
 Bottom line up front: this scenario is epic. I don't mean epic in the
 way people use it lately, as in "cool" or "awesome", I mean epic as an
@@ -38,7 +37,7 @@ Unfortunately neither choice seemed to have any effect. Greece deployed
 a decent amount of naval /assets, sent numerous air strikes at my forces,
 and eventually apparently started running CAPs over Turkish territory
 (?) as I frequently saw Greek aircraft attacking my forces from the east
-(\!) side of the Bosphorus. I did get multiple messages saying that my
+(!) side of the Bosphorus. I did get multiple messages saying that my
 political actions were working and that the military forces and
 government were in disarray, however, it didn't seem to have any effect;
 Turkey was running 4-6 plane CAPs over all their airbases and also sent
@@ -168,19 +167,19 @@ mentioned before, every SA-5 fired missed.
 To sum up the Warsaw Pact frustrations:
 
 > 1\) Awful SAMs
-> 
+>
 > 2\) Mostly useless AAMs (with the exception of the Archers)
-> 
+>
 > 3\) Mostly useless naval gunfire support
-> 
+>
 > 4\) No AWACs
-> 
+>
 > 5\) Extremely limited ASMs and AAMs
-> 
+>
 > 6\) Horrible intel
-> 
+>
 > 7\) Mostly useless political actions
-> 
+>
 > 8\) End up fighting Turkey, Greece, and the US
 
 I did have a lot of fun playing this scenario, at least up until the

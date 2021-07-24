@@ -1,5 +1,7 @@
-label: BF
+label: Baltic Fury
 nav:
   - /_shared/nav.md
 
 main: body.md
+
+isIndexPage: true

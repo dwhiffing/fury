@@ -1,6 +1,6 @@
 **Pacific Fury \#1 – Bolt from the Blue**
 
-**<span class="underline">Playtest Report by CHM April 2021</span>**
+**<u>Playtest Report by CHM April 2021</u>**
 
 World War Three is half an hour old. So far - taking Andrew's experience
 as the 'best case' - events have gone rather well... with a few
@@ -28,18 +28,18 @@ and with her effective SAM defences doubled, swung north east along the
 coast of Japan and accelerated, active sonar and helicopters sweeping
 ahead.
 
-War\! The flash message was accompanied near simultaneously by the
-report of a light Japanese destroyer breaking apart from a close-range
-torpedo shot. With the carrier's route undoubtedly infested with
-submarines, P-3s based near Tokyo launched to supplement the carrier
-group's organic ASW screen. Then the call came in - Vampire, Vampire...
-but not from the AWACS circling over the carrier - from the Brewton,
-escorting a tanker hundreds of miles east of the mainland. Somehow, a
-Soviet SSGN laid astride her path. Cued by a Tu-16, the pair of missiles
-sped in at wavetop level, mercifully slowly. Not an Oscar, then. Brewton
-presented her flank and her 5-inch gun, miraculously, blew apart the
-first missile before the Phalanx destroyed the second. But then a second
-pair of missiles were detected.
+War! The flash message was accompanied near simultaneously by the report
+of a light Japanese destroyer breaking apart from a close-range torpedo
+shot. With the carrier's route undoubtedly infested with submarines,
+P-3s based near Tokyo launched to supplement the carrier group's organic
+ASW screen. Then the call came in - Vampire, Vampire... but not from the
+AWACS circling over the carrier - from the Brewton, escorting a tanker
+hundreds of miles east of the mainland. Somehow, a Soviet SSGN laid
+astride her path. Cued by a Tu-16, the pair of missiles sped in at
+wavetop level, mercifully slowly. Not an Oscar, then. Brewton presented
+her flank and her 5-inch gun, miraculously, blew apart the first missile
+before the Phalanx destroyed the second. But then a second pair of
+missiles were detected.
 
 Brewton's Phalanx performed heroically, spraying down them both. It
 clicked empty as the third pair of massive missiles sped in. Brewton's

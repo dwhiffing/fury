@@ -15,7 +15,7 @@ provides a useful history of MiG aircraft in the Hungarian inventory.
 
 **MiG-21**
 
-![](/assets/images/warsaw/hu/air/image1.jpg)
+<img src="/assets\images\warsaw\hu\air\media\image1.jpg" style="width:4.05972in;height:6.08264in" />
 
 Three generations of the ubiquitous MiG-21 are currently serving in the
 Hungarian air force. The oldest remaining in service are the
@@ -41,11 +41,10 @@ Additionally, about 40 two seat training variants operate in an air
 combat training squadron, the **MiG-21UM** Mongol-B has equivalent
 avionics to the 3<sup>rd</sup> generation MiG-21bis. All fighter pilots
 spend time on this type to learn the basics of air combat no matter
-which airframe they
-fly.
+which airframe they fly.
 
 | **Unit**                 | **Location** | **Type**  | **No** | **Remarks** |
-| ------------------------ | ------------ | --------- | ------ | ----------- |
+|--------------------------|--------------|-----------|--------|-------------|
 | 31st Ftr Regt            | Kecskemét AB | MiG-21MF  | 45     |             |
 | 47th Ftr Regt            | Pápa AB      | Mig-21bis | 24     |             |
 | 57<sup>th</sup> Ftr Regt | Kecskemét AB | MiG-21PF  | 18     | To retire   |
@@ -54,7 +53,7 @@ fly.
 
 **MiG-23**
 
-![](/assets/images/warsaw/hu/air/image2.jpg)
+<img src="/assets\images\warsaw\hu\air\media\image2.jpg" style="width:5.51042in;height:3.42226in" />
 
 Hungary only operates 12x **MiG-23**MF Flogger-Bs. The variable wing
 geometry allows for a very flexible airframe and, until the acquisition
@@ -66,12 +65,12 @@ now limited to the ground attack role with the MiG-21bis of
 aircraft.
 
 | **Unit**      | **Location** | **Type** | **No** | **Remarks** |
-| ------------- | ------------ | -------- | ------ | ----------- |
+|---------------|--------------|----------|--------|-------------|
 | 47th Ftr Regt | Pápa AB      | MiG-21MF | 12     |             |
 
 **MiG-29**
 
-![](/assets/images/warsaw/hu/air/image3.jpg)
+<img src="/assets\images\warsaw\hu\air\media\image3.jpg" style="width:6.5in;height:4.34097in" />
 
 By far the most modern and capable aircraft in the Bulgarian inventory
 are the **MiG-29A**. A true multi-roll 4<sup>th</sup> generation
@@ -82,17 +81,16 @@ trainers, while in Northern Fury and additional two have been provided
 with at least another 18 planned but not yet delivered. The primary task
 is to introduce modern ground attack capability into the Hungarian air
 force but they are also able to stand up against American F-16s and
-Italian Tornados working out of northern
-Italy.
+Italian Tornados working out of northern Italy.
 
 | **Unit**                   | **Location**           | **Type**   | **No**   | **Remarks** | **Unit**       |
-| -------------------------- | ---------------------- | ---------- | -------- | ----------- | -------------- |
+|----------------------------|------------------------|------------|----------|-------------|----------------|
 | 2/17<sup>th</sup> Ftr Regt | 2<sup>nd</sup> Air Div | Ravnets AB | MiG-29A  | 24          |                |
 |                            |                        |            | MiG-29UB | 6           | Combat capable |
 
 **Su-22**
 
-![](/assets/images/warsaw/hu/air/image4.jpeg)
+<img src="/assets\images\warsaw\hu\air\media\image4.jpeg" style="width:5.47917in;height:3.40259in" />
 
 A dedicated ground attack aircraft, the variable geometry **Su-22**
 Fitter employed in the Hungarian air force is the slightly outdated
@@ -103,12 +101,12 @@ They are capable of delivering a decent bomb load, are easy to maintain,
 and able to sustain tremendous abuse and survive.
 
 | **Unit**       | **Location** | **Type**  | **No** | **Remarks** |
-| -------------- | ------------ | --------- | ------ | ----------- |
+|----------------|--------------|-----------|--------|-------------|
 | 101st F/B Regt | Taszár AB    | Su-22M-3K | 15     |             |
 
 **Su-25**
 
-![](/assets/images/warsaw/hu/air/image5.jpg)
+<img src="/assets\images\warsaw\hu\air\media\image5.jpg" style="width:6.5in;height:3.65625in" />
 
 Specializing in close air support is the **Su-25** Frogfoot. This
 readily identifiable airframe is the Soviet answer to the American A-10
@@ -118,7 +116,7 @@ was canceled in the early ‘90s but in Northern Fury the request was
 filled and they arrived by 1993.
 
 | **Unit**        | **Location** | **Type** | **No** | **Remarks** |
-| --------------- | ------------ | -------- | ------ | ----------- |
+|-----------------|--------------|----------|--------|-------------|
 | 102nd Aslt Regt | Buda West AB | Su-25K   | 40     |             |
 
 Some additional locations for more information can be found at these

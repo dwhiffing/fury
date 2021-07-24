@@ -1,9 +1,9 @@
 **Northern Fury – Ant Eaters Revenge**
 
-**<span class="underline">Playtest Report by AndrewJ Dec 2015</span>**
+**<u>Playtest Report by AndrewJ Dec 2015</u>**
 
-In other notes: They're sending me up against SA-20s with Mk82s\! I'm
-gonna die\!
+In other notes: They're sending me up against SA-20s with Mk82s! I'm
+gonna die!
 
 Well, the sparring between the F-15s and their west CAP is underway, and
 the two AGIs are underwater, but I don't think I'm making meaningful
@@ -77,8 +77,8 @@ Keflavik SAM forest until I was extremely close, and thus deny the SAMs
 time to react. Unfortunately the southern SA-20 was well sited to deal
 with that, and it engaged me at \~ 30 nm. I shot back with everything,
 and of the massed salvo of HARMs only two managed to get through. That
-was enough to destroy the Tombstone, joy joy\! And then the next
-Tombstone lit up in Keflavik. And then another one after that\!
+was enough to destroy the Tombstone, joy joy! And then the next
+Tombstone lit up in Keflavik. And then another one after that!
 
 I did like the self-escorting SEAD package, in the form of the F-16s,
 and their AMRAAMs were very useful for picking off isolated fighters
@@ -91,7 +91,7 @@ didn't need that. The Maverick F-16s had been very useful for knocking
 off the isolated short range air defences up there (as well shooting
 down planes as they lifted off from Reykjavik), and they quickly got rid
 of the Big Bird. And then everything lit up, including yet another
-Tombstone, which I needed even less\!
+Tombstone, which I needed even less!
 
 My F-117s (which I had delayed from the original schedule) were inbound
 at this point, and they skirted the Keflavik SAMs to the N, and then
@@ -102,11 +102,11 @@ from Keflavik, but the others managed to deliver their bombs, sinking
 both freighters, destroying all three runways, and blowing up the
 control tower. Then they ran for it, pursued by angry Su-27s from
 Keflavik, at exactly the time my AMRAAM toting F-16 reserve decided to
-fly away and refuel\! Two remaining F-15s did their best, but they
+fly away and refuel! Two remaining F-15s did their best, but they
 couldn't save them all. (I actually had more F-15s, and I had
 specifically planned to use them as escorts for the F-117s, but then I
 second guessed myself and postponed them to escort the F-111s. Lesson
-learned\! Always cover your extraction\!)
+learned! Always cover your extraction!)
 
 At that point I made the decision to call off the F-111 strike, and I
 flew them directly to England. Reykjavik was shut, but still had potent
@@ -118,7 +118,7 @@ spotted much up there, but there may have been hidden things, and I
 didn't think there was much to be gained from hitting a small field.
 (Looking at it afterwards, I should have made a better recce with the
 TR-1, and then I would have known I was able to tackle it. Another
-lesson learned\! Recce\!)
+lesson learned! Recce!)
 
 In the end I had shot down most of the flyable Russian aircraft (not
 counting the Su-24s and tankers), wrecked the runways at Reykjavik, sunk
@@ -131,8 +131,8 @@ effective way to terrain mask in close enough to it either.
 
 Despite the difficulty this was a challenging and interesting scenario.
 It really pointed out that you can't just 'wing it', and you need to
-plan and coordinate your strikes and support. Flight times must mesh\!
-If I had properly timed my escorts, tightened up the coordination of my
+plan and coordinate your strikes and support. Flight times must mesh! If
+I had properly timed my escorts, tightened up the coordination of my
 F-117s and SEAD, kept my support aircraft in safer zones, and used my
 recce properly, then my progress would have been much better. It pointed
 out that you have to very carefully plot your flight paths to take

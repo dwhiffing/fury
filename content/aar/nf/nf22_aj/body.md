@@ -1,14 +1,14 @@
 **Northern Fury – Vagar Vengeance**
 
-**<span class="underline">Playtest Report by AndrewJ Mar 2016</span>**
+**<u>Playtest Report by AndrewJ Mar 2016</u>**
 
-Aha\! Now that I've got the events going this scenario makes much more
+Aha! Now that I've got the events going this scenario makes much more
 sense. Get the Upholder in there with those SBS and go all Pebble Island
-on their ass\! Hello Mr. Open Parking, please shake hands with my good
-friend Mr.C-4\! What's in this kit-bag? Why it's a laser designator\!
-Gosh, whatever shall we do with that?? Bwahahahaha\!
+on their ass! Hello Mr. Open Parking, please shake hands with my good
+friend Mr.C-4! What's in this kit-bag? Why it's a laser designator!
+Gosh, whatever shall we do with that?? Bwahahahaha!
 
-Aaaaand done\!
+Aaaaand done!
 
 I actually wound up playing this one in a bunch of chunks, due to
 technical problems on my end which were preventing some of the events
@@ -26,15 +26,15 @@ the usual directions. Upholder headed for its drop-off point, while the
 geriatric Nordic Narwhal closed in to do a bit of spying.
 
 Things start happening fast. As the French CVBG swings around the front
-unit reports torpedoes in the water\! An ASW torp is shot back down the
+unit reports torpedoes in the water! An ASW torp is shot back down the
 bearing, the carrier, its close escorts, and the target turn to run, and
 the other ASW escorts work the target. It turns out to be a very
 dangerous Sierra, but this close in my ASW aircraft can react rapidly,
 and the contact is surrounded and killed. (Love those big French ASW
-helicopters - 4 torpedoes\!) After that I split the group in two,
-pushing the ASW screen further ahead, and proceed up the coast. Other
-than a couple of Exocets lobbed at a patrol boat, and some Alize ESM
-work, the French played no other significant role in this fight.
+helicopters - 4 torpedoes!) After that I split the group in two, pushing
+the ASW screen further ahead, and proceed up the coast. Other than a
+couple of Exocets lobbed at a patrol boat, and some Alize ESM work, the
+French played no other significant role in this fight.
 
 In the air my Harriers take the lead role at first, with their long
 range AIM-120s being my best air-to-air weapons. They come sneaking in
@@ -56,7 +56,7 @@ islands, so the SA-12s don't slaughter me.) This allows the Upholder to
 get to its unloading position and unleash the SBS. The Narwhal tries
 sneaking in on the other side of the island, but it detects another sub
 first, and at very close range too. This is considered genuinely bad
-news, because the Narwhal has no ASW torpedoes\! All she can do is try
+news, because the Narwhal has no ASW torpedoes! All she can do is try
 and get in the enemy's baffles and disengage, but she's out-sonared,
 out-gunned, out-dated, and out of luck. The Kilo kills the Narwhal, but
 then the Nimrod kills the Kilo, so honour is satisfied.
@@ -65,10 +65,10 @@ The SBS teams, which are now heading inland, are crucial to this
 situation. So far the pair of SA-12s and associated SA-15s have been
 keeping me at bay by staying hidden with radars off until the moment of
 engagement. But now a series of mysterious explosions start plaguing the
-Russian radars. Muffled footsteps, shadowy figures, and WHAM\!, another
+Russian radars. Muffled footsteps, shadowy figures, and WHAM!, another
 radar gone. One team even manages to get one of the SA-12 surveillance
 radars, while the other makes it to the airbase and finds that
-demolition charges work very nicely on parked aircraft too\!
+demolition charges work very nicely on parked aircraft too!
 
 With their main surveillance radars down the Russians are forced to
 start using their SAM radars, which allows my incoming Buccaneer and
@@ -88,7 +88,7 @@ morning.
 While all this is going on the amphibs and escorts continue to head
 north and then close in on the east side of the island, with TG de
 Ruyter leading. By this point I've pushed AWACS up NE of the Faroes, and
-they detect vampire launches from open water. SSGNs\! With multiple
+they detect vampire launches from open water. SSGNs! With multiple
 missiles inbound my CAP burners to intercept, and the ship radars light
 up to engage. Fortunately, the missiles all seem to be aimed for my lead
 ship, the little Niels Juel, so they miss the main body of the task
@@ -104,7 +104,7 @@ I eventually go back, drawing more missile fire, but since my AWACS can
 see where the missiles appear I have good hunting with my Nimrods. The
 crews get a little nervous as their fuel gauges drop, and I have to rush
 a tanker up in support since the Nimrod's tanks are nearly dry (60 km
-left\!) by the time I'm finished.
+left!) by the time I'm finished.
 
 After this the amphibs arrive, and I redeploy most of my long range SAM
 ships very near the E side of the island, with a screen of short range
@@ -116,7 +116,7 @@ good destroyer and one good frigate in attendance, in order to provide
 these extra defences for the amphibs.)
 
 A couple of hours later, when unloading is underway, my ESM crews start
-reporting jamming to the NE. Bomber raid inbound\! And most alarmingly,
+reporting jamming to the NE. Bomber raid inbound! And most alarmingly,
 it's escorted by a large number of powerful fighters that outclass
 anything I've got. I try sending some of my Phantoms around in flanking
 attacks, hoping I can stay outside their radar arc, but it doesn't work,
@@ -154,19 +154,19 @@ expended.) I think either starting earlier in the day, or postponing the
 initial air-drops would probably be helpful. I suspect in reality the
 SOF would be in a day or two in advance of the actual operation,
 although I can see how that would make for a very boring and extended
-scenario. (Wait\! Wait\! Now - wait more\!)
+scenario. (Wait! Wait! Now - wait more!)
 
 These concerns aside, this is a very interesting scenario, because of
 all the different things you can do. Night-ninja attacks with SOF, sub
 vs sub hunting, pop-up SSGN attacks, anti-shipping, SEAD, bomber raids,
-zooming around nape of the earth - the works\! Heck, I was even looking
+zooming around nape of the earth - the works! Heck, I was even looking
 up the satellite maps of the islands so I could find where the roads
 were, so my guys could manhandle their air-dropped artillery around.
 What other scenario gets you to do that? (I restricted them to 2 knots
 only on actual roads, which is probably optimistic, but much more
 realistic than 30 kts the game will let you do on the assumption you've
 got prime movers. I don't even want to think about how they moved all
-that ammunition\!) So all in all I think you've got a winner here with a
+that ammunition!) So all in all I think you've got a winner here with a
 bit of time tuning.
 
 ***Note: This is a playtest report, so several things have been

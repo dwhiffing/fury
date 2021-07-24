@@ -7,4 +7,4 @@ for the Air Defence Role. About 500 remain operational in Northern Fury
 with 300 in PVO regiments on secondary fronts and the remainder in
 reserve, all are of the latest version the Su-15TM.
 
-![](/assets/images/warsaw/su/air/su15/image1.png)
+<img src="/assets\images\warsaw\su\air\su15\media\image1.png" style="width:6.5in;height:4.30347in" />

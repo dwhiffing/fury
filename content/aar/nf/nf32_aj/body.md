@@ -1,6 +1,6 @@
 **Northern Fury – Sneak & Peak**
 
-**<span class="underline">Playtest Report by AndrewJ Mar 2017</span>**
+**<u>Playtest Report by AndrewJ Mar 2017</u>**
 
 I tried this one multiple times, with indifferent results. (That's a
 euphemism for 'I got sunk'.)

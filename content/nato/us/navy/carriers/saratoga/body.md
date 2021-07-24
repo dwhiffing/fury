@@ -1,5 +1,5 @@
 **[CVBG Saratoga
-(CV-66)](https://en.wikipedia.org/wiki/USS_Saratoga_\(CV-60\))**
+(CV-66)](https://en.wikipedia.org/wiki/USS_Saratoga_(CV-60))**
 
 *USS Saratoga*, or ‘**Sara**’ was commissioned in 1956 as the second of
 four Forrestal class carriers, she completed a 3-year Service Life
@@ -15,50 +15,50 @@ turmoil with Saratoga’s escorts. She is due for some badly needed
 maintenance starting late summer in San Diego and is relieved by *USS
 Ranger*.
 
-![](/assets/images/nato/us/navy/carriers/saratoga/image1.jpg)
+<img src="/assets\images\nato\us\navy\carriers\saratoga\media\image1.jpg" style="width:6.52083in;height:4.3593in" />
 
 CVBG Saratoga
 
-  - CV-60 Saratoga (FLAG)
-    
-      - CVW 5
-        
-          - VF-83 Rampagers F-14B
-        
-          - VFA-81 Sunliners F/A-18C
-        
-          - VFA-82 Marauders F/A-18C
-        
-          - VFA-151 Chargers F/A-18C
-        
-          - VA-35 Black Panthers A-6E SWIP
-        
-          - VAQ-132 Scorpions EA-6B
-        
-          - VAW-125 Tigertails E-2C
-        
-          - VS-30 Diamondcutters S-3B
-        
-          - HS-9 Sea Griffins SH-3H
-        
-          - VQ-6(El) Black Ravens ES-3A
+-   CV-60 Saratoga (FLAG)
 
-<!-- end list -->
+    -   CVW 5
 
-  - CG 24 Reeves (Detached to Lincoln CVBG 18 Feb)
+        -   VF-83 Rampagers F-14B
 
-  - CG 33 Fox
+        -   VFA-81 Sunliners F/A-18C
 
-  - CGN-39 Texas (Attached from independent Ops 20 Feb)
+        -   VFA-82 Marauders F/A-18C
 
-  - CG-58 Philippine Sea (Attached from Lincoln CVBG 16 Feb)
+        -   VFA-151 Chargers F/A-18C
 
-  - CG 64 Gettysburg (Detached to Nimitz CVBG 14 Feb)
+        -   VA-35 Black Panthers A-6E SWIP
 
-  - DD 892 Nicholson
+        -   VAQ-132 Scorpions EA-6B
 
-  - DDG 996 Chandler (Detached to Med 22 Feb)
+        -   VAW-125 Tigertails E-2C
 
-  - DD-976 Merrill (Attached from independent Ops 15 Feb)
+        -   VS-30 Diamondcutters S-3B
 
-  - FFG-53 Hawes
+        -   HS-9 Sea Griffins SH-3H
+
+        -   VQ-6(El) Black Ravens ES-3A
+
+<!-- -->
+
+-   CG 24 Reeves (Detached to Lincoln CVBG 18 Feb)
+
+-   CG 33 Fox
+
+-   CGN-39 Texas (Attached from independent Ops 20 Feb)
+
+-   CG-58 Philippine Sea (Attached from Lincoln CVBG 16 Feb)
+
+-   CG 64 Gettysburg (Detached to Nimitz CVBG 14 Feb)
+
+-   DD 892 Nicholson
+
+-   DDG 996 Chandler (Detached to Med 22 Feb)
+
+-   DD-976 Merrill (Attached from independent Ops 15 Feb)
+
+-   FFG-53 Hawes

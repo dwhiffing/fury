@@ -1,10 +1,9 @@
-**<span class="underline">Northern Fury \#4 – A Cold and Lonely
-Place</span>**
+**<u>Northern Fury \#4 – A Cold and Lonely Place</u>**
 
-**<span class="underline">AAR by Ilya78, Mar 2020</span>**
+**<u>AAR by Ilya78, Mar 2020</u>**
 
 "Sir, the Kiev is going down, this will be a major blow to the Soviet
-plans." The USS Jacksonville was awesome\!\!\!
+plans." The USS Jacksonville was awesome!!!
 
 (Actually, the submarine didn't survive. Right after sinking the Kiev,
 she was found by a sonobuoy and killed with torpedoes. But her sailors
@@ -64,9 +63,9 @@ I launched the six torpedoes towards the Kiev (and this is just a
 game...). I am a new Command player and I have an old laptop, which can
 run only smaller scenarios. I like the "Fury" series very much. Even the
 smaller scenarios have a very good story and they are fun to play.
-Thanks\!
+Thanks!
 
-![](/assets/images/aar/nf/nf4_i78/image1.png)
+<img src="/assets\images\aar\nf\nf4_i78\media\image1.png" style="width:6.5in;height:3.65417in" />
 
 And here is what happened after sinking the Kiev:
 
@@ -76,7 +75,7 @@ towards the only valid contact, a DDG, which was fleeing at 35 knots. At
 the next moment the enemy torpedo impacted and the submarine sank. The
 four torpedoes could reach and sink the destroyer (a Kashin I). So the
 Jacksonville destroyed a frigate, a cruiser, an aircraft carrier and a
-destroyer. That was truly amazing\! I checked the saved game with the
+destroyer. That was truly amazing! I checked the saved game with the
 editor and it was obvious that I had some really extreme luck with that
 submarine.
 

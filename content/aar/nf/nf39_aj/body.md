@@ -1,6 +1,6 @@
 **Northern Fury – Anvil**
 
-**<span class="underline">Playtest Report by AndrewJ July 2017</span>**
+**<u>Playtest Report by AndrewJ July 2017</u>**
 
 I finished up the 1.1 version today, so here's how it went.
 
@@ -130,15 +130,15 @@ congratulations were being radioed around, a huge wave of Mach 2+
 contacts was seen coming in from the Russian bases further east. Up to
 this point I'd been trying to husband my Phoenixes, but in this case it
 was shoot-shoot-shoot, to try and deal with these high-value high-speed
-targets. There was no attempt to wait and use Sparrows here\! My wave
-met their wave, and in this case long range and active AAMs was
-everything. I could continuously fall back under the pressure, and was
-able to stay clear of almost all their shots while taking a heavy toll
-in return. A very profitable engagement\! (While all this was going on a
-few more Mig-23s popped up out of Tromso, which I had mistakenly thought
-was empty now, right in the middle of the stream of aircraft going to
-and from the main engagement. Fortunately, some F-18s were able to
-pounce on them with AMRAAMs before they could do any damage.)
+targets. There was no attempt to wait and use Sparrows here! My wave met
+their wave, and in this case long range and active AAMs was everything.
+I could continuously fall back under the pressure, and was able to stay
+clear of almost all their shots while taking a heavy toll in return. A
+very profitable engagement! (While all this was going on a few more
+Mig-23s popped up out of Tromso, which I had mistakenly thought was
+empty now, right in the middle of the stream of aircraft going to and
+from the main engagement. Fortunately, some F-18s were able to pounce on
+them with AMRAAMs before they could do any damage.)
 
 As the Andoya raid retired there were still some A-6s with Maverick
 left, and they were put to risky use. The location of the Evenes SA-12
@@ -148,7 +148,7 @@ minimum range, in fact. The A-6s went scooting along the fjord at
 extreme low altitude, before turning, pulling up the mountain and
 flashing into view. Mavericks away, then a sudden hard turn (as hard as
 an A-6 can) and a desperate dive down into the valley again because the
-SA-10 on the next mountain over had just lit up\! The SAMs went roaring
+SA-10 on the next mountain over had just lit up! The SAMs went roaring
 overhead while the damaged SA-12s burned cheerfully. It took a couple of
 Maverick strikes to finish the battery off, but the loss of that SA-12
 was well worth it, because by this time I was starting to run low on

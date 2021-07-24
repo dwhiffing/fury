@@ -1,6 +1,6 @@
 **Mediterranean Fury \#3– Casbah Crunch**
 
-**<span class="underline">Playtest Report by AndrewJ July 2017</span>**
+**<u>Playtest Report by AndrewJ July 2017</u>**
 
 So I'm still only a few hours into this one, but I have to say I'm
 really enjoying the environment. It feels 'live', as if you're
@@ -149,7 +149,7 @@ My SSKs are sooo slooooow. Can I wait for the sub to get to Tripoli?
 I'll lose most of a day. Should I try an ASM strike first? The Russians
 have great ASM defences. Although an SSN would be awesome for zooming
 into Tripoli, the scenario is much better balanced with the SSK. An
-excellent way to inflict some decision-making agony on the player\!
+excellent way to inflict some decision-making agony on the player!
 
 So once again, this is a really good one, with lots to do, good
 operational tension, and enough surprises and uncertainty to keep the
@@ -305,7 +305,7 @@ works, sort of. The sites can be killed, but it usually takes a plane or
 two to do it, so after some successes the attacks are called off, since
 it's not worth the exchange. The frigates are headed east, and they plan
 to stop by at Algiers for some more naval fire support there, which
-should be safer (hah\!) than using the planes. In the meantime, the
+should be safer (hah!) than using the planes. In the meantime, the
 airmen ask the Spanish government to buy some HARMs.
 
 **OVERNIGHT**
@@ -328,10 +328,10 @@ TALDs and IR Mavericks left, as well as iron bombs, so I load my attack
 planes with those.
 
 In the midst of all this the Soviet bombers arrive, flying north through
-Tunisia, and they're dangerously close. Scramble\! F-104s go to crazed
+Tunisia, and they're dangerously close. Scramble! F-104s go to crazed
 afterburner dash, and my CAP turns south to violate Tunisian neutrality.
 But then, just as I'm about to activate my task group's radars, the
-bombers turn about and fly south\! Mystified, we continue to patrol...
+bombers turn about and fly south! Mystified, we continue to patrol...
 (It turns out that what happened was a couple of hours earlier some of
 my planes carelessly got too close to Tunisian airspace, and provoked
 some of their F-5s to come out and ID my planes. In doing so some of
@@ -348,7 +348,7 @@ Oussera. (Those IR Mavericks reveal the horde of SA-6s at the latter
 site, and deal with them from a safe standoff before the A-7s arrive).
 The Spanish frigates decide to fly their FLIR-equipped helicopter up the
 coast in the dark at extremely low altitude and hunt for hidden SAM
-sites. What they find is hidden SSM sites\! The naval bombardment of
+sites. What they find is hidden SSM sites! The naval bombardment of
 Algiers is postponed until the surface search radar can be knocked
 out...
 
@@ -366,7 +366,7 @@ comments to follow later.
 
 **But did you like it?**
 
-Heck yes\! This is one of my favorites so far. So many things going on,
-a living environment, potential threats at every quarter, and you don't
+Heck yes! This is one of my favorites so far. So many things going on, a
+living environment, potential threats at every quarter, and you don't
 have massive overmatch to just stomp the foe. An excellent scenario
 overall.

@@ -105,10 +105,10 @@ listening arrays.
 **Second Post**
 
 “Maintain course and speed for two hours,” orders Commander Morgan,
-“I’ll be in my state room. Send someone to wake me at 1500 hours.”
-With that hw walked the few steps to his quarters, rolled into his bunk,
-and promptly fell asleep as USS Boise sped west at top speed and as deep
-as the ocean bottom would allow, in chase of the surface targets Morgan
+“I’ll be in my state room. Send someone to wake me at 1500 hours.” With
+that hw walked the few steps to his quarters, rolled into his bunk, and
+promptly fell asleep as USS Boise sped west at top speed and as deep as
+the ocean bottom would allow, in chase of the surface targets Morgan
 hoped would be there.
 
 Sixty miles to the north, Commander Daniels in Baltimore was coming to
@@ -125,17 +125,17 @@ PRIORITY
 From: CDR, USS Baltimore, To: COMSUBLANT
 
 Report multiple REDFLT surface contacts location N 73 1’47”, E 36
-48’41”, heading 289, speed approximately 30 kts. Composition 2 DDGs,
-1 CG, one other unit. Assessment, REDFLT surface action group moving at
+48’41”, heading 289, speed approximately 30 kts. Composition 2 DDGs, 1
+CG, one other unit. Assessment, REDFLT surface action group moving at
 high speed into north Atlantic. Am proceeding to station.
 
 “Let me know if there is any mail from fleet,” he said as he turned and
 walked back to his captain’s chair.
 
 Just as he was settling in the seaman in the communications closet
-called, “Skipper, you need to see this\!” The tone of his voice
-quickened Daniels’ step as he moved back to the comms room and grabbed
-the Emergency Action Message from the technician, and read:
+called, “Skipper, you need to see this!” The tone of his voice quickened
+Daniels’ step as he moved back to the comms room and grabbed the
+Emergency Action Message from the technician, and read:
 
 FLASH FLASH FLASH
 
@@ -154,8 +154,8 @@ Daniels felt a thrill run up his spine and the blood in his veins turn
 icy cold all at the same time. Here was what he had been training for,
 planning for, waiting for his entire career, to be in the Russians’ back
 yard when the Cold War went hot. Now that he was actually here, he
-wasn’t sure whether to feel excited or frightened. The he remembered
-it wasn’t his job to feel anything. He walked back to his chair, grabbed
+wasn’t sure whether to feel excited or frightened. The he remembered it
+wasn’t his job to feel anything. He walked back to his chair, grabbed
 the mic from above his head and said, “Now hear this, we are at war.
 That’s all the information I have. I don’t know why, or how, or anything
 else, but an hour ago those commie Russians decided that we’re going to
@@ -224,7 +224,7 @@ burst message was travelling spaceward at light speed, passing another
 message being broadcast continuously from the opposite direction, from
 the orbiting communication satellite. When it arrived...
 
-“Sir, you need to see this\!”
+“Sir, you need to see this!”
 
 De Bicardi grabbed the printout, read it, and muttered, “Bloody hell...”
 
@@ -333,7 +333,7 @@ Connecticut dove and accelerated to 20 knots for 30 minutes, then slowed
 and ascended again. The sonar room worked to reacquire the surface
 contacts we’d lost during our speed run. Then, an excited voice, “conn,
 sonar, I’ve got one of the CVs sir, contact’s firming up, she’s the
-Kuznetsov, flag ship of the northern fleet\!”
+Kuznetsov, flag ship of the northern fleet!”
 
 “Give me a proper contact report sailor.”
 
@@ -430,7 +430,7 @@ and four. Fire on my mark.”
 The two Mk48 ADCAPs launched from New York City’s torpedo tubes and
 proceeded above the layer on wire guidance. They ran unnoticed for
 several minutes and 55 knots and then, “Conn, sonar, he’s heard them
-sir. He just went to full power\! It’s a Victor III, sounds like he’s
+sir. He just went to full power! It’s a Victor III, sounds like he’s
 trying to get to full speed.”
 
 “Send the fish down through the layer,” Beam ordered.
@@ -458,7 +458,7 @@ floor.
 Several miles away and several hundred feet above the ocean surface, the
 sonar technician aboard a Russian Mi-14 ASW helicopter reported to his
 pilot, “Tovarich captain, I just picked up an explosion on buoy 19, and
-just a minute ago I thought I heard torpedo motors on buoys 20 and 23\!”
+just a minute ago I thought I heard torpedo motors on buoys 20 and 23!”
 
 “Very well, Vasily, I’ll call the patrol planes and see if we can get
 some more buoys over here. We’re out of buoys and low on fuel, but it
@@ -513,8 +513,8 @@ the southernmost Kashin-class destroyer.
 
 Then, just as de Bicardi and his crew began to breathe easier in
 anticipation of the excitement of getting in among the transports, the
-cockney sonarman called, “sir\! Torpedo in the water bearing
-three-three-zero relative\! It looks to be about six thousand meters
+cockney sonarman called, “sir! Torpedo in the water bearing
+three-three-zero relative! It looks to be about six thousand meters
 distant.”
 
 “Calm down, calm down,” admonished de Bicardi. “Helm, be so good as to
@@ -544,7 +544,7 @@ on my mark,” ordered the captain.
 
 “All ready sir.”
 
-“Fire\!”
+“Fire!”
 
 Soviet Rear Admiral Stolich aboard BPK Krondstadt, the Kresta II-class
 cruiser acting as flagship of the amphibious task force, was nervous.
@@ -557,8 +557,7 @@ would be his best defense against any NATO submarines that might be
 there.
 
 Just as he was reaching for his glass mug of tea set in a metal holder,
-and officer on the flag bridge called out, “Tovarich Admiral,
-missiles\!”
+and officer on the flag bridge called out, “Tovarich Admiral, missiles!”
 
 One by one Trafalgar’s Harpoons broached the surface and ignited their
 rocket motors, temporarily lighting up the dark Arctic sky to the east
@@ -584,7 +583,7 @@ flooding in both vessels.
 
 The Russian Admiral was enraged. The troops and equipment on these
 transports were vital to the Soviet plan to close the Atlantic for the
-vital early days of the war. “Get that bastard\!” he bellowed into his
+vital early days of the war. “Get that bastard!” he bellowed into his
 radio transmitter to the commander of his ASW screen.
 
 Several miles away, another Metel anti-submarine rocket (known to NATO
@@ -594,9 +593,9 @@ terminus of the four enemy missiles, the dropped its torpedo into the
 water once it reached the predetermined point.
 
 Back aboard Trafalgar, de Bicardi once again heard, “torpedo in the
-water\! It’s right above us sir\!”
+water! It’s right above us sir!”
 
-“All stop\!” the captain ordered, some stress finally creeping into his
+“All stop!” the captain ordered, some stress finally creeping into his
 voice. Trafalgar’s pump jet propulsion ceased, and the sub glided
 through the water, a shadow in the deep. “Sonar, a report if you
 please.”
@@ -723,7 +722,7 @@ good?” asked Morgan.
 
 “Roger sir,” the weapons officer reported.
 
-“Very well. Match generated bearings and shoot\!”
+“Very well. Match generated bearings and shoot!”
 
 Aboard the Soviet carrier Kuznetsov, flagship of the Red Banner Northern
 fleet, Counter Admiral Starka was just standing up from his chair on his
@@ -762,12 +761,12 @@ propellers, turn to bring its Metel ASW missiles to bear on the threat
 vector. Two blindingly bright streaks erupted from the battlecruiser’s
 boxy launchers as the Russian counterattack lofted into the cold night.
 
-Aboard USS Boise Commander Morgan heard, “Torpedo in the water\! Make
+Aboard USS Boise Commander Morgan heard, “Torpedo in the water! Make
 that two, two torpedoes in the water, directly astern, range under one
-thousand yards\!”
+thousand yards!”
 
-“All ahead flank\!” ordered Morgan as the Russian UMGT-1 Orlan torpedoes
-began their search pattern. “Take us deep\!”
+“All ahead flank!” ordered Morgan as the Russian UMGT-1 Orlan torpedoes
+began their search pattern. “Take us deep!”
 
 “Conn, sonar, it sounds like one of the torps has us, the other is still
 searching.”
@@ -809,8 +808,8 @@ a long gash in the hull and flooding several compartments. Kuznetsov
 began to list to starboard.
 
 “On the flag bridge, the carriers captain reported to Starka by phone,
-“Tovarich Admiral, we can make eleven knots, no more. Flooding is
-under control, and we have no fires.”
+“Tovarich Admiral, we can make eleven knots, no more. Flooding is under
+control, and we have no fires.”
 
 Starka, whose strategy had un-raveled in the span of only a few minutes,
 asked, “what of the enemy submarine?”
@@ -821,7 +820,7 @@ there comrade.”
 
 “Very well, take us north at whatever speed you can make. Call in the
 aviation to hunt the enemy submarine. Those lollygaggers were supposed
-to have cleared this channel before we ever arrived\!” Starka fumed.
+to have cleared this channel before we ever arrived!” Starka fumed.
 
 USS Boise ascended back above the layer and once again made contact with
 the Russian ships.
@@ -875,8 +874,8 @@ looking for its steel prey.
 As the last hours of the first day of the war slipped by, however, New
 York City’s sonar night watch began to pick up a distant rumble in the
 first convergence zone, 35 miles to the east southeast. Beam, who
-couldn’t bring himself to turn in for some sleep even though he knew
-he should take every opportunity available to him at this point, walked
+couldn’t bring himself to turn in for some sleep even though he knew he
+should take every opportunity available to him at this point, walked
 into the sonar room to watch over his sailors’ shoulders as they slowly
 distinguished between sever contacts.
 
@@ -918,7 +917,7 @@ with four brand new screws, certainly?”
 
 “No…,” Beam said thoughtfully, “no they couldn’t have, unless…”
 
-“I see what you’re thinking sir. She’s got to be the Varyag\! I didn’t
+“I see what you’re thinking sir. She’s got to be the Varyag! I didn’t
 think she was in commission yet.”
 
 “Neither did I,” the captain responded, “but intel has been telling us
@@ -943,11 +942,11 @@ on Varyag, Kirov, and his two escorting Udaloy-class destroyers to bear
 against the submerged threat. As it was, his high speed made his ships
 essentially blind below the water. His consternation was amplified by
 the paper message he now held in his hands that told of the disaster
-that had befallen Aviation Group 1. Kuznetsov sunk?\! In the first
-twelve hours of the war?\! He knew this news meant that the success or
-failure of Soviet strategy in the North Atlantic rested with his sole
-surviving large carrier. Despite the loss of Varyag’s sister ship, his
-own command, combined with the rest of the Northern Fleet /assets, was a
+that had befallen Aviation Group 1. Kuznetsov sunk?! In the first twelve
+hours of the war?! He knew this news meant that the success or failure
+of Soviet strategy in the North Atlantic rested with his sole surviving
+large carrier. Despite the loss of Varyag’s sister ship, his own
+command, combined with the rest of the Northern Fleet /assets, was a
 force to be reckoned with.
 
 Shustov’s orders were inflexible, however. The fleet had to get to the
@@ -993,11 +992,11 @@ torpedo too was speeding towards the Varyag at 55 kts.
 
 Aboard Varyag, Shustov heard the dreaded report. “Tovarich Admiral, the
 screen commander reports multiple torpedoes incoming from the
-northeast\!”
+northeast!”
 
-“Tell him to flood that area with torpedoes\!” Shustov ordered curtly.
-He wasn’t about to let this skulking submarine, undetected or not, have
-a clean shot at his ships.
+“Tell him to flood that area with torpedoes!” Shustov ordered curtly. He
+wasn’t about to let this skulking submarine, undetected or not, have a
+clean shot at his ships.
 
 Soon Metel ASW rockets were erupting from the box launchers on the
 trailing Udaloy, lighting up the inky Arctic horizon.
@@ -1032,9 +1031,9 @@ crew of 700 sailors and officers.
 
 Back aboard New York City, the double explosion prompted cheers from the
 crew that were quickly silenced by the frantic call from the sonar room
-of “torpedoes in the water\! They’re right on top of us sir\!”
+of “torpedoes in the water! They’re right on top of us sir!”
 
-“Crash dive\!” ordered Commander Beam, “all ahead flank\!”
+“Crash dive!” ordered Commander Beam, “all ahead flank!”
 
 Despite Beam’s caffeine-fueled rapid response to the new threat,
 geometry was against him and his boat. The first two Orlan torpedoes had
@@ -1075,9 +1074,9 @@ Mk48 exploded violently several hundred yards behind the carriers
 churning screws. This explosion caused the second torpedo to lose its
 target in the resulting acoustic chaos and also explode prematurely.
 That left one torpedo churning towards Varyag. As it closed, the
-carrier’s captain ordered a radical turn to port, not that his decoy
-was expended, in a last desperate attempt to create a knuckle of water
-to lure away the ship’s tormentor. This last evasion failed, and Admiral
+carrier’s captain ordered a radical turn to port, not that his decoy was
+expended, in a last desperate attempt to create a knuckle of water to
+lure away the ship’s tormentor. This last evasion failed, and Admiral
 Shustov actually watched the luminescent wake of the American torpedo as
 it closed with Varyag’s port side, dozens of meters below him. Just
 before it impacted, one of his staff officers grabbed him and threw him
@@ -1133,7 +1132,7 @@ swarming with Bears and Helixes."
 
 Aboard TAKR Baku, less than four miles from Connecticut, the Russian
 task group’s ASW Commander, Senior Captain Rodnik, heard one of his
-staff officers call, “Tovarich captain\! Baku’s towed array is making
+staff officers call, “Tovarich captain! Baku’s towed array is making
 intermittent contact with a submerged target on a bearing of
 zero-four-zero. It is very faint, but there is definitely something
 there comrade.”
@@ -1153,7 +1152,7 @@ Levchenko, an Udaloy-class destroyer a dozen miles to the northeast, and
 settled onto a course towards Baku. Two miles distant the torpedo
 separated from the rocket and dropped into the sea.
 
-“Torpedo in the water\! Torpedo in the water bearing three-one zero\!”
+“Torpedo in the water! Torpedo in the water bearing three-one zero!”
 called the lead sonarman, a little too excitedly. “Range looks to be
 about two miles sir,” he said, more calmly this time.
 
@@ -1225,7 +1224,7 @@ four) tubes, housed in a two-deck torpedo room, allowed her to launch a
 devastating opening salvo. Her captain intended to make good use of this
 advantage.
 
-“Match generated bearings and shoot\!”
+“Match generated bearings and shoot!”
 
 The bid attack submarine shuddered eight times as one after another each
 of her torpedo tubes was emptied their deadly contents into the sea.
@@ -1248,17 +1247,17 @@ at this point.
 Aboard Baku, Senior Captain Rodnik cringed as he heard the report he had
 been dreading.
 
-“Tovarich captain, there are torpedoes, many torpedoes headed this
-way\!” called his staff officer. “There is much noise between our own
-torpedo and these new ones, but there could be as many as ten\! I cannot
-give you a clear bearing, but their range appears to be approximately 7
+“Tovarich captain, there are torpedoes, many torpedoes headed this way!”
+called his staff officer. “There is much noise between our own torpedo
+and these new ones, but there could be as many as ten! I cannot give you
+a clear bearing, but their range appears to be approximately 7
 kilometers.”
 
-Ten?\! How was that possible? Rodnik considered. Could there be two
-enemy submarines out there? How would they be working together? He
-thought NATO submarines usually operated alone. Whatever the situation,
-it appeared that his attempt to drive the enemy away has spooked him
-into launching a large though long-range attack.
+Ten?! How was that possible? Rodnik considered. Could there be two enemy
+submarines out there? How would they be working together? He thought
+NATO submarines usually operated alone. Whatever the situation, it
+appeared that his attempt to drive the enemy away has spooked him into
+launching a large though long-range attack.
 
 “All ships evasive action away from the incoming torpedoes. Order all
 ships to go active with their sonar, and order the Admiral Levchenko to
@@ -1278,10 +1277,10 @@ destroyer near enough to detect the American sub. In fact, Connecticut’s
 attack location put her beyond the reach of any of the Russian sonars
 now pinging away. The captain felt rather pleased with himself until...
 
-“Con, sonar, torpedo in the water\! One just dropped in right behind us,
+“Con, sonar, torpedo in the water! One just dropped in right behind us,
 just about where we launched our fish from.”
 
-“All ahead flank\!”
+“All ahead flank!”
 
 Connecticut accelerated downward through the thermal layer, building up
 to her maximum speed of 35 kts.
@@ -1321,9 +1320,9 @@ paper.
 As Baku passed out of the mist and falling water, Rodnik’s first
 impression was that the damage was not fatal. The ship’s engines were
 still moving her at maximum speed, and his staff reported that the
-ship’s sonars were still intact. He would let Baku’s captain handle
-the damage to the ship. His job was to exact revenge on the NATO
-submarines that were tormenting him.
+ship’s sonars were still intact. He would let Baku’s captain handle the
+damage to the ship. His job was to exact revenge on the NATO submarines
+that were tormenting him.
 
 “Tell the aviation commander that I want every helicopter aloft, every
 maritime aircraft searching the area between us and Admiral Levchenko,”
@@ -1333,8 +1332,8 @@ he ordered.
 buoys may have picked up reactor noises, somewhere west of where those
 torpedoes came from.
 
-“What are you waiting for?\!” Rodnik yelled. “Tell Admiral Levchenko to
-put another rocket on top of it, now\!”
+“What are you waiting for?!” Rodnik yelled. “Tell Admiral Levchenko to
+put another rocket on top of it, now!”
 
 **Eleventh Post:**
 
@@ -1393,12 +1392,12 @@ aircraft and fight, but his task force had been hurt and so far he had
 failed in his task as the group’s ASW commander. Just then he received
 reason for his blood pressure to shoot even higher.
 
-“Captain\!” called the staff officer, “the Admiral Levchenko reports
+“Captain!” called the staff officer, “the Admiral Levchenko reports
 multiple torpedoes in the water, they report they are under attack and
-evading to the north\!”
+evading to the north!”
 
 Another officer reported, “sir, Baku’s towed array reports they hear two
-torpedoes bearing on us\!”
+torpedoes bearing on us!”
 
 Rodnik gritted his teeth. There had to be two NATO submarines out there
 in a area of ten square kilometers. How on earth could he be missing
@@ -1406,13 +1405,13 @@ both of them? He had eight helicopters and maritime patrol aircraft
 dropping listening devices and searching for the magnetic signature of
 the enemy submarines within an absurdly small area. In fact, his
 aircraft were in great danger of colliding with each other. Why was this
-so hard\!?
+so hard!?
 
-“Order the Levchenko to counter-attack\!” Rodnik shrieked. “Again\!”
+“Order the Levchenko to counter-attack!” Rodnik shrieked. “Again!”
 
 “Sir,” the staff officer reported lamely, “Levchenko reports that they
 are heading north and cannot turn to bring their rocket launchers to
-bear until they’ve evaded the torpedoes heading towards them\!”
+bear until they’ve evaded the torpedoes heading towards them!”
 
 Rodnik looked at the man, mouth agape. How could this be happening?
 
@@ -1530,17 +1529,17 @@ orders to his torpedomen.
 
 “Tubes two and four ready sir,” he reported a few seconds later.
 
-“Very well, match generated bearings and shoot\!”
+“Very well, match generated bearings and shoot!”
 
 It took Kostrama’s sonar operators several seconds to detect the
 torpedoes closing from directly astern. By then it was almost too late.
 Almost.
 
-“Go to full power\!” ordered Captain Dovgan. “Eject two decoys, one on
+“Go to full power!” ordered Captain Dovgan. “Eject two decoys, one on
 either side, on my mark.” He waited as his sonar room called back the
 relentlessly decreasing range to the torpedoes even as his own submarine
-worked up to its full speed of 35 kts. “Now\!” he ordered as the pings
-of the Mk48s began to become audible through the hull.
+worked up to its full speed of 35 kts. “Now!” he ordered as the pings of
+the Mk48s began to become audible through the hull.
 
 Two noisemakers ejected from Kostrama, spinning and crating clouds of
 bubbles to confuse the Mk48s. Dovgan had gambled by maintaining a
@@ -1580,8 +1579,8 @@ enemy torpedoes passed her to port this time. Dovgan was gaining
 confidence.
 
 Commander Daniels was flabbergasted. How had this SOB managed to evade
-four Mk48s?\! These were supposed to be the most sophisticated torpedoes
-in the world\! Now the enemy submarine, evading at flank speed, was
+four Mk48s?! These were supposed to be the most sophisticated torpedoes
+in the world! Now the enemy submarine, evading at flank speed, was
 nearly beyond the effective range of his weapons. He had one more shot
 and then his chance was gone.
 
@@ -1602,7 +1601,7 @@ Aviation units who were supposed to be sanitizing the sea around him to
 come and hunt down his tormentor.
 
 Everything unfolded as before until, “Captain, the torpedoes are
-diverging behind us\! They are going to bring them in at an angle this
+diverging behind us! They are going to bring them in at an angle this
 time.”
 
 Dovgan’s blood froze. How had he not anticipated this? He hadn’t

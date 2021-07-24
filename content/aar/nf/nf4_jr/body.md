@@ -187,7 +187,7 @@ second burst that peppered the Russian’s canopy. The Yak abruptly yawed
 right, which caused it to dive and cartwheel into the sea. Elated, the
 captain pulled up and began climbing. He was out of missiles and down to
 half of his cannon ammo, but he had killed four Russians in the span of
-five minutes. He was almost an ace\!
+five minutes. He was almost an ace!
 
 With no more threats showing on their radars, the ground crew ordered
 the captain to land and rearm.
@@ -584,7 +584,7 @@ nerves.
 “All right,” said the aircraft commander. “We’ve only got two fish left.
 We need to make them count. I want a thick spread of active buoys to
 really pinpoint his location, then we’re going to drop right on his
-tail\!”
+tail!”
 
 And so it went. The Orion did one pass dropping four DICASS buoys in a
 tight string right along the Russian’s course, the coming around again
@@ -594,8 +594,8 @@ correct target, exploding against the Russian submarine’s rudder,
 shredding it.
 
 “Sir, I think we hit him,” reported the sonarman, he’s slowed, but I
-don’t hear any breakup noises. Much scraping of metal though, we’ll
-have no trouble pinpointing him now.”
+don’t hear any breakup noises. Much scraping of metal though, we’ll have
+no trouble pinpointing him now.”
 
 “Reengage,” was the commander’s cold reply.
 
@@ -657,7 +657,7 @@ elite airborne battalion were in the frigid Arctic Ocean.
 
 Now both F-5s were out of missiles and almost out of cannon ammo. This
 didn’t bother the flight leader as he whooped and pumped his fist. He
-was a ace twice over\! And only on the second day of the war\!
+was a ace twice over! And only on the second day of the war!
 
 As they circled northeast of the island waiting for the other two F-5s
 to complete their arming, the GLOBUS site on the island detected to
@@ -726,7 +726,7 @@ the sergeant in charge of the aircraft was saying that it would still be
 at least five minutes until the pilot could taxi.
 
 “Well,” Nansen said testily, “there are going to be Russian paratroopers
-in just a few minutes, so get it done\!”
+in just a few minutes, so get it done!”
 
 As it turned out, the attack of the surviving airborne F-5A had effects
 beyond the downing to two transports. The Russian pilots were already
@@ -885,13 +885,13 @@ whose captain was only beginning to realize that the damage the missile
 had done might have been worse than initially though, turned his ship
 and launched a Metel anti-submarine rocket.
 
-“Conn, sonar, torpedo in the water\! It’s right behind us sir\!” called
+“Conn, sonar, torpedo in the water! It’s right behind us sir!” called
 the lean sonarman.
 
 Dickel cringed. This had been his greatest fear. Had he been too
 aggressive? The next few minutes would tell.
 
-“All ahead flank, take us deep\! Launch countermeasures\!” he ordered.
+“All ahead flank, take us deep! Launch countermeasures!” he ordered.
 
 It was for naught. The Russian torpedo was too close and had entered the
 water in such a way that the first thing its sensors saw was the
@@ -960,7 +960,7 @@ take cover and stay put. Then, to their amazement, he stood straight up,
 slung his rifle over his should, and walked confidently down the hill.
 He wasn’t noticed until he was right in among the Russians, who quickly
 turned and trained the Kalashnikovs on him. The sergeant raised his had
-a called out in Russian, “Dobre noche\!” And then in English, “who is in
+a called out in Russian, “Dobre noche!” And then in English, “who is in
 charge here?”
 
 For a moment no one moved, and he began to fear that this crazy gamble

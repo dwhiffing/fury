@@ -1,6 +1,6 @@
 **Northern Fury – Sweep up**
 
-**<span class="underline">Playtest Report by AndrewJ Nov 2016</span>**
+**<u>Playtest Report by AndrewJ Nov 2016</u>**
 
 I just started into this, so here's an initial report.
 
@@ -41,7 +41,7 @@ magazine aren't helpful if you've lost the planes closing to Sparrow
 range.)
 
 So the scenario begins, and dammit, I'm just too darned close to
-Iceland\! Compared to previous scenarios the Russian planes feel like
+Iceland! Compared to previous scenarios the Russian planes feel like
 they're in my lap the moment they launch. And the buggers are aggressive
 too. A few minutes in and my E-2s start reporting a major strike lifting
 off and heading for TG Algonquin. (How'd they see us? I'm betting on a
@@ -49,7 +49,7 @@ CZ hit from a sub.) My two F-14s on CAP go racing north on burner to
 intercept, and I start launching more. But everyone's getting ready for
 recce and bombing, so I really don't have very much CAP, and before I
 know it I've launched all of it. Yep, one mighty supercarrier, and
-nobody's left ready with a pure AAW loadout\!
+nobody's left ready with a pure AAW loadout!
 
 The first two F-14s arrive ahead of the strike, and manage to start
 engaging the Su-24s with their Sparrows, but that means the Mig-23s
@@ -65,13 +65,13 @@ However, in doing so they get close enough to antagonize the Flankers in
 Reykjavik, and now its my turn to run away with little fuel and few
 missiles, hoping to get back to the shelter of the carrier's SAMs. It's
 clear my planes won't entirely make it in time, so now I'm reduced to
-launching HARM-toting F-18s just to make use of their defensive
-AMRAAMs\! I order incoming COD flights to divert south as the Flankers
-close on the carrier group, and between long-range SAM shots and the
-HARM shooters I just manage to shoot down the Flankers and make it back
-to the carrier on fumes. Up north one of the Flankers decides to have a
-go at my ASW helicopters in TG Algonquin, but he finally succumbs to
-long range SAM shots before he can engage.
+launching HARM-toting F-18s just to make use of their defensive AMRAAMs!
+I order incoming COD flights to divert south as the Flankers close on
+the carrier group, and between long-range SAM shots and the HARM
+shooters I just manage to shoot down the Flankers and make it back to
+the carrier on fumes. Up north one of the Flankers decides to have a go
+at my ASW helicopters in TG Algonquin, but he finally succumbs to long
+range SAM shots before he can engage.
 
 Speaking of ASW helicopters, one of them gets a MAD hit on an incoming
 sub, heading due south towards TG Algonquin, and after multiple torpedo
@@ -96,7 +96,7 @@ waters ahead of me.
 Gathering up resources over the next hour, the Eisenhower starts sending
 a hodgepodge fighter sweep towards our target airport, accompanied by a
 TARPS bird to look for ground forces in the area. It soon becomes clear
-that our pilots have been over-claiming kills in previous scenarios\!
+that our pilots have been over-claiming kills in previous scenarios!
 There are plenty of aircraft left, including a disturbing number of very
 capable Mig-31s. It's about this time that the quartermaster starts
 mentioning an embarrassing lack of Phoenixes, just when I'm facing

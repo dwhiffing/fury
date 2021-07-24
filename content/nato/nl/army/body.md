@@ -10,13 +10,13 @@ Brigade, and the other two Brigades in each division have a Panzer
 Battalion, the armored punch of the corps comes from the attached German
 Panzer division.
 
-![](/assets/images/nato/nl/army/image1.png)
+<img src="/assets\images\nato\nl\army\media\image1.png" style="width:6.26042in;height:2.24653in" />
 
 The other key element of the Netherlands ground forces are the Marines.
 This is a unique organization which does not normally operate as a unit,
 but in separately tasked battalion sized ‘Groups’.
 
-![](/assets/images/nato/nl/army/image2.png)
+<img src="/assets\images\nato\nl\army\media\image2.png" style="width:2.37986in;height:2in" />
 
 Both the 1<sup>st</sup> Group and the Parachute Company would normally
 be assigned to work with the British 3<sup>rd</sup> Commando Bde. These
@@ -34,22 +34,22 @@ develop several Marine Battalions or a Marine Regiment for deployment.
 It should be noted that the Netherlands navy lacks any amphibious
 capability. Except for small landing craft and boats, the Marines must
 rely on amphibious transport from other nations – primarily the British
-RN but they also train with the French and Italian
-navies.
+RN but they also train with the French and Italian navies.
 
-[**Leopard 2**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
+[**Leopard
+2**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
 
 The Dutch are the second largest operator of the Leopard 2, with 445 of
 them in the inventory. Starting in 1993, many (eventually 330) were
 upgraded to the Leopard 2A5 standard with improved armor. Representing
 about half of the tanks in service, the 4<sup>th</sup> Division was
 equipped entirely with the Leopard 2 while the Panzer Bde in the
-5<sup>th</sup> Division also had
-them.
+5<sup>th</sup> Division also had them.
 
-![](/assets/images/nato/nl/army/image3.jpg)
+<img src="/assets\images\nato\nl\army\media\image3.jpg" style="width:6.5in;height:4.27431in" />
 
-[**Leopard 1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
+[**Leopard
+1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
 
 The other half of the operational tanks on the Netherland’s roster were
 Leopard 1V’s, the ‘V’ standard had a better fire control system then the
@@ -58,7 +58,7 @@ the 1<sup>st</sup> Division and the Panzerinfantrie Brigades of the
 5<sup>th</sup> Division. Also many Leopard 1 variants were used,
 including the Bridge-layer and the Armored Recovery Vehicles (ARV).
 
-![](/assets/images/nato/nl/army/image4.jpeg)
+<img src="/assets\images\nato\nl\army\media\image4.jpeg" style="width:5.42708in;height:3.81563in" />
 
 **Infantry Fighting Vehicles (IFV)**
 
@@ -73,17 +73,17 @@ several command variants, 119 Anti Tank variants (PRAT) with TOW
 missiles and other specialist vehicles. All of the regular army
 Panzerinfantrie units were equipped with the YPR-765.
 
-![](/assets/images/nato/nl/army/image5.jpg)
+<img src="/assets\images\nato\nl\army\media\image5.jpg" style="width:4.60417in;height:3.06982in" />
 
 [**Lynx (M113
-C\&V)**](http://www.tanks-encyclopedia.com/coldwar/canada/M113_LYNX.php)
+C&V)**](http://www.tanks-encyclopedia.com/coldwar/canada/M113_LYNX.php)
 
 For reconnaissance work the Dutch use the M113 based Lynx vehicle but
 have added a 25mm Oerlikon turret. There are 250 of these in service
 amongst the Reconnaissance battalions in each division and at corps
 level.
 
-![](/assets/images/nato/nl/army/image6.png)
+<img src="/assets\images\nato\nl\army\media\image6.png" style="width:4.61458in;height:3.46012in" />
 
 **Artillery**
 
@@ -92,7 +92,7 @@ artillery battalion of 20 M109’s (Self Propelled (SP) 155mm howitzers)
 in each of the nine brigades and a Corps Artillery Group of Division
 size.
 
-![](/assets/images/nato/nl/army/image7.jpg)
+<img src="/assets\images\nato\nl\army\media\image7.jpg" style="width:6.5in;height:4.33542in" />
 
 Within the Corp Artillery organization were three ‘Groups’ of Brigade
 size: 101<sup>st</sup> with two batteries of Multiple Launch Rocket
@@ -104,15 +104,15 @@ Group (Reserve) had five battalions of towed 155mm guns, the M114/39.
 
 In total the inventory included:
 
-  - 22 Multiple Launch Rocket Systems (MLRS);
+-   22 Multiple Launch Rocket Systems (MLRS);
 
-  - 6 MGM-52 Lance; (not retired)
+-   6 MGM-52 Lance; (not retired)
 
-  - 76 M110A2 203 mm SP howitzers;
+-   76 M110A2 203 mm SP howitzers;
 
-  - 222 M109 155 mm self-propelled howitzers (A2 & A3 variants);
+-   222 M109 155 mm self-propelled howitzers (A2 & A3 variants);
 
-  - 123 M114 155 mm towed howitzers.
+-   123 M114 155 mm towed howitzers.
 
 **Note:** Historically only 82 of the M114’s had been upgraded to the 39
 Caliber barrel. but in Northern Fury all 123 were. In addition to a
@@ -135,14 +135,14 @@ area.
 
 Equipment:
 
-  - 81 PRTL (Gepard)
+-   81 PRTL (Gepard)
 
-  - 81 Bofors 40mm AA gun
+-   81 Bofors 40mm AA gun
 
-  - 160 Stinger MANPADs
+-   160 Stinger MANPADs
 
-> ![](/assets/images/nato/nl/army/image8.jpg)
+> <img src="/assets\images\nato\nl\army\media\image8.jpg" style="width:6.5in;height:4.27431in" />
 
-![](/assets/images/nato/nl/army/image9.jpeg)
+<img src="/assets\images\nato\nl\army\media\image9.jpeg" style="width:6.14583in;height:4.1445in" />
 
-![](/assets/images/nato/nl/army/image10.jpg)
+<img src="/assets\images\nato\nl\army\media\image10.jpg" style="width:6.13542in;height:4.60156in" />
