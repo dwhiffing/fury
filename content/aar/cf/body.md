@@ -1,41 +1,45 @@
 **Caribbean Fury**
 
-Caribbean Fury is a small Battleset comprising five CMO scenarios.
-Focusing largely on the struggle between the US and some small NATO
-elements against Soviet sponsored uprisings, terrorism and outright
-warfighting from several Central American and Caribbean countries.
+Caribbean Fury is a small Battleset comprising five
+[CMO](https://command.matrixgames.com/?m=202105) scenarios. Focusing
+largely on the struggle between the United States and Soviet supported
+states such as Cuba, Honduras, Nicaragua and Venezuela as well as proxy
+groups such as Guatemalan rebels in Belize and Panamanian freedom
+fighters. Although some NATO and Caribbean countries play a supporting
+role, their forces are small and their political and geographic baggage
+cause significant problems. Many details are located at this
+[link](http://northernfury.us/blog/post20/).
 
-Although this region is America’s back yard, the commitment of forces
-here equates it to a backwater. In the early hours of the conflict there
-can be overwhelming American force available, but most of it is tagged
-to deploy around the globe leaving second and third string elements to
-deal with the mess the Soviets have made. NATO allies are also present
-but they are short on resources and long on demands, some of which the
-Americans don’t agree with.
+From a Soviet standpoint, the Caribbean is a side-show. The main purpose
+is to distract the United States and tie down resources. Of course, the
+ideological rhetoric will be loud and the drive for ‘peoples parties’
+will be high, Moscow is willing to sacrifice their distant allies and
+hand-me-down hardware to achieve its European goals.
 
-To the Soviets, the Caribbean is a sideshow, a distraction where its
-proxies can tie down American forces at little or no cost to the main
-effort in Europe. Beyond a few squadrons of modern aircraft and some air
-defence systems provided to Cuba, most of the effort is behind the
-scenes. Venezuela however, is a wild card and has not accepted the
-Soviets plan to the degree Moscow wanted. Caracas will still be a
-problem that Washington will need to deal with though.
+The United States however cannot be so callus in its own back yard. Cuba
+has been a thorn in America’s side for the past thirty-five years, and
+of course the festering cocaine and cartel induced friction with
+Honduras and Nicaragua has been problematic on many levels. The US
+government cannot afford a loss in this region, and the US military
+cannot afford to commit too many ships, aircraft or soldiers here and
+still hope to stave off the Soviet attacks elsewhere.
 
-<img src="/assets\images\aar\cf\media\image1.png" style="width:6.5in;height:3.94097in" />
+The situation is ripe for a desperate struggle with limited /assets.
 
-Of the five scenarios, three are played from the Soviet side and two
-from the NATO side.
+<img src="/assets\images\aar\cf\media\image1.png" style="width:6.5in;height:3.87986in" alt="Map Description automatically generated" />
 
-1.  Hot Tamale’s, War erupts across the Carribian
+Of the five scenarios, all are played from the US/NATO side.
 
-2.  Retribution, After Cuba has been supressed, US Special Forces pay a
-    visit
+1.  Hot Tamale, US and some NATO forces fight off surprise attacks in
+    three areas.
 
-3.  Rumble in the Jungle, An effort is made to knock Central American
-    countries out of the war
+2.  Retribution, A major Special Forces raid into Cuba.
 
-4.  Show of Force, Stealth is needed to take out a Soviet base in
-    Venezuela
+3.  Rumble in the Jungle, Fighting in Belize as the US tries to knock
+    countries out of the war.
 
-5.  Caribbean Cruise, Convoy escort operations from Panama to the
-    Atlantic are threatened
+4.  Show of Force, A stealth attack on a secret Soviet base in
+    Venezuela.
+
+5.  Caribbean Cruise, Venezuela choses an awkward moment to join the
+    fight.

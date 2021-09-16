@@ -1,0 +1,5 @@
+label: CF 5 Caribbean Cruise
+nav:
+  - /_shared/nav.md
+
+main: body.md
