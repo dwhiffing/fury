@@ -8,16 +8,16 @@ var FOLDER = process.env.FOLDER
 
 rsync(
   {
-    src: 'fury/',
+    src: 'html/',
     dest: `${USER}@${DOMAIN}:${FOLDER}`,
     args: ['-a', '-v', '-u', '-z'],
   },
-  function(error, stdout, stderr, cmd) {
+  function (error, stdout, stderr, cmd) {
     console.log(`Running command: ${cmd}`)
     if (error) {
       console.log(`Encountered Error: ${error.message} (${stderr})`)
     } else {
       console.log(`Success: ${stdout}`)
     }
-  }
+  },
 )
