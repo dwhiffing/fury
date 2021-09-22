@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-runtime": "^6.26.0",
+    "cross-env": "^7.0.3",
     "cuttlebelle": "^1.0.0-alpha.75",
     "dotenv": "^10.0.0",
     "rsyncwrapper": "^3.0.1"
@@ -13,11 +14,11 @@
     "shelljs": "^0.8.4"
   },
   "scripts": {
-    "watch": "cuttlebelle watch",
-    "generate": ".\\doc-2-md.sh",
-    "start": "node start.js",
-    "build": "node build.js",
-    "deploy": "node deploy.js"
+    "watch": "cross-env cuttlebelle watch",
+    "generate": "cross-env .\\doc-2-md.sh",
+    "start": "cross-env node start.js",
+    "build": "cross-env node build.js",
+    "deploy": "cross-env node deploy.js"
   },
   "cuttlebelle": {
     "site": {

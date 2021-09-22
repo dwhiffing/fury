@@ -2,10 +2,9 @@ var rsync = require('rsyncwrapper')
 
 require('dotenv').config()
 
-var USER = process.env.SSH_USER
-var DOMAIN = process.env.DOMAIN
-var FOLDER = process.env.FOLDER
-
+var USER = process.env.SSH_USER || 'gunner9898@northernfury.us'
+var DOMAIN = process.env.DOMAIN || 'atlas.hostineer.com'
+var FOLDER = process.env.FOLDER || '/var/www/html'
 rsync(
   {
     src: 'html/',
