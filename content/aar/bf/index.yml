@@ -4,4 +4,4 @@ nav:
 
 main: body.md
 
-isIndexPage: true
+isIndexPage: false

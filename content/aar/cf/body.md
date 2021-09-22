@@ -26,7 +26,8 @@ still hope to stave off the Soviet attacks elsewhere.
 
 The situation is ripe for a desperate struggle with limited /assets.
 
-![](/assets/images/aar/cf/image1.png)
+![Map Description automatically
+generated](/assets/images/aar/cf/image1.png)
 
 Of the five scenarios, all are played from the US/NATO side.
 

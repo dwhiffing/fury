@@ -2,7 +2,8 @@
 
 17 Feb 1994, 0600 Zulu, 0100 Local
 
-<img src="/assets\images\aar\cf\cf3\media\image1.jpeg" style="width:6.5in;height:3.25in" alt="Capturing the Army | National Army Museum" />
+![Capturing the Army | National Army
+Museum](/assets/images/aar/cf/cf3/image1.jpeg)
 
 The Caribbean, although a sideshow to the global events occurring
 elsewhere, is of vital interest to NATO’s largest partner – the US, and
@@ -27,15 +28,16 @@ Honduras and the rebellions in Panama and Belize are still in play
 however and Moscow is keen on having others do their fighting for as
 long as possible
 
-<img src="/assets\images\aar\cf\cf3\media\image2.jpeg" style="width:6.32633in;height:4.11458in" alt="PHM-1 Pegasus" />
+![PHM-1 Pegasus](/assets/images/aar/cf/cf3/image2.jpeg)
 
-----------------
+\----------------
 
-**<u>Caribbean Fury \#3</u>** In this third scenario you have two main
-tasks: The American focus is to knock Honduras and Nicaragua out of the
-war; the British focus, aided by the French, Dutch and others is to
-stabilize the situation in Belize and deliver knock-out blows to the
-Guatemalan backed insurgents without bringing Guatemala into the war.
+**<span class="underline">Caribbean Fury \#3</span>** In this third
+scenario you have two main tasks: The American focus is to knock
+Honduras and Nicaragua out of the war; the British focus, aided by the
+French, Dutch and others is to stabilize the situation in Belize and
+deliver knock-out blows to the Guatemalan backed insurgents without
+bringing Guatemala into the war.
 
 It may be wise on a military level for US forces to assist the British,
 but that must be balanced with the political imperatives from
@@ -43,4 +45,5 @@ Washington. Your resources in this theater are dwindling, distances are
 growing as targets are more remote, and the bad guy *always* gets a
 vote.
 
-<img src="/assets\images\aar\cf\cf3\media\image3.jpeg" style="width:6.5in;height:4.325in" alt="a 7 corsair | LTV A-7 Corsair II | Aircraft, Military aircraft, Fighter aircraft" />
+![a 7 corsair | LTV A-7 Corsair II | Aircraft, Military aircraft,
+Fighter aircraft](/assets/images/aar/cf/cf3/image3.jpeg)

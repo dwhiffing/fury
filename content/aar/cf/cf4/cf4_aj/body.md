@@ -1,6 +1,6 @@
 **Caribbean Fury \#4 – Show of Force**
 
-**<u>Playtest Report by AndrewJ Nov 2020</u>**
+**<span class="underline">Playtest Report by AndrewJ Nov 2020</span>**
 
 **Playthrough**
 
