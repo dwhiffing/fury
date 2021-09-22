@@ -1,13 +1,13 @@
-<img src="/assets\images\warsaw\su\air\mig23\media\image1.jpeg" style="width:6.5in;height:4.31528in" />
+![](/assets/images/warsaw/su/air/mig23/image1.jpeg)
 
 [**MiG-23 and MiG-27
-‘Flogger’**](http://www.airvectors.net/avmig23.html)The MiG-23 Flogger
-is a mainstay in the Soviet Air Forces, primarily in the VVS (Frontal
-Aviation) but also in the PVO (Air Defence Forces), it is not used by
-the Naval Aviation Forces. Over 5000 aircraft were produced by 1985 and
-it was widely exported to almost every Soviet aligned country in the
-world with the two largest users being Syria and India. Further, there
-were over 1000 ground attack
+‘Flogger’**](http://www.airvectors.net/avmig23.html)The MiG-23
+Flogger is a mainstay in the Soviet Air Forces, primarily in the VVS
+(Frontal Aviation) but also in the PVO (Air Defence Forces), it is not
+used by the Naval Aviation Forces. Over 5000 aircraft were produced by
+1985 and it was widely exported to almost every Soviet aligned country
+in the world with the two largest users being Syria and India. Further,
+there were over 1000 ground attack
 [MiG-27s](https://en.wikipedia.org/wiki/Mikoyan_MiG-27) built, and many
 of these were also exported.
 
@@ -19,7 +19,7 @@ the Air Defence or Ground Attack role which culminated in the MiG-27, so
 this is not a true multirole aircraft, but more of an aircraft which
 could conduct multiple tasks.
 
-<img src="/assets\images\warsaw\su\air\mig23\media\image2.jpg" style="width:6.5in;height:4.30069in" />
+![](/assets/images/warsaw/su/air/mig23/image2.jpg)
 
 There are a bewildering array of variants and types which are all
 considered MiG-23 ‘Floggers’, for ease of categorization I’ll list them
@@ -80,7 +80,7 @@ upgraded to this standard (as opposed to the 560 that were modernized
 historically).
 
 |           |               | VVS  | PVO | Reserve | Remarks            |
-|-----------|---------------|------|-----|---------|--------------------|
+| --------- | ------------- | ---- | --- | ------- | ------------------ |
 | Flogger A | MiG-23        |      |     | 200     |                    |
 | Flogger B | MiG-23M/MF/MS | 100  |     | 400     |                    |
 | Flogger C | MiG-23UB      | 400  | 300 |         | Remainder exported |
@@ -93,4 +93,4 @@ historically).
 | Flogger K | MiG-23MLD     | 800  |     |         | Increase for NF    |
 | Totals    |               | 1622 | 800 | 624     |                    |
 
-<img src="/assets\images\warsaw\su\air\mig23\media\image3.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/warsaw/su/air/mig23/image3.jpg)

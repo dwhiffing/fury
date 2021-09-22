@@ -59,7 +59,7 @@ yields. The range with a full load is \~4,200 nautical miles, or up to
 \~7,500 nautical miles with a reduced load, the exact ranges are
 classified.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image1.jpg" style="width:6.5in;height:3.87222in" />
+![](/assets/images/nato/uk/navy/sub/image1.jpg)
 
 *HMS Vanguard*
 
@@ -70,15 +70,16 @@ The three remaining boats in this class were all commissioned in 1967 or
 1968, they are much smaller than the Vanguard class and with systems
 that were cutting edge when launched, but dated by 1994. In the mid ‘80s
 they were upgraded to Polaris A3TK SLBM with the Chevaline MIRV system.
-Each sub carried 16 Polaris missiles each with three MIRVs.
+Each sub carried 16 Polaris missiles each with three
+MIRVs.
 
 | Class      | Pennant | Name       | Status            | Remarks              |
-|------------|---------|------------|-------------------|----------------------|
+| ---------- | ------- | ---------- | ----------------- | -------------------- |
 | Resolution | S-22    | Resolution | In Port           | 3 weeks until ready  |
 |            | S-23    | Repulse    | In Refit          | 4 months until ready |
 |            | S-26    | Renown     | Transit to patrol | 2 days from station  |
 
-<img src="/assets\images\nato\uk\navy\sub\media\image2.jpg" style="width:6.5in;height:3.92569in" />
+![](/assets/images/nato/uk/navy/sub/image2.jpg)
 
 Resolution Class
 
@@ -105,7 +106,7 @@ era unguided torpedoes instead of risking the use of a Tigerfish. By the
 mid ‘80s, the Mod 2 corrected many of the faults but it was still
 erratic – and worse, the submarine crews did not trust it. Cruise
 missiles were adopted in RN submarines for attacking surface targets
-because the Tigerfish was so unreliable! An urgent call for replacement
+because the Tigerfish was so unreliable\! An urgent call for replacement
 resulted in the Spearfish torpedo, a much improved design entering
 service in 1992. Better guidance, faster computing and a 70 mile per
 hour attack speed make the Spearfish a much better choice. By the start
@@ -121,7 +122,7 @@ class is extremely quiet, has excellent sonars and other sensors and is
 heavily armed with over 30 weapons, a mix of Tomahawk cruise missiles
 and torpedoes.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image3.jpg" style="width:6.5in;height:4.55903in" />
+![](/assets/images/nato/uk/navy/sub/image3.jpg)
 
 *HMS Trafalgar*
 
@@ -135,7 +136,7 @@ herself was retired early due to cracks being discovered in her reactor
 while being refitted, in Northern Fury these were repaired and she was
 brought back into service after six additional months in dry-dock.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image4.jpeg" style="width:6.5in;height:2.80625in" />
+![](/assets/images/nato/uk/navy/sub/image4.jpeg)
 
 *HMS Superb*
 
@@ -150,7 +151,7 @@ mid-life refit and are expected to serve for at least another decade.
 HMS Conqueror gained international fame during the Falklands war by
 sinking the Argentinian Cruiser General Belgrano.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image5.jpeg" style="width:4.01001in;height:3.10347in" />
+![](/assets/images/nato/uk/navy/sub/image5.jpeg)
 
 [**Valiant
 Class**](http://www.seaforces.org/marint/Royal-Navy/Submarine/Valiant-class.htm)
@@ -164,30 +165,31 @@ complicated, *HMS Warspite* is sill in dry-dock after a year of refit,
 and it will likely be several more months before she is fit to sail
 again. HMS Valiant, historically retired in August of 1994 and she may
 still due so because of the problems *Warspite* is having, she is
-scheduled to begin refitting in October 1994.
+scheduled to begin refitting in October
+1994.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image6.jpeg" style="width:3.32813in;height:2.22153in" />
+![](/assets/images/nato/uk/navy/sub/image6.jpeg)
 
 | Class     | Pennant | Name       | Location             | Remarks               |
-|-----------|---------|------------|----------------------|-----------------------|
+| --------- | ------- | ---------- | -------------------- | --------------------- |
 | Trafalgar | S107    | Trafalgar  | North Cape           | X-Ray Station         |
-|           | S87     | Turbulent  | North Sea            | Patrol off Iceland    |
-|           | S88     | Tireless   | South Atlantic       | Patrol                |
-|           | S90     | Torbay     | Eastern Med          | Patrol                |
-|           | S91     | Trenchant  | Western Indian Ocean | patrol                |
-|           | S92     | Talent     | North Sea            | Patrol off Norway     |
-|           | S93     | Triumph    | Port Plymouth        |                       |
-| Swiftsure | S126    | Swiftsure  | Port Plymouth        |                       |
-|           | S108    | Sovereign  | South Atlantic       | Patrol                |
-|           | S109    | Superb     | Port Naples          | Tied up 2 weeks       |
-|           | S104    | Sceptre    | West Atlantic        | Patrol                |
-|           | S105    | Spartan    | Western Australia    | Exercise with RAN     |
-|           | S106    | Splendid   | Port refit           | 1 Month               |
+|           | S87     | Turbulent  | North Sea            | Patrol off Iceland    |
+|           | S88     | Tireless   | South Atlantic       | Patrol                |
+|           | S90     | Torbay     | Eastern Med          | Patrol                |
+|           | S91     | Trenchant  | Western Indian Ocean | patrol                |
+|           | S92     | Talent     | North Sea            | Patrol off Norway     |
+|           | S93     | Triumph    | Port Plymouth        |                       |
+| Swiftsure | S126    | Swiftsure  | Port Plymouth        |                       |
+|           | S108    | Sovereign  | South Atlantic       | Patrol                |
+|           | S109    | Superb     | Port Naples          | Tied up 2 weeks       |
+|           | S104    | Sceptre    | West Atlantic        | Patrol                |
+|           | S105    | Spartan    | Western Australia    | Exercise with RAN     |
+|           | S106    | Splendid   | Port refit           | 1 Month               |
 | Churchill | S46     | Churchill  | Arctic               | Tracking Boomer       |
-|           | S48     | Conqueror  | Transiting Med       | Returning from Patrol |
-|           | S50     | Courageous | English Channel      | Patrol                |
-| Valiant   | S102    | Valiant    | Port Plymouth        |                       |
-|           | S103    | Warspite   | Refit                | Dry Dock              |
+|           | S48     | Conqueror  | Transiting Med       | Returning from Patrol |
+|           | S50     | Courageous | English Channel      | Patrol                |
+| Valiant   | S102    | Valiant    | Port Plymouth        |                       |
+|           | S103    | Warspite   | Refit                | Dry Dock              |
 
 **Diesel Powered Submarines**
 
@@ -219,7 +221,7 @@ sale of the four boats to Canada in 1998. In Northern Fury, the next
 batch of four boats is now building with the third batch about to be
 ordered.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image7.jpeg" style="width:6.5in;height:2.91319in" />
+![](/assets/images/nato/uk/navy/sub/image7.jpeg)
 
 Upholder Class
 
@@ -233,19 +235,20 @@ than the historic timeline. They are being replaced by the Upholder
 class. When these boats were launched they were considered the best of
 their type anywhere, and that distinction was maintained through
 upgrades over time. Technology and age however, was getting the better
-of them by the early 80’s and the replacement Upholders were ordered.
+of them by the early 80’s and the replacement Upholders were
+ordered.
 
-<img src="/assets\images\nato\uk\navy\sub\media\image8.jpg" style="width:1.67014in;height:2.59375in" />
+![](/assets/images/nato/uk/navy/sub/image8.jpg)
 
 | Class    | Pennant | Name      | Location           | Remarks              |
-|----------|---------|-----------|--------------------|----------------------|
+| -------- | ------- | --------- | ------------------ | -------------------- |
 | Upholder | S40     | Upholder  | Scotland           | Patrol               |
-|          | S41     | Unseen    | Port               |                      |
-|          | S42     | Ursula    | Central Med        | Port Visit to Athens |
-|          | S43     | Unicorn   | Port               |                      |
-| Oberon   | S13     | Osiris    | Port               |                      |
-|          | S15     | Otter     | Western Approaches | Patrol               |
-|          | S16     | Oracle    | Port               | Refit 3 weeks        |
-|          | S17     | Ocelot    | English Channel    | Patrol               |
-|          | S19     | Opossum   | Port               |                      |
-|          | S20     | Opportune | English Channel    | Patrol               |
+|          | S41     | Unseen    | Port               |                      |
+|          | S42     | Ursula    | Central Med        | Port Visit to Athens |
+|          | S43     | Unicorn   | Port               |                      |
+| Oberon   | S13     | Osiris    | Port               |                      |
+|          | S15     | Otter     | Western Approaches | Patrol               |
+|          | S16     | Oracle    | Port               | Refit 3 weeks        |
+|          | S17     | Ocelot    | English Channel    | Patrol               |
+|          | S19     | Opossum   | Port               |                      |
+|          | S20     | Opportune | English Channel    | Patrol               |

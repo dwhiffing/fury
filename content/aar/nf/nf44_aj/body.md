@@ -1,10 +1,10 @@
 **Northern Fury \#43 – Red Devils**
 
-**<u>Playtest Report by AndrewJ Mar 2021</u>**
+**<span class="underline">Playtest Report by AndrewJ Mar 2021</span>**
 
 **SITUATION**
 
-The drive to liberate Norway is underway! With the Soviets starting to
+The drive to liberate Norway is underway\! With the Soviets starting to
 retreat, NATO is launching a series of amphibious and airborne attacks
 to sever the major lines of communication, and seize important airfields
 and bases along the length of the country. We've been directed to lead
@@ -13,7 +13,7 @@ one closest to Soviet-occupied Finland.
 
 Intel's briefed us on the situation, and it's a little ominous.
 
-<img src="/assets\images\aar\nf\nf44_aj\media\image1.png" style="width:6.5in;height:3.98333in" />
+![](/assets/images/aar/nf/nf44_aj/image1.png)
 
 The area we're going into is mostly occupied by low-readiness units, in
 this case a motor-rifle regiment equipped with T-55s and BTR-152s. That
@@ -29,7 +29,7 @@ hit in NF41?), but I doubt it will get close enough for us to spot it.
 
 Far more worrisome is the 17th Tank Brigade, which is mostly intact,
 much more dangerous than a battalion of reservists, and is location
-unknown! "Probably NW Finland or south of Banak" say the intel guys.
+unknown\! "Probably NW Finland or south of Banak" say the intel guys.
 That means it's pretty much on our doorstep, although we're not certain
 exactly where. There's also one of those over-strength tank battalions
 (40 x T-80s, yikes), but that's far away east of us in Kirkenes, and it
@@ -121,7 +121,7 @@ of my attack helicopters get in on the action, operating at the extreme
 end of their range and cutting into their fuel reserves in order to get
 good hits on the closest enemy units.
 
-<img src="/assets\images\aar\nf\nf44_aj\media\image2.png" style="width:6.5in;height:3.30069in" />
+![](/assets/images/aar/nf/nf44_aj/image2.png)
 
 By the end of the strikes reconnaissance /assets report that all the
 aircraft on the flight line are wrecked and in flames, and the AAA and
@@ -244,11 +244,11 @@ enemy can react, and the planes report numerous secondary explosions and
 fires behind them as they return to base. This gives us a bit more
 security from this direction.
 
-**SCUD!**
+**SCUD\!**
 
 At 2045Z, in the midst of the 251st’s probe, the nervous quiet at Banak
 is suddenly broken by thunderous explosions and sonic booms, as a series
-of six tremendous explosions rip through the airfield. Incoming Scuds!
+of six tremendous explosions rip through the airfield. Incoming Scuds\!
 The impact points seem to be spread out from Lakselv southwards. Some
 buildings get flattened, and several infantry and truck units get
 incinerated in the blasts. Officers hurry to get stunned troops out of
@@ -298,9 +298,9 @@ range if something went wrong, and the runway was delayed.
 
 Just as the Harriers arrive at Banak (0240Z), a signals officer rushes
 in with an urgent message. Higher level intel is reporting large enemy
-forces approaching Banak from the south! My own ESM intel is reporting
+forces approaching Banak from the south\! My own ESM intel is reporting
 multiple new SA-6 radars down towards Karasjok, at the bottom of the E6.
-This is great timing - for the enemy! My reloading helicopters are not
+This is great timing - for the enemy\! My reloading helicopters are not
 ready yet, the new Harriers are only just landing, the planes which took
 out the northern mechanized force aren't ready either, and it's night,
 so most of my quick turnaround isn't operational.
@@ -347,7 +347,7 @@ valleys, but a few long-ranged shots by alert MANPADS gunners convince
 them that this is a bad idea, and the last of them slinks away as it
 starts growing light in the east.
 
-<img src="/assets\images\aar\nf\nf44_aj\media\image3.png" style="width:6.5in;height:3.07083in" />
+![](/assets/images/aar/nf/nf44_aj/image3.png)
 
 **MOVEMENT & RECCE**
 
@@ -380,7 +380,7 @@ road here either, so it turns and heads back home.
 At 0800Z we get another situation update. Apparently, things are not
 going quite as well with the other landings in the south, where the
 Russians are hanging on and applying pressure, so the reserves are being
-committed there. No reinforcements for us!
+committed there. No reinforcements for us\!
 
 As part of the Russian move, they are apparently releasing that
 over-strength tank battalion from Kirkenes. Did our helicopter recce

@@ -1,4 +1,4 @@
-<img src="/assets\images\warsaw\su\air\mig31\media\image1.jpg" style="width:6.5in;height:4.31597in" />
+![](/assets/images/warsaw/su/air/mig31/image1.jpg)
 
 [**MiG-31
 ‘Foxhound’**](https://www.fighter-planes.com/info/mig31_foxhound.htm)Based
@@ -35,8 +35,8 @@ remaining in this configuration until upgraded;
 
 **MiG-31M/SM Foxbat-B**: A much improved aircraft with upgraded radar
 and IRST (Infra-Red Sense and Track), ability to carry six R-33 (AA-9
-‘Amos’), and/or R-77 (AA-12 ‘Adder’) missiles. There are 200 ‘M’ and 200
-converted ‘SM’ available to the PVO. Of note, the R-77 air to air
+‘Amos’), and/or R-77 (AA-12 ‘Adder’) missiles. There are 200 ‘M’ and
+200 converted ‘SM’ available to the PVO. Of note, the R-77 air to air
 missile is becoming available to the PVO in limited numbers by the start
 of Northern Fury.
 
@@ -46,4 +46,4 @@ Fury world the ‘B’ is never produced in favor of the ‘M’, and I’ve mad
 the assumption that 200 of the more advanced airframes could be built
 over three years vice the 150 actually constructed in 18 months.
 
-<img src="/assets\images\warsaw\su\air\mig31\media\image2.jpg" style="width:6.5in;height:3.70486in" />
+![](/assets/images/warsaw/su/air/mig31/image2.jpg)

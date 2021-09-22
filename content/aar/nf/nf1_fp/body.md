@@ -1,12 +1,12 @@
-**<u>Northern Fury \#1 – H-Hour</u>**
+**<span class="underline">Northern Fury \#1 – H-Hour</span>**
 
-**<u>AAR by fitzpatv, Mar 2021</u>**
+**<span class="underline">AAR by fitzpatv, Mar 2021</span>**
 
 This is the first of an epic series of 58 (?) scenarios covering the
 North Atlantic Front of a global NATO-Warsaw Pact conflict starting in
 February 1994. It comes with a reputation for quality, challenge and
 complexity which is fully justified. If the rest of the series is half
-as good, I’m in for a treat!. Many thanks to Gunner98 for the hard work
+as good, I’m in for a treat\!. Many thanks to Gunner98 for the hard work
 he put into this.
 
 A word about performance. I have a fairly powerful laptop, but I still
@@ -26,7 +26,7 @@ Turtles”.
 
 You have several squadrons of F-16 Falcon fighters, which would be great
 were they not armed with 10nm range Sidewinders, facing Soviet Alamos
-with several times the reach!. Six, at Trondheim, have early-model
+with several times the reach\!. Six, at Trondheim, have early-model
 AMRAAMs with a 40nm range. Many of them won’t be available for hours and
 they are strung-out from Banak in the far North to Trondheim in the
 South. Supporting these are some Sentry AWACS planes, two
@@ -272,7 +272,7 @@ Tarantul or continue to go after her?. I split the group, sending Storm
 around the East shore of the island and Rapp to the West, with Teme, out
 of missiles, in reserve. Fate relented and Storm rounded a corner to see
 the Russian in Penguin 1 range. Two missiles ripped her apart to great
-rejoicing amongst the crew. Naval superiority was ours!. The squadron
+rejoicing amongst the crew. Naval superiority was ours\!. The squadron
 headed out to sea to avoid the Foxtrot, steering for Vardo.
 
 23:00 : Following a lull broken only by the raids on Banak, a series of
@@ -318,13 +318,13 @@ to sink her before expending her shots.
 10:00 : There was nothing for it, so I edged Hauk into the fjord,
 risking the undamaged Mirka’s 76mm guns. Miraculously, she got within
 the torpedo DLZ without taking fire...but the damned weapons
-malfunctioned!. I repeated the move with Teme, but she could do no more
+malfunctioned\!. I repeated the move with Teme, but she could do no more
 than damage the second Mirka and escape. As I withdrew in disgust, there
 was more ridiculousness. Up until now, the Red Air Force had ignored the
 naval side of things but now, two Frogfoot attack planes appeared. One
 got close enough at 200’ to be hit (but, par for the course, not
 destroyed) by a Mistral, but they ignored the juicy targets and instead
-proceeded with their mission to attack the SOSUS bunker at Vardo!!
+proceeded with their mission to attack the SOSUS bunker at Vardo\!\!
 
 12:00 : Ulstein arrived at Mehamn and completed her stellar performance
 by sinking the hovercraft.

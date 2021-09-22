@@ -5,7 +5,7 @@ the Second World War. Not only is it the only Navy to have global reach
 and power projection with multiple Supper Carriers, but its submarine
 fleet is arguably unrivalled, except perhaps but the USSR.
 
-<img src="/assets\images\nato\us\navy\media\image1.jpeg" style="width:7.875in;height:5.18522in" />
+![](/assets/images/nato/us/navy/image1.jpeg)
 
 Battle Group Z during the Persian Gulf War
 
@@ -24,41 +24,41 @@ from Sept 1985 and this
 of the original plan. The chart from page 25 of the Congressional Report
 is reprinted here:
 
-<img src="/assets\images\nato\us\navy\media\image2.JPG" style="width:5.95833in;height:4.76042in" />
+![](/assets/images/nato/us/navy/image2.JPG)
 
 Historically the 600 ship Navy policy was in rapid decline by the early
-‘90s, but in Northern Fury it remains extant with most goals having been
-achieved by 1994. Some of the key areas where Northern Fury strays from
-the historic are:
+‘90s, but in Northern Fury it remains extant with most goals having
+been achieved by 1994. Some of the key areas where Northern Fury strays
+from the historic are:
 
--   The aircraft carrier (CV) USS Ranger (CV-61) was not decommissioned
+  - The aircraft carrier (CV) USS Ranger (CV-61) was not decommissioned
     but instead, held in San Diego with reduced crew and no air group as
     ready reserve. She will be retired when USS John C. Stennis (CGN-74)
     is commissioned later in 1994 or possibly later.
 
--   The USS Forrestal (CV-59) was retained as an air group training
+  - The USS Forrestal (CV-59) was retained as an air group training
     carrier.
 
--   USS Enterprise (CVN-65) completed an accelerated overhaul 8 months
+  - USS Enterprise (CVN-65) completed an accelerated overhaul 8 months
     early.
 
-<img src="/assets\images\nato\us\navy\media\image3.jpeg" style="width:6.48958in;height:4.31107in" />
+![](/assets/images/nato/us/navy/image3.jpeg)
 
--   All of the Iowa class battleships (BBs) were retained in service
+  - All of the Iowa class battleships (BBs) were retained in service
 
--   All nuclear powered guided missile cruisers (CGN) were retained.
+  - All nuclear powered guided missile cruisers (CGN) were retained.
     This represents a total of nine ships: 4 x Virginia class, 2 x
     California class, and the Long Beach, Bainbridge & Truxton.
 
-<img src="/assets\images\nato\us\navy\media\image4.jpeg" style="width:6.16667in;height:4.74272in" />
+![](/assets/images/nato/us/navy/image4.jpeg)
 
--   All Belknap & Leahy class CGs were retained (nine of each) with the
+  - All Belknap & Leahy class CGs were retained (nine of each) with the
     NTU (New Threat Upgrades) complete. Combined, the additional 27
     CG/CGNs means that a third CG/CGN can deploy with most Carrier
     Battle Groups (CVBG) as well as act as Flag for smaller Task Groups
     (TG).
 
--   Four of 29 Seawolf Class fleet attack submarines (SSN) have been
+  - Four of 29 Seawolf Class fleet attack submarines (SSN) have been
     launched with two commissioned, another 3-5 will be complete by the
     end of 1995. The Virginia Class has not been designed or considered
     as it was built as a stop gap when the Seawolf class was canceled.
@@ -66,21 +66,21 @@ the historic are:
     cost of the Seawolf, and the proposals for the Virginia class are
     quite promising.
 
--   28 Sturgeon class plus the 9 long hull (Archerfish) Class, the
+  - 28 Sturgeon class plus the 9 long hull (Archerfish) Class, the
     Narwhal and 3x Permit class SSNs were retained. The Permit’s
     followed by the Sturgeons will decommission as the Seawolf class
     comes on line. A stable fleet size of 100 fleet attack boats and
     9-10 special mission boats will be maintained.
 
-<img src="/assets\images\nato\us\navy\media\image5.jpeg" style="width:6.05208in;height:4.56989in" />
+![](/assets/images/nato/us/navy/image5.jpeg)
 
--   Seven Arleigh Burke class guided missile destroyers (DDG), called
+  - Seven Arleigh Burke class guided missile destroyers (DDG), called
     the DDG-51 class have been completed with 5-6 per year planned to
     culminate at 62 units.
 
-<img src="/assets\images\nato\us\navy\media\image6.jpg" style="width:6.14583in;height:4.07459in" />
+![](/assets/images/nato/us/navy/image6.jpg)
 
--   Because of the urgent need for Anti-Submarine Warfare (ASW) escorts,
+  - Because of the urgent need for Anti-Submarine Warfare (ASW) escorts,
     the shortage of dry-dock space and the increased number of Tomahawk
     Land Attack Missile (TLAM) carrying ships; the last 7 of 31 Spruance
     class destroyers (DD) will not be upgraded to carry the Vertical
@@ -89,66 +89,67 @@ the historic are:
     DDGs received their NTU in the late 80’s and will serve another 20
     years.
 
--   The Farragut Class DDGs have been retained, 6x NTU refits have been
+  - The Farragut Class DDGs have been retained, 6x NTU refits have been
     completed, all based on the East Coast, with the remaining four
     completing later in 1994.
 
--   Only three Charles F. Adams NTU DDGs are ready but another 12 are
+  - Only three Charles F. Adams NTU DDGs are ready but another 12 are
     undergoing refit which will be completed in the next 18 months. Both
     of the older DDG classes (Farragut and Charles F. Adams) will serve
     until \~2000 when enough of the Arleigh Burke’s are available to
     relieve them.
 
-<img src="/assets\images\nato\us\navy\media\image7.jpeg" style="width:6.02083in;height:3.86337in" />
+![](/assets/images/nato/us/navy/image7.jpeg)
 
--   The 51 unit Oliver Hazard Perry (OHP) Class Guided Missile Frigates
+  - The 51 unit Oliver Hazard Perry (OHP) Class Guided Missile Frigates
     (FFG) completed commissioning in 89 with no replacement on the
     horizon. The Navy pointed out this gap to Congress and a further 12
     were ordered in 91 with the first four already launched and due to
     commission later in 1994. As a stop-gap four Brooke Class FFG’s
     (FFG-3-6) were retained, but will decommission later this year. A
-    ‘Follow on Frigate’ program is underway with a bid for 72 units, the
-    first being laid down in early 95 and will replace both the OHP and
-    the Knox Class in the escort role. The OHP will average 30 years of
-    service when decommissioned.
+    ‘Follow on Frigate’ program is underway with a bid for 72 units,
+    the first being laid down in early 95 and will replace both the OHP
+    and the Knox Class in the escort role. The OHP will average 30 years
+    of service when decommissioned.
 
-<img src="/assets\images\nato\us\navy\media\image8.jpg" style="width:6.5in;height:1.89097in" />
+![](/assets/images/nato/us/navy/image8.jpg)
 
--   36 of the 46 ship Knox class Frigates (FF) remain in service, the
+  - 36 of the 46 ship Knox class Frigates (FF) remain in service, the
     remaining 10 are in ready reserve and can activate within 30 days.
     The problem plagued design will be replaced by the ‘Follow on
     Frigate’ program with Knox class ship retiring on a 2 for 1 basis
     starting in 1996. The result will be that most will be in service
     for 25-27 years. (Historic real life service was only 23 years).
-
-<img src="/assets\images\nato\us\navy\media\image9.jpg" style="width:6.5in;height:3.28403in" />
+    
+    ![](/assets/images/nato/us/navy/image9.jpg)
 
 Graphically the comparison between the historic goal and the Northern
-Fury programme looks like this:
+Fury programme looks like
+this:
 
 | **USN Fleet size - Northern Fury Campaign vs 600 Ship Plan** |              |                   |       |         |           |       |                                                                              |
-|--------------------------------------------------------------|--------------|-------------------|-------|---------|-----------|-------|------------------------------------------------------------------------------|
+| ------------------------------------------------------------ | ------------ | ----------------- | ----- | ------- | --------- | ----- | ---------------------------------------------------------------------------- |
 |                                                              |              |                   |       |         |           |       |                                                                              |
-|                                                              | **Historic** | **Northern Fury** |       |         |           |       |                                                                              |
-|                                                              | 1985         | Goal              | Ready | Reserve | Launching | Total | Notes                                                                        |
+|                                                              | **Historic** | **Northern Fury** |       |         |           |       |                                                                              |
+|                                                              | 1985         | Goal              | Ready | Reserve | Launching | Total | Notes                                                                        |
 | CV/CVN                                                       | 13           | 15                | 13    | 2       | 1         | 16    | CV-61 to retire when CVN-74 commissions                                      |
-| BB                                                           | 2            | 4                 | 4     |         |           | 4     |                                                                              |
-| CG/CGN                                                       | 98           | 137               | 54    |         |           | 54    | Total of 132. As DDG-51s come online, older DD/DDG then CG/CGNs will retire. |
-| DD/DDG                                                       |              |                   | 67    |  8      | 3         | 78    |                                                                              |
+| BB                                                           | 2            | 4                 | 4     |         |           | 4     |                                                                              |
+| CG/CGN                                                       | 98           | 137               | 54    |         |           | 54    | Total of 132. As DDG-51s come online, older DD/DDG then CG/CGNs will retire. |
+| DD/DDG                                                       |              |                   | 67    | 8       | 3         | 78    |                                                                              |
 | FF/FFG                                                       | 108          | 101               | 90    | 10      | 4         | 104   | First 4 of 12 new OHPs arrives, Brooks to retire                             |
-| SSN                                                          | 98           | 100               | 97    |         |           | 97    |                                                                              |
-| SSN/Special                                                  |              |                   | 12    |         |           | 12    | Special purpose, mostly SOF delivery                                         |
-| Small ships                                                  | 6            | 0                 | 0     | 6       |           | 6     | Pegasus Class FAC                                                            |
-| Total Combat                                                 | 325          | 357               | 337   | 26      | 8         | 372   |                                                                              |
-|                                                              |              |                   |       |         |           |       |                                                                              |
-| Amphib                                                       | 62           | 75                | 70    |         |           | 70    |                                                                              |
-| Mine Warfare                                                 | 3            | 31                | 30    | 10      |           | 40    |                                                                              |
-| Replen                                                       | 53           | 69                | 58    |         |           | 58    |                                                                              |
-| Mat Support                                                  | 25           | 27                | 26    |         |           | 26    |                                                                              |
-| Fleet Support                                                | 29           | 33                | 29    |         |           | 29    |                                                                              |
-| Total Other                                                  | 172          | 235               | 213   |         |           | 223   |                                                                              |
-|                                                              |              |                   |       |         |           |       |                                                                              |
-| SSBN                                                         | 37           | 36                | 24    |         |           | 24    |                                                                              |
-| Total All                                                    | 534          | 628               | 574   | 36      | 8         | 618   |                                                                              |
+| SSN                                                          | 98           | 100               | 97    |         |           | 97    |                                                                              |
+| SSN/Special                                                  |              |                   | 12    |         |           | 12    | Special purpose, mostly SOF delivery                                         |
+| Small ships                                                  | 6            | 0                 | 0     | 6       |           | 6     | Pegasus Class FAC                                                            |
+| Total Combat                                                 | 325          | 357               | 337   | 26      | 8         | 372   |                                                                              |
+|                                                              |              |                   |       |         |           |       |                                                                              |
+| Amphib                                                       | 62           | 75                | 70    |         |           | 70    |                                                                              |
+| Mine Warfare                                                 | 3            | 31                | 30    | 10      |           | 40    |                                                                              |
+| Replen                                                       | 53           | 69                | 58    |         |           | 58    |                                                                              |
+| Mat Support                                                  | 25           | 27                | 26    |         |           | 26    |                                                                              |
+| Fleet Support                                                | 29           | 33                | 29    |         |           | 29    |                                                                              |
+| Total Other                                                  | 172          | 235               | 213   |         |           | 223   |                                                                              |
+|                                                              |              |                   |       |         |           |       |                                                                              |
+| SSBN                                                         | 37           | 36                | 24    |         |           | 24    |                                                                              |
+| Total All                                                    | 534          | 628               | 574   | 36      | 8         | 618   |                                                                              |
 
-<img src="/assets\images\nato\us\navy\media\image10.jpg" style="width:6.76042in;height:4.3935in" />
+![](/assets/images/nato/us/navy/image10.jpg)

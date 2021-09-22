@@ -1,10 +1,10 @@
 **Ground forces of Serbia and Montenegro (VSCG)**
 
 The splintering of the ‘Former Republic of Yugoslavia’ (FRY) during the
-‘Yugoslav Wars’ which are still ongoing in Bosnia and Croatia also tore
-the Yugoslav National Army (formerly JNA) to pieces. The bulk of the
-organized force remains under Serbian control and has been structured
-into the VSCG. This
+‘Yugoslav Wars’ which are still ongoing in Bosnia and Croatia also
+tore the Yugoslav National Army (formerly JNA) to pieces. The bulk of
+the organized force remains under Serbian control and has been
+structured into the VSCG. This
 [link](https://www.cia.gov/library/readingroom/docs/1993-07-01b.pdf)
 provides a moderately redacted summary of the military situation as it
 stood in July 93.
@@ -21,12 +21,12 @@ Bosnia and Croatia, but the Soviet veto in the UN Security council has
 blunted the teeth of their mandates, hence there is a much less
 aggressive NATO stance and reduced forces.
 
-<img src="/assets\images\warsaw\rs\army\media\image1.png" style="width:7.93087in;height:5.57292in" />
+![](/assets/images/warsaw/rs/army/image1.png)
 
 The armies of the VSCG are arrayed as depicted in the map obtained at
 the CIA link above:
 
-<img src="/assets\images\warsaw\rs\army\media\image2.png" style="width:6.44792in;height:7.23958in" />
+![](/assets/images/warsaw/rs/army/image2.png)
 
 Structurally the VSCG is not unified, although based along Soviet
 designs there is little to no consistency and the forces exhibit a wide
@@ -35,12 +35,13 @@ hardened and very capable while some, primarily in the 2<sup>nd</sup>
 Army are little more than well armed gangs. Operations at higher than
 Brigade level will likely be challenging. Much of the equipment of the
 original JNA wound up in Serbia although there is some discrepancy and
-wide variations in some areas.
+wide variations in some
+areas.
 
-<img src="/assets\images\warsaw\rs\army\media\image3.jpg" style="width:6.5in;height:3.66042in" />
+![](/assets/images/warsaw/rs/army/image3.jpg)
 
 | MBT    | T-72   | M-84           | 27   |                                                                               |
-|--------|--------|----------------|------|-------------------------------------------------------------------------------|
+| ------ | ------ | -------------- | ---- | ----------------------------------------------------------------------------- |
 |        |        | M-84A          | 212  |                                                                               |
 |        | T-72M1 | T-72M          | 60   |                                                                               |
 |        | T-55   | T-55AM         | 1200 |                                                                               |
@@ -88,4 +89,4 @@ wide variations in some areas.
 |        | SA-16  | 9K38           | 226  |                                                                               |
 | SSMs   | FROG-7 |                | 16   |                                                                               |
 
-<img src="/assets\images\warsaw\rs\army\media\image4.jpg" style="width:6.04444in;height:4.53333in" />
+![](/assets/images/warsaw/rs/army/image4.jpg)

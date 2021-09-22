@@ -20,17 +20,18 @@ both offensive and defensive operations oriented towards Zagreb or
 Ljubljana, with a view to forcing NATO forces to a standstill closer to
 Italy than Hungary.
 
-<img src="/assets\images\warsaw\hu\army\media\image1.png" style="width:7.14583in;height:5.96644in" />
+![](/assets/images/warsaw/hu/army/image1.png)
 
-<img src="/assets\images\warsaw\hu\army\media\image2.jpg" style="width:6.5in;height:4.31944in" />
+![](/assets/images/warsaw/hu/army/image2.jpg)
 
 Organized largely along Soviet lines, much of the equipment such as the
 D-442 FUG-APC was designed and built domestically and exported to Poland
 as the FUG and Czechoslovakia as the OT-65 and the former East Germany
-as PSzH-IV, or the FUG-65 reconnaissance vehicle
+as PSzH-IV, or the FUG-65 reconnaissance
+vehicle
 
 | **Role** | **Type** | **Variant** | **No** | **Remarks**                                                                            |
-|----------|----------|-------------|--------|----------------------------------------------------------------------------------------|
+| -------- | -------- | ----------- | ------ | -------------------------------------------------------------------------------------- |
 | MBT      | T-72     | T-72A       | 100    | [T-72 Data](https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=965) |
 |          |          | T-72M       | 150    |                                                                                        |
 |          |          | T-72M1      | 45     |                                                                                        |
@@ -67,8 +68,8 @@ as PSzH-IV, or the FUG-65 reconnaissance vehicle
 |          | SA-7     |             | 350    |                                                                                        |
 |          | SA-9     |             | 50     |                                                                                        |
 
-<img src="/assets\images\warsaw\hu\army\media\image3.jpg" style="width:4.29167in;height:3.21875in" />
+![](/assets/images/warsaw/hu/army/image3.jpg)
 
-<img src="/assets\images\warsaw\hu\army\media\image4.jpg" style="width:4.05in;height:2.53125in" />
+![](/assets/images/warsaw/hu/army/image4.jpg)
 
 FUG-65

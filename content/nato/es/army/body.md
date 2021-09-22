@@ -12,16 +12,16 @@ brigades, each having two regiments and in turn these had two
 battalions; slightly smaller than a standard division (8 battalions vice
 9) but very heavy on the command element.
 
-<img src="/assets\images\nato\es\army\media\image1.png" style="width:5.33403in;height:4.81389in" />
+![](/assets/images/nato/es/army/image1.png)
 
 There are also a number of independent brigades of various types.
 
-<img src="/assets\images\nato\es\army\media\image2.png" style="width:1.15347in;height:5.52014in" />
+![](/assets/images/nato/es/army/image2.png)
 
 In addition to the field army there were elements of supporting forces
 and also territorial defence forces for Spanish colonies.
 
-<img src="/assets\images\nato\es\army\media\image3.png" style="width:2.49375in;height:3.14722in" />
+![](/assets/images/nato/es/army/image3.png)
 
 A good summary of the Spanish Army in 1989 is located
 [here](https://en.wikipedia.org/wiki/Structure_of_the_Spanish_Army_in_1989),
@@ -31,7 +31,8 @@ very little changed between ’89 and ’94 when Northern Fury commences.
 
 Spain had quite a mix of mostly obsolete MBTs concentrated in
 1<sup>st</sup> and 3<sup>rd</sup> Division; there were some older MBTs
-in 2<sup>nd</sup> Division as well.
+in 2<sup>nd</sup> Division as
+well.
 
 [**AMX-30**](http://www.tanks-encyclopedia.com/coldwar/France/AMX-30.php)
 
@@ -48,7 +49,7 @@ were upgraded to ‘M2’ standard. The Tank is used extensively in the
 1<sup>st</sup> Armored Division and also within the mechanized brigades
 of 3<sup>rd</sup> Division.
 
-<img src="/assets\images\nato\es\army\media\image4.jpg" style="width:4.6in;height:3.13472in" />
+![](/assets/images/nato/es/army/image4.jpg)
 
 [**M60A3**](http://www.tanks-encyclopedia.com/coldwar/US/M60_Patton.php)
 
@@ -59,29 +60,29 @@ Division, the Cavalry Regt of 3<sup>rd</sup> Division and the two
 independent Cavalry regiments. Although more reliable and updated than
 the M48, these tanks were still obsolete.
 
-<img src="/assets\images\nato\es\army\media\image5.jpg" style="width:6.5in;height:4.15764in" />
+![](/assets/images/nato/es/army/image5.jpg)
 
 **M47/M48**
 
 By 1994 these tanks had recently retired from Spanish service; however,
 they were still quite numerous and available for reserves:
 
--   162x M48A5E2
+  - 162x M48A5E2
 
--   329x M47E1
+  - 329x M47E1
 
--   46x M47E2
+  - 46x M47E2
 
 **Reconnaissance Vehicles**
 
-[**Panhard AML
-60/90**](http://www.tanks-encyclopedia.com/coldwar/France/Panhard_AML.php)
+[**Panhard
+AML 60/90**](http://www.tanks-encyclopedia.com/coldwar/France/Panhard_AML.php)
 
 Spain used \~100 of each type of French built scout cars in their
 reconnaissance units. The AML 60 with a breach loading 60mm mortar and
 the AML 90 with a 90mm low velocity gun.
 
-<img src="/assets\images\nato\es\army\media\image6.png" style="width:2.80208in;height:1.94792in" />
+![](/assets/images/nato/es/army/image6.png)
 
 [**Pegaso BMR-VEC**](https://en.wikipedia.org/wiki/VEC-M1)
 
@@ -90,7 +91,7 @@ This is a Spanish built, wheeled reconnaissance vehicles equipped with a
 four-wheeled variants which have retired and been placed in ready
 reserve.
 
-<img src="/assets\images\nato\es\army\media\image7.jpg" style="width:6.5in;height:4.27708in" />
+![](/assets/images/nato/es/army/image7.jpg)
 
 **Armored Personnel Carries (APC)**
 
@@ -105,7 +106,7 @@ and mounts a .50 Calibre MG. There are several variants including mortar
 carrier, recovery vehicle, ambulance, engineering and anti-tank, and
 command. Spain has over 1000 of these vehicles including variants.
 
-<img src="/assets\images\nato\es\army\media\image8.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/nato/es/army/image8.jpg)
 
 **Artillery**
 
@@ -113,25 +114,25 @@ Spain employed a wide variety of artillery systems, and was in the
 process of upgrading its M107 (175mm Self Propelled) Howitzers to the
 M110 (203mm). Northern Fury accelerates that process by a few months.
 
--   48x M108 Self Propelled (SP) 105mm Howitzer
+  - 48x M108 Self Propelled (SP) 105mm Howitzer
 
--   400x M-26 Towed 105mm Howitzer
+  - 400x M-26 Towed 105mm Howitzer
 
--   170x M-56 Pack/Towed 105mm Howitzer
+  - 170x M-56 Pack/Towed 105mm Howitzer
 
--   176x 122mm Towed Gun
+  - 176x 122mm Towed Gun
 
--   78x M109A1 SP 155mm Howitzer
+  - 78x M109A1 SP 155mm Howitzer
 
--   84x M114/23 Towed 155mm Howitzer
+  - 84x M114/23 Towed 155mm Howitzer
 
--   24x M115 Towed 203mm Howitzer
+  - 24x M115 Towed 203mm Howitzer
 
--   24x M110A2 SP 203mm Howitzer (M107’s converted to M110’s)
+  - 24x M110A2 SP 203mm Howitzer (M107’s converted to M110’s)
 
--   12x Teruel 140mm SP Multiple Launch Rocket (MRL) (Spanish built)
+  - 12x Teruel 140mm SP Multiple Launch Rocket (MRL) (Spanish built)
 
-<img src="/assets\images\nato\es\army\media\image9.jpg" style="width:6.5in;height:4.875in" />
+![](/assets/images/nato/es/army/image9.jpg)
 
 **Air Defence Systems**
 
@@ -139,18 +140,18 @@ Spain has a large number of air defence systems; the Nike-Hercules was
 retired in 1990 but negotiations to procure the American Patriot system
 are still ongoing in 1994.
 
--   329x GAO-BOI 20mm Towed AA Guns
+  - 329x GAO-BOI 20mm Towed AA Guns
 
--   96x GDF-002 35mm Twin Towed AA Guns
+  - 96x GDF-002 35mm Twin Towed AA Guns
 
--   240x Bofors 40mmL/70 Towed AA Guns
+  - 240x Bofors 40mmL/70 Towed AA Guns
 
--   132x M55 12.7mm Quad Towed MG
+  - 132x M55 12.7mm Quad Towed MG
 
--   9x Roland 1 SAM (on AMX-30R)
+  - 9x Roland 1 SAM (on AMX-30R)
 
--   9x Roland 2 SAM (on AMX-30R)
+  - 9x Roland 2 SAM (on AMX-30R)
 
--   13x Aspide/Skyguard Fire units (3 or 4 launchers each)
+  - 13x Aspide/Skyguard Fire units (3 or 4 launchers each)
 
--   48x I-Hawk
+  - 48x I-Hawk

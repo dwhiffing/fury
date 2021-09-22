@@ -282,9 +282,9 @@ helicopters on sanitizing the sea around STANAVFORLANT’s new course.
 Just as the NATO formation was settling onto its new course, Miller
 heard his chief ASW officer report excitedly, “Sir, Perseo reports
 transients…two torpedoes dead ahead, range seven miles, she’s evading.
-Wandelaar reports they’ve picked up an SSN on that bearing as well!” The
-American captain looked at the tactical display and saw the symbols for
-three separate helicopters already converging on the new submerged
+Wandelaar reports they’ve picked up an SSN on that bearing as well\!”
+The American captain looked at the tactical display and saw the symbols
+for three separate helicopters already converging on the new submerged
 contact. Miller swore. He couldn’t afford to lose ships before even
 coming to grips with the Russian surface groups.
 

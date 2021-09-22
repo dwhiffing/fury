@@ -1,6 +1,6 @@
 **Indian Ocean Fury \#2 – Madagascar Madness**
 
-**<u>Playtest Report by AndrewJ July 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ July 2017</span>**
 
 Well I'm only at the first evening so far, having survived the raids on
 the Ark Royal and the Kenyan Base (barely), and extracted the LST from
@@ -11,17 +11,18 @@ position to concentrate before I can get picked off piecemeal. This is
 quite an interesting one so far. Next decision: How much sleep to
 sacrifice to see what's next?
 
----
+\---
 
-Effing Shaddock! It's the middle of the night and suddenly a Cessna pops
-up out of nowhere, flying right over one of my Kenyan missile boats. It
-gets gunned down, but 12 minutes later - WHAM - no more missile boat.
+Effing Shaddock\! It's the middle of the night and suddenly a Cessna
+pops up out of nowhere, flying right over one of my Kenyan missile
+boats. It gets gunned down, but 12 minutes later - WHAM - no more
+missile boat.
 
 (This is a good scenario...)
 
-EDIT: Eat Otomat, Soviet dogs!
+EDIT: Eat Otomat, Soviet dogs\!
 
----
+\---
 
 Well, this was a fun one, particularly in the opening stages before I
 could concentrate my forces and get my act together. The uncertainty of
@@ -43,7 +44,7 @@ rushing (as best she could) NE to meet the Cardiff coming SW, in the
 hopes that I could get her to safety.
 
 The next announcement was a bit more alarming. A Kresta and a Kanin
-operating in the area? Crappity crap! The Kenyan patrol boat at sea was
+operating in the area? Crappity crap\! The Kenyan patrol boat at sea was
 ordered to run for home, since it did't have a hope if the Russians are
 in the area. Unfortunately, this didn't help against the Tanzanian air
 strike which sank it minutes later.
@@ -57,21 +58,21 @@ have to slow down, and I just manage to get clear. Next, I get a message
 to protect local shipping from the swarm. Yessir, but how? The Spanish
 frigate Cazadora is on the way from the N, but still too far out. The
 Perry is busy cleaning up a few other pirates further south along the
-coast and won't get there in time. So, the LST turns back to the fray! A
-lot more gun-work follows, and the LST soon has to retire black on ammo.
-The Perry does a good job too, with its helicopters performing valuable
-spotting work, finding a captured platform (which earns a Harpoon), and
-a 'rigged' tanker presumably captured for refuelling purposes (which
-earns another one). When she arrives the Cazadora turns out to be a very
-effective anti-pirate ship, with her 40mm cannons doing very good work,
-until eventually the pirate swarm is whittled down and rendered
-inoperative. Some of the Kenyan patrol boats arrive a day or two later
-to clean up the damaged stragglers which are heading home at low speed
-or are dead in the water, and air-strikes on the docks are also very
-helpful at dealing with a few dozen pirates still in port. The whole
-pirate situation took nearly two days to resolve, and I found myself
-continually getting pushed around by them, especially the swarms of fast
-moving RHIBs that even my destroyers (with their dwindling ammo
+coast and won't get there in time. So, the LST turns back to the fray\!
+A lot more gun-work follows, and the LST soon has to retire black on
+ammo. The Perry does a good job too, with its helicopters performing
+valuable spotting work, finding a captured platform (which earns a
+Harpoon), and a 'rigged' tanker presumably captured for refuelling
+purposes (which earns another one). When she arrives the Cazadora turns
+out to be a very effective anti-pirate ship, with her 40mm cannons doing
+very good work, until eventually the pirate swarm is whittled down and
+rendered inoperative. Some of the Kenyan patrol boats arrive a day or
+two later to clean up the damaged stragglers which are heading home at
+low speed or are dead in the water, and air-strikes on the docks are
+also very helpful at dealing with a few dozen pirates still in port. The
+whole pirate situation took nearly two days to resolve, and I found
+myself continually getting pushed around by them, especially the swarms
+of fast moving RHIBs that even my destroyers (with their dwindling ammo
 reserves) didn't want to tackle head-on.
 
 Meanwhile the air situation was getting exciting. Down south the Brits
@@ -99,7 +100,7 @@ proved to be very useful.)
 
 As that's going on the next crisis is in Kenya, with a big well-escorted
 attack from the direction of Entebbe. Twenty-two coming in, and I've
-only got 10 to defend with! I scramble all my F-5s, and anything else
+only got 10 to defend with\! I scramble all my F-5s, and anything else
 which can fly is ordered into the air to evacuate over the coast. My
 supersonic F-5s can get to the raid in time, no problem, but the
 difficulty is that I only have rear-aspect missiles, so my usual
@@ -151,7 +152,7 @@ suspected SAG. It's proceeding on a predictable course, so I launch the
 two missiles BOL timed for a very close range seeker activation (hoping
 that this isn't a pair of merchants heading for port). At the predicted
 impact time MPA pick up radar and jammer emissions from the group - so
-it's not merchants after all! The Harrier pilot reports a brief flash
+it's not merchants after all\! The Harrier pilot reports a brief flash
 from the horizon, so evidently there was at least one hit, and the group
 begins slowing down, but both contacts remain on radar. Therefore, the
 Otomat missile boats are ordered to begin closing in on the group under
@@ -168,7 +169,7 @@ flight of aircraft arrives in the area from Tanzania, presumably hunting
 for my patrol boats, which are all heading out of the area at high
 speed. They're dangerously close to some of my ships, but they're having
 difficulty finding them in the dark. Some of my F-5s make it to the
-area, but we have trouble localising the enemy in the dark too! Our
+area, but we have trouble localising the enemy in the dark too\! Our
 radars don't have good look-down capability, and the enemy is down just
 above the waves. A really odd fight follows, in which after groping
 around blindly at low altitude we manage to kill some of the enemy,
@@ -195,7 +196,7 @@ Later in the day Harriers arrive to do the same thing at Ngerengere, and
 after that the enemy is left with little effective air-power.
 
 Of course they still have some sea-power, as the startled French
-discover when the Jeanne d'Arc group hears torpedoes in the water! They
+discover when the Jeanne d'Arc group hears torpedoes in the water\! They
 turn and run, firing a torpedo down the bearing, dodging, and firing
 another. With the enemy sub clearing the area from my speculative torp
 shots his sonar is degraded, so my dodging manages to work, and the

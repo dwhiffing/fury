@@ -1,6 +1,6 @@
 **Caribbean Fury \#1 – Hot Tamale**
 
-**<u>Playtest Report by AndrewJ June 2016</u>**
+**<span class="underline">Playtest Report by AndrewJ June 2016</span>**
 
 It took a while, but I finally had a chance to play through Hot Tamales.
 
@@ -73,7 +73,7 @@ high, and so far they've not tried to mount another strike.
 
 As a result of this attack the Dale and Ouellet were immediately ordered
 back to the Atlantic end of the canal, despite the perilously low fuel
-condition of the Dale. I need those long-range SAMs! (Especially if
+condition of the Dale. I need those long-range SAMs\! (Especially if
 Venezuela gets feisty.) I'll anchor her as a floating battery if
 necessary. I'm sure there's fuel in Cristobal if I really need it.
 
@@ -175,8 +175,8 @@ although I do blow in the windows on the neighbouring hospital in my
 attempts to take out their command bunker.
 
 Late in the afternoon, after planes have had a chance to recycle, a
-second smaller SEAD wave (no Shrikes left!) eliminates the smaller group
-of SAM sites on the west end of Cuba (2 more SA-10 plus SA-17 and
+second smaller SEAD wave (no Shrikes left\!) eliminates the smaller
+group of SAM sites on the west end of Cuba (2 more SA-10 plus SA-17 and
 friends, so not weaklings), allowing me to deal with the SSM batteries
 there (staying well above the clouds and using EO weapons with a man in
 the loop).

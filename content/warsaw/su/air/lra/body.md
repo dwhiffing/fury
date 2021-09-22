@@ -15,7 +15,7 @@ at Engels Air Base but in the past few months a second Regiment
 (184<sup>th</sup>) has been formed at the same base, each with two
 Squadrons.
 
-<img src="/assets\images\warsaw\su\air\lra\media\image1.jpeg" style="width:6.5in;height:4.35278in" />
+![](/assets/images/warsaw/su/air/lra/image1.jpeg)
 
 [**Tu-22M**](https://www.ausairpower.net/APA-Backfire.html)
 
@@ -36,17 +36,18 @@ universally employable. Historically 268 Tu-22M3s were built along with
 used by the navy for escort jamming. In Northern Fury production began
 to accelerate slightly in 1991 and continued resulting in the numbers in
 the table below. These aircraft are used both by the VVS Strategic
-Bomber force and by Naval Aviation.
+Bomber force and by Naval
+Aviation.
 
 | Variant      | NATO name  | Historical | N Fury | Remarks                       |
-|--------------|------------|------------|--------|-------------------------------|
+| ------------ | ---------- | ---------- | ------ | ----------------------------- |
 | Tu-22M0 & M1 | Backfire-A | 16         |        | Not in service                |
 | Tu-22M2      | Backfire-B | 211        | 211    |                               |
 | Tu-22M3      | Backfire-C | 268        | 340    | Production continued at 24/yr |
 | Tu-22M3R     | Backfire-C | 12         | 18     | Naval Recon                   |
 | Tu-22MP      | Backfire-C | 3          | 12     | Escort jammer                 |
 
-<img src="/assets\images\warsaw\su\air\lra\media\image2.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/warsaw/su/air/lra/image2.jpg)
 
 [**Tu-22**](http://www.airvectors.net/avtu22.html)
 
@@ -65,10 +66,10 @@ converted into secondary roles such as reconnaissance, training, ELINT
 or EW. All have been upgraded with newer electronics and fitted with a
 nose probe for refueling.
 
-<img src="/assets\images\warsaw\su\air\lra\media\image3.jpg" style="width:6.5in;height:2.68611in" />
+![](/assets/images/warsaw/su/air/lra/image3.jpg)
 
 | Variant  | NATO name | Historical | N Fury | Remarks         |
-|----------|-----------|------------|--------|-----------------|
+| -------- | --------- | ---------- | ------ | --------------- |
 | Tu-22B   | Blinder   | 15         |        | Not in service  |
 | Tu-22KPD | Blinder-B | 76         | 76     | Missile carrier |
 | Tu-22RDM | Blinder-C | 127        | 127    | Reconnaissance  |
@@ -87,12 +88,13 @@ airframe was strong, reliable and very flexible. Over its lifetime there
 were a wide array of variants, prototypes and experiments; late model
 airframes were based on the Tu-142 airframe which was significantly
 improved including in wing fuel tanks. Represented below are the key
-examples represented in Northern Fury.
+examples represented in Northern
+Fury.
 
-<img src="/assets\images\warsaw\su\air\lra\media\image4.jpg" style="width:6.5in;height:4.33125in" />
+![](/assets/images/warsaw/su/air/lra/image4.jpg)
 
 | Variant          | NATO   | Historical | N Fury | Remarks                                          |
-|------------------|--------|------------|--------|--------------------------------------------------|
+| ---------------- | ------ | ---------- | ------ | ------------------------------------------------ |
 | Tu-95M           | Bear-A |            |        | improved Tu-95                                   |
 | Tu-95K           | Bear-B |            |        | Kh-20 / AS-3 missile carrier                     |
 | Tu-95KD          | Bear-B | 80         |        | Tu-95K with refueling probe, all converted       |
@@ -125,22 +127,22 @@ older types. The table below details the versions in service in Northern
 Fury:
 
 | **Based on Tu-16 A Badger-A/B** |              |     |     |                                              |
-|---------------------------------|--------------|-----|-----|----------------------------------------------|
-| **Tu-16**                       | Badger-A     | 294 |     | Standard conventional bomber variant         |
-| **Tu-16A**                      | Badger-A     | 394 |     | Nuclear free-fall bomber                     |
-| **Tu-16AZ**                     | Badger-A     | 59  |     | Tu-16A with inflight refueling               |
-| **Tu-16Z**                      | Badger-A     | 114 |     | Tanker conversion with wingtip refueling     |
-| **Tu-16LL**                     | Badger-A/B   | ?   |     | Test & trials machines                       |
-| **Tu-16N**                      | Badger-A     | ?   |     | Tanker with wingtip / host-drogue system     |
-| **Tu-16NN**                     | Badger-A     | ?   |     | Tanker with hose-drogue system               |
-| **Tu-16M**                      | Badger-A     |     |     | Unpiloted target conversions                 |
-| **Tu-16G**                      | Badger-A     | ?   |     | Demilitarized Tu-16s for Aeroflot            |
-| **Tu-16S**                      | Badger-A     | 14  |     | Search and rescue conversions                |
-| **Tu-16T**                      | Badger-A     | 76  |     | Torpedo bomber                               |
-| **Tu-16PL**                     | Badger-A     |     |     | Tu-16Ts modified to ASW role                 |
-| **Tu-16KS**                     | Badger-B     | 107 |     | KS-1 missile carrier                         |
-| **Tu-16KSR-2**                  | Badger-G     | 205 |     | KSR-2 missile carrier                        |
-| **Tu-16KSR-2-11**               | Badger-G     | 341 |     | KRS-2/11 missile carrier conversion          |
+| ------------------------------- | ------------ | --- | --- | -------------------------------------------- |
+| **Tu-16**                       | Badger-A     | 294 |     | Standard conventional bomber variant         |
+| **Tu-16A**                      | Badger-A     | 394 |     | Nuclear free-fall bomber                     |
+| **Tu-16AZ**                     | Badger-A     | 59  |     | Tu-16A with inflight refueling               |
+| **Tu-16Z**                      | Badger-A     | 114 |     | Tanker conversion with wingtip refueling     |
+| **Tu-16LL**                     | Badger-A/B   | ?   |     | Test & trials machines                       |
+| **Tu-16N**                      | Badger-A     | ?   |     | Tanker with wingtip / host-drogue system     |
+| **Tu-16NN**                     | Badger-A     | ?   |     | Tanker with hose-drogue system               |
+| **Tu-16M**                      | Badger-A     |     |     | Unpiloted target conversions                 |
+| **Tu-16G**                      | Badger-A     | ?   |     | Demilitarized Tu-16s for Aeroflot            |
+| **Tu-16S**                      | Badger-A     | 14  |     | Search and rescue conversions                |
+| **Tu-16T**                      | Badger-A     | 76  |     | Torpedo bomber                               |
+| **Tu-16PL**                     | Badger-A     |     |     | Tu-16Ts modified to ASW role                 |
+| **Tu-16KS**                     | Badger-B     | 107 |     | KS-1 missile carrier                         |
+| **Tu-16KSR-2**                  | Badger-G     | 205 |     | KSR-2 missile carrier                        |
+| **Tu-16KSR-2-11**               | Badger-G     | 341 |     | KRS-2/11 missile carrier conversion          |
 | **Tu-16K-26**                   | Badger-G Mod | 250 | 250 | KRS-2/11 & KSR-5 missile carrier conversions |
 | **Tu-16 Yolka**                 | Badger-H     | 72  | 72  | Chaff layer                                  |
 | **Tu-16Ye**                     | Badger-K     | ?   | 24  | ELINT                                        |
@@ -160,7 +162,7 @@ Fury:
 | **Tu-16E**                      | Badger-J     | 2   | 2   | Multi-role reconnaissance                    |
 | **Total**                       | 807          |     |     |                                              |
 
-<img src="/assets\images\warsaw\su\air\lra\media\image5.jpg" style="width:6.5in;height:4.72708in" />
+![](/assets/images/warsaw/su/air/lra/image5.jpg)
 
 **M-4 Tanker**
 
@@ -170,7 +172,7 @@ supporting some of the more modern fighters. About 70 M-4 3MS-2 Bison-B
 tankers are in service to support the fleet, not nearly enough by NATO
 standards but the Soviets seem content with that number.
 
-<img src="/assets\images\warsaw\su\air\lra\media\image6.jpg" style="width:6.5in;height:3.30972in" />
+![](/assets/images/warsaw/su/air/lra/image6.jpg)
 
 **Bombers in reserve**
 
@@ -178,4 +180,4 @@ About 500 post war Il-28 Beagles remain in reserve, mostly the basic
 bomber variant but also some of the ELINT and ECM versions, although
 these are now horribly obsolete.
 
-<img src="/assets\images\warsaw\su\air\lra\media\image7.jpg" style="width:6.5in;height:3.65625in" />
+![](/assets/images/warsaw/su/air/lra/image7.jpg)

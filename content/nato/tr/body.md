@@ -11,8 +11,8 @@ borders with both the Soviet Union and Bulgaria, Turkey also controls
 the entrance to the Black Sea through the two important straights, the
 Bosporus and Dardanelles, thus limiting Soviet ability to influence the
 Mediterranean. These factors were no doubt a significant factor in
-NATO’s meek reaction to the Turkish invasion of Cyprus and conflict with
-Greece in 1974.
+NATO’s meek reaction to the Turkish invasion of Cyprus and conflict
+with Greece in 1974.
 
 Turkey’s relationship with Greece has been a constant source of friction
 throughout recent history and certainly within NATO, but it’s difficult

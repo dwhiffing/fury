@@ -19,7 +19,7 @@ operational missions including at least one in each of the detachment
 locations, the other airframes are used for training, are in long term
 maintenance or storage, or are simply retired.
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image1.jpeg" style="width:5.03125in;height:3.97266in" />
+![](/assets/images/nato/us/air/reconnaissance/image1.jpeg)
 
 [**U2/TR-1 Dragon Lady**](https://fas.org/irp/program/collect/u-2.htm)
 
@@ -32,10 +32,11 @@ aircraft are configurable with a bewildering array of sensors which are
 detailed in the main link and also
 [here](https://foxtrotalpha.jalopnik.com/a-spotters-guide-to-the-u-2-dragon-lady-and-its-many-1539282603)
 (some of which came after 1994). The link gives some fascinating
-examples (at the unclassified level) of what the aircraft is capable of.
+examples (at the unclassified level) of what the aircraft is capable
+of.
 
 | Sqn                       | Wing                | Location        | No. | Type  |
-|---------------------------|---------------------|-----------------|-----|-------|
+| ------------------------- | ------------------- | --------------- | --- | ----- |
 | 5<sup>th</sup> SR Trg Sqn | 9<sup>th</sup> SRW  | Beale AFB, CA   | 5   | U-2ST |
 | 95<sup>th</sup> SRS       | 17<sup>th</sup> SRW | RAF Alconbury   | 8   | U-2S  |
 | 99<sup>th</sup> SRS       | 9<sup>th</sup> SRW  | Beale AFB, CA   | 12  | U-2S  |
@@ -44,7 +45,7 @@ examples (at the unclassified level) of what the aircraft is capable of.
 | Det 95<sup>th</sup> SRS   | 17<sup>th</sup> SRW | RAF Akrotiri    | 2   | U-2S  |
 | Det 99<sup>th</sup> SRS   | 9<sup>th</sup> SRW  | Patrick AFB, FL | 4   | U-2S  |
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image2.jpeg" style="width:6.5in;height:3.65625in" />
+![](/assets/images/nato/us/air/reconnaissance/image2.jpeg)
 
 [**RC-135 Rivet
 Joint**](https://fas.org/irp/program/collect/rivet_joint.htm)
@@ -59,7 +60,7 @@ Offutt AFB, NE by the 55<sup>th</sup> Reconnaissance Squadron (RS), with
 four aircraft stationed at RAF Mildenhall in the UK operating with
 95<sup>th</sup> SRS as the 95<sup>th</sup> RS.
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image3.jpg" style="width:4.96875in;height:3.97484in" />
+![](/assets/images/nato/us/air/reconnaissance/image3.jpg)
 
 [**E-8 Joint
 STARS**](https://en.wikipedia.org/wiki/Northrop_Grumman_E-8_Joint_STARS)
@@ -75,7 +76,7 @@ two additional C-135 (Boeing 707) have been converted and the
 Command and Control Squadron (ACCS) has been stood up to operate the
 four aircraft out of Robins AFB, GA.
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image4.jpg" style="width:5.26042in;height:3.30494in" />
+![](/assets/images/nato/us/air/reconnaissance/image4.jpg)
 
 [**E-3 Sentry**](https://fas.org/man/dod-101/sys/ac/e-3.htm)
 
@@ -89,10 +90,11 @@ Arabia’s 5 aircraft, providing a widely integrated understanding of the
 air picture wherever US or allied forces are deployed in the world.
 These aircraft are used throughout the world and are able to rapidly
 deploy, usually from Tinker AFB, the home base where several AACS
-(Airborne Air Control Squadrons) are located.
+(Airborne Air Control Squadrons) are
+located.
 
 | Sqn                   | Wing             | Location            | No. | Type | Remarks                  |
-|-----------------------|------------------|---------------------|-----|------|--------------------------|
+| --------------------- | ---------------- | ------------------- | --- | ---- | ------------------------ |
 | 960<sup>th</sup> AACS | 552<sup>nd</sup> | Tinker AFB          | 3   | E-3C | Immediate Readiness Sqn  |
 | 961<sup>st</sup> AACS | 18<sup>th</sup>  | Kadena AB           | 4   | E-3B | PACAF                    |
 | 962<sup>nd</sup> AACS | 3<sup>rd</sup>   | Elmendorf AFB       | 4   | E-3B | PACAF                    |
@@ -102,7 +104,7 @@ deploy, usually from Tinker AFB, the home base where several AACS
 | 966<sup>th</sup> AACS | 552<sup>nd</sup> | Tinker AFB          | 3   | E-3C |                          |
 | 979<sup>th</sup> AACS | 552<sup>nd</sup> | Tinker AFB          | 4   | E-3B | AF Reserve               |
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image5.jpg" style="width:6.17708in;height:4.13101in" />
+![](/assets/images/nato/us/air/reconnaissance/image5.jpg)
 
 [**RF-4C Phantom**](https://fas.org/irp/program/collect/rf-4.htm)
 
@@ -119,12 +121,13 @@ Some A-10 Warthogs have been modified to act as Forward Air Control
 (FAC) aircraft but they retain all other capabilities of the A-10 so are
 covered in that section. The Phantom performed exceptionally well in the
 Gulf War, and three Tactical Reconnaissance Squadrons (TRS) remain in
-Northern Fury, slightly longer than they did in the real world.
+Northern Fury, slightly longer than they did in the real
+world.
 
 | Sqn                  | Name         | Wing             | Location      | No. | Type  | Remarks         |
-|----------------------|--------------|------------------|---------------|-----|-------|-----------------|
+| -------------------- | ------------ | ---------------- | ------------- | --- | ----- | --------------- |
 | 16 TRS               | Tomahawks    | 363<sup>rd</sup> | Shaw AFB      | 18  | RF-4C | Tasked to USAFE |
 | 106 TRS              | Dixie        | Alabama ANG      | Birmingham AL | 18  | RF-4C | Tasked to USAFE |
 | 192<sup>nd</sup> TRS | High Rollers | Nevada ANG       | Reno, NV      | 18  | RF-4C | Tasked to PacAF |
 
-<img src="/assets\images\nato\us\air\reconnaissance\media\image6.jpeg" style="width:6.5in;height:4.34861in" />
+![](/assets/images/nato/us/air/reconnaissance/image6.jpeg)

@@ -4,20 +4,21 @@ The 4 aircraft types that round out the CVW on any aircraft carrier
 perform vital functions which enable the entire CVBG to survive and
 fight much more effectively.
 
-[**E-2C
-Hawkeye**](https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye)
+[***E-2C
+Hawkeye***](https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye)
 
-This aircraft is the Navy’s AWACs (Airborne Warning and Control)
+***This aircraft is the Navy’s AWACs (Airborne Warning and Control)
 aircraft.  Each CVW has a squadron of 4 of these highly capable
 aircraft. In Northern Fury 5 additional Hawkeye’s were needed for the
 additional CVW and this was achieved by maintaining older ‘Group 0’
 aircraft in service until further ‘Group II’ become available. The end
-goal is to have 75 available to the fleet by 1998.
+goal is to have 75 available to the fleet by
+1998.***
 
-<img src="/assets\images\nato\us\navy\aviation\carrier-support\media\image1.jpeg" style="width:6.5in;height:4.0625in" />
+![](/assets/images/nato/us/navy/aviation/carrier-support/image1.jpeg)
 
 | Sqn     | Name           | CVW     | No. | Type | Remarks               |
-|---------|----------------|---------|-----|------|-----------------------|
+| ------- | -------------- | ------- | --- | ---- | --------------------- |
 | VAW-78  | Night Wolves   | FRS     | 6   | E-2C | NAS North Island      |
 | VAW-88  | Cotton Pickers | CVRW-30 | 5   | E-2C | NAS Whidbey Island    |
 | VAW-111 | Grey Berets    | CVW-10  | 4   | E-2C | USS George Washington |
@@ -48,12 +49,13 @@ represents ‘Re-procured’ as the 39 aircraft built in the late 80’s, look
 very similar to those they replaced, but they were in fact much
 improved. All of the C-2A-R’s belong to two VRC squadrons, one on each
 coast and a detachment of 2 Greyhounds is normally attached to each
-deployed CVW.  There are 14 original C-2A’s in storage.
+deployed CVW.  There are 14 original C-2A’s in
+storage.
 
-<img src="/assets\images\nato\us\navy\aviation\carrier-support\media\image2.jpg" style="width:6.51042in;height:4.32943in" />
+![](/assets/images/nato/us/navy/aviation/carrier-support/image2.jpg)
 
 | Sqn    | Name      | CVW     | No. | Type   | Remarks          |
-|--------|-----------|---------|-----|--------|------------------|
+| ------ | --------- | ------- | --- | ------ | ---------------- |
 | VRC-30 | Providers | Various | 14  | C-2A-R | NAS North Island |
 | VRC-40 | Rawhides  | Various | 18  | C-2A-R | NAS Norfolk      |
 | VRC-50 | Foo Dogs  | Various | 7   | C-2A-R | NAS Cubi Point   |
@@ -62,17 +64,18 @@ deployed CVW.  There are 14 original C-2A’s in storage.
 [**EA-6B
 Prowler**](https://en.wikipedia.org/wiki/Northrop_Grumman_EA-6B_Prowler)
 
-The EA-6B Prowler was an Electronic Warfare (EW) platform that could
+**The EA-6B Prowler was an Electronic Warfare (EW) platform that could
 detect, classify, localize, supress and jam enemy electronic emissions.
 Equipped with jamming pods, or High-speed Anti-Radiation Missiles (HARM)
 or both, this aircraft was ideal for escorting strike packages in order
 to conduct Suppression of Enemy Air Defences (SEAD) missions, protecting
 other aircraft from enemy defensive Surface to Air Missiles (SAM) or
 detection by radar. A squadron of 4 or sometimes 5 of these valuable
-aircraft were part of each CVW.
+aircraft were part of each
+CVW.**
 
 | Sqn     | Name           | CVW     | No. | Type  | Remarks             |
-|---------|----------------|---------|-----|-------|---------------------|
+| ------- | -------------- | ------- | --- | ----- | ------------------- |
 | VAQ-33  | Firebirds      | FRS     | 16  | EA-6B | NAS Key West        |
 | VAQ-130 | Zappers        | CVW-3   | 4   | EA-6B | USS Eisenhower      |
 | VAQ-131 | Lancers        | CVW-2   | 4   | EA-6B | USS Constellation   |
@@ -89,7 +92,7 @@ aircraft were part of each CVW.
 | VAQ-209 | Star Warriors  | CVWR-20 | 4   | EA-6B | NAS Oceana          |
 | VAQ-309 | Axemen         | CVWR-30 | 4   | EA-6B | NAS Whidbey Island  |
 
-<img src="/assets\images\nato\us\navy\aviation\carrier-support\media\image3.jpeg" style="width:6.5in;height:4.23542in" />
+![](/assets/images/nato/us/navy/aviation/carrier-support/image3.jpeg)
 
 [**S-3B Viking**](https://en.wikipedia.org/wiki/Lockheed_S-3_Viking)
 
@@ -106,7 +109,7 @@ are simply not enough airframes however, and the constant demands mean
 that there are absolutely no spare Vikings in the fleet.
 
 | Sqn   | Name           | CVW    | No. | Type | Remarks               |
-|-------|----------------|--------|-----|------|-----------------------|
+| ----- | -------------- | ------ | --- | ---- | --------------------- |
 | VS-21 | Redtails       | CVW-5  | 8   | S-3B | USS Independence      |
 | VS-22 | Checkmates     | CVW-3  | 8   | S-3B | USS Eisenhower        |
 | VS-24 | Scouts         | CVW-8  | 8   | S-3B | USS T Roosevelt       |
@@ -122,7 +125,7 @@ that there are absolutely no spare Vikings in the fleet.
 | VS-38 | Red Griffins   | CVW-7  | 8   | S-3B | USS JF Kennedy        |
 | VS-41 | Shamrocks      | FRS    | 4   | S-3B | NAS Oceana            |
 
-<img src="/assets\images\nato\us\navy\aviation\carrier-support\media\image4.jpg" style="width:6.48958in;height:3.80208in" />
+![](/assets/images/nato/us/navy/aviation/carrier-support/image4.jpg)
 
 [**ES-3A Shadow**](https://fas.org/irp/program/collect/es-3_shadow.htm)
 
@@ -131,11 +134,12 @@ converted from the original S-3A airframes to fulfill the role of
 **ELINT** or Electronic Intelligence gathering.  Only 16 of these
 aircraft exist and they were produced between 1990 and 1992.  VQ-5 ‘Sea
 Shadows’ and VQ-6 ‘Black Ravens’ each fly 8 of these highly specialized
-aircraft, normally sending a pair to each deployed CVW.
+aircraft, normally sending a pair to each deployed
+CVW.
 
-<img src="/assets\images\nato\us\navy\aviation\carrier-support\media\image5.jpg" style="width:6.25in;height:4.45833in" />
+![](/assets/images/nato/us/navy/aviation/carrier-support/image5.jpg)
 
 | Sqn  | Name         | CVW     | No. | Type  | Remarks          |
-|------|--------------|---------|-----|-------|------------------|
+| ---- | ------------ | ------- | --- | ----- | ---------------- |
 | VQ-5 | Sea Shadows  | Various | 8   | ES-3A | NAS North Island |
 | VQ-6 | Black Ravens | Various | 8   | ES-3A | NAS Cecil Field  |

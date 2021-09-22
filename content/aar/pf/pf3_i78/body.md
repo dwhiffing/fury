@@ -1,6 +1,6 @@
-**<u>Pacific Fury \#3 – Caught Flat Footed</u>**
+**<span class="underline">Pacific Fury \#3 – Caught Flat Footed</span>**
 
-**<u>Playtest Report by Ilya78 May 2021</u>**
+**<span class="underline">Playtest Report by Ilya78 May 2021</span>**
 
 OK, here it is… I played with the 1.1 version.
 
@@ -41,14 +41,14 @@ F-5E Tiger II: aggressors for the exercise at Cubi Point
 
 2 KC-135 tankers, a C-141 Starlifter at Cubi Point.
 
-2 B-52s at Anderson AB, being armed with Harpoons (Yess!!!)
+2 B-52s at Anderson AB, being armed with Harpoons (Yess\!\!\!)
 
 Filipino Air Force:
 
 F-5A Freedom Fighters (without radars) at airports on Luzon and Leyte
 
 Interesting attack aircrafts: OV-10A Broncos, AS.211 trainers armed for
-ground attack, piston engine (!) SF.260Ws
+ground attack, piston engine (\!) SF.260Ws
 
 Recon: F.27 and BN-2 MPAs; Super King Air 200T area surveillance
 aircrafts
@@ -75,7 +75,7 @@ Silence before the storm
 The ordinary patrols (CAP, ASW, AEW, ELINT) were set up around the CVBG.
 The AEW immediately detected an AGI and a destroyer in front of and
 behind the fleet, and a Bear MPA was following us as well. The S3 Viking
-doing the “carrier far ASW” detected a submarine with its radar (!). I
+doing the “carrier far ASW” detected a submarine with its radar (\!). I
 thought it was the Juliet, so the Viking flew closer and dropped some
 sonobuoys. I was right, it was the Juliet at periscope depth, and before
 I could do anything, the Viking launched a torpedo and sank the
@@ -105,7 +105,7 @@ close to each other, sorry...). Both the AB and the Filipino Navy gave
 me a patrol boat, and they finished off the last guerilla boat. AS.211
 trainers and OV-10 Broncos took off to silence the mortars. The trainers
 could not hit anything, but the Broncos made short work of them. This
-attack costed me 6(!) F/A-18D Hornets, 3 Tomcats, both tankers and an
+attack costed me 6(\!) F/A-18D Hornets, 3 Tomcats, both tankers and an
 ES-3 Shadow. And this was the smaller problem...
 
 Doom of the Gridley

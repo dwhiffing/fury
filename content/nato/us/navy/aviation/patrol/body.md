@@ -8,7 +8,7 @@ which is easy to upgrade but are quiet vulnerable to enemy action. These
 are valuable aircraft so any loss would have a significant impact and
 gain high level attention.
 
-<img src="/assets\images\nato\us\navy\aviation\patrol\media\image1.jpg" style="width:6.4375in;height:2.23031in" />
+![](/assets/images/nato/us/navy/aviation/patrol/image1.jpg)
 
 [**P-3 Orion**](http://www.p3orion.nl/index.html)
 
@@ -33,7 +33,7 @@ and therefore 5 reserve squadrons held onto the P-3B longer than in real
 life.
 
 | Sqn       | Name              | Location                  | No. | Type         | Remarks               |
-|-----------|-------------------|---------------------------|-----|--------------|-----------------------|
+| --------- | ----------------- | ------------------------- | --- | ------------ | --------------------- |
 | VP-1      | Screaming Eagles  | NAS Barbers Point, Hawaii | 9   | P-3C UIIIR   |                       |
 | VP-2      | Skinny Dragons    | NAS Barbers Point, Hawaii | 9   | P-3C UIIIR   |                       |
 | VP-5      | Mad Foxes         | NAS Jacksonville, Fla     | 9   | P-3C UIIIR   |                       |
@@ -62,21 +62,21 @@ life.
 | VP-51     | Dragons           | NAS Jacksonville, Fla.    | 9   | P-3C UIIIR   |                       |
 | VP-60 (R) | Cobras            | NAS Glenview, Ill         | 9   | P-3B MOD     |                       |
 | VP-62 (R) | Broadarrows       | NAS Jacksonville, Fla.    | 9   | P-3B TAC/NAV | Held onto P-3B for NF |
-| VP-64 (R) | Condors           | NAS Willow Grove, Pa      | 9   | P-3C UII     |                       |
+| VP-64 (R) | Condors           | NAS Willow Grove, Pa      | 9   | P-3C UII     |                       |
 | VP-65 (R) | Tridents          | NAS Point Mugu, Calif     | 9   | P-3B MOD     | Held onto P-3B for NF |
-| VP-66 (R) | Liberty Bells     | NAS Willow Grove, Pa      | 9   | P-3C UI      |                       |
-| VP-67 (R) | Golden Hawks      | NAS Memphis, Tenn.        | 9   | P-3B TAC/NAV |                       |
+| VP-66 (R) | Liberty Bells     | NAS Willow Grove, Pa      | 9   | P-3C UI      |                       |
+| VP-67 (R) | Golden Hawks      | NAS Memphis, Tenn.        | 9   | P-3B TAC/NAV |                       |
 | VP-68 (R) | Blackhawks        | Andrews AFB, Md           | 9   | P-3B TAC/NAV | Held onto P-3B for NF |
-| VP-69 (R) | Totems            | NAS Whidbey Island, Wash  | 9   | P-3C UI      |                       |
-| VP-90 (R) | The Lions         | NAS Glenview, Ill.        | 9   | P-3B MOD     |                       |
+| VP-69 (R) | Totems            | NAS Whidbey Island, Wash  | 9   | P-3C UI      |                       |
+| VP-90 (R) | The Lions         | NAS Glenview, Ill.        | 9   | P-3B MOD     |                       |
 | VP-91 (R) | Black Cats        | NAS Moffett Field, Calif. | 9   | P-3B TAC/NAV | Held onto P-3B for NF |
-| VP-92 (R) | Minutemen         | NAS Brunswick, Maine      | 9   | P-3C UII     |                       |
-| VP-93 (R) | Executioners      | NAF Detroit, Mich.        | 9   | P-3B TAC/NAV |                       |
+| VP-92 (R) | Minutemen         | NAS Brunswick, Maine      | 9   | P-3C UII     |                       |
+| VP-93 (R) | Executioners      | NAF Detroit, Mich.        | 9   | P-3B TAC/NAV |                       |
 | VP-94 (R) | Crawfishers       | NAS New Orleans, La       | 9   | P-3B TAC/NAV | Held onto P-3B for NF |
 
  
 
-<img src="/assets\images\nato\us\navy\aviation\patrol\media\image2.jpg" style="width:7.1875in;height:4.19885in" />
+![](/assets/images/nato/us/navy/aviation/patrol/image2.jpg)
 
 [**EP-3E ARIES & ARIES
 II**](https://fas.org/irp/program/collect/ep-3_aries.htm)
@@ -96,14 +96,15 @@ planed 12 airframes are available. The two squadrons flying this type
 have a mix of the ARIES and ARIES II airframes and have global
 responsibilities. The aircraft are routinely deployed to any potential
 conflict zone or area where interesting electronic intelligence may be
-available or of use.
+available or of
+use.
 
 | Sqn  | Name           | Location                 | No. | Type      | Remarks              |
-|------|----------------|--------------------------|-----|-----------|----------------------|
+| ---- | -------------- | ------------------------ | --- | --------- | -------------------- |
 | VQ-1 | World Watchers | NAS Whidbey Island, Wash | 9   | EP-3E Mix | 2 at Atsugi Japan    |
 | VQ-2 | Batmen         | NAS Rota Spain           | 9   | EP-3E Mix | 2 at Souda Bay Crete |
 
-<img src="/assets\images\nato\us\navy\aviation\patrol\media\image3.jpg" style="width:6.5in;height:4.30625in" />
+![](/assets/images/nato/us/navy/aviation/patrol/image3.jpg)
 
 [**E-6A Mercury**](https://fas.org/nuke/guide/usa/c3i/e-6.htm)
 
@@ -119,8 +120,8 @@ slightly and all but the last aircraft have been received and the
 16<sup>th</sup> will arrive in March 1994.
 
 | Sqn  | Name    | Location   | No. | Type | Remarks |
-|------|---------|------------|-----|------|---------|
+| ---- | ------- | ---------- | --- | ---- | ------- |
 | VQ-3 | Ironman | Tinker AFB | 8   | E-6A |         |
 | VQ-4 | Shadows | Tinker AFB | 7   | E-6A |         |
 
-<img src="/assets\images\nato\us\navy\aviation\patrol\media\image4.jpg" style="width:6.5in;height:4.40417in" />
+![](/assets/images/nato/us/navy/aviation/patrol/image4.jpg)

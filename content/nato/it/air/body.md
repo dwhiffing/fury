@@ -4,7 +4,7 @@ in 1946. The AM is a medium sized air force employing most modern
 capabilities available in 1994.
 
 [**Panavia
-Tornado**](https://en.wikipedia.org/wiki/Panavia_Tornado#Italian_Air_Force_(Aeronautica_Militare)):
+Tornado**](https://en.wikipedia.org/wiki/Panavia_Tornado#Italian_Air_Force_\(Aeronautica_Militare\)):
 The Tornado was developed jointly by Britain, Germany and Italy.
 Eventually almost 1000 Tornados were produced in three main variants:
 The ADV or Air Defence Variant; IDS or Interdictor/Strike variant and;
@@ -19,17 +19,18 @@ Therefore 24 British ADV aircraft were leased from the RAF and flown by
 the AM; historically this deal was made in 1993 with acceptance in 1995
 but in Northern Fury these dates are advanced by two years to 1991 and
 1993 respectively. Therefore at the start of Northern Fury the AM is
-operating 124 Tornados including 100 IDS and 24 ADVs.
+operating 124 Tornados including 100 IDS and 24
+ADVs.
 
 | Sqn          | Name          | Location        | No. | Type        | Remarks |
-|--------------|---------------|-----------------|-----|-------------|---------|
+| ------------ | ------------- | --------------- | --- | ----------- | ------- |
 | 12\* Gruppo  | Saetta        | Gioia del Colle | 24  | Tornado ADV |         |
 | 102\* Gruppo | Paperi        | Ghedi           | 24  | Tornado IDS |         |
 | 154\* Gruppo | Diavoli Rossi | Ghedi           | 24  | Tornado IDS |         |
 | 155\* Gruppo | Pantere Nere  | Piacenza        | 24  | Tornado IDS |         |
 | 156\* Gruppo | Linci         | Ghedi           | 24  | Tornado IDS |         |
 
-<img src="/assets\images\nato\it\air\media\image1.jpg" style="width:5.90476in;height:4.01347in" />
+![](/assets/images/nato/it/air/image1.jpg)
 
 [**F-104
 Starfighter**](https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter):
@@ -47,10 +48,11 @@ could fire ‘all-aspect’ Aim-9L Sidewinders, Aim-7 Sparrow and Aspide
 missiles. 28\* Gruppo historically lost all of its aircraft in 1982,
 which were moved to Grosseto but remained active until 1993 – in
 Northern Fury this squadron was re-equipped with F-104s instead of
-adopting the AMX.
+adopting the
+AMX.
 
 | Sqn         | Name               | Location   | No. | Type   | Remarks |
-|-------------|--------------------|------------|-----|--------|---------|
+| ----------- | ------------------ | ---------- | --- | ------ | ------- |
 | 9\* Gruppo  | Meraviglioso       | Grosseto   | 24  | F-104S |         |
 | 10\* Gruppo | Cavallino Rampante | Grazzanise | 24  | F-104S |         |
 | 21\* Gruppo | Tigre              | Cameri     | 24  | F-104S |         |
@@ -58,7 +60,7 @@ adopting the AMX.
 | 23\* Gruppo | Veltri             | Rimini     | 24  | F-104S |         |
 | 28\* Gruppo | Streghe            | Grosseto   | 24  | F-104S |         |
 
-<img src="/assets\images\nato\it\air\media\image2.jpg" style="width:6.5in;height:4.33542in" />
+![](/assets/images/nato/it/air/image2.jpg)
 
 [**A-11 Ghibli
 (AMX)**:](https://en.wikipedia.org/wiki/AMX_International_AMX) The
@@ -72,12 +74,12 @@ were upgraded (in Northern Fury) to enable the use of PGM about two
 years before they were historically.
 
 | Sqn          | Name       | Location    | No. | Type | Remarks |
-|--------------|------------|-------------|-----|------|---------|
+| ------------ | ---------- | ----------- | --- | ---- | ------- |
 | 103\* Gruppo | Indiani    | Treviso     | 16  | A-11 |         |
 | 132\* Gruppo | Gatti Neri | Villafranca | 16  | A-11 |         |
 | 201\* Gruppo | Scorpioni  | Capodichino | 14  | A-11 |         |
 
-<img src="/assets\images\nato\it\air\media\image3.jpg" style="width:6.5in;height:4.13542in" />
+![](/assets/images/nato/it/air/image3.jpg)
 
 [**G.91Y**](https://en.wikipedia.org/wiki/Fiat_G.91Y): Another Italian
 designed ground attack aircraft entering service in the 1970s. By 1994
@@ -87,11 +89,11 @@ Northern Fury, 65 aircraft remained with 48 employed in operational
 squadrons.
 
 | Sqn          | Name   | Location | No. | Type  | Remarks |
-|--------------|--------|----------|-----|-------|---------|
+| ------------ | ------ | -------- | --- | ----- | ------- |
 | 13\* Gruppo  | Falchi | Brindisi | 24  | G.91Y |         |
 | 101\* Gruppo | Lampi  | Rimini   | 24  | G.91Y |         |
 
-<img src="/assets\images\nato\it\air\media\image4.jpg" style="width:6.5in;height:4.3875in" />
+![](/assets/images/nato/it/air/image4.jpg)
 
 [**BR.1150
 Atlantic**](https://en.wikipedia.org/wiki/Bréguet_1150_Atlantic): A
@@ -101,11 +103,11 @@ which by 1994 were operated by two Stormo (Air Wing) each with one
 Gruppo (Squadron).
 
 | Sqn         | Wing        | Location       | No. | Type    | Remarks |
-|-------------|-------------|----------------|-----|---------|---------|
+| ----------- | ----------- | -------------- | --- | ------- | ------- |
 | 86\* Gruppo | 30\* Stormo | Cagliari-Elmas | 9   | BR.1150 |         |
 | 88\* Gruppo | 41\* Stormo | Sigonella      | 9   | BR.1150 |         |
 
-<img src="/assets\images\nato\it\air\media\image5.jpg" style="width:10.66667in;height:7.125in" />
+![](/assets/images/nato/it/air/image5.jpg)
 
 **[G.222](https://en.wikipedia.org/wiki/Aeritalia_G.222):** An Italian
 designed and built medium transport aircraft, the only other NATO
@@ -119,19 +121,20 @@ Warfare versions (G.222VS), and four Radio/Radar calibration version
 (G.222RM).
 
 | Sqn         | Name   | Location        | No. | Type       | Remarks |
-|-------------|--------|-----------------|-----|------------|---------|
+| ----------- | ------ | --------------- | --- | ---------- | ------- |
 | 2\* Gruppo  | Lyra   | Pisa            | 22  | G.222A     |         |
 | 71\* Gruppo | Persei | Pratica di Mare | 6   | G.222VS/RM |         |
 | 98\* Groppo | Lupi   | Pisa            | 22  | G.222A     |         |
 
-<img src="/assets\images\nato\it\air\media\image6.jpg" style="width:12.93056in;height:8.70833in" />
+![](/assets/images/nato/it/air/image6.jpg)
 
 **Other Transport Aircraft**: Italy operated 14 C-130H Hercules and four
-Boeing 707 Tankers
+Boeing 707
+Tankers
 
 | Sqn         | Name      | Location        | No. | Type          | Remarks |
-|-------------|-----------|-----------------|-----|---------------|---------|
+| ----------- | --------- | --------------- | --- | ------------- | ------- |
 | 8\* Gruppo  | Cavalieri | Pratica di Mare | 4   | Boeing 707T/T |         |
 | 50\* Gruppo | Vega      | Pisa            | 14  | C-130H        |         |
 
-<img src="/assets\images\nato\it\air\media\image7.jpg" style="width:8.64in;height:6.48in" />
+![](/assets/images/nato/it/air/image7.jpg)

@@ -1,22 +1,23 @@
-**<u>Northern Fury \#34 – The Longest Battle</u>**
+**<span class="underline">Northern Fury \#34 – The Longest
+Battle</span>**
 
-**<u>AAR by Ferret69, Sep 2016</u>**
+**<span class="underline">AAR by Ferret69, Sep 2016</span>**
 
-WARNING: THIS AAR WILL CONTAIN SPOILERS!
+WARNING: THIS AAR WILL CONTAIN SPOILERS\!
 
 **Northern Fury 12.6: The Longest Battle AAR *\[Note, scenario number
 later changed to NF \#34\]***
 
 So I’ve never done one of these before but after reading Airborne
-Rifle’s Northern Fury AAR over on Groghead’s and Tailhook’s ongoing AAR
-on the first Caribbean Fury scenario I decided why not do one of these.
-Then I made a possibly fatal decision; let’s do Northern Fury 12.6! In
-case you don’t know Northern Fury is a collection of scenarios created
-by Gunner98 (full props to him) that detail a 1994 global war and the
-North Atlantic/Norway part of it. 12.6 details trying to shepherd
-convoys across the Atlantic whilst dealing with all sorts of spot crises
-as well. The possibly fatal part of it is its length; 1 in game
-month…this ought to be great fun…
+Rifle’s Northern Fury AAR over on Groghead’s and Tailhook’s ongoing
+AAR on the first Caribbean Fury scenario I decided why not do one of
+these. Then I made a possibly fatal decision; let’s do Northern Fury
+12.6\! In case you don’t know Northern Fury is a collection of scenarios
+created by Gunner98 (full props to him) that detail a 1994 global war
+and the North Atlantic/Norway part of it. 12.6 details trying to
+shepherd convoys across the Atlantic whilst dealing with all sorts of
+spot crises as well. The possibly fatal part of it is its length; 1 in
+game month…this ought to be great fun…
 
 The setup is a big one; I’ve got around 400+ merchants either sitting in
 port or milling around aimlessly without escort, I have submarines
@@ -38,7 +39,7 @@ cruise between Florida and Cuba. The boat was his though and he believed
 in his crew to be able to serve the US Navy well whatever their role in
 this war. He was about to go to bed when a sonar operator shouted
 
-“Goblin, approx 44 nautical miles to the east!”
+“Goblin, approx 44 nautical miles to the east\!”
 
 He scrambled to the sonar operator and asked him what he thought it was.
 The sonar operator replied
@@ -85,7 +86,7 @@ phantom sub.
 Suddenly an operator in the first S-3 that had arrived on scene off Cuba
 shouted
 
-“Got a medium on number 7!”
+“Got a medium on number 7\!”
 
 The pilot then began to bank and readied to do a MAD run and deploy an
 active sonobuoy before attacking the contact with the Mk50 Barracuda’s
@@ -103,10 +104,10 @@ joined seconds later by another Barracuda.
 Aboard the Kilo Class submarine Delfin Captain First Rank Javier Ortiz
 heard the cries of the sonar operators;
 
-“High-frequency pinging to port captain!”
+“High-frequency pinging to port captain\!”
 
 Ortiz cringed inside for he knew that he done so well at avoiding the
-imperialists! Indeed how they had even guessed he was here was beyond
+imperialists\! Indeed how they had even guessed he was here was beyond
 him. He could have sworn that he had avoided them but he also knew that
 he must deal with the present and that it included two Americano
 torpedoes. There was a problem however, he was unable to radically
@@ -114,7 +115,7 @@ increase speed without losing the ability to snorkel, he could
 crash-dive but he knew to Yankee’s would just harass him until he had to
 surface.
 
-“Bring course to 4-2 and launch 2 noisemakers!” Ortiz ordered.
+“Bring course to 4-2 and launch 2 noisemakers\!” Ortiz ordered.
 
 The crew responded gallantly and took about their task with a quiet
 energy.
@@ -133,7 +134,7 @@ They were gonna get him.
 Ortiz and his crew were delighted; they’d foiled the capitalist attack
 and had now put on speed, heading West however
 
-“High-frequency pinging to port again sir!”
+“High-frequency pinging to port again sir\!”
 
 “How many and how close?” Javier demanded
 
@@ -143,11 +144,11 @@ A wave of fear passed over Javier and the men of his crew for 0.4
 nautical miles was not a lot of time for countermeasures but they would
 still have to try;
 
-“Bring the ship about, hard turn to starboard!” Ortiz cried.
+“Bring the ship about, hard turn to starboard\!” Ortiz cried.
 
 As the Mk50 bored in and impacted the whole ship shook but the crew of
 Delfin also realised that the warhead was a small one, they may survive
-yet!
+yet\!
 
 “Damage report” Ortiz ordered
 
@@ -178,19 +179,19 @@ two of the planes; both of the AIM-7 volleys had at least one hit,
 knocking a pair of Mirage V interceptors from the sky. Soon the enemy
 formation was in AIM-9 range and all 4 AIM-9’s lanced through the air to
 score 4 hits. The ANG pilots were astounded; they’d downed 6 planes in
-under a minute! But they both knew that the job wasn’t done. Even though
-they had only cannon remaining the two F-16’s bored in at afterburner
-towards the Nicaraguan jets. One Mirage V launched a missile but the
-F-16 targeted spiralled upwards and launched chaff that the French-built
-missile detonated into. As he watched his wingman take evasive action
-the leader carved through the remaining Nicaraguan’s and unleashed a
-burst of 20mm fire at one plane whose pilot was killed in the head-on
-engagement. Seeing his leader dead and his hopes dashed by the seemingly
-invincible American aircraft the last escort tried to turn for home but
-the ANG crew gave him no mercy and they sped behind him, unleashing
-another burst. The Mirage V’s fuel line burst and the fuel began to
-spill into the engine, causing a spontaneous detonation that tore
-through the rear of the Nicaraguan’s plane. As the F-16’s cherished
+under a minute\! But they both knew that the job wasn’t done. Even
+though they had only cannon remaining the two F-16’s bored in at
+afterburner towards the Nicaraguan jets. One Mirage V launched a missile
+but the F-16 targeted spiralled upwards and launched chaff that the
+French-built missile detonated into. As he watched his wingman take
+evasive action the leader carved through the remaining Nicaraguan’s and
+unleashed a burst of 20mm fire at one plane whose pilot was killed in
+the head-on engagement. Seeing his leader dead and his hopes dashed by
+the seemingly invincible American aircraft the last escort tried to turn
+for home but the ANG crew gave him no mercy and they sped behind him,
+unleashing another burst. The Mirage V’s fuel line burst and the fuel
+began to spill into the engine, causing a spontaneous detonation that
+tore through the rear of the Nicaraguan’s plane. As the F-16’s cherished
 their kill they turned back to their original target; the strikers.
 
 The 4 striker’s had been confident in their escorts ability to destroy
@@ -277,7 +278,7 @@ sent anything in hours and this flight was simply a one-off ELINT and
 recon mission so that Air Force strikers could come later, soon the two
 E-8’s would be deployed as well, to a role more fitting of their
 considerable talents. This then was the atmosphere when one specialist
-on bard shouted “I’ve got a Goblin!’’. Everyone turned their heads at
+on bard shouted “I’ve got a Goblin\!’’. Everyone turned their heads at
 that; Goblins were underwater, how the hell did they find one? The crew
 soon realised though that how they found it didn’t matter, the fact they
 had found it did. “Send a message to the JFK.” the pilot ordered.
@@ -311,7 +312,7 @@ messenger joked.
 
 “Anyway, I’m backing the Air Force pukes, get an S-3 there.”
 
-“Yes sir!”
+“Yes sir\!”
 
 As the pilots of an S-3B took off and headed for this mystery contact
 the two ANG pilots were up to their knees in Nicaraguan goons. 2 had
@@ -325,11 +326,12 @@ single transmission;
 “Spooky inbound”.
 
 Aboard the S-3 the pilot looked out of the cockpit and saw an incredible
-sight; a Russkie sub ran aground! No wonder the E-8 picked it up, it was
-beached on a Bahamas’ sandbar. Didn’t mean it didn’t need to die though
-and one quick Mk50 convinced the sailors of Vyborg that further attempts
-to save their ship was futile and soon the crew of the S-3 saw scores of
-Soviet submariners pour out of the hull to wait internment as POW’s.
+sight; a Russkie sub ran aground\! No wonder the E-8 picked it up, it
+was beached on a Bahamas’ sandbar. Didn’t mean it didn’t need to die
+though and one quick Mk50 convinced the sailors of Vyborg that further
+attempts to save their ship was futile and soon the crew of the S-3 saw
+scores of Soviet submariners pour out of the hull to wait internment as
+POW’s.
 
 Strategy:
 

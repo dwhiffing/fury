@@ -1,9 +1,9 @@
 **Northern Fury – Swift, Silent and Deadly**
 
-**<u>Playtest Report by AndrewJ Aug 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Aug 2017</span>**
 
 "A quick scan of the Drop Zone names however, reminds you that on
-operations such as these things don’t always go right!"
+operations such as these things don’t always go right\!"
 
 **Playthrough \#1**
 
@@ -38,7 +38,7 @@ with an enemy ground based jammer fuzzing things up between my planes
 and their planes. My jammers are there too, but all they’re doing is
 preventing the Su-27s from using their Alamo-Cs at long range where I
 might be able to dodge them. Now they’re only firing well inside the
-no-escape zone! Still, I manage to shoot the enemy down at the cost of
+no-escape zone\! Still, I manage to shoot the enemy down at the cost of
 almost all my Sparrows.
 
 The C-130s are down at wavetop height now, and the F-18s fly in to start

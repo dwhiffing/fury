@@ -1,5 +1,5 @@
 [**BBTG Wisconsin
-(BB-64)**](https://en.wikipedia.org/wiki/USS_Wisconsin_(BB-64))
+(BB-64)**](https://en.wikipedia.org/wiki/USS_Wisconsin_\(BB-64\))
 
 USS Wisconsin also known as saw ‘**Wisky**’ service in World War Two,
 Korean War, and the Gulf War. In 1956 she was involved in a collision
@@ -14,24 +14,24 @@ At war start she is tied up in Norfolk but is quickly put into action
 and, along with the USS Missouri participates first in the amphibious
 operations to retake Iceland and then Norway.
 
-<img src="/assets\images\nato\us\navy\battleships\wisconsin\media\image1.jpeg" style="width:6.5in;height:4.0625in" />
+![](/assets/images/nato/us/navy/battleships/wisconsin/image1.jpeg)
 
 USS Wisconsin
 
 TG Wisconsin:
 
--   BB-64 USS Wisconsin
+  - BB-64 USS Wisconsin
+    
+      - Elem VC-6 ‘Firebees’ 4x RQ-2A Pioneer
+    
+      - Elem HC-2 ‘Fleet Angels’ 1x SH-3G Sea King
 
-    -   Elem VC-6 ‘Firebees’ 4x RQ-2A Pioneer
+  - CG-26 USS Belknap
 
-    -   Elem HC-2 ‘Fleet Angels’ 1x SH-3G Sea King
+  - FFG-28 USS Boone
+    
+      - Elem HS-44 ‘Swamp Foxs’ 2x SH-60B Seahawks
 
--   CG-26 USS Belknap
-
--   FFG-28 USS Boone
-
-    -   Elem HS-44 ‘Swamp Foxs’ 2x SH-60B Seahawks
-
--   FF-1085 USS Donald B. Beary
-
-    -   Elem HSL-38 ‘Seawolves’ 1x SH-2F Seasprite
+  - FF-1085 USS Donald B. Beary
+    
+      - Elem HSL-38 ‘Seawolves’ 1x SH-2F Seasprite
