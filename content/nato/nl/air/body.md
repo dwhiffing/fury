@@ -6,7 +6,7 @@ Allied Tactical Air Force (2 ATAF). In addition to supporting elements,
 there are two key contributors to that role: The F-16; and Ground Based
 Air Defence (GBAD) in the form of Patriot and I-Hawk missile units.
 
-<img src="/assets\images\nato\nl\air\media\image1.jpeg" style="width:5.28125in;height:3.24487in" />
+![](/assets/images/nato/nl/air/image1.jpeg)
 
 [**F-16**](http://www.f-16.net/f-16_users_article8.html)
 
@@ -33,7 +33,7 @@ squadron maintains three to five ‘B’ model twin seat versions for
 readiness and refresher training.
 
 | Sqn | Name         | Location    | No. | Type        | Remarks |
-|-----|--------------|-------------|-----|-------------|---------|
+| --- | ------------ | ----------- | --- | ----------- | ------- |
 | 306 | Hawk         | Volkel      | 18  | F-16A Recon | T & E   |
 | 311 | Eagle        | Volkel      | 24  | F-16A MLU   |         |
 | 312 | Bonzo        | Volkel      | 24  | F-16A MLU   |         |
@@ -51,7 +51,7 @@ Force maintains them in ready reserve. 105 aircraft (75 single seat and
 30 double seat) are in storage ready to mobilize. It will likely only
 take 2-3 weeks to organize reserve pilots into new squadrons.
 
-<img src="/assets\images\nato\nl\air\media\image2.jpg" style="width:6.5in;height:3.65625in" />
+![](/assets/images/nato/nl/air/image2.jpg)
 
 **KDC-10**
 
@@ -62,14 +62,14 @@ airliners to military refuelling standard. In Northern Fury, the delays
 were avoided and the two aircraft were delivered to 334<sup>th</sup>
 ‘Pegasus’ Squadron at Eindhoven in late 1993.
 
-<img src="/assets\images\nato\nl\air\media\image3.jpg" style="width:5.23923in;height:3.26042in" />
+![](/assets/images/nato/nl/air/image3.jpg)
 
 **C-130 Hercules**
 
 Also at Eindhoven is 336 Squadron operating 4x C-130H in the transport
 role.
 
-<img src="/assets\images\nato\nl\air\media\image4.jpg" style="width:5.23958in;height:3.48964in" />
+![](/assets/images/nato/nl/air/image4.jpg)
 
 **Ground Based Air Defence (GBAD)**
 
@@ -83,6 +83,6 @@ only 160 Patriot missiles were purchased, a factory in the Netherlands
 will produce \~2000 missiles for the US so supply in an emergency should
 not be a problem.
 
-<img src="/assets\images\nato\nl\air\media\image5.png" style="width:4.54861in;height:4.1875in" />
+![](/assets/images/nato/nl/air/image5.png)
 
-<img src="/assets\images\nato\nl\air\media\image6.jpeg" style="width:4.58654in;height:2.98958in" />
+![](/assets/images/nato/nl/air/image6.jpeg)

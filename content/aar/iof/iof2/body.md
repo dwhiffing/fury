@@ -2,7 +2,8 @@
 
 13 Feb 1994, 1300 Zulu, 1600 Local
 
-<img src="/assets\images\aar\iof\iof2\media\image1.jpeg" style="width:6.25in;height:4.16667in" alt="HMS Ark Royal V - Welcome" />
+![HMS Ark Royal V -
+Welcome](/assets/images/aar/iof/iof2/image1.jpeg)
 
 You’re commanding the HMS Ark Royal Battle Group which has just
 completed a long scheduled port visit to Cape Town South Africa.
@@ -21,10 +22,12 @@ protecting shipping in the Gulf of Aden and African coast) short and
 head to either the Persian Gulf or the Mediterranean. At least things
 should be quiet for the next few days of passage north.
 
-**<u>Indian Ocean Fury \#2</u>** follows the path of the Ark Royal and
-other forces along the east coast of Africa as the area crawls into
-World War Three. Soviet proxy states pop up unexpectedly while the hunt
-is on for some elusive surface units hiding in this remote and isolated
-area.
+**<span class="underline">Indian Ocean Fury \#2</span>** follows the
+path of the Ark Royal and other forces along the east coast of Africa as
+the area crawls into World War Three. Soviet proxy states pop up
+unexpectedly while the hunt is on for some elusive surface units hiding
+in this remote and isolated area.
 
-<img src="/assets\images\aar\iof\iof2\media\image2.jpeg" style="width:6.03448in;height:4.01042in" alt="Armed Forces for the Defence of Mozambique / Forças Armadas de Defesa de Moçambique ( FADM ) - Page 2" />
+![Armed Forces for the Defence of Mozambique / Forças Armadas de Defesa
+de Moçambique ( FADM ) - Page
+2](/assets/images/aar/iof/iof2/image2.jpeg)

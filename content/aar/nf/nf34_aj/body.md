@@ -1,8 +1,8 @@
 **Northern Fury – The Longest Battle**
 
-**<u>Playtest Report by AndrewJ Nov 2016</u>**
+**<span class="underline">Playtest Report by AndrewJ Nov 2016</span>**
 
-Wow, this one's a monster! I've been staring at it for three evenings
+Wow, this one's a monster\! I've been staring at it for three evenings
 now, plotting and planning, and I still haven't had the courage to hit
 play.
 
@@ -15,7 +15,7 @@ defensive measure cuts into travel time. It's soo tempting to send the
 fast container ships together in fast convoys, but then I double the
 number of targets, cut the defences for each in half, and make it much
 more difficult for the escorts to hear anything. But the guys in Europe
-are desperate for supplies! Aaarrggghhh!
+are desperate for supplies\! Aaarrggghhh\!
 
 Nearly ready to go here too, after \~ 4 to 5 evenings of looking at it.
 
@@ -80,7 +80,7 @@ merchants trickle in I won't have a good way to cover them, and they'll
 either have to go it alone, or wait far too long for an escort to
 arrive.
 
-Fingers crossed!
+Fingers crossed\!
 
 Well, after a couple of days of play I'm about half a day in.
 
@@ -112,7 +112,7 @@ be careful.
 The submarine war was going well - at first. Helicopters ID-ed and
 eliminated an SS in the channel between the Dominican and Puerto Rico,
 and the Trepang snuck up behind a Kilo in the Florida Straits and
-torpedoed it in the baffles. Things going well! This should be easy!
+torpedoed it in the baffles. Things going well\! This should be easy\!
 Then my convoy of beautiful high speed military transports runs right
 over a goddamned Tango before they can meet up with their escorts, and
 suddenly I've got multiple inbound torpedoes. Three of my ships collect
@@ -176,7 +176,7 @@ out of maintenance depots or dispersed sites, so I've been bombing their
 runways to crater them and try to prevent any unpleasant surprises in
 that respect. Honduras and Nicaragua have been quiet since their
 aircraft probes on Day 1, so I'm leaving them alone. (Crap. Spoke to
-soon. Goblin directly in front of my Panama convoys! But fortunately
+soon. Goblin directly in front of my Panama convoys\! But fortunately
 just Tuna.) Venezuela is watching, but so far no hostile action, despite
 some close passes with some of the Constitucion class patrol boats. I am
 worried about the one patrolling between the Dominican and Puerto Rico,
@@ -190,7 +190,7 @@ was the warship about 500 miles to the ENE of the Falklands. I had not
 expected them to be so far out. This has prompted Nimrod searches in the
 area, and an overflight of South Georgia, but so far nothing else has
 shown up there. Much more alarming was the sub that stuck up its
-periscope within spitting distance of the Port Stanley docks!
+periscope within spitting distance of the Port Stanley docks\!
 Fortunately the Jupiter was nearby, and I was able to rush in an ASW
 helicopter. This was well within my territorial waters and much too
 dangerous to let go, so I sank it. So far no response from the
@@ -209,7 +209,7 @@ betting on a Bear to cue an SSG or SSGN.)
 
 New merchants keep reporting in, and so far I've been dashing them to
 catch up with the tail of recently departed convoys, but soon I'll have
-to start gathering for new convoys. Sloooow!
+to start gathering for new convoys. Sloooow\!
 
 Hoo boy, the waters are hot around the Azores...
 
@@ -220,7 +220,7 @@ coarse CZ contacts), and I was able to shoot down the next few while
 everything that flew converged on the area and finally managed to pin
 down the Oscar some 35 miles out. Brown pants all round, but the Oscar
 was shooting based on poor targeting, and only got off about half its
-missiles, so no losses. Celebration!
+missiles, so no losses. Celebration\!
 
 The second Oscar a few minutes later was further out. It got off almost
 all its missiles before my frantic helicopters could close in and sink
@@ -243,7 +243,7 @@ Tense times... What a difference an Aegis ship could have made...
 
 March 1 1994, 20:00 Zulu.
 
-First merchant unloads! "War good as won" says Secretary of the Navy.
+First merchant unloads\! "War good as won" says Secretary of the Navy.
 "Mission accomplished" proclaims president. "One lone ship from Halifax
 to New York without any losses. A magnificent demonstration of naval
 power."
@@ -301,7 +301,7 @@ units at Ascension in case of Nigerian troubles.
 
 Lessons Learned
 
-Fuel is Important! Those Perrys have short legs. At this scale oilers
+Fuel is Important\! Those Perrys have short legs. At this scale oilers
 and bases become so much more important. (Suddenly the lumbering old
 Protecteur is one of my most valuable /assets.) This is especially true
 at the inefficient convoy speeds I need to travel at in order to get any
@@ -312,23 +312,23 @@ would leave its convoy far behind. If I'm travelling at 12 kts, like a
 cruising tanker, my range is only 2700 nm. That's a single crossing in a
 narrow spot.
 
-Sprint and Drift eats fuel! You're essentially trying to cross the
+Sprint and Drift eats fuel\! You're essentially trying to cross the
 Atlantic at fuel-inefficient low speed, and fuel-inefficient high speed.
 You probably won't get there. It may work nicely for a couple of days in
 a restricted zone, but not so much on the grand scale of this scenario
 (unless you have enough oilers).
 
-Not all oilers carry all fuels! Gas Fuel is not Oil Fuel is not Diesel
-Fuel!!
+Not all oilers carry all fuels\! Gas Fuel is not Oil Fuel is not Diesel
+Fuel\!\!
 
 I, naturally, have cleverly made sure my task groups need all three
 types of fuel at once, while only half my oilers can provide it, and two
 thirds of those are down in the southern hemisphere. Now I really
-respect the Protecteur!
+respect the Protecteur\!
 
 March 4 1994, 23:00 Z
 
-Time for another progress report!
+Time for another progress report\!
 
 All P-3 squadrons are now deployed and operational, many of them out in
 the islands. (I've been using those 747s on cargo missions to simulate
@@ -341,7 +341,7 @@ sometimes stacking multiple zones if I need a concentrated effort. I had
 to make myself a squadron map to keep organized, and I think it's
 helping.
 
-<img src="/assets\images\aar\nf\nf34_aj\media\image1.png" style="width:6.5in;height:3.58611in" />
+![](/assets/images/aar/nf/nf34_aj/image1.png)
 
 Several of my big westbound convoys are headed south along the American
 continental shelf, and should reach their ports in a day or two. My two
@@ -379,7 +379,7 @@ Fortunately, the contacts resolved into Shaddocks, not Shipwrecks, and
 there were only four of them. The Harrier CAP was able to scramble and
 deal with the medium altitude slightly supersonic missiles, which are a
 much easier target than the Oscar's brood. (It's amazing what a
-difference an AWACS helicopter and some air support provide!) A look at
+difference an AWACS helicopter and some air support provide\!) A look at
 the radar plot showed the Shaddocks had been aimed at one of my ships
 which was moving fast out in front, which seemed odd since the missiles
 came from the rear quarter. Fortunately, I clued in in time to realize
@@ -392,9 +392,9 @@ Juliett was eventually found and dealt with by my Sea Kings.)
 
 Lessons Learned (sorta)
 
-Convoy, convoy, convoy! I'm always tempted to send just one more
+Convoy, convoy, convoy\! I'm always tempted to send just one more
 late-appearing merchant ship running after the convoy to try and catch
-up. Don't do it! That's when a Kilo pops up and puts a pair of torps
+up. Don't do it\! That's when a Kilo pops up and puts a pair of torps
 into the helpless isolated ship, which now has to limp into the Azores
 (where there's no dock big enough to fix it) while hoping there's no
 other surprises in store. Or the trail of damaged stragglers from the
@@ -466,13 +466,13 @@ The geriatric Argonaut, one of the old Leanders retrofitted with an
 extra-long tail, has an adventure when she picks up a passive sonar
 contact while patrolling alone in the Bay of Biscay. Despite her
 extra-long tail it's a direct path contact, and the captain slows to 2
-kts to listen, thinking it's probably another biological. "SS!" says the
-sonar operator, and the captain orders a flank speed turn away (thinking
-to outrun a possible 533mm torpedo) while he hastily scrambles his
-helicopter to investigate. The Lynx manages a 1-shot kill, amazingly
+kts to listen, thinking it's probably another biological. "SS\!" says
+the sonar operator, and the captain orders a flank speed turn away
+(thinking to outrun a possible 533mm torpedo) while he hastily scrambles
+his helicopter to investigate. The Lynx manages a 1-shot kill, amazingly
 enough, and the Argonaut continues running for a few miles, before
 slowing and turning aside - at which point the Type 65 torp goes
-rumbling by a mile and a half off the port side! Not a Tango or a Fox,
+rumbling by a mile and a half off the port side\! Not a Tango or a Fox,
 but an equally elderly Romeo, retrofitted with deadly 650mm torps.
 
 Down south there's little activity. The Badger hunt off the Nigerian
@@ -496,4 +496,4 @@ somewhere.
 (You wouldn't believe how awesome it is when a Knox checks in. Strong
 active sonar, good tail, helicopter, ASROC, and a nice long range. These
 are quickly becoming my favorite escorts for a no-air threat
-environment. Just the thing for the smaller convoys!)
+environment. Just the thing for the smaller convoys\!)

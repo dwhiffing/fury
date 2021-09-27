@@ -39,15 +39,15 @@ attack munitions. Of the 51 Sea Harriers available, plus seven converted
 operational Harrier squadrons and one training Squadron, with land bases
 at Cottesmore and Yeovilton.
 
-| Sqn | Task        | Location   | No  | Type         | Remarks |
-|-----|-------------|------------|-----|--------------|---------|
-| 800 | Invincible  | Cottesmore | 12  | Harrier FA.2 |         |
-| 801 | Ark Royal   | Yeovilton  | 12  | Harrier FA.2 |         |
-| 802 | Illustrious | Cottesmore | 12  | Harrier FA.2 |         |
-| 899 |  Training   | Yeovilton  | 12  | Harrier FA.2 | +7 T.8  |
-| NA  | Warstock    | Yeovilton  | 3   | Harrier FA.2 |         |
+| Sqn | Task        | Location   | No | Type         | Remarks |
+| --- | ----------- | ---------- | -- | ------------ | ------- |
+| 800 | Invincible  | Cottesmore | 12 | Harrier FA.2 |         |
+| 801 | Ark Royal   | Yeovilton  | 12 | Harrier FA.2 |         |
+| 802 | Illustrious | Cottesmore | 12 | Harrier FA.2 |         |
+| 899 | Training    | Yeovilton  | 12 | Harrier FA.2 | \+7 T.8 |
+| NA  | Warstock    | Yeovilton  | 3  | Harrier FA.2 |         |
 
-<img src="/assets\images\nato\uk\navy\naval-aviation\media\image1.jpg" style="width:6.5in;height:2.53542in" />
+![](/assets/images/nato/uk/navy/naval-aviation/image1.jpg)
 
 **Note**, the FRS.2 was re-designated FA.2 in the mid ‘90s, changing
 from ‘Fighter, Reconnaissance, Strike’ to simply ‘Fighter Attack’. In
@@ -65,59 +65,60 @@ AEW.2A, and two Search and Rescue (SAR) versions, the HAR.3 (Helicopter
 Air Rescue Mark 3). These come form a variety of squadrons and are the
 workhorses of the fleet.
 
-<img src="/assets\images\nato\uk\navy\naval-aviation\media\image2.jpg" style="width:6.5in;height:4.31667in" />
+![](/assets/images/nato/uk/navy/naval-aviation/image2.jpg)
 
 The fourth version of the Sea King in use with the RN was the
 Cargo/Troop carrying version used for Amphibious operations, the HC.4.
 In total there were 146 Sea Kings in the RN broken down by type as
 follows:
 
--   76x HAS.6
+  - 76x HAS.6
 
--   10x AEW.2A
+  - 10x AEW.2A
 
--   35x HC.4
+  - 35x HC.4
 
--   19x HAR.3
+  - 19x HAR.3
 
--   6x HAR.3A (new build)
+  - 6x HAR.3A (new build)
 
 The only changes due to Northern Fury is some minor reorganization and
 the early purchase of 6x HAR.3A for shore based SAR. Squadron
-dispositions are:
+dispositions
+are:
 
-| Sqn    | Task             | Location    | No  | Type            | Remarks |
-|--------|------------------|-------------|-----|-----------------|---------|
-| 22A    | Shore Based SAR  | Chivenor    | 2   | Sea King HAR.3  |         |
-| 22B    | Shore Based SAR  | Wattisham   | 2   | Sea King HAR.3  |         |
-| 22C    | Shore Based SAR  | Valley      | 2   | Sea King HAR.3  |         |
-| 202A   | Shore Based SAR  | Boulmer     | 2   | Sea King HAR.3A |         |
-| 202B   | Shore Based SAR  | Lossiemouth | 2   | Sea King HAR.3A |         |
-| 202C   | Shore Based SAR  | Leconfield  | 2   | Sea King HAR.3A |         |
-| 706    | Training         | Culdrose    | 12  | Sea King HAS.6  |         |
-| 707    | Training         | Yeovilton   | 12  | Sea King HC.4   |         |
-| 771 HQ | Training         | Culdrose    | 2   | Sea King HAR.3  |         |
-| 771B   | Ark Royal        | Culdrose    | 2   | Sea King HAR.3  |         |
-| 771A   | Invincible       | Culdrose    | 2   | Sea King HAR.3  |         |
-| 772 HQ | Training         | Portland    | 2   | Sea King HAR.3  |         |
-| 772A   | Illustrius       | Portland    | 2   | Sea King HAR.3  |         |
-| 772B   | RFA's            | Portland    | 2   | Sea King HAR.3  |         |
-|        | Warstock         | Culdrose    | 1   | Sea King HAR.3  |         |
-| 810    | Training         | Culdrose    | 12  | Sea King HAS.6  |         |
-| 814    | Ark Royal        | Culdrose    | 6   | Sea King HAS.6  |         |
-| 819    | ASW Holding unit | Prestwick   | 12  | Sea King HAS.6  |         |
-| 820    | Illustrius       | Prestwick   | 6   | Sea King HAS.6  |         |
-| 824    | Invincible       | Prestwick   | 6   | Sea King HAS.6  | New Sqn |
-| 826    | RFA's            | Prestwick   | 6   | Sea King HAS.6  |         |
-|        | Warstock         | Culdrose    | 16  | Sea King HAS.6  |         |
-| 845    | LPDs             | Yeovilton   | 8   | Sea King HC.4   |         |
-| 846    | LSLs/RFA’s       | Yeovilton   | 8   | Sea King HC.4   |         |
-|        | Warstock         | Yeovilton   | 7   | Sea King HC.4   |         |
-| 849    | HQ & Trg         | Culdrose    | 3   | Sea King AEW.2A |         |
-| 849A   | Invincible       | Culdrose    | 2   | Sea King AEW.2A |         |
-| 849B   | Illustrious      | Culdrose    | 2   | Sea King AEW.2A |         |
-| 849C   | Ark Royal        | Culdrose    | 2   | Sea King AEW.2A | New Flt |
-|        | Warstock         | Culdrose    | 1   | Sea King AEW.2A |         |
+| Sqn    | Task             | Location    | No | Type            | Remarks |
+| ------ | ---------------- | ----------- | -- | --------------- | ------- |
+| 22A    | Shore Based SAR  | Chivenor    | 2  | Sea King HAR.3  |         |
+| 22B    | Shore Based SAR  | Wattisham   | 2  | Sea King HAR.3  |         |
+| 22C    | Shore Based SAR  | Valley      | 2  | Sea King HAR.3  |         |
+| 202A   | Shore Based SAR  | Boulmer     | 2  | Sea King HAR.3A |         |
+| 202B   | Shore Based SAR  | Lossiemouth | 2  | Sea King HAR.3A |         |
+| 202C   | Shore Based SAR  | Leconfield  | 2  | Sea King HAR.3A |         |
+| 706    | Training         | Culdrose    | 12 | Sea King HAS.6  |         |
+| 707    | Training         | Yeovilton   | 12 | Sea King HC.4   |         |
+| 771 HQ | Training         | Culdrose    | 2  | Sea King HAR.3  |         |
+| 771B   | Ark Royal        | Culdrose    | 2  | Sea King HAR.3  |         |
+| 771A   | Invincible       | Culdrose    | 2  | Sea King HAR.3  |         |
+| 772 HQ | Training         | Portland    | 2  | Sea King HAR.3  |         |
+| 772A   | Illustrius       | Portland    | 2  | Sea King HAR.3  |         |
+| 772B   | RFA's            | Portland    | 2  | Sea King HAR.3  |         |
+|        | Warstock         | Culdrose    | 1  | Sea King HAR.3  |         |
+| 810    | Training         | Culdrose    | 12 | Sea King HAS.6  |         |
+| 814    | Ark Royal        | Culdrose    | 6  | Sea King HAS.6  |         |
+| 819    | ASW Holding unit | Prestwick   | 12 | Sea King HAS.6  |         |
+| 820    | Illustrius       | Prestwick   | 6  | Sea King HAS.6  |         |
+| 824    | Invincible       | Prestwick   | 6  | Sea King HAS.6  | New Sqn |
+| 826    | RFA's            | Prestwick   | 6  | Sea King HAS.6  |         |
+|        | Warstock         | Culdrose    | 16 | Sea King HAS.6  |         |
+| 845    | LPDs             | Yeovilton   | 8  | Sea King HC.4   |         |
+| 846    | LSLs/RFA’s       | Yeovilton   | 8  | Sea King HC.4   |         |
+|        | Warstock         | Yeovilton   | 7  | Sea King HC.4   |         |
+| 849    | HQ & Trg         | Culdrose    | 3  | Sea King AEW.2A |         |
+| 849A   | Invincible       | Culdrose    | 2  | Sea King AEW.2A |         |
+| 849B   | Illustrious      | Culdrose    | 2  | Sea King AEW.2A |         |
+| 849C   | Ark Royal        | Culdrose    | 2  | Sea King AEW.2A | New Flt |
+|        | Warstock         | Culdrose    | 1  | Sea King AEW.2A |         |
 
 **Escort Based Aviation**
 
@@ -137,15 +138,15 @@ has been added in Northern Fury but the overall numbers are only
 increased by the retention of the older HAS.2 in order to equip the
 older FF which were retained.
 
-| Sqn | Task            | Location | No  | Type             | Remarks |
-|-----|-----------------|----------|-----|------------------|---------|
-| 702 | Training        | Portland | 18  | Lynx HAS.3/GMA.8 |         |
-| 815 | Surface DD & FF | Portland | 24  | Lynx HAS.3/GMA.8 |         |
-| 825 | Surface DD & FF | Portland | 24  | Lynx HAS.3/.3GM  | New Sqn |
-| 847 | Surface DD & FF | Portland | 24  | Lynx HAS.2/.3GM  |         |
-|     | Warstock        | Portland | 17  |                  |         |
+| Sqn | Task            | Location | No | Type             | Remarks |
+| --- | --------------- | -------- | -- | ---------------- | ------- |
+| 702 | Training        | Portland | 18 | Lynx HAS.3/GMA.8 |         |
+| 815 | Surface DD & FF | Portland | 24 | Lynx HAS.3/GMA.8 |         |
+| 825 | Surface DD & FF | Portland | 24 | Lynx HAS.3/.3GM  | New Sqn |
+| 847 | Surface DD & FF | Portland | 24 | Lynx HAS.2/.3GM  |         |
+|     | Warstock        | Portland | 17 |                  |         |
 
-<img src="/assets\images\nato\uk\navy\naval-aviation\media\image3.jpg" style="width:6.5in;height:3.37569in" />
+![](/assets/images/nato/uk/navy/naval-aviation/image3.jpg)
 
 **Amphibious Forces Aviation**
 
@@ -160,13 +161,13 @@ situation not all would be embarked but in theory the AAC could provide
 more if the threat demanded it. The other main use for the Gazelle was
 basic helicopter training for all other helicopter types using the HT.2.
 
-<img src="/assets\images\nato\uk\navy\naval-aviation\media\image4.jpg" style="width:5.83333in;height:3.91667in" />
+![](/assets/images/nato/uk/navy/naval-aviation/image4.jpg)
 
-| Sqn    | Task            | Location  | No  | Type         | Remarks |
-|--------|-----------------|-----------|-----|--------------|---------|
-| 705    | Flight training | Culdrose  | 30  | Gazelle HT.2 |         |
-| 3 CBAS | Cdo Bde Air Sqn | Yeovilton | 12  | Gazelle AH.1 | AAC     |
-| 3 CBAS | Cdo Bde Air Sqn | Yeovilton | 6   | Lynx AH.1    | AAC     |
+| Sqn    | Task            | Location  | No | Type         | Remarks |
+| ------ | --------------- | --------- | -- | ------------ | ------- |
+| 705    | Flight training | Culdrose  | 30 | Gazelle HT.2 |         |
+| 3 CBAS | Cdo Bde Air Sqn | Yeovilton | 12 | Gazelle AH.1 | AAC     |
+| 3 CBAS | Cdo Bde Air Sqn | Yeovilton | 6  | Lynx AH.1    | AAC     |
 
 **Training and support**
 
@@ -180,4 +181,4 @@ For support the RN had a small fleet of executive jets and small
 aircraft for transporting personnel and to and from operational
 deployments or evacuating medical casualties.
 
-<img src="/assets\images\nato\uk\navy\naval-aviation\media\image5.jpg" style="width:3.64097in;height:2.42847in" />
+![](/assets/images/nato/uk/navy/naval-aviation/image5.jpg)

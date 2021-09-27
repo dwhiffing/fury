@@ -1,15 +1,15 @@
 **Northern Fury – Bump in the Night**
 
-**<u>Playtest Report by AndrewJ Mar 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Mar 2017</span>**
 
-Well, that's certainly different from ‘The Longest Battle!’
+Well, that's certainly different from ‘The Longest Battle\!’
 
 I played as the Russians. My initial plan was to use the quick-reloading
 Hinds to safely shoot up enemy warships from a distance, before bringing
 my own warships to bear as necessary. Unfortunately, the Hinds being on
 quick-reload doesn't actually matter, because their reload capability is
 day-only, so the Russian will only get to use them once at the beginning
-of the scenario and once at the end. So much for that plan!
+of the scenario and once at the end. So much for that plan\!
 
 Anyway, as the AEW went up and turned on its radar it saw the first
 Penguin came in on one of my trawlers. I fired back with the Sepals

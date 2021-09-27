@@ -2,7 +2,8 @@
 
 13 Feb 1994, 1400 Zulu, 1800 Local
 
-<img src="/assets\images\aar\iof\iof1\media\image1.jpeg" style="width:6.5in;height:5.2in" alt="USS Saratoga (CV-60) - Wikipedia" />
+![USS Saratoga (CV-60) -
+Wikipedia](/assets/images/aar/iof/iof1/image1.jpeg)
 
 You’re commanding the US 5<sup>th</sup> Fleet on the flagship *USS La
 Salle* based in Manama Bahrain. Your command was re-established Dec 93
@@ -20,18 +21,21 @@ different areas of the Gulf and Straights; one submarine; several
 support vessels; several air squadrons; and a mine countermeasures
 group.
 
-<img src="/assets\images\aar\iof\iof1\media\image2.jpeg" style="width:6.5in;height:4.33333in" alt="The Iranian air force - unexpectedly sharp teeth?" />
+![The Iranian air force - unexpectedly sharp
+teeth?](/assets/images/aar/iof/iof1/image2.jpeg)
 
-**<u>Indian Ocean Fury \#1</u>** is an intense scenario with significant
-action early on as Iran, supported by Soviet advisors and visiting
-aircraft launch a surprise attack on shipping in the Persian Gulf. The
-first few hours will see a surge of aircraft and missiles into the Gulf
-and Straits of Hormuz. Casualties will be high. Diplomatic efforts
-behind the scenes quickly kick in and over a few hours Gulf States join
-the fight with various levels of enthusiasm.
+**<span class="underline">Indian Ocean Fury \#1</span>** is an intense
+scenario with significant action early on as Iran, supported by Soviet
+advisors and visiting aircraft launch a surprise attack on shipping in
+the Persian Gulf. The first few hours will see a surge of aircraft and
+missiles into the Gulf and Straits of Hormuz. Casualties will be high.
+Diplomatic efforts behind the scenes quickly kick in and over a few
+hours Gulf States join the fight with various levels of enthusiasm.
 
 The player will receive direction which will be difficult to enact as
 the tactical situation interferes with strategic and operational
 imperatives.
 
-<img src="/assets\images\aar\iof\iof1\media\image3.jpeg" style="width:6.45833in;height:2.58333in" alt="Iran to conduct large-scale &amp;#39;Swarm Drill&amp;#39; for blockade of Strait of Hormuz, allege US officials" />
+![Iran to conduct large-scale &\#39;Swarm Drill&\#39; for blockade of
+Strait of Hormuz, allege US
+officials](/assets/images/aar/iof/iof1/image3.jpeg)

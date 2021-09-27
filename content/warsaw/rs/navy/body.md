@@ -27,11 +27,11 @@ The ASW suite is decent and she carries 2x 76mm guns as well as 2x 30mm
 cannons acting as a last ditch Close in Weapons System (CIWS).
 
 | **Class** | **Pennant** | **Name**  | **Status** | **Remarks** |
-|-----------|-------------|-----------|------------|-------------|
+| --------- | ----------- | --------- | ---------- | ----------- |
 | Koni      | VPBR-31     | Beograd   | Active     |             |
 |           | VPBR-32     | Podgorica | Active     |             |
 
-<img src="/assets\images\warsaw\rs\navy\media\image1.jpg" style="width:6.5in;height:3.65625in" />
+![](/assets/images/warsaw/rs/navy/image1.jpg)
 
 **[Kotor
 Class](http://www.balkanwarhistory.com/2016/05/kotor-class-frigate.html)**
@@ -41,11 +41,11 @@ missiles. They displace about 25% less than the Koni class and are 9
 meters shorter.
 
 | **Class** | **Pennant** | **Name** | **Status** | **Remarks** |
-|-----------|-------------|----------|------------|-------------|
+| --------- | ----------- | -------- | ---------- | ----------- |
 | Kotor     | VPBR-33     | Kotor    | Active     |             |
 |           | VPBR-34     | Novi Sad | Active     |             |
 
-<img src="/assets\images\warsaw\rs\navy\media\image2.jpg" style="width:6.5in;height:5.10556in" />
+![](/assets/images/warsaw/rs/navy/image2.jpg)
 
 **Missile Boats**
 
@@ -58,10 +58,11 @@ equivalent to the Soviet Osa II boats and more capable than the Osa I
 purchased in the 1960s. They are also ten years newer than the Osa’s and
 helped to establish a modern shipbuilding industry in Yugoslavia. One
 ship was captured by the Croatians (RTOP-402, Vlado Ćetković) and put to
-use as the ***Šibenik.***
+use as the
+***Šibenik.***
 
 | **Class** | **Pennant** | **Name**             | **Status** | **Remarks**      |
-|-----------|-------------|----------------------|------------|------------------|
+| --------- | ----------- | -------------------- | ---------- | ---------------- |
 | Končar    | RTOP-401    | Rade Končar          | Active     |                  |
 |           | RTOP-402    | Vlado Ćetković       | Captured   | Croatian Šibenik |
 |           | RTOP-403    | Ramiz Sadiku         | Active     |                  |
@@ -69,29 +70,30 @@ use as the ***Šibenik.***
 |           | RTOP-405    | Jordan Nikolov Orce  | Active     |                  |
 |           | RTOP-406    | Ante Banina          | Active     |                  |
 
-<img src="/assets\images\warsaw\rs\navy\media\image3.jpeg" style="width:6.30208in;height:4.17513in" />
+![](/assets/images/warsaw/rs/navy/image3.jpeg)
 
 **[Osa
 Class](http://russianships.info/eng/warfareboats/project_205.htm)** The
 Yugoslavian Navy took delivery of ten Osa I boats, all of which were
 supposed to retire in the mid 1990s. Two of these boats were captured by
 the Croatians, one was put into commission while the other was sunk as a
-target ship.
+target
+ship.
 
 | Class | Pennant | Name                    | Status   | Remarks                     |
-|-------|---------|-------------------------|----------|-----------------------------|
-| Osa I | RC-301  | Mitar Acev              | Captured | Croatian Dubrovnik          |
+| ----- | ------- | ----------------------- | -------- | --------------------------- |
+| Osa I | RC-301  | Mitar Acev              | Captured | Croatian Dubrovnik          |
 |       | RC-302  | Vlado Bagat             | Active   |                             |
 |       | RC-303  | Petar Drapšin           | Active   |                             |
 |       | RC-304  | Stjepan Filipović-Stevo | Active   |                             |
 |       | RC-305  | Žikica Jovanović-Španac | Active   |                             |
-|       | RC-306  | Nikola Martinović       | Active   |                             |
+|       | RC-306  | Nikola Martinović       | Active   |                             |
 |       | RC-307  | Josip Mažar             | Active   |                             |
 |       | RC-308  | Karlo Rojc              | Active   |                             |
 |       | RC-309  | Franc Rozman-Stane      | Active   |                             |
 |       | RC-310  | Velimir Škorpik         | Sunk     | Captured and sunk as target |
 
-<img src="/assets\images\warsaw\rs\navy\media\image4.jpg" style="width:6.5in;height:2.07431in" />
+![](/assets/images/warsaw/rs/navy/image4.jpg)
 
 **Torpedo Boats**
 
@@ -101,10 +103,11 @@ Four of these boats were purchased from the Soviet Union while the other
 10 were built under licence in Yugoslavia. All were obsolete by 1994 and
 historically were in various levels of readiness. Croatia captured two,
 but one was so damaged that it was not put into service and sunk as a
-target instead.
+target
+instead.
 
 | **Class** | **Pennant** | **Name**      | **Status** | **Remarks**                 |
-|-----------|-------------|---------------|------------|-----------------------------|
+| --------- | ----------- | ------------- | ---------- | --------------------------- |
 | Shershen  | TČ-211      | Pionir        | Active     |                             |
 |           | TČ-212      | Partizan      | Active     |                             |
 |           | TČ-213      | Proleter      | Active     |                             |
@@ -120,7 +123,7 @@ target instead.
 |           | TČ-223      | Napredak      | Active     |                             |
 |           | TČ-224      | Pionir II     | Active     |                             |
 
-<img src="/assets\images\warsaw\rs\navy\media\image5.jpeg" style="width:6.5in;height:3.65625in" />
+![](/assets/images/warsaw/rs/navy/image5.jpeg)
 
 **Patrol Boats**
 
@@ -131,7 +134,7 @@ and maneuverable. Croatia captured and is using three of the 11 boats
 built.
 
 | Class | Pennant | Name        | Status   | Remarks                            |
-|-------|---------|-------------|----------|------------------------------------|
+| ----- | ------- | ----------- | -------- | ---------------------------------- |
 | Mirna | PČ-171  | Biokovo     | Captured | Croatian OB-01 Novigrad            |
 |       | PČ-172  | Pohorje     | Active   |                                    |
 |       | PČ-173  | Koprivnik   | Active   |                                    |
@@ -144,7 +147,7 @@ built.
 |       | PČ-180  | Cer         | Captured | Croatian OB-03 Cavtat              |
 |       | PČ-181  | Durmitor    | Captured | Croatian OB-04 Hrvatska Kostajnica |
 
-<img src="/assets\images\warsaw\rs\navy\media\image6.jpeg" style="width:6.5in;height:4.20764in" />
+![](/assets/images/warsaw/rs/navy/image6.jpeg)
 
 **Submarines**
 
@@ -154,10 +157,10 @@ These three boats were designed and built in Yugoslavia in the 1960s,
 all relocated to Montenegro but ***P-821 Heroj*** was undergoing refit
 at the time and remains unserviceable.
 
-<img src="/assets\images\warsaw\rs\navy\media\image7.jpg" style="width:5.0625in;height:3.36886in" />
+![](/assets/images/warsaw/rs/navy/image7.jpg)
 
 | **Class** | **Pennant** | **Name** | **Status** | **Remarks** |
-|-----------|-------------|----------|------------|-------------|
+| --------- | ----------- | -------- | ---------- | ----------- |
 |           | P-821       | Heroj    | Refit      |             |
 |           | P-822       | Janak    | Active     |             |
 |           | P-823       | Uskok    | Active     |             |
@@ -169,9 +172,9 @@ tubes and better minelaying equipment. Both escaped to Montenegro at the
 outbreak of the Croatian civil war but ***P-832 Drava*** was undergoing
 a major refit which was never completed.
 
-<img src="/assets\images\warsaw\rs\navy\media\image8.jpg" style="width:4.83333in;height:1.64333in" />
+![](/assets/images/warsaw/rs/navy/image8.jpg)
 
 | Class | Pennant | Name  | Status | Remarks |
-|-------|---------|-------|--------|---------|
+| ----- | ------- | ----- | ------ | ------- |
 |       | P-831   | Sava  | Active |         |
 |       | P-832   | Drava | Refit  |         |

@@ -24,14 +24,15 @@ Forces. It is very possible however that this overall deployment plan
 has changed, and it is probable that Romania will now form a FRONT HQ –
 perhaps called the Serbian Front. The new organization reinforced by
 Soviet and conceivably Hungarian forces would move to prevent NATO
-interference in the former Yugoslavia.
+interference in the former
+Yugoslavia.
 
-<img src="/assets\images\warsaw\ro\army\media\image1.png" style="width:6.04167in;height:4.53651in" />
+![](/assets/images/warsaw/ro/army/image1.png)
 
-<img src="/assets\images\warsaw\ro\army\media\image2.jpg" style="width:6.05208in;height:4.21159in" />
+![](/assets/images/warsaw/ro/army/image2.jpg)
 
 | **Role** | **Type** | **Version** | **No** | **Remarks**                                              |
-|----------|----------|-------------|--------|----------------------------------------------------------|
+| -------- | -------- | ----------- | ------ | -------------------------------------------------------- |
 | MBT      | T-72     |             | 254    | Former DDR                                               |
 |          | T-72M    |             | 193    | Former DDR                                               |
 |          | T-72M1   |             | 136    | Former DDR                                               |
@@ -80,4 +81,4 @@ interference in the former Yugoslavia.
 | SSMs     | SCUD-B   |             | 18     |                                                          |
 |          | FROG-7   |             | 30     |                                                          |
 
-<img src="/assets\images\warsaw\ro\army\media\image3.jpg" style="width:6.5in;height:3.87847in" />
+![](/assets/images/warsaw/ro/army/image3.jpg)

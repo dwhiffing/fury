@@ -1,11 +1,11 @@
-**Northern Fury – Battlewagons to War!**
+**Northern Fury – Battlewagons to War\!**
 
-**<u>Playtest Report by AndrewJ Aug 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Aug 2017</span>**
 
-Time to snuggle up to the enemy shore!
+Time to snuggle up to the enemy shore\!
 
 I just know there's a sub lurking there somewhere with my name on it...
-Probably right in front of the hidden ASM batteries!
+Probably right in front of the hidden ASM batteries\!
 
 **The Situation**
 
@@ -189,7 +189,7 @@ ambulance.
 
 TG Wisconsin reached its patrol zone shortly thereafter, slowing to
 creep speed and suddenly finding they were sharing the patrol zone with
-an enemy sub! Two rapid fire ASROCs sank it before the helicopter could
+an enemy sub\! Two rapid fire ASROCs sank it before the helicopter could
 get there, and the TG settled in to wait for morning. There was a little
 more excitement as a pair of Su-27s made an appearance from the east to
 have a go at my cargo helicopters. One was driven down to low altitude

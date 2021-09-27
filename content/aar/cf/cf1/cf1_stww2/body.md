@@ -1,6 +1,6 @@
-**<u>Caribbean Fury \#1 – Hot Tamales</u>**
+**<span class="underline">Caribbean Fury \#1 – Hot Tamales</span>**
 
-**<u>AAR by stww2, July 2020</u>**
+**<span class="underline">AAR by stww2, July 2020</span>**
 
 I just finished earlier today Caribbean Fury 1. I won’t recount the
 entire scenario, primarily because I’ve played it over a period of
@@ -29,43 +29,43 @@ what was by that point a completely one-sided affair.
 
 Overall, my minor gripes aside (see below), this was a fantastic
 scenario (as are pretty much all of Gunner’s works) and I would highly
-recommend it!
+recommend it\!
 
 Some Comments:
 
--the first Cuban strikes were well coordinated, but afterwards
+\-the first Cuban strikes were well coordinated, but afterwards
 subsequent strikes were in disarray and saw unescorted Mig-21s and
 Mig-23s thrown against F-15Cs-obviously a suicide mission; perhaps the
 strikes should have been set to one-time only, or they should have been
 assigned escorts and the readiness of those escorts should have been a
 mission requirement to launch
 
--I was disappointed that the CSAR script only seemed to recognize
+\-I was disappointed that the CSAR script only seemed to recognize
 helicopters; I originally was going to use some of the Coast Guard
 patrol boats for CSAR work early on when the airspace around Key West
 wasn't safe for helicopters, but they ended up being essentially
 useless.
 
--the SA-10 Radars being on was a major liability, allowed me to take
+\-the SA-10 Radars being on was a major liability, allowed me to take
 them out from range; SA-2s and SA-3s were taken out by baiting them to
 go active with an F-16, but this would have been much more dangerous
 with a SA-10; along a similar line the Cuban SSMs FCR’s being left on
 also made them easy to locate and take out
 
--what was the point of the WP aligned patrol boats? I guess to take out
+\-what was the point of the WP aligned patrol boats? I guess to take out
 merchant ships, but could they even do that with their paltry armaments?
 I ended up destroying them with a combination of AC-130s, Harpoons from
 the HMS Westminster and Sea Skuas from its helicopter, rockets from
 Harrier GR7s, and strafing runs from TA-4s (AC-130s did most for the
 work). It seemed like a bizarre deployment.
 
--enemy ground forces lacked supporting AA, which made them easy targets;
-the Cuban ground assault on Guantanamo Bay especially seemed to be
-unnecessarily fragmented and unsupported. To be fair, CMO isn’t and
+\-enemy ground forces lacked supporting AA, which made them easy
+targets; the Cuban ground assault on Guantanamo Bay especially seemed to
+be unnecessarily fragmented and unsupported. To be fair, CMO isn’t and
 never has been a ground warfare simulator, though, so I suppose I
 shouldn’t expect too much
 
--the hospital being right next to the Command bunker at Mariel was a
+\-the hospital being right next to the Command bunker at Mariel was a
 nice challenge, and one that I singularly failed when I accidently
 lobbed an AGM-130 with a Mk84 warhead at the bunker…let’s just say that
 I significantly underestimated its blast radius. Although given

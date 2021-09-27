@@ -14,9 +14,10 @@ surface capability, even if simply guns, but the Sovremenny is the best
 for this task. All have some form of air defence missile capability but
 the two older classes are very vulnerable due to the age and technology
 of their defensive systems. In total there are 60 Destroyers in the
-fleet, and 38 of them are very modern and potent units.
+fleet, and 38 of them are very modern and potent
+units.
 
-<img src="/assets\images\warsaw\su\navy\destroyers\media\image1.jpeg" style="width:3.66319in;height:2.47917in" />[**Sovremenny
+![](/assets/images/warsaw/su/navy/destroyers/image1.jpeg)[**Sovremenny
 Class**](https://www.naval-technology.com/projects/sovremenny/)
 
 This is a modern, highly capable destroyer which focuses on the
@@ -41,7 +42,7 @@ schedule than existed, there are four more building of a planned 32
 ships.
 
 | Class           | Pennant | Name           | Status          | Remarks            |
-|-----------------|---------|----------------|-----------------|--------------------|
+| --------------- | ------- | -------------- | --------------- | ------------------ |
 | Sovremennyy     | 618     | Sovremennyy    | Northern Fleet  |                    |
 |                 | 417     | Otchayannyy    | Northern Fleet  |                    |
 |                 | 705     | Otlichnyy      | Black Sea Fleet |                    |
@@ -66,7 +67,7 @@ ships.
 |                 | 403     | Vdumchivyy     | Pacific Fleet   | In Service 12/1993 |
 |                 | 605     | Vazhnyy        | Pacific Fleet   | In Service 1/1994  |
 
-<img src="/assets\images\warsaw\su\navy\destroyers\media\image2.jpeg" style="width:4.23958in;height:3.17917in" />**[Udaloy
+![](/assets/images/warsaw/su/navy/destroyers/image2.jpeg)**[Udaloy
 Class](http://www.military-today.com/navy/udaloy_class_destroyer.htm)**
 
 The Udaloy class specialize in ASW, they have an excellent Variable
@@ -84,10 +85,11 @@ capability with the
 [UDev-1](http://www.harpoondatabases.com/encyclopedia/Entry3163.aspx)
 system; and also adds the SA-N-11 close defence SAM. Many references
 consider the Udaloy II a separate class. Overall 12 Udaloy I and three
-Udaloy II are in service at the start of Northern Fury.
+Udaloy II are in service at the start of Northern
+Fury.
 
 | Class     | Pennant | Name                 | Status         | Remarks           |
-|-----------|---------|----------------------|----------------|-------------------|
+| --------- | ------- | -------------------- | -------------- | ----------------- |
 | Udaloy I  | 673     | Udaloy               | Northern Fleet |                   |
 |           | 626     | Vice-Admiral Kulakov | Northern Fleet |                   |
 |           | 687     | Marshal Vasilyevsky  | Northern Fleet |                   |
@@ -124,10 +126,11 @@ Uran](https://en.wikipedia.org/wiki/Kh-35) (Switchblade) SSMs, the
 conversion was completed in ’93. These ships have had a long and
 interesting career, with the exception of the *Otvazhny* which sank in
 the black sea in 1974 and the *Smely* which was sold to Poland as the
-*Warszawa* they all remain in service.
+*Warszawa* they all remain in
+service.
 
 | Class      | Pennant | Name                | Status          | Remarks             |
-|------------|---------|---------------------|-----------------|---------------------|
+| ---------- | ------- | ------------------- | --------------- | ------------------- |
 | Kashin     | 170     | Komsomolets Ukrainy | Black Sea Fleet |                     |
 |            | 604     | Soobrazitelnyy      | Northern Fleet  |                     |
 |            | 713     | Provornyy           | Black Sea Fleet |                     |
@@ -149,7 +152,7 @@ the black sea in 1974 and the *Smely* which was sold to Poland as the
 |            | 804     | Sderzhannyy         | Pacific Fleet   |                     |
 | Smetlivy   | 810     | Smetlivyy           | Black Sea Fleet | SS-N-25 Testbed     |
 
-<img src="/assets\images\warsaw\su\navy\destroyers\media\image3.jpg" style="width:5.64583in;height:3.79219in" />
+![](/assets/images/warsaw/su/navy/destroyers/image3.jpg)
 
 [**Kanin
 Class**](https://www.onwar.com/weapons/warships/boats/Kanin-class-destroyer.html)
@@ -164,7 +167,7 @@ support a Ka-25 helicopter. Four of the original eight ships survive but
 they are relegated to second line duties.
 
 | Class | Pennant | Name         | Status         | Remarks    |
-|-------|---------|--------------|----------------|------------|
+| ----- | ------- | ------------ | -------------- | ---------- |
 | Kanin |         | Gremyashchiy | Striken        | Mothballed |
 |       | 647     | Zhguchiy     | Northern Fleet |            |
 |       | 888     | Zorkiy       | Baltic Fleet   |            |
@@ -174,4 +177,4 @@ they are relegated to second line duties.
 |       |         | Boykiy       | Striken        | Mothballed |
 |       |         | Gordyy       | Striken        | Mothballed |
 
-<img src="/assets\images\warsaw\su\navy\destroyers\media\image4.jpg" style="width:6.5in;height:5.07014in" />
+![](/assets/images/warsaw/su/navy/destroyers/image4.jpg)

@@ -1,6 +1,6 @@
 **Northern Fury – Wrestling an Octopus**
 
-**<u>Playtest Report by AndrewJ Feb 2017</u>**
+**<span class="underline">Playtest Report by AndrewJ Feb 2017</span>**
 
 Before I started this one, I rearranged my defence slightly using the
 editor. I left the dug-in infantry where it was, but moved around some
@@ -79,7 +79,7 @@ SHORADs on the high ground just to the NW of the Nordberg airstrip. I'm
 out of HARMs, and I can't get a good fix on the SAMs to engage with
 short range weapons. Fortunately, there is a deep valley leading up to
 the airfield, and I'm just able to sneak helicopters along it, where
-they report that the airfield's full of Su-25s! They engage a few with
+they report that the airfield's full of Su-25s\! They engage a few with
 the last of their TOWs, before turning home on fumes and calling for air
 strikes. A pair of F-5s manage to make it down the valley, dumping
 sticks of 500 lb bombs on the crowded tarmac spaces, and causing a
@@ -88,7 +88,7 @@ battalion + coming down the valley. Two flights of A-10s are sent to
 deal with those (and with the SA-8 which pops up a few miles further
 along the valley), and they manage to survive by sticking to the valley
 floor with SA-11s hurtling overhead. Terrain masking is the only thing
-keeping them alive!
+keeping them alive\!
 
 Still, even though the SA-8 is down, the pair of SA-11s and the SA-15 at
 the north end of the valley are holding everything at bay. Fortunately,
@@ -120,10 +120,10 @@ the Stinger attached to one Patriot manages a kill when an Su-25 comes
 right over the battery). Despite the fact that I start launching
 strikers as interceptors, just to make use of their defensive
 Sidewinders, I can't stop them all. There are swarms of the wretched
-things! My leading company positions in the NW get shot up, and the FARP
-takes another heavy strike which destroys the ammo revetment, rendering
-the facility useless. At least I got most of the SU-25s before they
-could make it home, so they shouldn't be able to do that twice. If
+things\! My leading company positions in the NW get shot up, and the
+FARP takes another heavy strike which destroys the ammo revetment,
+rendering the facility useless. At least I got most of the SU-25s before
+they could make it home, so they shouldn't be able to do that twice. If
 they'd come en-masse things could have been quite nasty.
 
 Hopefully things have calmed down for the moment. My flights are

@@ -1,6 +1,6 @@
-**<u>Northern Fury \#9 – Hold the Line</u>**
+**<span class="underline">Northern Fury \#9 – Hold the Line</span>**
 
-**<u>AAR by fitzpatv, July 2021</u>**
+**<span class="underline">AAR by fitzpatv, July 2021</span>**
 
 Sorry it’s been a while since my last post, but this scenario is an
 absolute transatlantic epic and took several days and a lot of grey
@@ -225,11 +225,12 @@ moving relative to the latter’s’ positions.
 
 W of the Kuznetsov group, the SSN Portsmouth had been having a quiet
 time observing the enemy from a safe distance. Life then got much more
-interesting for her crew!. First, she detected a submarine to the SE,
+interesting for her crew\!. First, she detected a submarine to the SE,
 too close for comfort. Thankfully, the Russian (the Victor III Tambov)
 was asleep and Portsmouth slipped into her baffles to sink her with an
 ADCAP Mk48 torpedo. At this point, a formation of Russian aircraft was
-detected approaching at 260 knots – a half-dozen Mail ASW flying boats!.
+detected approaching at 260 knots – a half-dozen Mail ASW flying
+boats\!.
 
 Portsmouth dived as deep as possible, went to Creep and prayed that CAP
 would get there in time. A fighter intercepted the enemy and destroyed
@@ -256,7 +257,7 @@ All this time, the Russians had been making execrably bad use of their
 numerous Backfire bombers. With their Kitchen missiles, these could have
 been a deadly threat to the fleet, but the Soviet approach seemed to be
 to use them singly against the SLOC instead. This might have been
-worthwhile had they been able to find it!. Instead, they droned into
+worthwhile had they been able to find it\!. Instead, they droned into
 mid-Atlantic or a position E of Greenland, flew in circles, then
 withdrew, often to crash-land on the way home to Siberia. After a while,
 I worked-out their flightpaths and set-up ambushes which scored a steady
@@ -269,7 +270,7 @@ of CAP, which blasted the bandits with Phoenixes.
 
 With my aircraft re-readied, I launched another Intruder/Prowler attack
 on the Varyag group. As the planes were lifting-off, an Oscar I SSGN
-appeared, dangerously close to the destroyer O’Bannon!. A Seahawk
+appeared, dangerously close to the destroyer O’Bannon\!. A Seahawk
 launched in a hurry and removed the threat before it got into torpedo
 range, but it was a close call. The strike managed to sink a Slava
 cruiser for 75VP, taking me into Triumph territory with a score of +506.

@@ -1,6 +1,7 @@
-**<u>Pacific Fury \#4 – I Come from a Land Down Under</u>**
+**<span class="underline">Pacific Fury \#4 – I Come from a Land Down
+Under</span>**
 
-**<u>Playtest Report by AndrewJ June 2021</u>**
+**<span class="underline">Playtest Report by AndrewJ June 2021</span>**
 
 Finally had some time to catch up with a sitrep.
 
@@ -16,7 +17,7 @@ rebellious hot-spots are bursting into open flames throughout the
 region. Indonesia is guarding its own sovereign territory throughout its
 vast archipelago arc, Singapore will share data but has no room for us,
 Malaysia is reluctantly granting the most limited of basing (2 planes
-only!), and the southern Philippines are a rebellious mess where nobody
+only\!), and the southern Philippines are a rebellious mess where nobody
 wants to deploy aircraft. Meanwhile, Vietnam glowers at us from across
 the South China Sea, and although they're not hostile, their masters the
 Soviets definitely are. Some of their aircraft are already in the region
@@ -123,7 +124,7 @@ to return home almost immediately for lack of fuel.
 It feels like the Russians are solidly in the lead here. I've managed to
 kill a few Blinders, a Nanuchka, and three trawlers, but the Russians
 have sunk three big tankers and wrecked two oil platforms. Not a great
-trade!
+trade\!
 
 **BRUNEI - REBELS ON THE GROUND**
 
@@ -160,7 +161,7 @@ helicopter flown in from Darwin by now, and has turned north, but this
 diversion eastward has put her well behind schedule, and I have to admit
 the decision was a mistake. It looks like she'll be a few hours too
 late, even if she steams at flank speed. (Lesson - measure routes and
-distances before committing!)
+distances before committing\!)
 
 Things seem calm most other places, as P-3s try and proof lanes in front
 of advancing ships. Some P-3s have deployed to Christmas Island, and
@@ -175,7 +176,7 @@ much longer.
 The most excitement is in the centre of the Sulu Strait, where the
 patrol boat Pangasinan suddenly notices that the civilian traffic among
 the islands there includes a number of fast movers, which are suddenly
-closing at an alarming 38 knots! The captain turns to put them on the
+closing at an alarming 38 knots\! The captain turns to put them on the
 starboard aft quarter, just within the arc of his main gun, and
 accelerates to a mighty 15 knot flank speed, trying to reduce the
 closure rate. All glasses are pointed at the approaching boats, and when
@@ -195,7 +196,7 @@ Hondo to reload and patch a few bullet holes.
 Politics never sleeps, and I soon get an interesting political choice to
 make. Would I like access to Indonesian airspace, removing those
 geographical barriers which are keeping my P-3s from reaching their
-patrol zones? All I have to do is bomb the East Timorese! And eat a
+patrol zones? All I have to do is bomb the East Timorese\! And eat a
 heaping plateful of hypocrisy, of course... After all, our government
 has been trying to protect them from persecution for some time now. I'm
 given an hour to reflect and decide. While it would be very helpful to
@@ -218,7 +219,7 @@ I can tell, but so far they won't say exactly what.
 
 Enemy air-power is still active in the night. Singaporean patrol planes
 report numerous ESM contacts from large formations of Vietnamese
-MiG-21s, at one point counting 24 of them active at one time! They seem
+MiG-21s, at one point counting 24 of them active at one time\! They seem
 to come and go, and we come to the conclusion that this is some sort of
 intermittent CAP. At first it seems absurd to have so many up, but on
 reflection I really don't want to push into a swarm like that, even with
@@ -289,14 +290,14 @@ The most activity is in the air, where two flights of F-18s get dragged
 north on a pair of tankers, hoping to catch the MiG-25s which keep
 pressurizing me over the South China Sea. Of course, when we get there
 the skies, which were full of signals from Bears and Flankers and MiGs,
-are completely empty! The planes press on much further NW than intended,
-and finally meet and kill a pair of MiG-29s, as well as an unexpected
-tanker, but it's a risky operation and they end up running away from
-packs of MiG-21s which come to investigate. They end up dumping unused
-missiles to increase fuel efficiency, then pick up the last dregs of gas
-from the two tankers, before finally meeting the third one half-way home
-with great relief. Overall, a bit risky, and not necessarily worth the
-effort.
+are completely empty\! The planes press on much further NW than
+intended, and finally meet and kill a pair of MiG-29s, as well as an
+unexpected tanker, but it's a risky operation and they end up running
+away from packs of MiG-21s which come to investigate. They end up
+dumping unused missiles to increase fuel efficiency, then pick up the
+last dregs of gas from the two tankers, before finally meeting the third
+one half-way home with great relief. Overall, a bit risky, and not
+necessarily worth the effort.
 
 The F-5s show how to do it more efficiently. We've taken to
 advance-basing one in Brunei, and it manages to pop out and whack an
@@ -355,7 +356,7 @@ At 8:00 PM we get another Intel update on the convoy. HQ needs it
 destroyed before it gets to Vietnam, and they’re so serious about it
 that they’ve given us B-52s and tankers at Guam, and F-111s and RF-111s
 at Amberley, in order to do it. The trouble is, the first P-3s from
-Christmas Island are already lifting off to attack!
+Christmas Island are already lifting off to attack\!
 
 What the P-3 guys had pointed out was that if you take a P-3, load up 4
 Harpoons, and throw out all the other useless stuff – the 8 torpedoes,
@@ -424,7 +425,7 @@ trusting that what was safe yesterday was safe today. Bad idea, and a
 mistake which keeps biting me in multiple scenarios. Even more
 heartbreaking was that before I changed my mind and decided to divert
 for the helicopter, I had it going through a different strait, which
-would have avoided the issue!)
+would have avoided the issue\!)
 
 We know the missiles didn’t come from a surface ship (passing P-3s have
 seen nothing on radar), and the possibility of a shore-based launcher is
@@ -455,11 +456,11 @@ off, and we have no idea which ship is which. Our 14 P-3s and 2 F-18s
 have 60 missiles between them, and they unleash them in a broad salvo
 along the entire length of the convoy. The P-3s turn and leave as the
 missiles drop away to cruise quietly through the night. The enemy
-doesn’t react until the missile heads turn on, and then the entire fleet
-lights up, but by then its much too late. The F-18s can see dull distant
-flashes of light through the clouds, and the loitering F.27 starts
-losing contacts from the back of the formation. The missiles are getting
-through.
+doesn’t react until the missile heads turn on, and then the entire
+fleet lights up, but by then its much too late. The F-18s can see dull
+distant flashes of light through the clouds, and the loitering F.27
+starts losing contacts from the back of the formation. The missiles are
+getting through.
 
 By the time ten or fifteen minutes have passed, the radar operators
 report that they only have two contacts left on radar, conditionally
@@ -480,7 +481,7 @@ Cam Ranh Bay, is going to have a very long wait indeed.
 Once the F-18s have refuelled they aren’t ordered directly home.
 Instead, they’re sent to the South China Sea, where they attempt to
 pounce on the MiG-25s from an unexpected direction, but once again all
-the planes vanish as I arrive. It’s infuriating! Fortunately, this time
+the planes vanish as I arrive. It’s infuriating\! Fortunately, this time
 a second pair shows up, and my pilots manage to shoot both of them down,
 and another tanker. Interestingly, a glimpse of the MiGs shows they’re
 not fighters. They’re the Wild Weasel version instead, and all this time
@@ -618,7 +619,7 @@ and Hall escort the Black Rover into rendezvous zone at 9:45 PM. My
 fears about some sort of local observer are stoked an hour later, when a
 fast-moving sub is detected coming towards my ships through the sonobuoy
 field to the north. The attending P-3 hurries over to the target, and
-identifies it, to everyone’s astonishment, as the Yankee Notch! It’s
+identifies it, to everyone’s astonishment, as the Yankee Notch\! It’s
 certainly an unorthodox move, to send a cruise missile carrier against
 ships, but its torpedoes are no less deadly. The P-3 drops two torpedoes
 on the Yankee, and they both hit, but the tough old Yankee refuses to

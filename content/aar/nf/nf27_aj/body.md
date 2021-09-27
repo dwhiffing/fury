@@ -1,6 +1,6 @@
 **Northern Fury – Out on a Limb**
 
-**<u>Playtest Report by AndrewJ Aug 2016</u>**
+**<span class="underline">Playtest Report by AndrewJ Aug 2016</span>**
 
 Well, it's 12:41 Zulu and things are really tense on the Ike, but there
 seems to be a brief moment for a sitrep.
@@ -69,12 +69,12 @@ There seems to be no end to the Mig-25s, which get closer and closer to
 the carrier, and I'm left nervously counting the seconds until the first
 few of the reloaded F-14s lift off and manage to stop the last of them.
 (What wouldn't I give for a 30 minute turnaround a la Sweden - an hour
-and a half is excruciating!) Now I'm in a bit of a lull, I think,
+and a half is excruciating\!) Now I'm in a bit of a lull, I think,
 although a couple more Backfires have tried to take a look, and I'm
 getting ESM hits on more Mig-31s, 23s, and SU-27s, which are starting to
 fill up their patrols again. My air-to-air missile situation is looking
 rather bad. I only have 26 Phoenix left on the carrier, and they're all
-mounted on aircraft. No spares! Everyone else is filling up with
+mounted on aircraft. No spares\! Everyone else is filling up with
 Sparrows at the moment, but I've only got 30 of those left in the
 magazines. I'm also down to 35 AMRAAM in the magazines, although I've
 got 7 full loaded F-18s ready to go, so that's not too bad. Still, if I
@@ -100,7 +100,7 @@ The first to go up are the second wave of Jan Mayan strikers, headed
 north, and then the main body launches east, taking jammers and tankers
 and every single Phoenix I have, and leaving only a pair of ready F-18s
 and a few re-arming F-14s to defend the carrier. Their target? The enemy
-tanker line! If I can punch through and kill that I figure it might
+tanker line\! If I can punch through and kill that I figure it might
 disrupt any planned operations directed at my receding carrier group.
 
 As the aircraft head out they are passed by a wave of TLAMs headed for
@@ -108,7 +108,7 @@ the nearest enemy airbases. I don’t expect the TLAMs to get through, but
 I do hope they will disrupt the enemy by forcing them to direct CAP and
 interceptors against the missiles, instead of my aircraft.
 
-The plan actually works! The Jan Mayan strike successfully pummels the
+The plan actually works\! The Jan Mayan strike successfully pummels the
 remaining facilities on the island, and then my OCAP punches through the
 remaining Russian fighters before destroying the five tankers orbiting
 off the coast. Some of my planes head north and south, making a clean
@@ -121,7 +121,7 @@ at Bodo) and chip a few other facilities.
 At this point I have a chance to leave cleanly, or hang around and try
 to exploit my success. I (recklessly) decide on option B. The Mig-31s
 that went after the TLAMs are now out of position to defend (wait for
-it…) an AWACs. I can’t resist! While I engage some Mig-23s and Su-27s
+it…) an AWACs. I can’t resist\! While I engage some Mig-23s and Su-27s
 one of my F-14s gets into Phoenix range, and spends two precious
 missiles to down the radar plane. This does not impress the Russians,
 who decide that a mix of two dozen fresh Mig-25s and Mig-23s is the
@@ -157,7 +157,7 @@ about and head for Scotland.
 Comments
 
 Looking over the scenario afterwards I can only say Wow, that’s a lot of
-attackers! You weren’t kidding about bad things happening if you’re
+attackers\! You weren’t kidding about bad things happening if you’re
 detected. If they launch, you’re screwed. I’m thinking complete loss of
 carrier group.
 

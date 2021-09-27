@@ -6,7 +6,7 @@ NATO tasks with a wing of CF-18s in Germany, to maritime patrol, Anti
 Submarine Warfare (ASW) and search and rescue working with the Canadian
 Navy, to providing the Army with its tactical aviation.
 
-<img src="/assets\images\nato\ca\air\media\image1.jpeg" style="width:4.925in;height:2.77083in" />
+![](/assets/images/nato/ca/air/image1.jpeg)
 
 **CF-18**
 
@@ -24,20 +24,21 @@ two squadrons, one each from Cold Lake Alberta and Bagotville Quebec.
 
 The **NORAD** Squadrons would operate under the control of the
 **Canadian NORAD Region (CANR)** and would disperse to the Arctic and
-bases on each coast in groups of six aircraft (6-Pack) each.
+bases on each coast in groups of six aircraft (6-Pack)
+each.
 
 | Formation | Wing   | Sqn | Name                | A/C | Type  | Base       | Deploy     | Remarks |
-|-----------|--------|-----|---------------------|-----|-------|------------|------------|---------|
+| --------- | ------ | --- | ------------------- | --- | ----- | ---------- | ---------- | ------- |
 | 1 CAD     | 3 Wing | 416 | Lynx                | 18  | CF-18 | Cold Lake  | Lahr       | 24 hrs  |
-|           |        | 433 | Porcupine           | 18  | CF-18 | Bagotville | Lahr       | 18 hrs  |
-|           | 4 Wing | 409 | Nighthawk           | 18  | CF-18 | Baden      |            |         |
-|           |        | 421 | Red Indian          | 18  | CF-18 | Baden      |            |         |
-|           |        | 439 | Sabre Toothed Tiger | 18  | CF-18 | Baden      |            |         |
-| CANR      | 2 Wing | 425 | Alouette            | 18  | CF-18 | Bagotville | East Coast |  2 hrs  |
-|           |        | 441 | Silver Fox          | 18  | CF-18 | Cold Lake  | West Coast |  2 hrs  |
-| Training  | 2 Wing | 410 | Cougars             | 10  | CF-18 | Cold Lake  |            |         |
+|           |        | 433 | Porcupine           | 18  | CF-18 | Bagotville | Lahr       | 18 hrs  |
+|           | 4 Wing | 409 | Nighthawk           | 18  | CF-18 | Baden      |            |         |
+|           |        | 421 | Red Indian          | 18  | CF-18 | Baden      |            |         |
+|           |        | 439 | Sabre Toothed Tiger | 18  | CF-18 | Baden      |            |         |
+| CANR      | 2 Wing | 425 | Alouette            | 18  | CF-18 | Bagotville | East Coast | 2 hrs   |
+|           |        | 441 | Silver Fox          | 18  | CF-18 | Cold Lake  | West Coast | 2 hrs   |
+| Training  | 2 Wing | 410 | Cougars             | 10  | CF-18 | Cold Lake  |            |         |
 
-<img src="/assets\images\nato\ca\air\media\image2.jpg" style="width:5.03611in;height:2.22153in" />
+![](/assets/images/nato/ca/air/image2.jpg)
 
 [**CF-5**](http://www.joebaugher.com/usaf_fighters/f5_21.html)
 
@@ -57,11 +58,11 @@ strengthened aircraft, more than half of them dual seat ‘D’ versions,
 mostly with the AUP upgrade.
 
 | Sqn | Name     | A/C | Type        | Base       |
-|-----|----------|-----|-------------|------------|
+| --- | -------- | --- | ----------- | ---------- |
 | 419 | Moose    | 26  | CF-5A/D/AUP | Cold Lake  |
 | 434 | Bluenose | 26  | CF-5A/D/AUP | Chatham NB |
 
-<img src="/assets\images\nato\ca\air\media\image3.jpeg" style="width:4.84375in;height:2.72461in" />
+![](/assets/images/nato/ca/air/image3.jpeg)
 
 **CP-140 Aurora**
 
@@ -119,7 +120,7 @@ training and fisheries patrols.
 </tbody>
 </table>
 
-<img src="/assets\images\nato\ca\air\media\image4.jpeg" style="width:2.94444in;height:2.20833in" />
+![](/assets/images/nato/ca/air/image4.jpeg)
 
 **Transport**
 
@@ -128,7 +129,7 @@ including about 60 CC-130 Hercules, 15 CC-115 Buffalo, 18 CC-144
 Challenger, 5 CC-150 Airbus (3 configured as tankers), and various other
 aircraft.
 
-<img src="/assets\images\nato\ca\air\media\image5.jpeg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/nato/ca/air/image5.jpeg)
 
 **Maritime Helicopter**
 
@@ -140,7 +141,7 @@ the Gulf war, this was designated as the CH-124B and in Northern Fury 12
 have been converted.
 
 | Sqn | Name      | A/C | Type    | Base       | Remarks          |
-|-----|-----------|-----|---------|------------|------------------|
+| --- | --------- | --- | ------- | ---------- | ---------------- |
 | 406 | Lynx      | 15  | CH-124A | Shearwater | OTU & West Coast |
 | 423 | Eagle     | 12  | CH-124A | Shearwater |                  |
 | 443 | Hornet    | 12  | CH-124B | Shearwater |                  |

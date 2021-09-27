@@ -1,6 +1,6 @@
 **Amphibious Forces**
 
-<img src="/assets\images\nato\us\navy\amphibious\media\image1.jpg" style="width:6.5in;height:4.45694in" />
+![](/assets/images/nato/us/navy/amphibious/image1.jpg)
 
 An Amphibious Ready Group (ARG) which carries a Marine Expeditionary
 Unit (MEU)

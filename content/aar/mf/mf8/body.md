@@ -5,6 +5,6 @@
 Decisive strikes in Libya aimed at unseating the government and pushing
 them out of the war.
 
-**<u>Mediterranean Fury \#8</u>**
+**<span class="underline">Mediterranean Fury \#8</span>**
 
 Scenario not yet completed.

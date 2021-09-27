@@ -4,8 +4,8 @@
 
 The first major oil shipment from the Persian Gulf in two weeks begins a
 long passage through the Red Sea. To be continues in Mediterranean Fury
-\#10 Convoy Ho!
+\#10 Convoy Ho\!
 
-**<u>Indian Ocean Fury \#8</u>**
+**<span class="underline">Indian Ocean Fury \#8</span>**
 
 Not yet built

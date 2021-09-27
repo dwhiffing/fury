@@ -4,6 +4,6 @@ TBC Mar 1994, Zulu, Local
 
 TBC
 
-**<u>Indian Ocean Fury \#10</u>**
+**<span class="underline">Indian Ocean Fury \#10</span>**
 
 Not yet built

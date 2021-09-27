@@ -15,7 +15,7 @@ wouldn’t be focusing our attention or our militaries here. The Indian
 Ocean region would quickly become a backwater as vital forces are pulled
 into the major fighting in the north Atlantic and north Pacific areas.
 
-<img src="/assets\images\blog\post21\media\image1.jpg" style="width:4.28125in;height:2.85417in" />
+![](/assets/images/blog/post21/image1.jpg)
 
 Therefore, the region is fertile ground for developing interesting
 situations where resources of all types are at a premium. The Soviet
@@ -27,7 +27,7 @@ will be trying to establish a balance; minimizing forces committed here
 while ensuring that they maintain freedom of navigation and a reliable
 flow of commerce - particularly oil.
 
-<img src="/assets\images\blog\post21\media\image2.jpg" style="width:7.8125in;height:5.19518in" />
+![](/assets/images/blog/post21/image2.jpg)
 
 Geographically the Indian Ocean is massive, representing 20% of the
 world’s ocean surface. While not as large as the Atlantic or Pacific –
@@ -42,10 +42,11 @@ The ‘Northern Fury’ story is consistent with actual history until about
 1989, when it begins to diverge. The five years between 1989 and 1994
 were very active in this region and that is not very different in our
 alternate history. Below is a summary of key events occurring and any
-diversions from that reality:
+diversions from that
+reality:
 
 |               |                                                               |                                                           |                                                                                                                                                                                                                            |                                                                                                                                                                         |
-|---------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | ------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Timeframe     | Event                                                         | Actual results                                            | Northern Fury results                                                                                                                                                                                                      | Remarks                                                                                                                                                                 |
 | 3 Jun, 1989   | Ayatollah Khomeini dies in Iran                               | Replaced by moderate                                      | Replaced by radical                                                                                                                                                                                                        | Shift not readily apparent in the west                                                                                                                                  |
 | 22 Oct, 1989  | Saudi Arabia, endorses a Charter of National Reconciliation   | Balanced Cabinet and reduced Presidential power           | Balanced Cabinet but Presidential power retained.                                                                                                                                                                          | Some protest in the West                                                                                                                                                |
@@ -72,57 +73,58 @@ diversions from that reality:
 So, based on the above and some other factors the key points that impact
 the Indian Ocean region are:
 
--   Gulf War happened as it did historically, Iraq is neutered and
+  - Gulf War happened as it did historically, Iraq is neutered and
     unable to exert too much influence. Operation Southern and Northern
     Watch are ongoing with deployment of Coalition forces continuing
     roughly in line with historic deployments.
 
--   Hard(er) line government in Iran. Evidence of Soviet funding and
+  - Hard(er) line government in Iran. Evidence of Soviet funding and
     refurbishment of equipment
 
--   Saudi Arabia is less ‘in bed’ with the west due to continued western
+  - Saudi Arabia is less ‘in bed’ with the west due to continued western
     support of Egypt and other Gulf states, and a desire to keep Soviet
     benevolence as an option
 
--   Conflict in Somalia, the civil war, UN mission, battle of Mogadishu
+  - Conflict in Somalia, the civil war, UN mission, battle of Mogadishu
     and withdraw of forces happened as they did in reality.
 
--   Eastern Africa is unsettled; the continued influence of the Soviet
+  - Eastern Africa is unsettled; the continued influence of the Soviet
     Union is in direct conflict with China’s attempt to make inroads
     into African politics. Compounded by a general lack of interest in
     the West, this ongoing friction is leaving opportunities for
     exploitation by an aggressive Soviet foreign policy.
 
--   Apparent sponsorship of piracy is starting to gain momentum. The
+  - Apparent sponsorship of piracy is starting to gain momentum. The
     going rates in this history for 1994 is \~ $10/Ton, so a bounty of
     \~2-3 Million USD is not uncommon. The ships are run aground, the
     crews freed and the cargo is sometimes sold as a bonus, or just
     looted locally. CTF 150 is patrolling off of Somalia but so far it’s
     a losing battle.
 
--   CTF 151 is established in the Gulf of Aden in an effort to curb
+  - CTF 151 is established in the Gulf of Aden in an effort to curb
     Piracy there, but also out of concern for a deteriorating situation
     in Yemen
 
--   CTF 149 in the Northern Persian Gulf continues as it historically
+  - CTF 149 in the Northern Persian Gulf continues as it historically
     did.
 
--   NATO establishes a standing Mine Countermeasures group at Djibouti
+  - NATO establishes a standing Mine Countermeasures group at Djibouti
     to counter the persistent appearance of mines in the Bab-el Mandeb
     (BEM) (SNMCMG 3).
 
--   The US establishes 5th Fleet HQ in Bahrain in Dec 1993, about 18
+  - The US establishes 5th Fleet HQ in Bahrain in Dec 1993, about 18
     months earlier than it did historically.
 
--   The French have reinforced their position in Djibouti somewhat.
+  - The French have reinforced their position in Djibouti somewhat.
 
--   Tensions between India and Pakistan are very high
+  - Tensions between India and Pakistan are very high
 
 **Sub-Regions:** The following is a quick roundup of the situation by
 nation, running roughly clockwise around the region.
 
-**<u>South East Africa:</u>** Ongoing friction sponsored by both the
-USSR and China have caused continued unrest in this area.
+**<span class="underline">South East Africa:</span>** Ongoing friction
+sponsored by both the USSR and China have caused continued unrest in
+this area.
 
 **South Africa** is just coming out of the Apartheid era and has
 resoundingly elected the ANC in a remarkably free and fair election
@@ -150,10 +152,10 @@ a turbulent succession of governance since then (30 Coups or attempts
 between 1975 and 2008). There is no military to speak of but the French
 Foreign Legion barracks remains on the Island of Mayotte.
 
-<img src="/assets\images\blog\post21\media\image3.jpg" style="width:9in;height:4.31806in" />
+![](/assets/images/blog/post21/image3.jpg)
 
-**<u>East Central Africa:</u>** Instability fueled by Soviet Foreign
-Policy.
+**<span class="underline">East Central Africa:</span>** Instability
+fueled by Soviet Foreign Policy.
 
 **Tanzania,** is a single party socialist republic, attempts by
 dissident leaders in 1992 to change to a multi party state were
@@ -175,7 +177,8 @@ west and still very British in its attitudes toward external policies.
 Although the west has to look the other way when domestic issues get
 ugly, such as the massacre of thousands of ethnic Somalis.
 
-**<u>Horn of Africa</u>**: You really can’t make this stuff up!
+**<span class="underline">Horn of Africa</span>**: You really can’t make
+this stuff up\!
 
 **Somalia**, as a country is in a very bad way. The corruption and
 despotism of the 80’s lead to the Civil war which still rages. The
@@ -183,13 +186,13 @@ failed US led coalition ‘United Task Force’ (UNTAF) to support delivery
 of humanitarian aid collapsed at the end of 1993 and has withdrawn.
 Remaining elements of the UN (UNOSOM II) and humanitarian organizations
 are in disarray. In Northern Fury, Somalia is even more fragmented than
-in the historic world (if that is possible!), Soviet funding has spurred
-on piracy and sponsored fractious groups which thrive on instability.
-Somali military forces have virtually ceased to exist, weapons, soldiers
-and even formed units have found their way into several warring
-factions. The government has no control over any effective military
-force, particularly air or naval elements which, by 1991 were completely
-ineffective anyway.
+in the historic world (if that is possible\!), Soviet funding has
+spurred on piracy and sponsored fractious groups which thrive on
+instability. Somali military forces have virtually ceased to exist,
+weapons, soldiers and even formed units have found their way into
+several warring factions. The government has no control over any
+effective military force, particularly air or naval elements which, by
+1991 were completely ineffective anyway.
 
 **Ethiopia**, continues to be supported by the Soviet Union. Attempts at
 forming a Democratic Republic faltered early in the process when Soviet
@@ -236,9 +239,10 @@ the council were taken by al-Bashir.*
 The only thing to add from a Northern Fury perspective - Bashir is on
 the Soviet funding list and is keeping his military up to date.
 
-<img src="/assets\images\blog\post21\media\image4.png" style="width:8.95833in;height:5.04167in" />
+![](/assets/images/blog/post21/image4.png)
 
-**<u>Arabian Peninsula/Gulf States</u>**: Rich and getting richer.
+**<span class="underline">Arabian Peninsula/Gulf States</span>**: Rich
+and getting richer.
 
 **Saudi Arabia,** a staunch ally of the US and the west but quite
 reluctant to involve itself with Cold War conflict. Ties with the Soviet
@@ -254,7 +258,7 @@ Yemen is another situation entirely.
 unification in 1990 and an elected government, until the Gulf War. When
 Yemen opposed non-Arab states from expelling Iraq from Kuwait, voting
 against several UN Security Council resolutions, the US was furious -
-and Saudi Arabia was livid! Saudi Arabia expelled 800,000 Yemenis,
+and Saudi Arabia was livid\! Saudi Arabia expelled 800,000 Yemenis,
 increasing the population by about 8-9% and precipitating food
 shortages, riots and a downward spiral into civil war by late 93
 (historically the civil war started in May 94). The Soviet Union found
@@ -286,8 +290,9 @@ The government is very friendly with the west and provides naval basing
 to the US and UK. 5th Fleet HQ is located in Manama.
 
 **Kuwait,** the focus of the 1991 Gulf war when Iraq invaded and the US
-led coalition assembled then expelled them. [<u>Kuwait is still
-recovering</u>](http://countrystudies.us/persian-gulf-states/33.htm)
+led coalition assembled then expelled them.
+[<span class="underline">Kuwait is still
+recovering</span>](http://countrystudies.us/persian-gulf-states/33.htm)
 from the war, although the 700 oil well fires were extinguished within a
 year, the environmental and economic damage was immense. Interestingly
 Kuwait's population is now about half of what it was prior to the
@@ -319,7 +324,8 @@ in the Iranian government who do know, are ecstatic about the defeat of
 their hated enemy, but cautious about the combat capability of their
 other hated enemy - the US; locally known as the Great Satan.
 
-**<u>Indian Sub-Continent</u>**: Where hatred festers!
+**<span class="underline">Indian Sub-Continent</span>**: Where hatred
+festers\!
 
 **Pakistan,** needs the economic support of the west, and the west needs
 Pakistan to be an ally in an area rife with Soviet influence. The 1990’s
@@ -345,7 +351,8 @@ meanwhile, are more concerned with having India as a counterbalance with
 China than anything else, however, friction with Pakistan often works in
 its favour.
 
-**<u>Islands</u>**: Paradise without the dashboard lights.
+**<span class="underline">Islands</span>**: Paradise without the
+dashboard lights.
 
 **Maldives,** a former British territory has been independent since 1968
 and ruled by the same man since 1978. Although there has been a series
@@ -385,10 +392,11 @@ Island. Total population is about 150 which doubles in the summer.
 **The Scenarios:**
 
 This region probably has room for about forty different scenario
-situations, but only 10 will form the Indian Ocean Fury battle set.
+situations, but only 10 will form the Indian Ocean Fury battle
+set.
 
 |      |               |                      |                                                                                                                                  |          |
-|------|---------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| ---- | ------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Scen | Date          | Title                | Description                                                                                                                      | Remarks  |
 | 1    | 13-15 Feb     | Persian Pounce       | Desperate struggle to withstand initial attacks in the Persian Gulf and evacuate key units out through the Straits of Hormuz     | Complete |
 | 2    | 13-15 Feb     | Mozambique Madness   | HMS Ark Royal transits the Mozambique Channel north to Somalia sorting out several problems along the way                        | Complete |

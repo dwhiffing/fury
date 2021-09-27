@@ -14,21 +14,22 @@ quickly and establish a defensive posture while 3<sup>rd</sup> Corps in
 the North followed by 5<sup>th</sup> Corps from Central and Southern
 Italy form and prepare for offensive or further defensive tasks.
 
-<img src="/assets\images\nato\it\army\media\image1.png" style="width:7.27826in;height:5.15775in" />
+![](/assets/images/nato/it/army/image1.png)
 
-**Main Battle Tanks (MBT)**
+**Main Battle Tanks
+(MBT)**
 
-[**Leopard
-1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php):
+[**Leopard 1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php):
 Italy purchased 200 of these tanks from Germany and produced another
 520, most were of the A2 standard but 120 were of the A5 variant. Italy
 also operated 136 ARV (Armored Recovery Vehicles), 40 AEV (Armored
 Engineer Vehicles), and 64 AVLB (Armored Vehicle Launched Bridges).
 Besides Germany, Italy was the largest user of this tank which was
 employed in all formations except the *Ariete* and *Mameli* armored and
-*Garibaldi* mechanized Brigades.
+*Garibaldi* mechanized
+Brigades.
 
-<img src="/assets\images\nato\it\army\media\image2.jpg" style="width:6.5in;height:4.05903in" />
+![](/assets/images/nato/it/army/image2.jpg)
 
 **[M60A1](http://www.tanks-encyclopedia.com/coldwar/US/M60_Patton.php):**
 Of the 300 M60s in service, 200 were built in Italy under license. These
@@ -50,7 +51,7 @@ has a full range of ammunition types and can engage targets out to 3000
 meters. The Centauro entered service in 1991 and all 400 were produced
 by 1996. An estimate of 250 are available for Northern Fury.
 
-<img src="/assets\images\nato\it\army\media\image3.jpg" style="width:6.5in;height:4.36736in" />
+![](/assets/images/nato/it/army/image3.jpg)
 
 **Infantry Combat Vehicles (ICV)**
 
@@ -61,7 +62,7 @@ is improved and a turret provided for the .50 Calibre Machine Gun, the
 fuel tanks were placed on the outside rear and smoke dischargers were
 provided. 560 were available for the Italian Army.
 
-<img src="/assets\images\nato\it\army\media\image4.jpg" style="width:6.5in;height:4.33333in" />
+![](/assets/images/nato/it/army/image4.jpg)
 
 [**VCC-2**](http://tanknutdave.com/the-italian-vcc-1-apc/): A lesser
 version of the VCC-1 which improved on an M113 by having applique armor,
@@ -76,23 +77,23 @@ About 450 of these are in reserve stocks.
 **M113:** About 3,300 M113s are in service within the Italian Army
 broken down as follows:
 
--   2,400 personnel carriers
+  - 2,400 personnel carriers
 
--   270 M233 TOW carriers
+  - 270 M233 TOW carriers
 
--   6 M688 Lance ramp
+  - 6 M688 Lance ramp
 
--   6 M527 Lance transport
+  - 6 M527 Lance transport
 
--   420 M125 mortar carriers
+  - 420 M125 mortar carriers
 
--   200 M106 mortar carriers
+  - 200 M106 mortar carriers
 
--   211 M548 supply vehicles
+  - 211 M548 supply vehicles
 
--   199 M577 command vehicles
+  - 199 M577 command vehicles
 
--   140 Ammo carriers for SIDAM
+  - 140 Ammo carriers for SIDAM
 
 **BV-206:** 90 available for mountain units
 
@@ -109,34 +110,34 @@ mix of 175mm, 8” (203mm) or rocket systems including the impressive
 FIROS-30 MLR (Multiple Launch Rocket). The territorial formations tend
 to have the older towed 155 systems
 
--   360 M.56 105/24mm pack howitzers
+  - 360 M.56 105/24mm pack howitzers
 
--   42 M59, 155/45mm towed howitzer
+  - 42 M59, 155/45mm towed howitzer
 
--   423 M114, 155/23mm towed howitzer
+  - 423 M114, 155/23mm towed howitzer
 
--   164 FH-70, 155/39mm towed howitzer
+  - 164 FH-70, 155/39mm towed howitzer
 
--   108 M44, 155mm SP howitzer (in storage)
+  - 108 M44, 155mm SP howitzer (in storage)
 
--   260 M109L (A3), 155/39mm SP howitzer
+  - 260 M109L (A3), 155/39mm SP howitzer
 
--   18 M107, 175mm SP howitzer
+  - 18 M107, 175mm SP howitzer
 
--   36 M115, 203/23mm towed howitzer
+  - 36 M115, 203/23mm towed howitzer
 
--   36 M55, 203mm SP howitzer (in storage)
+  - 36 M55, 203mm SP howitzer (in storage)
 
--   23 M110, 203mm SP howitzer
+  - 23 M110, 203mm SP howitzer
 
--   32 [FIROS-30](http://www.military-today.com/artillery/firos.htm),
+  - 32 [FIROS-30](http://www.military-today.com/artillery/firos.htm),
     122mm MLR
 
--   22 M270, MLRS
+  - 22 M270, MLRS
 
--   6 LANCE missile launchers
-
-<img src="/assets\images\nato\it\army\media\image5.jpg" style="width:6.25in;height:4.16667in" />
+  - 6 LANCE missile launchers
+    
+    ![](/assets/images/nato/it/army/image5.jpg)
 
 **Air Defence**
 
@@ -147,24 +148,24 @@ Hercules](https://theaviationist.com/2010/06/09/the-nike-hercules-of-the-italian
 was in the process of retiring, Italy was the last user of the system
 employing them until 2006.
 
-<img src="/assets\images\nato\it\army\media\image6.jpg" style="width:4.375in;height:4.32986in" />
+![](/assets/images/nato/it/army/image6.jpg)
 
--   109 M55, 12.7mm towed Quad AAA
+  - 109 M55, 12.7mm towed Quad AAA
 
--   230 40mm L/70 towed AAA
+  - 230 40mm L/70 towed AAA
 
--   275
+  - 275
     [SIDAM-25](http://www.tanks-encyclopedia.com/coldwar/Italy/SIDAM-25.php),
     SP 25mm Quad AAA
 
--   Stinger MANPADS
+  - Stinger MANPADS
 
--   Mistral MANPADS
+  - Mistral MANPADS
 
--   24 SPADA (Skyguard/Aspide) + 7 with air force
+  - 24 SPADA (Skyguard/Aspide) + 7 with air force
 
--   60 I-Hawks
+  - 60 I-Hawks
 
--   96 Nike Hercules
+  - 96 Nike Hercules
 
-<img src="/assets\images\nato\it\army\media\image7.jpg" style="width:6.5in;height:4.34444in" />
+![](/assets/images/nato/it/army/image7.jpg)

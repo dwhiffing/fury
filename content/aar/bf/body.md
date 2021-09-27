@@ -18,7 +18,7 @@ supposed post Cold War *Peace Dividend*. Although reinforcements will
 arrive quickly from the UK and in a few days from the US, events
 elsewhere will keep the flow of forces into this area small.
 
-<img src="/assets\images\aar\bf\media\image1.png" style="width:6.5in;height:3.84375in" />
+![](/assets/images/aar/bf/image1.png)
 
 Of the five scenarios, three are played from the Soviet side and two
 from the NATO side.

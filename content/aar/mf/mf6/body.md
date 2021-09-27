@@ -5,6 +5,6 @@
 USS Nimitz, after transiting the Suez canal and replenishing now takes
 up heavy strikes on Syria
 
-**<u>Mediterranean Fury \#6</u>**
+**<span class="underline">Mediterranean Fury \#6</span>**
 
 Scenario not yet completed.

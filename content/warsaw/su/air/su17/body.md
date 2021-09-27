@@ -1,4 +1,4 @@
-<img src="/assets\images\warsaw\su\air\su17\media\image1.jpg" style="width:6.16667in;height:3.88542in" />
+![](/assets/images/warsaw/su/air/su17/image1.jpg)
 
 [**Su-17 ‘Fitter’**](http://www.airvectors.net/avsu17_2.html#m3)An
 evolutionary design based on the Su-7 ‘Fitter’ but with the addition of
@@ -45,10 +45,10 @@ type including some **Su-17M4R** reconnaissance variants and a small
 number of **Su-17M4P** for SEAD (Suppression of Enemy Air Defence)
 missions.
 
-<img src="/assets\images\warsaw\su\air\su17\media\image2.jpg" style="width:6.5in;height:3.98333in" />
+![](/assets/images/warsaw/su/air/su17/image2.jpg)
 
 | Version              | VVS | Naval Avn | Training | Reserve                   |
-|----------------------|-----|-----------|----------|---------------------------|
+| -------------------- | --- | --------- | -------- | ------------------------- |
 | **Su-17 ‘Fitter-B’** |     |           |          | 224 (Mothballed)          |
 | **Su-17 ‘Fitter-C’** |     |           |          | 253 (2<sup>nd</sup> line) |
 | **Su-17 ‘Fitter-D’** |     | 220       |          |                           |

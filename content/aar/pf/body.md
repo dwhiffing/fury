@@ -8,7 +8,8 @@ alliances with Pacific Rim partners is a critical national security
 objective in Washington and any threat to those relationships is
 threated very seriously.
 
-<img src="/assets\images\aar\pf\media\image1.png" style="width:6.5in;height:8.73056in" alt="Map Description automatically generated" />
+![Map Description automatically
+generated](/assets/images/aar/pf/image1.png)
 
 The US and its allies are dispersed at the start of hostilities, the US
 Navy has seven aircraft carriers in the Pacific Fleet but two of those

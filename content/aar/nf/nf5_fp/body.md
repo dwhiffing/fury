@@ -1,6 +1,6 @@
-**<u>Northern Fury \#5 – Bardufoss Blues</u>**
+**<span class="underline">Northern Fury \#5 – Bardufoss Blues</span>**
 
-**<u>AAR by fitzpatv, Apr 2021</u>**
+**<span class="underline">AAR by fitzpatv, Apr 2021</span>**
 
 Following on from H Hour, this scenario assumes a worse outcome than the
 one I achieved. You can only play the NATO side. The Soviets have taken
@@ -102,12 +102,12 @@ targets without shooting them down and managed just one kill before
 being overwhelmed. On another occasion, I had two AMRAAMs spoofed (same
 odds), then couldn’t fire any more despite the sky being full of
 targets. Zooming in, I found to my disbelief that the Eagle (Engaged
-Offensive and not on Auto-Evade) was flying the wrong way!. Though some
+Offensive and not on Auto-Evade) was flying the wrong way\!. Though some
 planes did better than this, it wasn’t paying-off and I eventually
 decided that I was safer on the ground.
 
 While this was going on, a request arrived from the Navy for help
-clearing enemy ASW choppers away from the convoy. Some hope!. I
+clearing enemy ASW choppers away from the convoy. Some hope\!. I
 nevertheless tried to sortie some F-5s and a Sidewinder F-16 from Bodo,
 but they struggled to get close due to the presence of Su-33s on CAP,
 got fired-at by Gadfly SAMS (25 nm range) on escorting Sovremennys and
@@ -184,7 +184,7 @@ between going N of the Lofotens towards the sub or round the S side and
 took the latter. The Norwegian sub Kinn was nearby and I detailed her to
 search for the Foxtrot. Kinn was helped by two missile boats which
 couldn’t join the attack group (one was limping and the other had
-ludicrously begun the scenario on land (!) and couldn’t move (Arg and
+ludicrously begun the scenario on land (\!) and couldn’t move (Arg and
 Odd both have this problem). They could nevertheless detect emissions
 from the Russian sub, which was foolishly sitting at periscope depth
 with radar on. Still more foolishly, she then tried to torpedo the two

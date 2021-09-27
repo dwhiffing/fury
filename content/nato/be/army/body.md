@@ -9,7 +9,7 @@ the Belgian Army were stationed in Germany. The Para Commando Bde is
 assigned to the AMF (ACE \[Allied Command Europe\] Mobile Force) and was
 expected to deploy to North Norway in an emergency.
 
-<img src="/assets\images\nato\be\army\media\image1.jpg" style="width:3.62292in;height:2.50625in" />
+![](/assets/images/nato/be/army/image1.jpg)
 
 **Leopard I**
 
@@ -19,7 +19,7 @@ Command). Each Mechanized Brigade had one unit, 17<sup>th</sup> Armoured
 Brigade had two and the eighth was the ‘2<sup>nd</sup> Jaagers te
 Paard’, a reconnaissance unit.
 
-<img src="/assets\images\nato\be\army\media\image2.jpeg" style="width:3.93542in;height:2.625in" />
+![](/assets/images/nato/be/army/image2.jpeg)
 
 **AIFV-B**
 
@@ -39,19 +39,19 @@ delivered in the late 80’s to replace the AMX-VCI family of APCs, up to
 including 117 M109A2 and 41 M109A3 155mm Self Propelled guns, 11 M110
 203mm and numerous older pieces and 5 Lance Missile Launchers.
 
-<img src="/assets\images\nato\be\army\media\image3.jpg" style="width:3.0931in;height:2.15625in" />
+![](/assets/images/nato/be/army/image3.jpg)
 
 M109A3 SP Howitzer, 155mm. Bde & Div Close Support
 
-<img src="/assets\images\nato\be\army\media\image4.jpg" style="width:3.20313in;height:2.13542in" />
+![](/assets/images/nato/be/army/image4.jpg)
 
 M110 SP Howitzer, 8" or 203mm. Corps Arty General Support
 
-<img src="/assets\images\nato\be\army\media\image5.jpeg" style="width:3.13611in;height:2.32073in" />
+![](/assets/images/nato/be/army/image5.jpeg)
 
 M115 Howitzer, 8" or 203mm. Corps Arty General Support
 
-<img src="/assets\images\nato\be\army\media\image6.jpeg" style="width:3.09647in;height:2.32235in" />
+![](/assets/images/nato/be/army/image6.jpeg)
 
 *Lance Missile. Corps Arty General Support*
 
@@ -59,14 +59,14 @@ M115 Howitzer, 8" or 203mm. Corps Arty General Support
 
 Various gun and missile systems were used at all levels for Air Defence.
 
-<img src="/assets\images\nato\be\army\media\image7.jpeg" style="width:3.16518in;height:2.11114in" />
+![](/assets/images/nato/be/army/image7.jpeg)
 
 54 x Gepard Twin 35mm Very Low Level AD
 
-<img src="/assets\images\nato\be\army\media\image8.jpg" style="width:3.17747in;height:2.11967in" />
+![](/assets/images/nato/be/army/image8.jpg)
 
 Over 700 Mistral Very Low Level Missile vehicle or pedestal mount
 
-<img src="/assets\images\nato\be\army\media\image9.jpg" style="width:4.08933in;height:3.067in" />
+![](/assets/images/nato/be/army/image9.jpg)
 
 24 x I-Hawk Missile Launchers, medium level

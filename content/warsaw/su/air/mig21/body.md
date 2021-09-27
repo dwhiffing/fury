@@ -1,4 +1,4 @@
-<img src="/assets\images\warsaw\su\air\mig21\media\image1.jpg" style="width:5.72917in;height:2.5625in" />
+![](/assets/images/warsaw/su/air/mig21/image1.jpg)
 
 [**MiG-21 ‘Fishbed’**](http://www.airvectors.net/avmig23.html)Although
 over 11,000
@@ -25,14 +25,14 @@ pod, a general purpose ELINT (Electronic Intelligence) pod, or a TV
 motion picture pod. About 320 of these aircraft remain but only 60 are
 in service while the remainder are in reserve.
 
-<img src="/assets\images\warsaw\su\air\mig21\media\image2.jpg" style="width:6.5in;height:3.43681in" />
+![](/assets/images/warsaw/su/air/mig21/image2.jpg)
 
 **MiG-21UM Mongol –B**: This two seat trainer is used both by Frontal
 Aviation forces (VVS) and Air Defence Forces (PVO) to introduce their
 trainee pilots to combat aircraft. The VVS uses about 360 while the PVO
 retains 120 of these airframes and there are about 300 in reserve.
 
-<img src="/assets\images\warsaw\su\air\mig21\media\image3.jpeg" style="width:6.21875in;height:4.17215in" />
+![](/assets/images/warsaw/su/air/mig21/image3.jpeg)
 
 **MiG-21Bis Fishbed-L/N**: This is the last development in the design
 with an improved engine and many other improvements. Sometimes called
@@ -44,4 +44,4 @@ the *Lazur* GCI (Ground Control Intercept) system while the VVS uses
 about 800 Fishbed-H equipped with Polyot ILS (Instrument Landing
 System). Slightly more than 1000 remain in reserve.
 
-<img src="/assets\images\warsaw\su\air\mig21\media\image4.jpg" style="width:6.5in;height:3.4in" />
+![](/assets/images/warsaw/su/air/mig21/image4.jpg)

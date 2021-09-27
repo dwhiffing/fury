@@ -1,8 +1,8 @@
 **Northern Fury – Shield of Faith**
 
-**<u>Playtest Report by AndrewJ July 2018</u>**
+**<span class="underline">Playtest Report by AndrewJ July 2018</span>**
 
-I can't believe I missed a Northern Fury! I must have been seriously
+I can't believe I missed a Northern Fury\! I must have been seriously
 distracted at the time. I played the V1.2 (hopefully that's the latest),
 so here's a mini AAR even though its waaay late. (It doesn't feel like
 Northern Fury if I don't write down something afterwards. )
@@ -125,5 +125,5 @@ got safely to their destinations, except for some of the cargo planes
 with airborne troops. I fumbled the landings a little, and some had to
 turn back for lack of ramp space, although it was close.
 
-Fun! Interesting to make operational level decisions about squadron
+Fun\! Interesting to make operational level decisions about squadron
 deployments. Most scenarios don't allow that.

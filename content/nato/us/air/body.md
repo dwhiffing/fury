@@ -1,4 +1,4 @@
-<img src="/assets\images\nato\us\air\media\image1.png" style="width:3.05208in;height:1.79167in" />
+![](/assets/images/nato/us/air/image1.png)
 
 **The United States Air Force**
 
@@ -16,9 +16,9 @@ Structurally the changes that occurred historically remain extant
 because they made sense in an evolving world. The fundamental structure
 of the USAF looks like this:
 
-<img src="/assets\images\nato\us\air\media\image2.png" style="width:7.39626in;height:2.38193in" />
+![](/assets/images/nato/us/air/image2.png)
 
-<img src="/assets\images\nato\us\air\media\image3.png" style="width:4.46429in;height:2.5in" />
+![](/assets/images/nato/us/air/image3.png)
 
 **Air Combat Command**
 
@@ -30,9 +30,9 @@ reconnaissance, rescue and Battle management forces for rapid deployment
 and employment. This is a large command with over 230,000 regular and
 reserve personnel and over 1,000 aircraft.
 
-<img src="/assets\images\nato\us\air\media\image4.png" style="width:8.51042in;height:4.87297in" />
+![](/assets/images/nato/us/air/image4.png)
 
-<img src="/assets\images\nato\us\air\media\image5.jpg" style="width:10.18082in;height:4.92708in" />
+![](/assets/images/nato/us/air/image5.jpg)
 
 **Air Mobility Command**
 
@@ -43,9 +43,9 @@ refueling, aeromedical evacuations and many other minor tasks every day
 of the year. With 125,000 personnel and about 925 airframes, this is the
 second largest command in the Air Force.
 
-<img src="/assets\images\nato\us\air\media\image6.png" style="width:7.05139in;height:6.00937in" />
+![](/assets/images/nato/us/air/image6.png)
 
-<img src="/assets\images\nato\us\air\media\image7.jpg" style="width:6.32292in;height:4.20499in" />
+![](/assets/images/nato/us/air/image7.jpg)
 
 **Pacific Air Forces**
 
@@ -58,9 +58,9 @@ deterrence, is to train with Asian and Australian Air Forces as a way of
 leveraging the combat power of those nations toward a unified command
 system.
 
-<img src="/assets\images\nato\us\air\media\image8.png" style="width:8.17991in;height:3.90625in" />
+![](/assets/images/nato/us/air/image8.png)
 
-<img src="/assets\images\nato\us\air\media\image9.jpg" style="width:15.98444in;height:9.18608in" />
+![](/assets/images/nato/us/air/image9.jpg)
 
 **US Air Force in Europe**
 
@@ -85,11 +85,11 @@ aircraft in support. USAFE will grow well beyond this as the
 well-practiced flyover reinforcement program continues, swelling to more
 than double this number.
 
-<img src="/assets\images\nato\us\air\media\image10.png" style="width:5.83403in;height:6.88056in" />
+![](/assets/images/nato/us/air/image10.png)
 
-<img src="/assets\images\nato\us\air\media\image11.png" style="width:7.56875in;height:1.47132in" />
+![](/assets/images/nato/us/air/image11.png)
 
-<img src="/assets\images\nato\us\air\media\image12.jpg" style="width:9.88333in;height:4.84in" />
+![](/assets/images/nato/us/air/image12.jpg)
 
 **Air Force Special Operation Command**
 
@@ -98,30 +98,30 @@ Command (AFSOC) only became a separate command in May of 1990 when the
 former 23<sup>rd</sup> Air Force was re-designated to this role. AFSOC
 has a wide ranging list of tasks including:
 
--   Providing combat controllers for air to ground coordination of
+  - Providing combat controllers for air to ground coordination of
     airpower. This function is being consolidated within AFSOC from ACC,
     PACAF and USAFE but the capacity remains in those commands
 
--   Providing Combat Search and Rescue (CSAR) services worldwide
+  - Providing Combat Search and Rescue (CSAR) services worldwide
 
--   Operating all airborne weather services for US Army and USAF
+  - Operating all airborne weather services for US Army and USAF
     worldwide, as well as providing aircraft to NASA (National
     Aeronautics and Space Administration) and NOAA (National Oceanic and
     Atmospheric Administration) which includes the US National Weather
     Service.
 
--   Operating airborne psychological operations platforms.
+  - Operating airborne psychological operations platforms.
 
--   Operating a squadron of AC-130 Spectre gunships for close air
+  - Operating a squadron of AC-130 Spectre gunships for close air
     support
 
--   Operating a fleet of ‘Combat Talon’ C-130 special mission aircraft
+  - Operating a fleet of ‘Combat Talon’ C-130 special mission aircraft
     for stealthy infiltration of special forces personnel.
 
--   Operating a fleet of ‘Combat Shadow’ C-130 special mission refueling
+  - Operating a fleet of ‘Combat Shadow’ C-130 special mission refueling
     aircraft.
 
--   Operating a fleet of ‘Pave Low’ and ‘Pave Hawk’ helicopters for
+  - Operating a fleet of ‘Pave Low’ and ‘Pave Hawk’ helicopters for
     CSAR, insertion and extraction missions.
 
 AFSOC is a small, agile organization which runs its own school, test and
@@ -131,9 +131,9 @@ helicopters and several MH-60’s, this force can deploy elements globally
 either as individual aircraft or as mission tailored groups on very
 short notice.
 
-<img src="/assets\images\nato\us\air\media\image13.png" style="width:5.59375in;height:2.14653in" />
+![](/assets/images/nato/us/air/image13.png)
 
-<img src="/assets\images\nato\us\air\media\image14.jpg" style="width:13.40663in;height:8.73264in" />
+![](/assets/images/nato/us/air/image14.jpg)
 
 **Air Force Space Command**
 
@@ -155,9 +155,9 @@ reconnaissance, ballistic missile warning and weather satellites. (Note,
 the structures involved in space /assets, ICBMs, NORAD and national
 reconnaissance have gone through numerous changes over time)
 
-<img src="/assets\images\nato\us\air\media\image15.png" style="width:5.58681in;height:6.20694in" />
+![](/assets/images/nato/us/air/image15.png)
 
-<img src="/assets\images\nato\us\air\media\image16.jpeg" style="width:10in;height:6.67in" />
+![](/assets/images/nato/us/air/image16.jpeg)
 
 **Air Force Reserve**
 
@@ -172,80 +172,80 @@ Forces, 37 wings, 128 groups and about 400 squadrons (many without
 aircraft). There are some minor changes due to the Northern Fury setting
 but nothing significant. Not all detail is shown in the diagram below:
 
-<img src="/assets\images\nato\us\air\media\image17.png" style="width:5.66736in;height:4.16042in" />
+![](/assets/images/nato/us/air/image17.png)
 
-<img src="/assets\images\nato\us\air\media\image18.jpg" style="width:13.43501in;height:7.11111in" />
+![](/assets/images/nato/us/air/image18.jpg)
 
 **Air Force National Guard**
 
 Commonly referred to simply as the ‘**Air Guard**’ or simply the
-‘**Guard’** this is another large element of the USAF with over 111,000
-personnel flying in 88 wings from every state of the country. The Air
-Guard provides trained units and people directly to the other commands.
-Unlike the ARS, these units belong to the State Governors until
-federalized for operations. Standing agreements exist for NORAD and many
-other domestic activities, but special permissions are needed to deploy
-Air Guard units overseas. No numbered Air Forces are operated by the Air
-Guard and many wings consist of only one squadron. Northern Fury has
-some significant changes that impact this element, primarily because the
-active air force maintains many squadrons that were historically
-deactivated. By 1994 the Air Guard was receiving a significant number of
-very new aircraft as regular units closed down, but since that does not
-happen, the Guard was maintaining many older aircraft until production
-of newer airframes could catch up to demand. The Air Guard flies over
-1,500 aircraft in 109 squadrons as follows:
+‘**Guard’** this is another large element of the USAF with over
+111,000 personnel flying in 88 wings from every state of the country.
+The Air Guard provides trained units and people directly to the other
+commands. Unlike the ARS, these units belong to the State Governors
+until federalized for operations. Standing agreements exist for NORAD
+and many other domestic activities, but special permissions are needed
+to deploy Air Guard units overseas. No numbered Air Forces are operated
+by the Air Guard and many wings consist of only one squadron. Northern
+Fury has some significant changes that impact this element, primarily
+because the active air force maintains many squadrons that were
+historically deactivated. By 1994 the Air Guard was receiving a
+significant number of very new aircraft as regular units closed down,
+but since that does not happen, the Guard was maintaining many older
+aircraft until production of newer airframes could catch up to demand.
+The Air Guard flies over 1,500 aircraft in 109 squadrons as follows:
 
--   7x F-15A Squadrons of 24 aircraft each, 3 are for NORAD, one is in
+  - 7x F-15A Squadrons of 24 aircraft each, 3 are for NORAD, one is in
     Hawaii;
 
--   29x F-16ADF Squadrons of 18 aircraft each, 14 are for NORAD;
+  - 29x F-16ADF Squadrons of 18 aircraft each, 14 are for NORAD;
 
--   3x F-16 Block 25 Squadrons of 24 aircraft each;
+  - 3x F-16 Block 25 Squadrons of 24 aircraft each;
 
--   1x F-16 Block 50 Squadron of 24 aircraft, half of that Squadron is
+  - 1x F-16 Block 50 Squadron of 24 aircraft, half of that Squadron is
     in the Persian Gulf;
 
--   3x F-4E Squadrons of 24 aircraft each;
+  - 3x F-4E Squadrons of 24 aircraft each;
 
--   1x F-4G ‘Wild Weasel’ Squadron of 24 aircraft;
+  - 1x F-4G ‘Wild Weasel’ Squadron of 24 aircraft;
 
--   2x RF-4C ‘Reconnaissance’ Squadrons of 18 aircraft each;
+  - 2x RF-4C ‘Reconnaissance’ Squadrons of 18 aircraft each;
 
--   3x A7D Squadrons of 18 aircraft each;
+  - 3x A7D Squadrons of 18 aircraft each;
 
--   5x A-10 Squadrons of 18 aircraft each;
+  - 5x A-10 Squadrons of 18 aircraft each;
 
--   1x EC-130E ‘Commando Solo’ Squadron of 8 aircraft;
+  - 1x EC-130E ‘Commando Solo’ Squadron of 8 aircraft;
 
--   19x C-130E/H varying between 8 and 12 aircraft each (1 Sqn is
+  - 19x C-130E/H varying between 8 and 12 aircraft each (1 Sqn is
     forming and has 5);
 
--   2x C-141B Squadrons of 8 aircraft each;
+  - 2x C-141B Squadrons of 8 aircraft each;
 
--   1x C-5A Squadron of 8 aircraft;
+  - 1x C-5A Squadron of 8 aircraft;
 
--   1x CT-43A Squadron of 6 aircraft working with ATEC;
+  - 1x CT-43A Squadron of 6 aircraft working with ATEC;
 
--   1x C-21A Squadron with 4 aircraft for VIP transport;
+  - 1x C-21A Squadron with 4 aircraft for VIP transport;
 
--   20x KC-135 Squadrons with 7 to 10 aircraft each;
+  - 20x KC-135 Squadrons with 7 to 10 aircraft each;
 
--   1x T-38 Squadron with around 32 aircraft working for ATEC;
+  - 1x T-38 Squadron with around 32 aircraft working for ATEC;
 
--   1x C-130E Training Squadron with 10 aircraft working for ATEC;
+  - 1x C-130E Training Squadron with 10 aircraft working for ATEC;
 
--   1x F-4G/RF-4C Training Squadron with at least 12 of each working for
+  - 1x F-4G/RF-4C Training Squadron with at least 12 of each working for
     ATEC;
 
--   2x C-130P Rescue Squadrons with 5 aircraft each
+  - 2x C-130P Rescue Squadrons with 5 aircraft each
 
--   2x HH-60 Rescue Squadrons with 8 aircraft each
+  - 2x HH-60 Rescue Squadrons with 8 aircraft each
 
--   1x Mixed Rescue Squadron with 4x C-130P and 6x HH-60.
+  - 1x Mixed Rescue Squadron with 4x C-130P and 6x HH-60.
 
--   2x Rescue Jumper Squadrons.
+  - 2x Rescue Jumper Squadrons.
 
-<img src="/assets\images\nato\us\air\media\image19.jpg" style="width:5.67708in;height:3.13186in" />
+![](/assets/images/nato/us/air/image19.jpg)
 
 **Air Force Training and Education Command**
 
@@ -254,11 +254,11 @@ at which the USAF conducts training. At any time, there are over 60,000
 assigned personnel and around 350,000 students within the command.
 Although flight training is only one of many functions of ATEC, it
 operates over 1,500 aircraft in two numbered air forces, including over
-350 front line aircraft!
+350 front line aircraft\!
 
-<img src="/assets\images\nato\us\air\media\image20.png" style="width:9.22183in;height:3.3125in" />
+![](/assets/images/nato/us/air/image20.png)
 
-<img src="/assets\images\nato\us\air\media\image21.jpg" style="width:10.41667in;height:6.9375in" />
+![](/assets/images/nato/us/air/image21.jpg)
 
 **Air Force Materiel Command**
 
@@ -268,7 +268,7 @@ personnel and operating 40 different types of aircraft, this is a large
 command. AFMC also operates the ‘Test Pilot’ school and works with
 industry to develop and evolve aircraft.
 
-<img src="/assets\images\nato\us\air\media\image22.jpg" style="width:12.53426in;height:5.59028in" />
+![](/assets/images/nato/us/air/image22.jpg)
 
 **Northern Fury**
 
@@ -303,13 +303,13 @@ undertaken to stem the decline of combat power within the air force:
     such as the EC/MC/AC-130 series where Northern Fury sees about 27
     more airframes in use, the big impact is in front line fighter
     aircraft and the B-2 Bomber.
-
+    
     1.  A total of eight B-2 Spirit bombers are in service (AV-7 to
         AV-12, plus AV-5 & 6 held by ATEC). These have formed the
         393<sup>rd</sup> Bomb Squadron at Whiteman AFB. Training,
         testing and evaluation is ongoing with the two ATEC airframes
         not ready for immediate operations.
-
+    
     2.  The F-15E Strike Eagle, all 200 ordered plus 6 replacement
         aircraft had been delivered by early 1992, a further order was
         placed for 100 airframes early enough to continue production at
@@ -319,7 +319,7 @@ undertaken to stem the decline of combat power within the air force:
         the operational conversion unit for this type is due to
         deactivate later in 1994, but remains extant within ATEC when
         Northern Fury commences.
-
+    
     3.  The single largest impact of retained production is the F-16
         Falcon. Historically the late ‘80s and early ‘90s saw a massive
         downsizing and sell-off of this ubiquitous and versatile
@@ -334,4 +334,4 @@ undertaken to stem the decline of combat power within the air force:
         retiring many F-16ADF, and canceling several foreign sales a net
         increase of 15x F-16 Squadrons are available to the USAF.
 
-<img src="/assets\images\nato\us\air\media\image23.jpg" style="width:11.20833in;height:8.43056in" />
+![](/assets/images/nato/us/air/image23.jpg)

@@ -22,14 +22,15 @@ Seasprite’ was developed, historically these were sent immediately to
 the Reserves due to a shrinking fleet and only 24 were acquired (6 new
 and 18 conversions), in Northern Fury they all remain in the active
 fleet and 24 more older aircraft were converted for a fleet total of 48
-‘Super Seasprites’. The plan was further complicated due to the Gulf War
-in 1991, for deployment there, 16 SH-2Fs were fitted with forward
+‘Super Seasprites’. The plan was further complicated due to the Gulf
+War in 1991, for deployment there, 16 SH-2Fs were fitted with forward
 looking infra-red (FLIR) cameras and other modifications, these remain
 in service as well and are known as the SH-2F(GW). In total there are
-112 Seasprites are in the fleet and about a dozen held in readiness.
+112 Seasprites are in the fleet and about a dozen held in
+readiness.
 
 | Sqn    | Name            | Location         | No. | Type  | Remarks              |
-|--------|-----------------|------------------|-----|-------|----------------------|
+| ------ | --------------- | ---------------- | --- | ----- | -------------------- |
 | HSL-31 | Arch Angels     | NAS North Island | 12  | SH-2G |                      |
 | HSL-32 | Invaders        | NAS Norfolk      | 12  | SH-2G |                      |
 | HSL-33 | Seasnakes       | NAS North Island | 12  | SH-2G |                      |
@@ -39,56 +40,57 @@ in service as well and are known as the SH-2F(GW). In total there are
 | HSL-84 | Thunderbolts    | NAS Norfolk      | 16  | SH-2F | Several Gulf War Mod |
 | HSL-94 | Titans          | NAS Norfolk      | 12  | SH-2G |                      |
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image1.jpg" style="width:5.8125in;height:3.89503in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image1.jpg)
 
 [**SH-3 Sea King**](http://www.airvectors.net/avs61_1.html#m3)At its
 peak the USN operated well over 300 of the powerful and amphibious SH-3
 Sea King helicopters but is currently retiring the bulk of that fleet.
 The two roles remaining to the Sea King are:
 
--   ASW; where it is being replaced by the SH-60F Oceanhawk in the
+  - ASW; where it is being replaced by the SH-60F Oceanhawk in the
     Carrier Air Wings (CVW). Both the Sea King and the new Oceanhawk
     differ from other US ASW helicopters by having dipping sonar,
     allowing them to use active sonar at depth near very noisy ships –
     like Aircraft Carriers.
 
--   SAR; (Search and Rescue) and general utility. The SAR task will be
+  - SAR; (Search and Rescue) and general utility. The SAR task will be
     taken up by the HH-60H ‘Rescue Hawk’ but only on the CVWs and
     Special Forces squadrons. General duties and shore based SAR will be
     conducted by the last remaining 26 UH-3H Sea Kings and a variety of
-    other means.
+    other
+means.
 
-| Type  | Sqn    | Name              | No  | Location            | Remarks                      |
-|-------|--------|-------------------|-----|---------------------|------------------------------|
-| SH-3G | HC-1   | Fleet Angels      | 8   | North Island        |                              |
-|       | HC-2   | Fleet Angels      | 12  | Norfolk             |                              |
-|       |        |                   | 1   | Naples Italy        | 6<sup>th</sup> Fleet VIP Tpt |
-|       | VC-3   | Red Tails         | 4   | Puerto Ricco        | Target tower                 |
-|       | VC-5   | Checkertails      | 5   | Cubi Pt Philippines | Target tower                 |
-|       | VC-8   | Redtails          | 6   | Oceania             | Target tower                 |
-|       | VX-1   | Pioneers          | 2   | Patuxent River      | Test pilot trg               |
-|       |        | Not assigned      | 3   | Pensacola           |                              |
-|       |        | Not assigned      | 3   | Cecil Fd            |                              |
-|       |        | Not assigned      | 3   | Key West            |                              |
-|       |        | Not assigned      | 2   | Jacksonville        |                              |
-|       |        | Not assigned      | 3   | Whidbey Is          |                              |
-|       |        | Not assigned      | 3   | Miramar             |                              |
-| SH-3D | HS-5   | Nightdippers      | 6   | CVW-7               | USS J.F. Kennedy             |
-|       | HS-7   | Dusty Dogs        | 6   | CVW-3               | USS Eisenhower               |
-|       | HS-9   | Sea Griffins      | 6   | CVW-17              | USS Saratoga                 |
-|       | HS-11  | Dragon Slayers    | 6   | CVW-1               | USS America                  |
-|       | HS-12  | Wyverns           | 6   | CVW-5               | USS Independence             |
-|       | HS-16  | Bullfrogs         | 6   | CVW-2               | USS Constellation            |
-|       | HS-17  | Neptune's Raiders | 6   | North Island        | Deactivating                 |
-|       | HS-85  | Golden Gators     | 6   | North Island        | Reserve Sqn                  |
-| UH-3H | HC-1   | Fleet Angels      | 8   | North Island        |                              |
-|       | HC-2   | Fleet Angles      | 4   | Norfolk             |                              |
-|       | HC-5   | Providers         | 7   | Agana Japan         |                              |
-|       | HC-11  | Gunbearers        | 4   | North Island        |                              |
-|       | HC-16  | Bullfrogs         | 4   | Pensacola           |                              |
-|       | HSL-51 | Warlords          | 1   | Yokosuka Japan      | 7<sup>th</sup> Fleet VIP Tpt |
+| Type  | Sqn    | Name              | No | Location            | Remarks                      |
+| ----- | ------ | ----------------- | -- | ------------------- | ---------------------------- |
+| SH-3G | HC-1   | Fleet Angels      | 8  | North Island        |                              |
+|       | HC-2   | Fleet Angels      | 12 | Norfolk             |                              |
+|       |        |                   | 1  | Naples Italy        | 6<sup>th</sup> Fleet VIP Tpt |
+|       | VC-3   | Red Tails         | 4  | Puerto Ricco        | Target tower                 |
+|       | VC-5   | Checkertails      | 5  | Cubi Pt Philippines | Target tower                 |
+|       | VC-8   | Redtails          | 6  | Oceania             | Target tower                 |
+|       | VX-1   | Pioneers          | 2  | Patuxent River      | Test pilot trg               |
+|       |        | Not assigned      | 3  | Pensacola           |                              |
+|       |        | Not assigned      | 3  | Cecil Fd            |                              |
+|       |        | Not assigned      | 3  | Key West            |                              |
+|       |        | Not assigned      | 2  | Jacksonville        |                              |
+|       |        | Not assigned      | 3  | Whidbey Is          |                              |
+|       |        | Not assigned      | 3  | Miramar             |                              |
+| SH-3D | HS-5   | Nightdippers      | 6  | CVW-7               | USS J.F. Kennedy             |
+|       | HS-7   | Dusty Dogs        | 6  | CVW-3               | USS Eisenhower               |
+|       | HS-9   | Sea Griffins      | 6  | CVW-17              | USS Saratoga                 |
+|       | HS-11  | Dragon Slayers    | 6  | CVW-1               | USS America                  |
+|       | HS-12  | Wyverns           | 6  | CVW-5               | USS Independence             |
+|       | HS-16  | Bullfrogs         | 6  | CVW-2               | USS Constellation            |
+|       | HS-17  | Neptune's Raiders | 6  | North Island        | Deactivating                 |
+|       | HS-85  | Golden Gators     | 6  | North Island        | Reserve Sqn                  |
+| UH-3H | HC-1   | Fleet Angels      | 8  | North Island        |                              |
+|       | HC-2   | Fleet Angles      | 4  | Norfolk             |                              |
+|       | HC-5   | Providers         | 7  | Agana Japan         |                              |
+|       | HC-11  | Gunbearers        | 4  | North Island        |                              |
+|       | HC-16  | Bullfrogs         | 4  | Pensacola           |                              |
+|       | HSL-51 | Warlords          | 1  | Yokosuka Japan      | 7<sup>th</sup> Fleet VIP Tpt |
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image2.jpeg" style="width:6.35417in;height:5.09376in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image2.jpeg)
 
 [**SH-60 Seahawk**](https://fas.org/man/dod-101/sys/ac/sh-60.htm)
 
@@ -101,8 +103,8 @@ variants the pan-defence efficiencies may eventually allow that to
 happen. By 1994 the USN was acquiring three variants, all with the name
 Seahawk but unofficially with adopted names:
 
--   [SH-60B
-    Seahawk](http://www.sikorskyarchives.com/S-60B%20(SH-60B%20Seahawk,%20SH-60F%20CV,%20HH-60H%20Rescue%20Hawk,%20HH-60J%20Jayhawk,%20VH-60N).php),
+  - [SH-60B
+    Seahawk](http://www.sikorskyarchives.com/S-60B%20\(SH-60B%20Seahawk,%20SH-60F%20CV,%20HH-60H%20Rescue%20Hawk,%20HH-60J%20Jayhawk,%20VH-60N\).php),
     filling a LAMPS III role, these rugged and powerful ASW helicopter
     have modern and capable ASW computation and targeting systems, a
     Magnetic Anomaly Detector (MAD), 25 sonobuoys, a powerful search
@@ -111,9 +113,9 @@ Seahawk but unofficially with adopted names:
     Secure and Traverse) system to assist them landing on a small deck.
     In total, 181 SH-60B were produced.
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image3.jpeg" style="width:6.04167in;height:4.21395in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image3.jpeg)
 
--   [SH-60F
+  - [SH-60F
     Oceanhawk](http://www.waymarking.com/waymarks/WMWYA2_Sikorsky_SH_60F_Seahawk_San_Diego_CA),
     designed to operate off aircraft carriers, this model exchanges the
     RAST system, the MAD, the search radar and the onboard sonobouys for
@@ -123,9 +125,9 @@ Seahawk but unofficially with adopted names:
     SH-60F but only 45 have been delivered by the start of Northern
     Fury.
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image4.jpg" style="width:6.59375in;height:3.71413in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image4.jpg)
 
--   [HH-60H Rescue
+  - [HH-60H Rescue
     Hawk](http://www.nhahistoricalsociety.org/index.php/sh-60f-sikorsky-s-70b-seahawk-helicopter/),
     primarily used by two Special Forces CSAR (Combat Search and Rescue)
     squadrons, this aircraft is based on the SH-60F but has many
@@ -133,12 +135,13 @@ Seahawk but unofficially with adopted names:
     and chaff/flare dispensers. It can fire the AGM-114 Hellfire
     missile. In addition to the CSAR squadrons, each HS (Helicopter ASW)
     squadron is equipped with two HH-60H to augment the six SH-60Fs.
-    Only 42 of this type were produced.
+    Only 42 of this type were
+produced.
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image5.jpeg" style="width:6.60417in;height:2.55698in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image5.jpeg)
 
 | Sqn    | Name           | Location         | No. | Type          | Remarks               |
-|--------|----------------|------------------|-----|---------------|-----------------------|
+| ------ | -------------- | ---------------- | --- | ------------- | --------------------- |
 | HS-2   | Golden Falcons | CVW-9            | 6/2 | SH-60F/HH-60H | USS Nimitz            |
 | HS-3   | Tridents       | CVW-8            | 6/2 | SH-60F/HH-60H | USS T Roosevelt       |
 | HS-4   | Black Knights  | CVW-15           | 6/2 | SH-60F/HH-60H | USS Kitty Hawk        |
@@ -171,15 +174,15 @@ primarily off of replenishment ships. The HH-46D are used as SAR
 helicopters, primarily off fixed USN bases
 
 | Sqn   | Name        | Location         | CH-46D | UH-46D | HH-46D |
-|-------|-------------|------------------|--------|--------|--------|
+| ----- | ----------- | ---------------- | ------ | ------ | ------ |
 | HC-3  | Pack Rats   | NAS North Island | 10     |        | 6      |
 | HC-5  | Providers   | NAS Agana Japan  |        | 12     |        |
 | HC-6  | Chargers    | NAS Norfolk      | 15     | 5      |        |
 | HC-8  | Dragonwales | NAS Norfolk      | 12     | 5      |        |
 | HC-11 | Gunbearers  | NAS North Island | 24     | 4      | 12     |
-|       |             | Totals           | 61     | 26     | 18     |
+|       |             | Totals           | 61     | 26     | 18     |
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image6.jpg" style="width:6.5in;height:3.61736in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image6.jpg)
 
 [**MH-53E Sea
 Dragon**](https://en.wikipedia.org/wiki/Sikorsky_CH-53E_Super_Stallion)The
@@ -189,12 +192,12 @@ squadrons are located at NAS Norfolk but are deployable worldwide via
 C-5 Galaxy to any trouble spot. HM-14 is affiliated with Pacific Fleet.
 
 | Sqn   | Name        | Location    | No. | Type   | Remarks |
-|-------|-------------|-------------|-----|--------|---------|
+| ----- | ----------- | ----------- | --- | ------ | ------- |
 | HM-12 | Hawlin Hogs | NAS Norfolk | 12  | MH-53E | FRS     |
 | HM-14 | Vanguard    | NAS Norfolk | 18  | MH-53E |         |
 | HM-15 | Blackhawks  | NAS Norfolk | 18  | MH-53E |         |
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image7.jpg" style="width:6.5in;height:4.89375in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image7.jpg)
 
 [**UH-1N**](https://www.navy.mil/navydata/fact_display.asp?cid=1200&tid=100&ct=1)
 
@@ -203,4 +206,4 @@ helicopters in the SAR, VIP transport and utility roles. As the USMC
 retires their UH-1N in favour of the UH-1Y, the USN is able to absorb
 more and deploy them as needed.
 
-<img src="/assets\images\nato\us\navy\aviation\helicopters\media\image8.jpg" style="width:6.5in;height:2.55903in" />
+![](/assets/images/nato/us/navy/aviation/helicopters/image8.jpg)

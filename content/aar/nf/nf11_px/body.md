@@ -1,6 +1,7 @@
-**<u>Northern Fury \#11 – Changing of the Guard</u>**
+**<span class="underline">Northern Fury \#11 – Changing of the
+Guard</span>**
 
-**<u>AAR by Primarchx, Apr 2017</u>**
+**<span class="underline">AAR by Primarchx, Apr 2017</span>**
 
 The game is still in progress but here's how it's going so far...
 
@@ -43,7 +44,7 @@ number of suspected-bomber contacts I decide that we can probably
 weather their attack using SAMs alone and save my fighters for any
 follow-up strikes.
 
-Soon afterwards 'Vampire!' calls go out as the contacts confirm their
+Soon afterwards 'Vampire\!' calls go out as the contacts confirm their
 bomber identities and waves of AS-4 Kitchen heavyweight, supersonic
 antiship missiles begin beelining for ships of the Enterprise group. The
 attack seems uncoordinated, though, as only groups of 4-6 missiles
@@ -59,7 +60,7 @@ handful get close enough to trigger close-in defenses and those are on
 the forward Spruance destroyers with poor intercept geometry for my
 Standards at closer range. In those cases two-shot salvos of SeaSparrows
 settle the issue. When the dust settles Cowpens has a dozen SM-2s left,
-Anzio 24, Yarnell 1 and the Perry around a dozen. The plan worked! I've
+Anzio 24, Yarnell 1 and the Perry around a dozen. The plan worked\! I've
 preserved my fighters and their anti-air stores for follow-up attacks
 and still have a modicum of SAM coverage. All ships shut down their
 radars and go black.
@@ -84,15 +85,16 @@ Sturgeon SSN gatekeeper.
 
 A Torpedo alert goes up from the Vinson group as the group's sole
 Burke-class DDG zeroes on a Soviet Sierra II attack boat firing a pair
-of SET-80 torpedoes at it from close range! Quickly reversing course the
-destroyer fires off a VL ASROC in retaliation and goes to flank speed.
-The first VLA misses but a second hits the revealed SSN, sinking it. But
-now the race is on. A nearby Viking, launched to assist in the kill if
-needed, drops sonobuoys behind the destroyer to track the inbound torps.
-It's a close race but the Burke can't outrun the torps and they attack.
-One is lured by her Nixie towed decoy while the other, apparently thrown
-off by the preceding explosion, misses a high percentage chance to hit.
-Threat eliminated, the destroyer rejoins the carrier screen.
+of SET-80 torpedoes at it from close range\! Quickly reversing course
+the destroyer fires off a VL ASROC in retaliation and goes to flank
+speed. The first VLA misses but a second hits the revealed SSN, sinking
+it. But now the race is on. A nearby Viking, launched to assist in the
+kill if needed, drops sonobuoys behind the destroyer to track the
+inbound torps. It's a close race but the Burke can't outrun the torps
+and they attack. One is lured by her Nixie towed decoy while the other,
+apparently thrown off by the preceding explosion, misses a high
+percentage chance to hit. Threat eliminated, the destroyer rejoins the
+carrier screen.
 
 Things are not so good for the Sturgeon-class SSN patrolling the UNREP
 rendezvous. A nearby P-3 Orion spots a missile burst from the waves as a
@@ -164,7 +166,7 @@ location. Are they swapping out and new fighters just aren't on station?
 I may amend the plan and send out the Tomcat squadrons staggered by 20
 minutes. Just got the Warning Order for 9.5 detailing the plans for
 aggressive OCA just as the last Tomcat of the lead squadron takes off on
-their sweep!
+their sweep\!
 
 First squadron, VF-11 Red Rippers, refuels about 150nm south of the
 outermost Soviet fighter group. Tankers pull away and head south to
@@ -187,7 +189,7 @@ far enough to stay out of immediate harm.
 Missiles were rippled off in both directions. The Russians fearlessly
 guided their AA-10s in without flinching but took staggering losses
 against the inbound waves of Phoenix missiles. As the Red Rippers pulled
-away they had lost only one of their number to around 15 in return!
+away they had lost only one of their number to around 15 in return\!
 Decoys and the onboard ASPJ defensive suite of the F-14D saved more than
 one pilot from a swim in the North Atlantic. I found that AIM-54Cs were
 averaging 80% pk when fired at 60nm against the Flanker, if they got

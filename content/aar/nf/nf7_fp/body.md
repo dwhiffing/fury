@@ -1,6 +1,6 @@
-**<u>Northern Fury \#7 – Keflavik Capers</u>**
+**<span class="underline">Northern Fury \#7 – Keflavik Capers</span>**
 
-**<u>AAR by fitzpatv, May 2021</u>**
+**<span class="underline">AAR by fitzpatv, May 2021</span>**
 
 In this latest instalment of the saga, the USSR swoops on Iceland in
 classic Clanceyesque (‘Red Storm Rising’) style in order to breach the
@@ -49,8 +49,8 @@ unassign them.
 
 I quickly decided that the Eagles’ SARH missiles put them at too much of
 a disadvantage against Soviet Su-33 carrier fighters, as I couldn’t
-‘shoot and scoot’ the way I’d been doing in Norway without losing my aim
-or target multiple foes at once. Helpfully, Auto-Evade starts OFF in
+‘shoot and scoot’ the way I’d been doing in Norway without losing my
+aim or target multiple foes at once. Helpfully, Auto-Evade starts OFF in
 this scenario, saving you the trouble of adjusting it. In any event, the
 plan was to avoid fighters where possible and concentrate on bombers and
 transports, which are worth more points, anyway.

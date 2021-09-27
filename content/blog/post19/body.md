@@ -1,4 +1,5 @@
-**<u>Northern Fury (Alternate Cold War History)</u>**
+**<span class="underline">Northern Fury (Alternate Cold War
+History)</span>**
 
 **Note that these notes are for scenarios developed in *Command: Modern
 Air & Naval Operations* and may not match the storyline in the books.**
@@ -16,7 +17,7 @@ declared. Internal strife reminiscent of the 1920’s lasted for just
 several months but the iron rule of the reinvigorated Communist Party
 prevailed in all areas.
 
-![](/assets\images\blog\post19\media\image1.jpeg)
+![](/assets/images/blog/post19/image1.jpeg)
 
 NATO watched nervously as their efforts to encourage Eastern European
 countries away from Dictatorship were methodically dashed. Only Poland
@@ -28,7 +29,7 @@ position as many of its Left Wing political elements have been proposing
 the abandonment of collective defense as a viable strategy for the
 future.
 
-![](/assets\images\blog\post19\media\image2.jpeg)
+![](/assets/images/blog/post19/image2.jpeg)
 
 Meanwhile, NATO was decisively engaged as its (original 16) various
 governments were attempting to realize the ‘peace dividend’ by reducing
@@ -45,7 +46,7 @@ anarchy. The UN Security council response was futile and an emergency
 sitting of NATO’s North Atlantic Council (NAC) was called for the
 12<sup>th</sup> of February.
 
-![](/assets\images\blog\post19\media\image3.jpeg)
+![](/assets/images/blog/post19/image3.jpeg)
 
 In Norway - The International Olympic Committee (IOC), in consultation
 with the UN decided to carry on with the Winter Games which were opened
@@ -59,7 +60,7 @@ cancel the games and evacuate the Olympic Village. The world is in an
 uproar over the loss of the Olympic spectacle and TV commentators all
 over the Globe are criticizing Norway’s decision.
 
-![](/assets\images\blog\post19\media\image4.jpeg)
+![](/assets/images/blog/post19/image4.jpeg)
 
 **Designer’s Notes**:
 
@@ -89,7 +90,7 @@ completion and will begin its workups in June 94, once she is deployed
 *CV 61 Ranger* will de-commission and *CV 60 Saratoga* will take up the
 reserve role in San Diego.
 
-![](/assets\images\blog\post19\media\image5.jpeg)
+![](/assets/images/blog/post19/image5.jpeg)
 
 All of the *Iowa* class BBs were retained in service. Many other ships
 historically decommissioned due to the ‘piece dividend’ were retained;
@@ -97,59 +98,59 @@ in particular, the CGNs the *Belknap* and *Leahy* CGs and some older
 DDG/FF/FFGs; some construction and refits were accelerated. Some details
 here:
 
--   The *USS Ranger (CV-61)* was not decommissioned but instead, held in
+  - The *USS Ranger (CV-61)* was not decommissioned but instead, held in
     San Diego with reduced crew and no air group as ready reserve. But
     will be retired when *USS John C. Stennis (CGN-74)* is commissioned.
 
--   The *USS Forrestal (CV-59)* was retained as an air training carrier.
+  - The *USS Forrestal (CV-59)* was retained as an air training carrier.
 
--   *USS Enterprise (CVN-65)* completed an accelerated overhaul 8 months
+  - *USS Enterprise (CVN-65)* completed an accelerated overhaul 8 months
     early
 
--   All of the *Iowa* class BBs were retained in service
+  - All of the *Iowa* class BBs were retained in service
 
--   All CGNs were retained.  Total 9: 4 x *Virginia*, 2 x *California*,
+  - All CGNs were retained.  Total 9: 4 x *Virginia*, 2 x *California*,
     *Long Beach*, *Bainbridge* & *Truxton*.
 
-![](/assets\images\blog\post19\media\image6.jpeg)
+![](/assets/images/blog/post19/image6.jpeg)
 
--   All *Belknap* & *Leahy* CGs were retained (9 of each) with the NTU
+  - All *Belknap* & *Leahy* CGs were retained (9 of each) with the NTU
     (New Threat Upgrades) complete. The additional 27 CG/CGNs means that
     a third CG/CGN can deploy with most CVBGs as well as act as Flag for
     smaller TGs.
 
--   4 of 29 *Seawolf* Class SSNs have been completed with 3-5
+  - 4 of 29 *Seawolf* Class SSNs have been completed with 3-5
     commissioning per year.  The *Virginia* Class has not been designed
     or considered.
 
-![](/assets\images\blog\post19\media\image7.jpeg)
+![](/assets/images/blog/post19/image7.jpeg)
 
--   28 *Sturgeon* Class plus the 9 long hull (*Archerfish*) Class, the
+  - 28 *Sturgeon* Class plus the 9 long hull (*Archerfish*) Class, the
     *Narwhal* and 3x *Permit* class SSNs were retained. The *Permit’s*
     followed by the *Sturgeons* will decommission as the *Seawolf’s*
     come on line once the fleet stabilizes at 100 fleet boats and 12
     special mission boats
 
--   7 *Arleigh Burke’s* have been completed with 5-6 per year planned to
+  - 7 *Arleigh Burke’s* have been completed with 5-6 per year planned to
     the planned 62 units.
 
--   Because of the urgent need for ASW escorts, the shortage of dry-dock
+  - Because of the urgent need for ASW escorts, the shortage of dry-dock
     space and the increased number of TLAM carrying ships; the last 7 of
     31 *Spruance* class DDGs will not be upgraded to carry the Vertical
     Launch System but will remain ASW DDs and undergo shorter mid-life
     refits than the other 24 ships. The 4 *Kidd* Class DDGs received
     their NTU in the late 80’s and will serve another 20 years.
 
--   The *Farragut* Class DDGs have been retained, 6x NTU refits have
+  - The *Farragut* Class DDGs have been retained, 6x NTU refits have
     been completed, all based on the East Coast, the remaining 4
     completing later this year
 
--   Only 3 *Charles F. Adams* NTU DDGs are ready but another 12 are
+  - Only 3 *Charles F. Adams* NTU DDGs are ready but another 12 are
     undergoing refit and will complete in the next 18 months. Both of
     the older DDG classes will serve until \~2000 when enough of the
     *Arleigh Burke’s* are available
 
--   The 51 unit *Oliver Hazard Perry* Class had completed commissioning
+  - The 51 unit *Oliver Hazard Perry* Class had completed commissioning
     in 89 with no replacement on the horizon. The Navy pointed out this
     gap to Congress and a further 12 were ordered in 91 with the first 4
     already launched and due to commission later in 94. As a stop-gap 4
@@ -159,13 +160,13 @@ here:
     95 and will replace both the OHP and the *Knox* Class in the escort
     role. The OHP will average 30 years of service when decommissioned.
 
--   36 of the 46 ship *Knox* class FFs remain in service, the remaining
+  - 36 of the 46 ship *Knox* class FFs remain in service, the remaining
     10 are mothballed. The problem plagued design will be replaced by
     the ‘Follow on Frigate’ program on a 2 for 1 basis starting in 96
     with most only serving 25-27 years. (Historic real life service was
     only 23 years)
 
-![](/assets\images\blog\post19\media\image8.jpeg)
+![](/assets/images/blog/post19/image8.jpeg)
 
 The START II treaty limits were largely adhered to, with the major
 exception that 96 B-52Gs and the single B-1 due to retire are retained,
@@ -176,7 +177,7 @@ of 6/year and will allow for the gradual retirement of the B-52G’s. SSBN
 limits were complied with although 1 x Ohio class SSBN was put in
 service 2 months early.
 
-![](/assets\images\blog\post19\media\image9.jpeg)
+![](/assets/images/blog/post19/image9.jpeg)
 
 The US Army is in the most difficult position. A Brigade sized force
 remains in Soudi Arabia and Kuwait on Operation SOUTHERN WATCH. In
@@ -189,12 +190,13 @@ Division in Germany and the remainder in the US (*3<sup>rd</sup> Armd,
 remains in Germany. The POMCUS sites have been kept fully operational
 and 6 Brigades worth of equipment have been added (for VII Corps units).
 
-![](/assets\images\blog\post19\media\image10.jpeg)
+![](/assets/images/blog/post19/image10.jpeg)
 
-Scenarios planned for this campaign are:
+Scenarios planned for this campaign
+are:
 
 |      |           |                         |                                                                                                                                                                               |         |
-|------|-----------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| ---- | --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Scen | Date      | Title                   | Description                                                                                                                                                                   | Remarks |
 | 1    | 13 Feb    | H-Hour                  | Surprise Air and Airmobile Op, North Cape                                                                                                                                     | Final   |
 | 2    | 13 Feb    | X-Ray Station           | ASW sweep of NATO picket subs                                                                                                                                                 | Final   |
@@ -219,7 +221,7 @@ Scenarios planned for this campaign are:
 | 21   | 24 Feb    | Sweep-up                | Carl Vinson and Eisenhower strike Iceland a 3<sup>rd</sup> time while Eisenhower heads deeper into Soviet held territory and Carl Vinson supports the initial USMC insertions | Final   |
 | 22   | 25 Feb    | Vagar Vengeance         | UK lead NATO TG retakes Faros Islands                                                                                                                                         | Final   |
 | 23   | 25 Feb    | Swift, Silent & Deadly  | Force Recon insertion onto Iceland                                                                                                                                            | Final   |
-| 24   | 26 Feb    | Battlewagons to War!    | USS Wisconsin and Missouri conducting Pre amphibious bombardment of Iceland                                                                                                   | Final   |
+| 24   | 26 Feb    | Battlewagons to War\!   | USS Wisconsin and Missouri conducting Pre amphibious bombardment of Iceland                                                                                                   | Final   |
 | 25   | 26/27 Feb | Jar Heads on Ice        | Amphibious assault to retake Iceland                                                                                                                                          | Final   |
 | 26   | 28 Feb    | Land of Fire & Ice      | Hy fighting, not sure how I’ll portray this yet.                                                                                                                              | Final   |
 | 27   | 28 Feb    | Out on a limb           | Eisenhower gets whacked by \~100 Bmrs                                                                                                                                         | Final   |

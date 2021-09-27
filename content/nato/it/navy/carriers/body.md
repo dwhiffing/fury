@@ -10,7 +10,7 @@ although the Giuseppe Garibaldi is the only truly modern ship.
 
 **C-551 Giuseppe Garibaldi**
 
-<img src="/assets\images\nato\it\navy\carriers\media\image1.jpg" style="width:6.5in;height:4.875in" />
+![](/assets/images/nato/it/navy/carriers/image1.jpg)
 
 *C-551 Giuseppe Garibaldi with SH-3D Sea Kings and AV-8B Harrier IIs on
 deck*.
@@ -32,7 +32,7 @@ group within 24 hours.
 
 **C-550 Vittorio Venito**
 
-<img src="/assets\images\nato\it\navy\carriers\media\image2.jpg" style="width:6.5in;height:2.6in" />
+![](/assets/images/nato/it/navy/carriers/image2.jpg)
 
 *C-550 Vittorio Venito*
 
@@ -55,4 +55,4 @@ the fleet training ship since 1980. The *Andrea Doria* will take about
 60 days to activate and put to sea if required, the *Caio Duilio* would
 take about six months but activation is unlikely.
 
-<img src="/assets\images\nato\it\navy\carriers\media\image3.jpg" style="width:6.5in;height:3.47986in" />
+![](/assets/images/nato/it/navy/carriers/image3.jpg)

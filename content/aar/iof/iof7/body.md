@@ -6,6 +6,6 @@ In an effort to both knock Iran out of the war and appease mounting
 pressure from Israel, strikes are carried out both on Iranian nuclear
 facilities and government targets.
 
-**<u>Indian Ocean Fury \#7</u>**
+**<span class="underline">Indian Ocean Fury \#7</span>**
 
 Not yet built

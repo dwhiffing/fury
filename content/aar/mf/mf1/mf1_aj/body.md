@@ -1,6 +1,6 @@
 **Mediterranean Fury \#1 – The Road to Byzantium**
 
-**<u>Playtest Report by AndrewJ Feb 2019</u>**
+**<span class="underline">Playtest Report by AndrewJ Feb 2019</span>**
 
 After a few minutes of play here and there I finally have enough done to
 report the first day's activities...
@@ -125,14 +125,14 @@ flying boats also reveals a few merchant ships and Turkish surface
 combatants already at sea, but these are in range of shore-based
 Shaddocks, so….
 
-**At 13:00 Zulu hostilities commence!**
+**At 13:00 Zulu hostilities commence\!**
 
 Keys are turned in Shaddock launch bunkers, and missiles are away. The
 patrol boats east of the Bosporus die with little fanfare. The destroyer
 to the west neatly destroys the flight of 4 that were sent his way. The
 bunker commander frowns, reads his copy of Janes, and notes that the
 destroyer only has an 8-cell SAM launcher, which he is presumably using
-two per incoming missile. Very well, this time it will be a salvo of 6!
+two per incoming missile. Very well, this time it will be a salvo of 6\!
 Four to use up the SAMs, and two for the destroyer. As predicted the
 SAMs knock down 4 missiles, but the next two get shot down as well. The
 bunker commander grinds his teeth, reads further into Janes, and notes
@@ -170,7 +170,7 @@ against the tough target, but after the failure of the minelaying
 attempt this has taken on new importance. As the bombs burst the crews
 are astonished to see the entire cliff-face collapse over the tunnel
 entrance to the pen, trapping (and maybe crushing) all the subs inside.
-(Miss distance: 4m!) The Turkish AAA gunners open up with a furious
+(Miss distance: 4m\!) The Turkish AAA gunners open up with a furious
 barrage, but the tough old Blinders are made of cast iron and
 horse-shoes, and although chunks get knocked off they keep flying, and
 all of them make it home again. This stroke of luck is a huge relief, as
@@ -183,7 +183,7 @@ steeply and dump their bombs all over the airfield from above Rapier
 altitude. The results are not impressive, although the escorts do make a
 good score against the F-5s that come up to fight. The main benefit is
 that command issues a new directive – no further low-level attacks
-against defended airfields! The SAMs and flack are just too intense.
+against defended airfields\! The SAMs and flack are just too intense.
 
 This information comes in time to modify the attack on the F-16 base at
 Murted. Attack planes with AS-14s manage to destroy the Rapiers from
@@ -233,7 +233,7 @@ scrape by, using their reserves for outrunning Sparrows, before landing
 at the closest available airport (Belbek) on fumes.
 
 In the meantime, one of the Turkish subs surfaces near our fleet and
-announces that it is neutral and retreating from battle! I guess the
+announces that it is neutral and retreating from battle\! I guess the
 political guys really do have their act together after all… I have to
 hastily mark it neutral, after I notice my Be-12s all converging on it
 with hostile intent. I consider sinking it, but for the moment I will
@@ -257,7 +257,7 @@ effective night attack capability, the entire force will stand down for
 the night, and be ready for a dawn attack tomorrow. Naturally, this
 makes it the perfect time for HQ to announce that they want us to
 destroy a Turkish government radio station which has started trying to
-assert control over the coup situation. Within the hour, no less!
+assert control over the coup situation. Within the hour, no less\!
 
 I literally have no ready attack planes, and even if I did they wouldn’t
 be able to see in the dark to make their attacks. There’s no such thing
@@ -269,7 +269,7 @@ Styx missiles with a ground attack capability. These are promptly given
 orders to rush for the coast at flank speed, but it takes them far more
 than an hour to get within range. Before they can arrive the GRU takes
 care of the station, and I am informed that my lack of support has been
-noted. The life of a Soviet commander is a never-ending joy!
+noted. The life of a Soviet commander is a never-ending joy\!
 
 One of my patrol boats does, however, get sent to bombard and destroy a
 coastal radar at Zonguldak, which it accomplishes easily, before turning
@@ -328,7 +328,7 @@ first), missing the tanker but killing a refuelling F-16, and killing
 two more pursuing F-4s on the way out. There was a brief moment when
 active radar homing heads were detected in pursuit, but an afterburner
 dash let my planes outdistance them. Clearly there are angry Americans
-down south!
+down south\!
 
 Things have calmed down in the air now, as most of my Bulgarian fighters
 are reloading, and I want my pilots fresh for morning activities. At
@@ -517,12 +517,12 @@ are mixed, with my two eastern groups doing a reasonably useful job on
 nearer troop and AAA units (although some targets just seem
 invulnerable). The western group of five Tarantuls (very good boats
 those) gets a shock when one of them suddenly vanishes in a thunderous
-explosion. Torpedo! Now Tarantuls are nearly as fast as the torpedoes,
+explosion. Torpedo\! Now Tarantuls are nearly as fast as the torpedoes,
 so they have a good chance of out-distancing them, but only if they run
 in the right direction. Unfortunately, the Tarantuls are blind, and they
 don’t have a clue which way the shot came from. The flotilla leader
 makes his decision, sets a course, and orders flank speed. Foam flies,
-and mighty engines roar! Alas, it’s all futile. The Turkish SS skipper
+and mighty engines roar\! Alas, it’s all futile. The Turkish SS skipper
 watches in delight as the boats run right into his torpedo spread, and
 one after another, the remaining four disintegrate from shattering
 torpedo impacts. The western beaches will get no NGFS until the landing
@@ -552,8 +552,8 @@ but they have two armoured formations on their side of the Bosporus,
 which will be tough to face. In the west, there will be more enemy
 troops at first, but they’re mostly infantry, so the threat should be
 lower. So far, I haven’t seen any armour on that side. (Although I
-haven’t looked very far either. I should definitely schedule a recce run
-towards the Greek border.) The eastern armour is what worries me the
+haven’t looked very far either. I should definitely schedule a recce
+run towards the Greek border.) The eastern armour is what worries me the
 most. I have some additional strike planes (mostly Bulgarian) which will
 ready through the day, but the rest are mostly flying home now, and the
 majority of those won’t be ready again before it’s too dark to see. I
@@ -571,16 +571,16 @@ be disastrous. City fighting in suburban Istanbul against Turks
 defending their homeland. What could go wrong?
 
 I’ll need to make a decision soon, and it needs to be better than my
-missile boat course!
+missile boat course\!
 
----
+\---
 
-"Sir, I'm getting an SRS-4 contact! Fighter radars, very high power,
+"Sir, I'm getting an SRS-4 contact\! Fighter radars, very high power,
 crossing the southern tip of Greece. I make it eight of them sir."
 
 "Are those Tomcats, sir? Sir?"
 
----
+\---
 
 Had a bit more game time on the weekend, so here’s the next installment.
 
@@ -592,7 +592,7 @@ detailed schedules of what /assets are available to support the landing
 operations. (Translation: I finally got organised and started making a
 mapped list.)
 
-<img src="/assets\images\aar\mf\mf1\mf1_aj\media\image1.png" style="width:6.5in;height:4.70625in" />
+![](/assets/images/aar/mf/mf1/mf1_aj/image1.png)
 
 It turns out that there is more out there than I had realized,
 particularly among the lesser Romanian and Bulgarian /assets, and I
@@ -600,7 +600,7 @@ should be able to generate several waves of attacks at 8:30, 10:30, and
 12:30, to support a landing at 13:00 hrs. Courses and speeds of the
 amphibious forces are adjusted to match this timing, and takeoff times
 are set for the waiting paratroopers. All is in readiness, and the final
-go is given!
+go is given\!
 
 The first wave of attacks at 08:30 concentrates on units near the south
 end of the Bosporus. Su-25s, carrying very heavy bomb loads, just manage
@@ -654,7 +654,7 @@ to a missile each.
 All this activity just off their shores seems to have provoked a
 reaction from the Turks, and mid-morning they launch a large strike from
 airfields at Merzifon and Konya. The strike seems to be primarily F-5s
-(over two dozen of them!), and it’s not clear exactly what it’s
+(over two dozen of them\!), and it’s not clear exactly what it’s
 targeting, since it seems to be on a course for the Crimea. This
 delights the MiG-29 pilots in Gvardeyskoye. Many of them have been
 sitting out the battle, since they are only armed with short-ranged
@@ -789,7 +789,7 @@ better to do. I’d seen no activity there, so I had shrugged my shoulders
 and waved it away as possibly unoccupied or far down the readiness
 chain. It’s a beautiful example of confirmation bias. I don’t want any
 enemy in Eskisehir, I haven’t spotted any enemy hanging around outside
-in Eskisehir, therefore there are no enemy in Eskisehir! Wrong….
+in Eskisehir, therefore there are no enemy in Eskisehir\! Wrong….
 
 The enemy has sprung an entire “new” airbase on me, but fortunately I
 have a “new” airbase too. I’ve got a dozen MiG-29s at my closest base at
@@ -833,9 +833,9 @@ to run away by the steady stream of Sparrows from the F-4s. Nonetheless,
 they must run out of Sparrows eventually, and I should be able to handle
 that raid too, shortly before it reaches my troops.
 
-**FEB 14 – Americans!**
+**FEB 14 – Americans\!**
 
-That’s when the dreaded call comes in. “Tomcats over southern Greece!”
+That’s when the dreaded call comes in. “Tomcats over southern Greece\!”
 The Americans are coming…
 
 Up to this point I have been able to hold my own in the air against
@@ -893,9 +893,9 @@ As my amphibs turn to hurry back to Sevastopol, my warships rush to put
 SAM cover in place over the landing beaches, and troops on the ground
 scramble to arrange themselves in coherent defensive postures. My empty
 hovercraft are heading west along the coast towards Burgas, but they
-don’t have the fuel to get there, so they meet up with their tanker near
-the defences at the south end of the Bulgarian coast, and then proceed
-home at good speed.
+don’t have the fuel to get there, so they meet up with their tanker
+near the defences at the south end of the Bulgarian coast, and then
+proceed home at good speed.
 
 The Konya strike continues to press me back, but when their Sparrows run
 out my planes are able to get in amongst them, and they destroy the raid
@@ -909,9 +909,9 @@ that can match their speed (my MiG-25s are heading home empty by now),
 but one flight of old MiG-21s is directly in their path, and might be
 able to take some unopposed shots as they fly past me. I turn in front
 of them, relying on their overtake, and that’s when the F-104s open
-fire. They’re up on an air superiority mission! It never occurred to me
+fire. They’re up on an air superiority mission\! It never occurred to me
 that these high-speed antiques would be used that way. I’d assumed they
-were on a bombing dash. Whoops! One of the MiG-21s manage to twist out
+were on a bombing dash. Whoops\! One of the MiG-21s manage to twist out
 of the way while the other goes down in flames, and as the F-104s turn
 to fight I have time to bring in Bulgarian MiG-23s and more MiG-21s. As
 fast as they are (and they can change altitude like a rocket), the
@@ -938,11 +938,11 @@ The enemy don’t fire. The Fulcrums get closer still. The Tomcats still
 don’t fire. What’s going on? Our jamming isn’t that good, and they must
 clearly see us. The MiGs have their radar on, so the EA-6s must have
 ID-ed us. Why don’t they shoot? It’s not ‘till we’re only 55 miles out
-that they open fire – with Sparrows! They’re not carrying Phoenixes! Now
-an F-14 with Phoenix is a fearsome beast, but an F-14 without Phoenix is
-just a funny looking F-4. And I can deal with F-4s…
+that they open fire – with Sparrows\! They’re not carrying Phoenixes\!
+Now an F-14 with Phoenix is a fearsome beast, but an F-14 without
+Phoenix is just a funny looking F-4. And I can deal with F-4s…
 
-New orders beam out from ground control. General Attack! My pilots turn
+New orders beam out from ground control. General Attack\! My pilots turn
 and fly towards the foe. The first fight begins as the dozen F-14s turn
 north and engage my planes coming over the north coast of the Aegean,
 and my initial optimism starts to cool. They may just be “F-4s”, but
@@ -952,8 +952,8 @@ leave. My planes spend a lot of time running away on afterburner, and by
 the time the F-14s have stopped shooting at me and turned back, I don’t
 have enough fuel left to use burners to catch them. I’m not going to lay
 a glove on them. I do, however, have a flight of MiG-23s coming in from
-the NW, perfectly placed to cut off their retreat! That’s when a pack of
-F-5s pops up behind me out of Thessalonika, and I’m forced to turn to
+the NW, perfectly placed to cut off their retreat\! That’s when a pack
+of F-5s pops up behind me out of Thessalonika, and I’m forced to turn to
 defend myself. By the time that’s over, the Floggers have used most of
 their missiles, and they only manage to lightly damage a couple of
 F-14s. They all get away.
@@ -968,7 +968,7 @@ the Bombcats make it out of the cloud of MiGs, and there is great
 celebration at the control centers. The jubilation increases when my
 fighters continue to sweep south, destroying the valuable EA-6s, a
 flight of Greek Corsairs, and a pack of S-3s pretending they’re bombers.
-A sound defeat for the imperialist aggressors!
+A sound defeat for the imperialist aggressors\!
 
 **FEB 14 – late afternoon**
 
@@ -1041,7 +1041,7 @@ has a very exciting adventure when a passing F-4 on one of the raids
 takes a Sparrow shot at it, missing by the narrowest of margins.)
 
 During the evening we also receive some encouraging intelligence about
-the coup. It’s not dead after all! It seems to be making good headway,
+the coup. It’s not dead after all\! It seems to be making good headway,
 and causing all sorts of mobilization delays for the Turks. The
 commander makes sure to praise the efforts of his comrades in the
 political warfare directorate, just as the zampolit is walking by…
@@ -1084,7 +1084,7 @@ but those are a much tougher target.) Other than some additional attacks
 against ground forces (the infantry at Kefken, etc.), I think I have
 mostly exhausted my target set.
 
-Aaaand, done!
+Aaaand, done\!
 
 **FEB 15**
 
@@ -1112,8 +1112,8 @@ of work to do, and enough time and scope for the player to have a range
 of different plausible options to explore. You definitely do not feel
 railroaded into a pre-defined plan by this scenario, and there’s plenty
 of opportunity for a concentration in one area (bomb the shore
-defences!) to leave you exposed in another (what do you mean we never
-bombed Eskisehir!). Your decisions make a significant difference, which
+defences\!) to leave you exposed in another (what do you mean we never
+bombed Eskisehir\!). Your decisions make a significant difference, which
 is great.
 
 I think the Coup comes across to the player the same way as it would to

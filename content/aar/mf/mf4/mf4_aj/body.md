@@ -1,6 +1,6 @@
 **Mediterranean Fury \#4 – Secure the Flank**
 
-**<u>Playtest Report by AndrewJ Mar 2019</u>**
+**<span class="underline">Playtest Report by AndrewJ Mar 2019</span>**
 
 **THE SITUATION**
 
@@ -67,7 +67,7 @@ canal, picking up the ASW escorts as the proceed. My remaining ships
 to catch up, as they all proceed along a P-3 proofed corridor directly
 to Cyprus.
 
-<img src="/assets\images\aar\mf\mf4\mf4_aj\media\image1.png" style="width:6.5in;height:3.03958in" />
+![](/assets/images/aar/mf/mf4/mf4_aj/image1.png)
 
 The Ike will steam to the eastern edge of its patrol zone, and
 immediately launch a long-range F-14 sweep, enabled by tankers out of
@@ -91,7 +91,7 @@ Ike's Harpoon attack tonight. I don't know if I can pull off another
 sweep of all the Latakia defences in one strike. Staff are assigned to
 study the issue...
 
-Let's see how long this plan survives the enemy!
+Let's see how long this plan survives the enemy\!
 
 The weekend is always better with a little Command. Therefore...
 
@@ -153,7 +153,7 @@ to down enough of them and ruin the attacks of others, so the encounter
 went largely in our favour, and the F-5s could plunge into the mass of
 incoming Albatros attack planes. Normally F-5s with front-aspect
 missiles should absolutely dominate that engagement, but Jordanian
-cadets suck! They may be well intentioned, but between fumbling for
+cadets suck\! They may be well intentioned, but between fumbling for
 switches and getting settings wrong, it took them forever to make
 engagements, and they'd often go hurtling past their ‘victims’ before
 they could get a missile off. In many cases the Mirages had to circle
@@ -195,7 +195,7 @@ cringed, awaiting the blast, but there were no bomb bursts, so the crew
 shot down the remaining attackers as they flew away. Later, analysis of
 the wreckage showed that the Fitters had been carrying AS-9 ARMs, but by
 the time my crew had the radar back on again they were inside the
-minimum launch range, and couldn't attack. A lucky break!
+minimum launch range, and couldn't attack. A lucky break\!
 
 **SKIRMISHING**
 
@@ -285,7 +285,7 @@ Normally the Turks would be well placed to handle this on their own,
 since Malatya is the home of the F-4s that did such excellent air-to-air
 service in MF \#2, but they're still switching back from bombs to AAMs.
 By my calculations, the strike will arrive 11 minutes before the first
-of the fighters are ready! I do have one ready flight of F-4s on
+of the fighters are ready\! I do have one ready flight of F-4s on
 intercept duty, but there's a MiG-25 lurking nearby, and I don't want to
 take off under his guns. So F-16s come rushing in from the east (with
 Sidewinders) and the west (with AMRAAM) to tackle the strike.
@@ -304,13 +304,13 @@ carrier, where strike planes are readying for a night attack on the
 Russian fleet. The French carrier is doing the same, as are forces at
 Incirlik and down in Egypt. It should be quite a party...
 
----
+\---
 
 Hmmm... Welcome to Crete, Mr. Tango. Just checking to see if your papers
 are in order. Allow me to stamp your passport with this convenient
-Stingray!
+Stingray\!
 
----
+\---
 
 The weekend brought a little more time for Command, so here’s a quick
 update:
@@ -365,7 +365,7 @@ Tango or the like. The Cumberland’s helicopter heads out, and shortly
 radios back the news of a good hit and breakup sounds, so they hurry
 home to paint a sub on their nose. (Postwar records show this was
 actually a Foxtrot, not a Tango, but the latter sounds better in the
-record books. When in doubt, overclaim!)
+record books. When in doubt, overclaim\!)
 
 **THE MAIN ATTACK ON LATAKIA**
 
@@ -374,15 +374,15 @@ before dawn. Slow-moving support aircraft start taking off to
 preposition themselves, and F-14s head out to screen, while attack
 planes from the Ike, Foch, Souda, Egypt, and Incirlik all converge in a
 perfectly coordinate precision operation, designed to eliminate land and
-sea based targets with surgical efficiency. Hah! What really happens is
-a haphazard mess of miscommunication (no, go to those tankers!),
+sea based targets with surgical efficiency. Hah\! What really happens is
+a haphazard mess of miscommunication (no, go to those tankers\!),
 forgotten orders (Sir, didn’t you want the F-18s at Souda to attack
 too?), and botched timings that results in a jumbled 300 mile long
 string of aircraft trying to sort out their positions and sequences.
 Even the navy’s not immune, as I cleverly poise my consolidated Iowa
 battlegroup just within attack range, only to realize that I’ve been
 looking at the range ring for the four long-range Otomats. The dozens of
-Harpoons on board are still 25 nm out of range! It takes a sudden
+Harpoons on board are still 25 nm out of range\! It takes a sudden
 flank-speed dash to try and get into position in time, while planes
 refuelling off the Cypriot coast straggle in to their loiter positions.
 Finally, everything’s sort of ready in the growing light of dawn.
@@ -418,15 +418,16 @@ to have used most of their missiles by now.)
 **SECONDARY ATTACKS**
 
 As the main body of Latakia attackers begins straggling home, pausing to
-refuel before the long flight back home (over 800 miles to the Ike!),
+refuel before the long flight back home (over 800 miles to the Ike\!),
 the Turks launch their attack on the Aleppo area. Recce flights over the
 northern Syrian air bases haven’t drawn any response, so the mix of
 F-5s, F-104s, and F-4s proceeds in reasonable confidence. The Turks
-don’t have any HARMs for this attack, and the Americans at Incirlik used
-all of theirs at Latakia, so there won’t be any SAM suppression. The
-Turks have to come in low. Fortunately, they’re only facing older SA-3s
-and SA-2s, not anything modern, and they rush in with rockets and bombs
-of all types, and soon they’ve left the Aleppo SAM defences in ruins.
+don’t have any HARMs for this attack, and the Americans at Incirlik
+used all of theirs at Latakia, so there won’t be any SAM suppression.
+The Turks have to come in low. Fortunately, they’re only facing older
+SA-3s and SA-2s, not anything modern, and they rush in with rockets and
+bombs of all types, and soon they’ve left the Aleppo SAM defences in
+ruins.
 
 Not to be outdone, the Jordanians follow up with their own strike. They
 don’t want to get deep into dense belt of low-level SAMs near Damascus

@@ -1,13 +1,13 @@
-**<u>Pacific Fury \#3 – Caught Flat Footed</u>**
+**<span class="underline">Pacific Fury \#3 – Caught Flat Footed</span>**
 
-**<u>Playtest Report by Badlandz May 2021</u>**
+**<span class="underline">Playtest Report by Badlandz May 2021</span>**
 
 I gave this one a try over the past few days. I cheated a bit and
 definitely got lucky. More on that later.
 
 As I am sure most people do, I started by reviewing the /assets
 available. I immediately noted the COIN aircraft. Uh oh, Belize all over
-again!
+again\!
 
 I also noticed the range circles on some of the ships in Subic bay. (
 this is where I feel that I cheated) However, the go fast boat is what
@@ -29,7 +29,7 @@ of cruise missiles. One got through. That’s where I discovered that the
 air defenses in place were unable to engage missiles. Was that
 intentional? I’m assuming that this is a database issue. I can’t believe
 that a Vulcan cannon couldn’t shoot at something the size of a small
-plane. My luck held! No explosion from the impact.
+plane. My luck held\! No explosion from the impact.
 
 With the missile attacks in progress, I launched the F-5As and F-5Es in
 pairs. They turned out to be effective in intercepting the missiles.
@@ -90,4 +90,4 @@ expenditures were kept to 18.
 On the down side neither group will make the rendezvous on schedule.
 
 Definitely enjoyed the puzzle with this one. Thanks for sharing another
-fun scenario!
+fun scenario\!

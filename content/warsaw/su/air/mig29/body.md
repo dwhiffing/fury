@@ -1,4 +1,4 @@
-<img src="/assets\images\warsaw\su\air\mig29\media\image1.jpeg" style="width:6.5625in;height:3.29215in" />
+![](/assets/images/warsaw/su/air/mig29/image1.jpeg)
 
 [**MiG-29
 ‘Fulcrum’**](https://globalnews.ca/news/3396769/canadian-fighter-jets-russian-bombers/)The
@@ -55,24 +55,24 @@ VVS (Frontal Aviation) and equip front line aviation Regiments. The few
 going to Warsaw Pact countries is in addition to these numbers and
 amounts for a small number:
 
--   Bulgaria: **6 new** in addition to the 16 received in the 1980’s;
+  - Bulgaria: **6 new** in addition to the 16 received in the 1980’s;
 
--   Czechoslovakia: **4 new** in addition to the 20 received in the
+  - Czechoslovakia: **4 new** in addition to the 20 received in the
     1980’s;
 
--   Former East Germany: 24 delivered before unification and remaining
+  - Former East Germany: 24 delivered before unification and remaining
     in service with NATO;
 
--   Hungary: **2 new** in addition to the 28 already delivered;
+  - Hungary: **2 new** in addition to the 28 already delivered;
 
--   Poland: 12 delivered before Poland renounced its membership in the
+  - Poland: 12 delivered before Poland renounced its membership in the
     WP;
 
--   Romania: 17 originally delivered in the 1980’s;
+  - Romania: 17 originally delivered in the 1980’s;
 
--   Serbia: 16 delivered in the 1980’s;
+  - Serbia: 16 delivered in the 1980’s;
 
-<img src="/assets\images\warsaw\su\air\mig29\media\image2.jpg" style="width:6.14583in;height:3.72133in" />
+![](/assets/images/warsaw/su/air/mig29/image2.jpg)
 
 **Modernization**: The Soviets were masters at mid production
 improvements to their aircraft and the Fulcrum is no exception to this
@@ -110,7 +110,7 @@ selection of the Su-33 as a carrier borne fighter. The Su-33 however has
 not strike capability so in Northern Fury, enough MiG-29Ks were produced
 as replacement or follow on aircraft (depending on the situation) for
 the aircraft carriers. Therefore 48 were built.
-<img src="/assets\images\warsaw\su\air\mig29\media\image3.jpg" style="width:6.5in;height:3.47847in" />
+![](/assets/images/warsaw/su/air/mig29/image3.jpg)
 
 **MiG-29M (Project 9.15)**
 **[Fulcrum-E](http://www.airvectors.net/avmig29.html#m2):** This
@@ -123,4 +123,4 @@ were built. In Northern Fury all or most of the MiG-29 production post
 MiG-29A up to the ‘M’ standard, so far 100 older aircraft have been
 modernized and the programme is proceeding at the rate of 15 per month.
 
-<img src="/assets\images\warsaw\su\air\mig29\media\image4.jpg" style="width:6.5in;height:4.33542in" />
+![](/assets/images/warsaw/su/air/mig29/image4.jpg)

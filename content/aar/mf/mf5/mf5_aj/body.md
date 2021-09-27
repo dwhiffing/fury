@@ -1,6 +1,6 @@
-**Mediterranean Fury \#5 – Serbia Right!**
+**Mediterranean Fury \#5 – Serbia Right\!**
 
-**<u>Playtest Report by AndrewJ July 2019</u>**
+**<span class="underline">Playtest Report by AndrewJ July 2019</span>**
 
 War has come to the Adriatic, in a gradual way, and I've been tasked to
 oversee operations in the area. Although there has been little activity
@@ -85,22 +85,22 @@ their cluster munitions, leaving the way open for the F-15Es to shut the
 runways with heavy LGBs. No doubt plans will change, depending on what
 we find earlier in the day.
 
-So, time to press 'Play'!
+So, time to press 'Play'\!
 
 *(All through my impressionable late-Cold War youth, you couldn't open
 an aviation book without seeing spectacular pictures of the Tornado
 spewing submunitions out of its enormous MW-1 dispenser.)*
 
-<img src="/assets\images\aar\mf\mf5\mf5_aj\media\image1.png" style="width:4.53125in;height:2.39583in" />
+![](/assets/images/aar/mf/mf5/mf5_aj/image1.png)
 
 *These planes, we were told, would swoop in at ultra-low level and
 savage enemy ground forces and runways in an unstoppable hailstorm of
 bomblets. Finally, I have my chance to try it out. My prediction?
 Disaster... If I'm up against MANPADS and the Soviet low-level
 air-defence net the casualties will be ruinous. But I can't resist. I
-have to try!*
+have to try\!*
 
-Finally, some more time to actually play!
+Finally, some more time to actually play\!
 
 **First Afternoon**
 
@@ -178,7 +178,7 @@ the Bosnian border, and then my southern AWACS starts reporting that six
 enemy ships are making a sortie from Kotor. Both the Serbian Konis are
 at sea now, but they're still well out of their missile range with their
 short-ranged Styxes, while my 100 nm Otomats can reach all the way
-across the Adriatic. It's the perfect time to strike!
+across the Adriatic. It's the perfect time to strike\!
 
 My four Sparviero hydrofoils come dashing out of Brindisi, and they
 combine their fire with the two other Italian ships in the southern
@@ -196,7 +196,7 @@ maybe their sub, if it has put to sea. Meanwhile the high-spirited
 Sparvieros wheel about and dash back into Brindisi harbour, where the
 dockworkers leap to reload the ships with fresh missile canisters. This
 is fortunate, since its not long before three more ships emerge from
-Kotor, and one of them's another Koni! The reloaded hydrofoils dash out
+Kotor, and one of them's another Koni\! The reloaded hydrofoils dash out
 and unleash a second missile salvo, which manages to sink the little
 fleet. That's three Konis so far. Hopefully they don't have a fourth.
 
@@ -359,11 +359,11 @@ reloaded within an hour. If the second wave resolves quickly, I might
 have my Zagreb-bound F-16s home and reloaded in an hour and a half. Will
 this be enough? We shall see...
 
----
+\---
 
-Wild Weasel Foxbats over Hungary! Something big's definitely coming....
+Wild Weasel Foxbats over Hungary\! Something big's definitely coming....
 
----
+\---
 
 A long weekend means plenty of time for Command, so...
 
@@ -409,7 +409,7 @@ again. I've got two flights of F-16 AMRAAM up and one flight of F-15E
 AMRAAM, my only active missiles until planes reload, and I have to
 commit them now, to drive back the modern Russian planes. As this
 happens AWACS reports long streams of aircraft approaching through
-Hungary, ten, twenty, thirty, forty, and the number keeps growing! I
+Hungary, ten, twenty, thirty, forty, and the number keeps growing\! I
 have one reserve fighter base left, at Cervia Pisignano, and all the
 F-104s there scramble and head for the fight. At Aviano, I start
 evacuating AWACS and EC-130s and A-6s, sending them west to get them out
@@ -487,7 +487,7 @@ anti-shipping attacks from the swarms of enemy aircraft, and after dark
 they come into range of the closing missile boats. Two Harpoons are
 launched at each, coming out of the darkness and smashing the almost
 defenceless ships. One spare Harpoon continues off into the night, and
-now I know how Andrea G sank his fishing boat!
+now I know how Andrea G sank his fishing boat\!
 
 Once the air threat has died down my Chinook hurries in at wavetop
 height to drop off the Carabinieri on the Hansa Carrier and adjacent
@@ -532,7 +532,7 @@ if something else was in the works. There were a dozen good enemy
 fighters in advance of them, so I was desperately doing the jam-and-run,
 and having decent success, when all of a sudden long range missiles were
 inbound, without radar emissions. The Su-27s out of Zvolen were lobbing
-Alamo-Bs at me! My pilots managed to dodge most of that, and get the
+Alamo-Bs at me\! My pilots managed to dodge most of that, and get the
 MiG-25s too, but the Su-27s remain frustratingly elusive.
 
 At 19:52 AWACS started reporting another stream of planes coming through
@@ -542,12 +542,12 @@ obscure old-generation aircraft? (Beagles??) There seemed to be plenty
 of enemy fighters accumulating in the area too, which raised suspicions
 all around. A counter-raid was launched, taking plenty of ECM and
 AMRAAMs, which drove away the first fighters, before engaging the second
-set. Good Su-27 kills, at last! Then, as we closed on the border an
+set. Good Su-27 kills, at last\! Then, as we closed on the border an
 SA-10 opened up on us from near Lake Balaton. Everyone dove for the deck
 to dodge, and managed to get away with it, but the SA-10 is one more
 thing to take into account for tonight's attack.
 
-And those slow-moving attackers? An-26s! This was either a coup-de-main
+And those slow-moving attackers? An-26s\! This was either a coup-de-main
 / unopposed landing, or a night paradrop attempt (seems risky). In
 either case, F-104s were plenty to deal with the cargo planes and make
 their escape before the next set of Su-27s came in from Zvolen.
@@ -575,7 +575,7 @@ good missiles for at least one strike.
 I am more worried about the ships near Split. The Pact is pressing hard
 with fighter sweeps into this area, and I'm running out of planes to
 fend them off. Playing the ECM-runaway game means they just keep coming
-back! I don't want to let them in to see me, but it's getting more
+back\! I don't want to let them in to see me, but it's getting more
 difficult to muster a CAP at this distance to prevent that. There's six
 MiG-29s coming in towards Split right now, and all I have there is one
 flight of Tornadoes. In a few hours I'll have more Tornadoes ready, but
@@ -605,7 +605,7 @@ Zvolen? Or the interfering MiG-29s from Belgrade? I keep fending them
 off, foiling their missile shots, and picking off their
 tail-end-Charlies, but I’m rapidly using up my ready planes, which are
 now going into their three-hour recycle phase. Aspides are running low
-too, and it’s only 7 hours into the fight! Down south, my returning
+too, and it’s only 7 hours into the fight\! Down south, my returning
 F-104s sometimes have to dump Aspides to lighten their loads enough to
 get back home, which definitely doesn’t help.
 
@@ -733,10 +733,10 @@ knots, under cover of darkness, and headed for Split.
 
 Not long after my convoy cleared the canal, AWACS began reporting new
 contacts forming up over Belgrade, and ELINT confirmed both MiG-29 and
-MiG-21 radar emissions from that direction. Dammit! I had hoped my ships
-would be undetected in the dark, but evidently, they’ve been spotted
-somehow, and the enemy is launching an anti-shipping strike against
-them.
+MiG-21 radar emissions from that direction. Dammit\! I had hoped my
+ships would be undetected in the dark, but evidently, they’ve been
+spotted somehow, and the enemy is launching an anti-shipping strike
+against them.
 
 The air controller immediately starts scrambling fighters; F-104s and
 Tornadoes from southern and central Italy. If they’re using ASMs against
@@ -749,14 +749,14 @@ As the CAP turns to head back, I start getting a better count on the
 enemy. There’s a dense pack of 9 MiG-29s, and a pair of MiG-21s, and
 then some pairs of attackers coming in low and only just now showing up
 on radar. They’re not headed for my ships at all. They’re headed for the
-UNPROFOR base at Sarajevo – again! My two Tornadoes dash in to interfere
-as best they can, getting a few shots off before they have to fall back
-with the MiGs in pursuit, but Sarajevo gets bombed for the third time.
-Fortunately, my new Tornadoes come burnering in across the ocean, and
-pile in to the enemy, driving away the Fulcrums and killing many of the
-attack planes. Then, with skies clear, they zip into Serbia, knock off
-some jammers and ELINT planes, and withdraw, killing a few pursuing
-MiG-23s which were launched in response.
+UNPROFOR base at Sarajevo – again\! My two Tornadoes dash in to
+interfere as best they can, getting a few shots off before they have to
+fall back with the MiGs in pursuit, but Sarajevo gets bombed for the
+third time. Fortunately, my new Tornadoes come burnering in across the
+ocean, and pile in to the enemy, driving away the Fulcrums and killing
+many of the attack planes. Then, with skies clear, they zip into Serbia,
+knock off some jammers and ELINT planes, and withdraw, killing a few
+pursuing MiG-23s which were launched in response.
 
 An embarrassing misinterpretation on my part, but fortunately no major
 harm done.
@@ -798,28 +798,29 @@ Then AWACS reports a pair of MiG-23s launching out of Timisoara. Just a
 patrol? Possibly, although all the previous patrols have been MiG-29s
 out of Belgrade. A minute later a second pair launch, then a third, and
 MiG-21 radars are detected in Romania near Craiova. This is a raid, not
-a patrol! Could it be that Sarajevo is about to get bombed for a fourth
+a patrol\! Could it be that Sarajevo is about to get bombed for a fourth
 time, and the command staff still hasn't managed to mount a useful
-defence? Heck no! Tornadoes are taking off and hurtling across the
+defence? Heck no\! Tornadoes are taking off and hurtling across the
 Adriatic on afterburner, followed by Mirages and F-104s, tankers are
 hurrying to the area to support homeward bound planes if necessary, and
 ECM planes are moving up to support positions. This time we're going to
-get there first!
+get there first\!
 
 Elsewhere, the sudden screaming of the SAM warning makes Captain Ceasare
 Italiano jerk his head up in alarm from the balky navigation display in
 the cockpit of his AMX. In a moment of brown-pantsed terror he realizes
 that he's flying directly over the Kotor naval base at low altitude, and
-SAMs are inbound! Command couldn't have let him get so far astray, could
-they? (Sure they could... I was staring so hard at the incoming raid I
-completely forgot my recce AMX!) He wrenches the stick violently, boots
-the rudder, dumps his Mk.82s on the first thing in front of him, and
-heads for the deck. The bombs explode and start a string of violent
-secondaries that destroy an SA-3 site, as tracers streak past him from
-all sides. The captain just clears a ridgeline, his RWR screaming in his
-ears, and dives to the water of the harbour beyond as an SA-6, suddenly
-blind, goes hurtling overhead. He's across the harbour in a moment, then
-up into a mountain valley and away, white-faced and shaking.
+SAMs are inbound\! Command couldn't have let him get so far astray,
+could they? (Sure they could... I was staring so hard at the incoming
+raid I completely forgot my recce AMX\!) He wrenches the stick
+violently, boots the rudder, dumps his Mk.82s on the first thing in
+front of him, and heads for the deck. The bombs explode and start a
+string of violent secondaries that destroy an SA-3 site, as tracers
+streak past him from all sides. The captain just clears a ridgeline, his
+RWR screaming in his ears, and dives to the water of the harbour beyond
+as an SA-6, suddenly blind, goes hurtling overhead. He's across the
+harbour in a moment, then up into a mountain valley and away,
+white-faced and shaking.
 
 (It's little moments like these that make Command so enjoyable for me.
 Theater-wide scope, and local action, all in one.)
@@ -838,7 +839,7 @@ a couple of packs of Oraos, and then two MiG-21 recce planes trailing
 far behind. Most importantly, there are no MiG-29s to interfere, and my
 fighters pile into the fray, gleefully massacring the enemy with frontal
 aspect missiles, while the enemy cannot reply. Only one escapes, and
-they never get within sight of Sarajevo. Honour is restored! Most of my
+they never get within sight of Sarajevo. Honour is restored\! Most of my
 fighters head home, but it turns out the fight is not quite over, and in
 the course of the next hour a dozen each of light attack planes and
 Mig-21s try making low-level approaches. Without fighter escort they are
@@ -947,7 +948,7 @@ I think I've accomplished most of my given objectives at this point. In
 the absence of further target taskings from high command, I may try
 fighter sweeps to draw out the remaining interceptors, and then possibly
 attack further airbases, although the distances are starting to get
-quite large. It's now 10:40 hrs local time. We shall see!
+quite large. It's now 10:40 hrs local time. We shall see\!
 
 I let the game run another hour or so, but nothing else special
 happened, so I wrapped it up. Many assorted observations follow.

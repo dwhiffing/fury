@@ -5,6 +5,6 @@
 CTF 154 forces force their way through the Straits of Hormuz and back
 into the Persian Gulf.
 
-**<u>Indian Ocean Fury \#6</u>**
+**<span class="underline">Indian Ocean Fury \#6</span>**
 
 Not yet built

@@ -16,7 +16,7 @@ Approaches (BALTAP)**. 6<sup>th</sup> Panzergrenadier Division would
 also come under command BALTAP and, depending on the situation, operate
 independently or under the command of **SH**.
 
-<img src="/assets\images\nato\de\army\media\image1.png" style="width:6.97361in;height:5.79375in" />
+![](/assets/images/nato/de/army/image1.png)
 
 The pre-unification army had a strength of approximately 340,000
 regulars and 717,000 reserves and territorial defence forces. The
@@ -38,59 +38,58 @@ not happen.
 [**Leopard
 II**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
 
-<img src="/assets\images\nato\de\army\media\image2.png" style="width:4.47917in;height:2.5in" />Considered
-by many to be the finest tank in the world with a 120mm L44 smoothbore
-gun, a speed of 68 KPH, an operational range of 550Km with internal fuel
-and excellent armor protection. This tank is at least on par with the
-British Challenger 2, French Leclerc or the American Abrams. By 1994 the
-full production run of 2,125 was complete, and retained by the *Heer*.
-None of the engineering variants of the Leopard 2 had reached production
-but the Armored recovery vehicle variant was starting to arrive in units
-by 1994. Leopard I specialist variants were used instead.
+![](/assets/images/nato/de/army/image2.png)Considered by many to be
+the finest tank in the world with a 120mm L44 smoothbore gun, a speed of
+68 KPH, an operational range of 550Km with internal fuel and excellent
+armor protection. This tank is at least on par with the British
+Challenger 2, French Leclerc or the American Abrams. By 1994 the full
+production run of 2,125 was complete, and retained by the *Heer*. None
+of the engineering variants of the Leopard 2 had reached production but
+the Armored recovery vehicle variant was starting to arrive in units by
+1994. Leopard I specialist variants were used instead.
 
 [**Leopard
 I**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
 
-<img src="/assets\images\nato\de\army\media\image3.jpg" style="width:3.51042in;height:2.34375in" />
-The Leopard I was used widely throughout Europe and Canada as well. The
-German Army operated a total of 2,437 of them. With the introduction of
-the Leopard II, some were put into storage but most replaced M48s in
-reserve units. 1,225 tanks were upgraded to the ultimate ‘A5’ standard,
-while 250 were ‘A4’ versions, 110 were ‘A3’, 232 were ‘A2’ and the
-remainder were upgraded to the improved Leopard 1 A1A1 standard. In
-addition to the original production were large numbers of specialist
-vehicles such as:
+![](/assets/images/nato/de/army/image3.jpg) The Leopard I was used
+widely throughout Europe and Canada as well. The German Army operated a
+total of 2,437 of them. With the introduction of the Leopard II, some
+were put into storage but most replaced M48s in reserve units. 1,225
+tanks were upgraded to the ultimate ‘A5’ standard, while 250 were ‘A4’
+versions, 110 were ‘A3’, 232 were ‘A2’ and the remainder were upgraded
+to the improved Leopard 1 A1A1 standard. In addition to the original
+production were large numbers of specialist vehicles such as:
 
--   377x Gepard Anti-Aircraft variants;
+  - 377x Gepard Anti-Aircraft variants;
 
--   105x Biber Bridge Layers;
+  - 105x Biber Bridge Layers;
 
--   444x Bergepanzer 2 Armored Recovery Vehicles (ARV);
+  - 444x Bergepanzer 2 Armored Recovery Vehicles (ARV);
 
--   36x Bergepanzer 2A1 ARV for engineer vehicles;
+  - 36x Bergepanzer 2A1 ARV for engineer vehicles;
 
--   140x Badger Engineering vehicles;
+  - 140x Badger Engineering vehicles;
 
-<img src="/assets\images\nato\de\army\media\image4.jpeg" style="width:4.89583in;height:3.31653in" />
+![](/assets/images/nato/de/army/image4.jpeg)
 
 Gepard
 
-<img src="/assets\images\nato\de\army\media\image5.jpeg" style="width:4.90385in;height:3.1875in" />
+![](/assets/images/nato/de/army/image5.jpeg)
 
 Biber Bridge Layer
 
-<img src="/assets\images\nato\de\army\media\image6.jpg" style="width:5.44792in;height:3.79194in" />
+![](/assets/images/nato/de/army/image6.jpg)
 
 Bergepanzer ARV
 
-<img src="/assets\images\nato\de\army\media\image7.jpg" style="width:5.52083in;height:3.68056in" />
+![](/assets/images/nato/de/army/image7.jpg)
 
 Badger
 
 [**Luchs Armored Reconnaissance
 Vehicle**](http://www.military-today.com/apc/luchs.htm)
 
-<img src="/assets\images\nato\de\army\media\image8.png" style="width:5.08333in;height:3.29779in" />
+![](/assets/images/nato/de/army/image8.png)
 
 The German Army used 408 of these 8-wheeled amphibious vehicles in their
 reconnaissance battalions. With 8-wheel drive and all wheel steering,
@@ -100,7 +99,7 @@ for rapid reverse.
 
 [**Marder IFV**](http://www.military-today.com/apc/marder.htm)
 
-<img src="/assets\images\nato\de\army\media\image9.jpg" style="width:6.25in;height:3.92708in" />
+![](/assets/images/nato/de/army/image9.jpg)
 
 Germany was the first NATO country to adopt the IFV (Infantry Fighting
 Vehicle) concept with the Marder. 2,133 of these vehicles were used in
@@ -112,51 +111,51 @@ carried a crew of 3 with 7 dismountable soldiers as passengers.
 
 **M113 Family**
 
-<img src="/assets\images\nato\de\army\media\image10.jpg" style="width:5.09375in;height:3.39512in" />
+![](/assets/images/nato/de/army/image10.jpg)
 
 More than 4,000 of the ubiquitous M113 were in use, in addition to
 thousands used as infantry carriers’ numerous variants are found in the
 German Army, including:
 
--   +220x M577 Command Post;
+  - \+220x M577 Command Post;
 
--   +500x Panzermorser 120 – 120mm Self Propelled Mortar;
+  - \+500x Panzermorser 120 – 120mm Self Propelled Mortar;
 
--   154x Artillery Fire Control variants;
+  - 154x Artillery Fire Control variants;
 
--   320x Beobachtungs Panzer Artillery observation vehicles;
+  - 320x Beobachtungs Panzer Artillery observation vehicles;
 
--   301x M548G Skorpion Minenwerfer, mobile mine dispenser;
+  - 301x M548G Skorpion Minenwerfer, mobile mine dispenser;
 
--   Forward Air Controller variant;
+  - Forward Air Controller variant;
 
--   Electronic Direction Finding variant;
+  - Electronic Direction Finding variant;
 
--   Signals vehicle;
+  - Signals vehicle;
 
--   Ambulances;
+  - Ambulances;
 
--   Radar carriers;
+  - Radar carriers;
 
--   Artillery locating Radar carrier;
+  - Artillery locating Radar carrier;
 
 [**Fuchs
 Series**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/TPZ-Fuchs.php)
 
-<img src="/assets\images\nato\de\army\media\image11.jpg" style="width:5.3125in;height:3.38997in" />
+![](/assets/images/nato/de/army/image11.jpg)
 
 The Fuchs is a Six-wheeled Armored Personnel Carrier (APC). The German
 *Heer* operated 1,040 of these vehicles in several variants. The basic
 vehicle was an amphibious and designed to carry a crew of 2 with 10
 passengers. Variants include:
 
--   550x Standard Fuchs 1;
+  - 550x Standard Fuchs 1;
 
--   87x Non amphibious versions with larger payload;
+  - 87x Non amphibious versions with larger payload;
 
--   265x fitted with various mission kits;
+  - 265x fitted with various mission kits;
 
--   140x NBC reconnaissance vehicles;
+  - 140x NBC reconnaissance vehicles;
 
 **Tank Destroyers**
 
@@ -165,25 +164,25 @@ was that these had the firepower of a tank but neither the
 maneuverability nor the protection. By 1994 they didn’t have the
 firepower either.
 
--   607x
+  - 607x
     [Kanonenjagdpanzer](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Kanonenjagdpanzer-90.php),
     with a 90mm gun;
 
--   316x [Jaguar
-    1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Raketenjagdpanzer-I.php),
+  - 316x
+    [Jaguar 1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Raketenjagdpanzer-I.php),
     a similar chassis with a HOT ATGM;
 
--   162x Jaguar 2, a Kanonenjagdpanzer with the gun replaced by a TOW2
+  - 162x Jaguar 2, a Kanonenjagdpanzer with the gun replaced by a TOW2
     ATGM
 
-<img src="/assets\images\nato\de\army\media\image12.jpg" style="width:5.94792in;height:2.51643in" />
+![](/assets/images/nato/de/army/image12.jpg)
 
 Kanonenjagdpanzer
 
-<img src="/assets\images\nato\de\army\media\image13.jpg" style="width:4.65625in;height:2.94896in" />
+![](/assets/images/nato/de/army/image13.jpg)
 
 Jaguar 1
 
-<img src="/assets\images\nato\de\army\media\image14.jpeg" style="width:4.35417in;height:3.06699in" />
+![](/assets/images/nato/de/army/image14.jpeg)
 
-Jaguar 2
+*Jaguar 2*

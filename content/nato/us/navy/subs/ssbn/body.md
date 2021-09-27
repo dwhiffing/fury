@@ -39,7 +39,7 @@ eight (eventually 11) in the Atlantic carry the newer Trident II (D-5)
 missiles with 12 MIRVs. These boats are very quiet, probably equivalent
 or better than the 688I class of SSN; and fast, probably about 25knts.
 
-<img src="/assets\images\nato\us\navy\subs\ssbn\media\image1.jpg" style="width:6.45833in;height:4.83235in" />
+![](/assets/images/nato/us/navy/subs/ssbn/image1.jpg)
 
 Designed from the ground up for long durations at sea, a standard patrol
 is 70 days but can be up to 90 days, followed by 25-30 days in port with
@@ -52,10 +52,11 @@ complete in Jun 1994 when *SSBN-727 Michigan* will take her place. The
 21 Ohio class SSBNs when completed, will be able to deploy the same or
 more missiles at any time than the 41 hulls of the
 ‘[Freedom-41](https://en.wikipedia.org/wiki/41_for_Freedom)’ boats
-discussed below.
+discussed
+below.
 
 | Class | Pennant  | Name             | Flt      | Home Port | Task        | Remarks |
-|-------|----------|------------------|----------|-----------|-------------|---------|
+| ----- | -------- | ---------------- | -------- | --------- | ----------- | ------- |
 | Ohio  | SSBN-726 | Ohio             | Pacific  | Bangor    | Refit       |         |
 |       | SSBN-727 | Michigan         | Pacific  | Bangor    | On Patrol   |         |
 |       | SSBN-728 | Florida          | Pacific  | Bangor    | On Patrol   |         |
@@ -78,7 +79,7 @@ discussed below.
 |       | SSBN-745 | \#20             | Pacific  | Bangor    | Building    |         |
 |       | SSBN-746 | \#21             | Atlantic | Kings Bay | Ordered     |         |
 
-<img src="/assets\images\nato\us\navy\subs\ssbn\media\image2.jpg" style="width:8.33333in;height:5.51389in" />
+![](/assets/images/nato/us/navy/subs/ssbn/image2.jpg)
 
 **[Benjamin Franklin](https://fas.org/nuke/guide/usa/slbm/ssbn-640.htm)
 / [Lafayette](https://fas.org/nuke/guide/usa/slbm/ssbn-616.htm) / [James
@@ -99,10 +100,11 @@ each with 50% more MIRVs, five more are due to retire in 1994; two in
 February, two in March and one in September. A standard patrol length of
 70-90 days followed by a 60-day refit period with a major overhaul once
 every ten years means that they spend less than 50% of their lifetime at
-sea. All are in the Atlantic Fleet.
+sea. All are in the Atlantic
+Fleet.
 
 | Class             | Pennant  | Name              | Historic | Flt      | Home Port  | Task      | Remarks |
-|-------------------|----------|-------------------|----------|----------|------------|-----------|---------|
+| ----------------- | -------- | ----------------- | -------- | -------- | ---------- | --------- | ------- |
 | Benjamin Franklin | SSBN-641 | Simon Bolivar     | Feb 95   | Atlantic | Portsmouth | In port   |         |
 | Benjamin Franklin | SSBN-658 | Mariano G Vallejo | Mar 95   | Atlantic | Charleston | On Patrol |         |
 | Lafayette         | SSBN-624 | Woodrow Wilson    | Sep 94   | Atlantic | Charleston | On Patrol |         |
@@ -112,4 +114,4 @@ sea. All are in the Atlantic Fleet.
 | James Madison     | SSBN-633 | Casimir Pulaski   | Mar 94   | Atlantic | Charleston | On Patrol |         |
 | James Madison     | SSBN-634 | Stonewall Jackson | Feb 95   | Atlantic | Charleston | In port   |         |
 
-<img src="/assets\images\nato\us\navy\subs\ssbn\media\image3.jpg" style="width:8in;height:5.23958in" />
+![](/assets/images/nato/us/navy/subs/ssbn/image3.jpg)

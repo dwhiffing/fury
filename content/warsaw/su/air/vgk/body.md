@@ -1,6 +1,6 @@
 **Long Range Aviation**
 
-<img src="/assets\images\warsaw\su\air\vgk\media\image1.jpg" style="width:13.125in;height:9.84375in" />
+![](/assets/images/warsaw/su/air/vgk/image1.jpg)
 
 The long range bomber force is almost an air force of its own right,
 they exist as the part of the Armed Forces (VA) of the Supreme High
@@ -23,10 +23,11 @@ deterrence posture.
 army, the 30<sup>th</sup> is in the Far East and is focused on strikes
 in China or Japan and the Pacific. Capacity to conduct maritime strike
 is a high priority as is working in conjunction with the Air Department
-of the Pacific Fleet.
+of the Pacific
+Fleet.
 
 | Division        | Regiment                  | Location      | Number | Aircraft type | Remarks |
-|-----------------|---------------------------|---------------|--------|---------------|---------|
+| --------------- | ------------------------- | ------------- | ------ | ------------- | ------- |
 | 31<sup>st</sup> | 1225th                    | Belaya        | 12     | Tu-22M3       |         |
 |                 |                           |               | 24     | Tu-22M2       |         |
 |                 |                           |               | 8      | Tu-16 Elka    |         |
@@ -42,15 +43,16 @@ of the Pacific Fleet.
 |                 |                           |               | 12     | Tu-22PD       |         |
 |                 |                           |               | 8      | Tu-16 Elka    |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\media\image2.jpg" style="width:7.96875in;height:4.04863in" />
+![](/assets/images/warsaw/su/air/vgk/image2.jpg)
 
 **37<sup>th</sup> Air Army:** Centrally located in proximity to Moscow
 this force is postured to strike either north over the Arctic or into
 the Atlantic or South through the Middle east and Balkans on targets in
-the Mediterranean or Indian Ocean area.
+the Mediterranean or Indian Ocean
+area.
 
 | Division         | Regiment                | Location | Number | Aircraft type | Remarks |
-|------------------|-------------------------|----------|--------|---------------|---------|
+| ---------------- | ----------------------- | -------- | ------ | ------------- | ------- |
 | 37<sup>th</sup>  | 40<sup>th</sup>         | Ukrainka | 24     | Tu-22M3       |         |
 |                  |                         |          | 10     | Tu-16K-10-26B |         |
 |                  |                         | Ukrainka | 36     | Tu-22RDM      |         |
@@ -69,7 +71,7 @@ the Mediterranean or Indian Ocean area.
 | Army Units       | 230<sup>th</sup> Tanker | Engels   | 36     | M-4 Bison     |         |
 |                  | 43<sup>rd</sup> Tpt     | Ostafevo | 25     | An-24         |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\media\image3.jpeg" style="width:9.98069in;height:7.07336in" />
+![](/assets/images/warsaw/su/air/vgk/image3.jpeg)
 
 **46<sup>th</sup> Red Banner Air Army:** Located in the Smolensk area
 west of Moscow has the most modern Soviet bomber – the Tu-160 Blackjack
@@ -80,7 +82,7 @@ and 14 regiments, this is the largest of the Long Range Aviation Air
 Armies.
 
 | Division            | Regiment                  | Location     | Number | Aircraft type | Remarks |
-|---------------------|---------------------------|--------------|--------|---------------|---------|
+| ------------------- | ------------------------- | ------------ | ------ | ------------- | ------- |
 | 13<sup>th</sup> Gds | 184th                     | Priluki      | 24     | Tu-160        |         |
 |                     |                           |              | 2      | Tu-134UBL     |         |
 |                     | 185<sup>th</sup> Gds      | Poltava      | 18     | Tu-22M3       |         |
@@ -109,7 +111,7 @@ Armies.
 |                     |                           |              | 12     | Tu-22PD       |         |
 |                     | 103<sup>rd</sup> Tpt R    | Smolensk     | 25     | An-12         |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\media\image4.jpg" style="width:8.33333in;height:5.20833in" />
+![](/assets/images/warsaw/su/air/vgk/image4.jpg)
 
 **6<sup>th</sup> Independent Heavy Bomber Aviation Corps:** Formed the
 46<sup>th</sup> Air Army in 1980 and moved into reserve status. Early
@@ -118,10 +120,11 @@ maintenance on aircraft in reserve. Units were reformed in Nov 1993
 under the cover of the Soviet massive buildup and exercise to exert
 pressure on Poland, there was a considerable degree of misinformation
 presented and although indicators were received and noted in the west,
-there was little or no reaction.
+there was little or no
+reaction.
 
 | Division             | Regiment              | Location    | Number | Aircraft type | Remarks |
-|----------------------|-----------------------|-------------|--------|---------------|---------|
+| -------------------- | --------------------- | ----------- | ------ | ------------- | ------- |
 | 160<sup>th</sup>     | 291<sup>st</sup>      | Balbasovo   | 24     | Tu-95K-22     |         |
 |                      |                       |             | 12     | Tu-16P Buket  |         |
 |                      | 402<sup>nd</sup>      | Balbasovo   | 36     | Tu-22M2       |         |
@@ -152,4 +155,4 @@ there was little or no reaction.
 |                      |                       |             | 8      | Tu-16 Elka    |         |
 |                      |                       |             | 12     | Tu-16R        |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\media\image5.jpg" style="width:6.80208in;height:4.81378in" />
+![](/assets/images/warsaw/su/air/vgk/image5.jpg)

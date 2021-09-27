@@ -1,5 +1,5 @@
 [**BBTG New Jersey
-(BB-62)**](https://en.wikipedia.org/wiki/USS_New_Jersey_(BB-62))
+(BB-62)**](https://en.wikipedia.org/wiki/USS_New_Jersey_\(BB-62\))
 
 USS New Jersey, or ‘**Big J**’ earned more battle stars than any of her
 sister battleships, she saw service in World War Two, Korean War,
@@ -13,20 +13,20 @@ At war start she is steaming off the Philippines, returning to the West
 Coast via Pearl Harbor, and is quickly recalled to assist the USS
 Constellation CVBG.
 
-<img src="/assets\images\nato\us\navy\battleships\new-jersey\media\image1.jpg" style="width:6.5in;height:4.875in" />
+![](/assets/images/nato/us/navy/battleships/new-jersey/image1.jpg)
 
 TG New Jersey:
 
--   BB-62 USS New Jersey
+  - BB-62 USS New Jersey
+    
+      - Elem VC-6 ‘Firebees’ 4x RQ-2A Pioneer
 
-    -   Elem VC-6 ‘Firebees’ 4x RQ-2A Pioneer
+  - CG-27 USS Josephus Daniels
 
--   CG-27 USS Josephus Daniels
+  - FFG-22 USS Fahrion
+    
+      - Elem HSL-31 ‘Arch Angels’ 2x SH-2G Seasprite
 
--   FFG-22 USS Fahrion
-
-    -   Elem HSL-31 ‘Arch Angels’ 2x SH-2G Seasprite
-
--   FF-1087 USS Kirk
-
-    -   Elem HSL-33 ‘Seasnakes’ 1x SH-2G Seasprite
+  - FF-1087 USS Kirk
+    
+      - Elem HSL-33 ‘Seasnakes’ 1x SH-2G Seasprite
