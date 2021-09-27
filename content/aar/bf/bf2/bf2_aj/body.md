@@ -1,8 +1,8 @@
 **Baltic Fury \#2 – Borscht on Bornholm**
 
-**<span class="underline">Playtest Report by AndrewJ June 2020</span>**
+**<u>Playtest Report by AndrewJ June 2020</u>**
 
-I've finally found some time to give this one a try, so here goes\!
+I've finally found some time to give this one a try, so here goes!
 
 **SITUATION**
 
@@ -76,7 +76,7 @@ there is a satisfying thud, and the NATO sub (the Unicorn, a very modern
 British boat) settles lifelessly on the Baltic sea floor.
 
 It's only a few minutes later that the ASW patrol group operating NE of
-Bornholm detects incoming torpedoes - this time NATO saw us first\! The
+Bornholm detects incoming torpedoes - this time NATO saw us first! The
 little ships scatter, turning to flee at flank speed, and blindly firing
 ASW torpedoes over their shoulders along the bearing to the enemy
 weapons. The incoming torpedoes are fast, but, fortunately, short
@@ -150,7 +150,7 @@ SS, and gleefully pounces on it and kills it with a single torpedo.
 Meanwhile the other sub fires on the ASW group again, forcing me to flee
 and fire defensively once more. The Be-12 comes hurrying back, and picks
 up the submarine contact with a sonobuoy, just in time to hear one of my
-defensively fired torpedoes home in and strike it. Four down\!
+defensively fired torpedoes home in and strike it. Four down!
 
 **UPCOMING**
 
@@ -202,7 +202,7 @@ torpedoes at my ASW group north of Bornholm. The shots come in from the
 west, and are aimed at the southern-most Parchim, which counterfires and
 turns to run away. My torpedo doesn't hit anything, and theirs run out
 of fuel, so the Parchim starts turning around to re-engage, when it's
-suddenly fired on from the east. We're between two hostile subs\!
+suddenly fired on from the east. We're between two hostile subs!
 
 Fortunately, the supporting Krivak has been closing in, and it's now
 close enough to fire an SS-N-14 on the suspected sub position. It's a
@@ -232,14 +232,14 @@ preparing to make some sort of major air operation in the morning.
 Fortunately, most of our fighters are ready and our pilots are well
 rested, so we should be able to generate a strong surge to meet them in
 the morning. The next warning is of an imminent threat; NATO missile
-boats are surging from Danish harbours, and will be attacking shortly\!
+boats are surging from Danish harbours, and will be attacking shortly!
 
 The radar operators on the orbiting Bear start calling in contacts
 almost immediately. There seem to be three main packs of them: a group
 of six up near Copenhagen, another half dozen down by the frigate we
 spotted earlier, and a group of four in between. They're moving east
 towards us, and they're almost in Harpoon range of our ASW groups near
-Bornholm. Bold and decisive action is required. Run away\!
+Bornholm. Bold and decisive action is required. Run away!
 
 My small ships all turn and dash for the cover of the nearby Krivaks,
 hoping their SAMs will be able to knock down any incoming missiles, and
@@ -318,7 +318,7 @@ The first of the MiG-27s arrive, and attempt to suppress the Stingers
 and AAA with rockets. The nasty little creatures are essentially
 invisible in the early light, and although we know the area where the
 missiles are coming from, nobody can actually get eyes on them to make
-an attack. How I wish I had FLIR\! After several fruitless passes, and
+an attack. How I wish I had FLIR! After several fruitless passes, and
 damaging SAM hits, the attempt is called off, and the next wave of
 MiG-27s is directed to attack the Danish forces deployed along the north
 and eastern side of the island. This goes much better, and, with Su-17
@@ -360,7 +360,7 @@ sweeping directly along the coast, nervously waiting for some hidden SAM
 gunner to step out of a seaside bathing hut and put an end to their
 lives. Nobody takes a shot (yet), and the helicopter crews fly down the
 coast, drawing an impressive tail of explosions behind them. The Danes
-definitely don't want anyone landing here\!
+definitely don't want anyone landing here!
 
 The minesweepers arrive a few hours later, and join the fun, slowly
 moving along the south coast, from east to west. It looks like the
@@ -368,13 +368,13 @@ helicopters are doing a good job, and most of the mines are already
 gone, but the ships still find a few more. Most are immediately along
 the shore, with only a few further out at sea.
 
-**NATO ATTACKS\!**
+**NATO ATTACKS!**
 
 Mid-morning, we start getting a series of increasingly worrying reports
 of heavy air fighting in the west. At first it sounds like our comrades
 are holding their own, but then we start getting reports that our pilots
 are falling back under pressure, and then that the front has essentially
-collapsed. NATO's coming and they're loaded for Bear\!
+collapsed. NATO's coming and they're loaded for Bear!
 
 When the first reports come in, a couple of Flankers are despatched to
 patrol the region, and forward-deployed light craft (missile boats and
@@ -394,7 +394,7 @@ convoy escort duties, but other than that everything is in the air.
 NATO arrives with a surge of fighters from Laage, and an enormous swarm
 of Tornadoes and F-16s from Denmark and northern Germany. The Laage
 fighters are older F-4s, carrying modern AMRAAMs, and ex East German
-MiG-29s, which we all agree is cheating. Those should be ours\! My
+MiG-29s, which we all agree is cheating. Those should be ours! My
 forward-based Flankers from Swidwin prove to be essential here, along
 with the first few arriving from the Riga area, and they manage to use
 their long-ranged Alamo-Cs to knock down the Phantoms and drive back the
@@ -427,7 +427,7 @@ additional Laage fighters diverting my fighters from attacking the
 Tornadoes. Most of my planes are attempting to disengage now, with
 nothing but cannon-shells left on board, my last three inbound flights
 of Flankers aren't quite in range yet, and the onrushing Tornadoes start
-launching Kormorans at the minesweepers. Blast\!
+launching Kormorans at the minesweepers. Blast!
 
 The Flankers dive on full afterburner to try and get between the ships
 and the missiles, while the pair of Krivaks guarding the minesweepers
@@ -462,7 +462,7 @@ shapes of the Sovremenny destroyers, leading the amphibious convoy to
 Bornholm. Their captains smile grimly as missile launchers elevate,
 radars click on, and the highly trained crews press the firing keys to
 launch their most advanced long-ranged missiles at the startled enemy
-planes. They shoot\! And shoot. And shoot and shoot and shoot. And shoot
+planes. They shoot! And shoot. And shoot and shoot and shoot. And shoot
 some more. Finally, after ten shots they manage to get their first hit.
 The admiral looks the other way, and pretends not to notice... Appalling
 hit rates aside, the SAM fire does turn the enemy fighters away,
@@ -534,4 +534,4 @@ The last act comes with the docking of the freighter Vilyuy in Ronne.
 Its airfield equipment will allow us to send in some MiG-23s to be based
 on the island.
 
-With all this in place, success of the Soviet revolution is assured\!
+With all this in place, success of the Soviet revolution is assured!

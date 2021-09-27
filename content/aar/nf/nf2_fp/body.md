@@ -1,6 +1,6 @@
-**<span class="underline">Northern Fury \#2 – X-Ray Station</span>**
+**<u>Northern Fury \#2 – X-Ray Station</u>**
 
-**<span class="underline">AAR by fitzpatv, Mar 2021</span>**
+**<u>AAR by fitzpatv, Mar 2021</u>**
 
 The second Northern Fury scenario is set on the same day as the first.
 Five SSNs (four American and one British) are on patrol at X-Ray Station
@@ -40,7 +40,7 @@ Here’s how it went:
 16:26 Local Time: USS Boise detected a Krivak IV frigate NE of Finnmark,
 Norway, supported by a Krivak I and Krivak II. Clearly, the Soviets were
 already at sea and maybe beyond my patrol line – so much for my cunning
-plan\!. Moved Boise NE, out of the way.
+plan!. Moved Boise NE, out of the way.
 
 18:00: HMS Trafalgar, patrolling W of Novaya Zemlya, found some
 destroyers and frigates escorting what looked like an amphibious force.
@@ -92,9 +92,9 @@ thought to be in service until now. This scored a handy 50 VP. Thinking
 that this force was likely to steer out to sea and make for Iceland, I
 kept to my course near the coast while tracking remotely.
 
-03:16: I was wrong\!. A Sovremenny popped-up just 6nm from New York
-City. Helpfully, she was doing 30 knots and I was able to steer out of
-her path. Not long afterwards, I was awarded 25 VP for still having subs
+03:16: I was wrong!. A Sovremenny popped-up just 6nm from New York City.
+Helpfully, she was doing 30 knots and I was able to steer out of her
+path. Not long afterwards, I was awarded 25 VP for still having subs
 on-station. Encouraged, I kept Trafalgar inside the NE Patrol Sector in
 case of further bonuses like this.
 
@@ -120,8 +120,8 @@ remaining on-station took the score to +215 and a Minor Victory, which I
 was happy to take.
 
 As regular readers of these AARs will know, I’m not a great fan of
-‘submarines-only’ scenarios, given that ASW detection and prosecution
-in CMO is so (realistically??) efficient. Nevertheless, this one worked
+‘submarines-only’ scenarios, given that ASW detection and prosecution in
+CMO is so (realistically??) efficient. Nevertheless, this one worked
 better than most, as all your eggs are not in one basket and the victory
 point schedule gives you a decent chance. There is also some spare ocean
 that isn’t crawling with escorts, so you get some breathing space.

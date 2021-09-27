@@ -1,6 +1,6 @@
 **Northern Fury \#40 – Tongs**
 
-**<span class="underline">Playtest Report by AndrewJ Feb 2020</span>**
+**<u>Playtest Report by AndrewJ Feb 2020</u>**
 
 One mostly empty weekend coming up, therefore...
 
@@ -11,7 +11,7 @@ aiming to move north and cut off the flow of their troops and supplies
 through northern Norway. To do this, we've been given control of a
 mighty carrier group, with two full CVNs, three powerful Aegis cruisers
 plus a Leahy, and a pleasing number of frigates and destroyers. With so
-many SAMs around I'd almost welcome a large bomber raid\! (Almost, mind
+many SAMs around I'd almost welcome a large bomber raid! (Almost, mind
 you...) We've also got three modern SSNs at sea, an SSK along the shore,
 and useful MPA support from Nimrods and P-3s in re-captured Iceland and
 Kinloss. The one thing we haven't been given is missiles. TLAMs are
@@ -67,27 +67,27 @@ hardened command and logistics bunkers with my full force. Past
 experience has shown that those will need repeated hits from heavy
 weapons to make any impression on them at all.
 
-Well, let's see what happens\!
+Well, let's see what happens!
 
-\---
+---
 
-SIR\! Permission to make munitions expenditure report, SIR\!
+SIR! Permission to make munitions expenditure report, SIR!
 
 Expenditure of Alpha-India-Mike-Fife-Fower-Charlie Phoenix air to air
 missiles: 41 rounds.
 
-  - Nineteen MiG-31 Foxhound destroyed, SIR\!
+-   Nineteen MiG-31 Foxhound destroyed, SIR!
 
-  - Three Su-27 Flanker destroyed, SIR\!
+-   Three Su-27 Flanker destroyed, SIR!
 
 Respectfully suggest Su-27 engagement was at a tactically critical time.
 Report will be updated after second strike wave is completed.
 
-Request signoff, SIR\!
+Request signoff, SIR!
 
 (This board really needs a good salute emoji)
 
-\----
+----
 
 **INITIAL RECONAISSANCE AND PROBES**
 

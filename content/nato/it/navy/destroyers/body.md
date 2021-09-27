@@ -20,7 +20,7 @@ anti-surface batteries. Two AB-212 Anti-Submarine Warfare (ASW)
 helicopters round out the armament making these very potent well rounded
 ships.
 
-![](/assets/images/nato/it/navy/destroyers/image1.png)
+<img src="/assets\images\nato\it\navy\destroyers\media\image1.png" style="width:5.36736in;height:3.35347in" />
 
 [**De la Penne
 Class**:](http://www.military-today.com/navy/de_la_penne_class.htm) Both
@@ -30,10 +30,10 @@ have essentially the same armament but with more modern sensors and
 control systems than their predecessors but with only three 76mm guns
 vice four. These are well rounded world class ships
 
-![](/assets/images/nato/it/navy/destroyers/image2.png)
+<img src="/assets\images\nato\it\navy\destroyers\media\image2.png" style="width:4.85347in;height:3.64028in" />
 
 | Class       | Pennant | Name               | Task         | Remarks |
-| ----------- | ------- | ------------------ | ------------ | ------- |
+|-------------|---------|--------------------|--------------|---------|
 | Audace      | D 550   | Ardito             |              |         |
 |             | D 551   | Audace             | TG Garibaldi |         |
 | De la Penne | D 560   | Durand de la Penne | TG Garibaldi |         |

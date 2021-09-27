@@ -1,6 +1,6 @@
 **Northern Fury \#45 – A Rock on the Beach**
 
-**<span class="underline">Playtest Report by AndrewJ Mar 2021</span>**
+**<u>Playtest Report by AndrewJ Mar 2021</u>**
 
 **Situation**
 
@@ -70,8 +70,8 @@ are occupied.
 
 **Play Observations**
 
-The extensive array of MANPADS is nasty\! If it hadn’t been for those
-few F-18s with IR Mavericks, this would have been a much tougher fight.
+The extensive array of MANPADS is nasty! If it hadn’t been for those few
+F-18s with IR Mavericks, this would have been a much tougher fight.
 Surprisingly, more advanced thermal imaging capability in F-18 pods and
 Harrier noses is less effective than the Maverick seekers for detection
 from altitude. Without them, I’d have been trying to tempt the MANPADS

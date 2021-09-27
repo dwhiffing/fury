@@ -10,8 +10,8 @@ operating alone in low threat enviornments.
 [Kirov class Battle
 Cruisers](http://www.military-today.com/navy/kirov_class.htm) (BCGN)
 
-![](/assets/images/warsaw/su/navy/cuisers/image1.jpeg)These three
-impressive ships are literally in a class of their own. They were
+<img src="/assets\images\warsaw\su\navy\cuisers\media\image1.jpeg" style="width:5.0375in;height:3.15625in" />These
+three impressive ships are literally in a class of their own. They were
 slightly smaller than the US Navy’s Iowa class Battleships, only half
 the displacement, but much more modern and significantly more capable of
 surviving. These nuclear powered ships were designed to do two things;
@@ -38,7 +38,7 @@ aircraft carrier, their ability to penetrate NATOs defences is greatly
 improved with the added air superiority cover.
 
 | Class | Pennant | Name    | Status         | Remarks |
-| ----- | ------- | ------- | -------------- | ------- |
+|-------|---------|---------|----------------|---------|
 | Kirov | 080     | Kirov   | Northern Fleet |         |
 |       | 052     | Frunze  | Pacific Fleet  |         |
 |       | 015     | Kalinin | Northern Fleet |         |
@@ -60,11 +60,10 @@ point defence SAMs as well as six CIWS gun systems. They carry one Ka-27
 helicopter and have an impressive ASW suite of sensors and weapons. The
 original Soviet plan was to build 20 of these ships which were reduced
 to four. In Northern Fury there has been a reduction but to 12 hulls,
-six of which have already been
-commissioned.
+six of which have already been commissioned.
 
 | Class | Pennant | Name                      | Status          | Remarks            |
-| ----- | ------- | ------------------------- | --------------- | ------------------ |
+|-------|---------|---------------------------|-----------------|--------------------|
 | Slava | 121     | Slava                     | Northern Fleet  |                    |
 |       | 055     | Admiral Lobov             | Pacific Fleet   |                    |
 |       | 011     | Chervona Ukraina          | Pacific Fleet   |                    |
@@ -72,7 +71,7 @@ commissioned.
 |       | 417     | Admiral Gorshkov          | Black Sea Fleet |                    |
 |       | 713     | Sevastopol                | Black Sea Fleet | Newly commissioned |
 
-![](/assets/images/warsaw/su/navy/cuisers/image2.jpg)
+<img src="/assets\images\warsaw\su\navy\cuisers\media\image2.jpg" style="width:6.5in;height:4.34444in" />
 
 [**Kara Class**](https://en.wikipedia.org/wiki/Kara-class_cruiser)
 
@@ -90,7 +89,7 @@ of the Black Sea Fleet and all are still in service in the Northern Fury
 world.
 
 | Class | Pennant | Name          | Status          | Remarks           |
-| ----- | ------- | ------------- | --------------- | ----------------- |
+|-------|---------|---------------|-----------------|-------------------|
 | Kara  | 703     | Nikolayev     | Black Sea Fleet |                   |
 |       | 539     | Ochakov       | Black Sea Fleet |                   |
 |       | 713     | Kerch         | Black Sea Fleet |                   |
@@ -99,10 +98,10 @@ world.
 |       | 535     | Tashkent      | Pacific Fleet   |                   |
 |       | 657     | Vladivostok   | Black Sea Fleet |                   |
 
-![](/assets/images/warsaw/su/navy/cuisers/image3.jpeg)
+<img src="/assets\images\warsaw\su\navy\cuisers\media\image3.jpeg" style="width:6.5in;height:4.31111in" />
 
-![](/assets/images/warsaw/su/navy/cuisers/image4.JPG)[**Kresta II
-Class**](https://en.wikipedia.org/wiki/Kresta_II-class_cruiser)
+<img src="/assets\images\warsaw\su\navy\cuisers\media\image4.JPG" style="width:2.98542in;height:2.00347in" />[**Kresta
+II Class**](https://en.wikipedia.org/wiki/Kresta_II-class_cruiser)
 
 These 10 ships were fitted to be an ASW variant of the Kresta I class.
 They were completed in the early to mid ‘70s and are all still in
@@ -113,7 +112,7 @@ air defence SAM, these were quite capable for the time. They operated
 one Ka-25 helicopter primarily for ASW work.
 
 | Class     | Pennant | Name               | Status         | Remarks |
-| --------- | ------- | ------------------ | -------------- | ------- |
+|-----------|---------|--------------------|----------------|---------|
 | Kresta II | 657     | Kronstadt          | Northern Fleet |         |
 |           | 679     | Admiral Isakov     | Northern Fleet |         |
 |           | 690     | Admiral Nakhimov   | Northern Fleet |         |
@@ -140,7 +139,7 @@ targeting. ASW defences were limited to hull mounted sonar and
 torpedoes.
 
 | Class    | Pennant | Name               | Status          | Remarks                  |
-| -------- | ------- | ------------------ | --------------- | ------------------------ |
+|----------|---------|--------------------|-----------------|--------------------------|
 | Kresta I | 052     | Admiral Zozulya    | Black Sea Fleet |                          |
 |          | 068     | Vize-Admiral Drozd | Black Sea Fleet |                          |
 |          | 034     | Admiral Golovko    | Pacific Fleet   | Renamed from Vladivostok |
@@ -155,14 +154,13 @@ serving, they are long overdue for retirement. They have a similar
 armament to the Kresta I but no helicopter and older sonar. They are
 able to fire eight Shaddock missiles then reload for another volley,
 unfortunately with only 16 SA-N-1 SAMs they may not have a chance. The
-Grozny is the Flagship of Baltic
-Fleet.
+Grozny is the Flagship of Baltic Fleet.
 
 | Class | Pennant | Name            | Status          | Remarks             |
-| ----- | ------- | --------------- | --------------- | ------------------- |
+|-------|---------|-----------------|-----------------|---------------------|
 | Kynda | 052     | Groznyy         | Baltic Fleet    |                     |
 |       | 068     | Admiral Fokin   | Pacific Fleet   |                     |
 |       | 034     | Admiral Golovko | Black Sea Fleet |                     |
 |       | 033     | Soobrazitelny   | Pacific Fleet   | Renamed from Varyag |
 
-![](/assets/images/warsaw/su/navy/cuisers/image5.jpg)
+<img src="/assets\images\warsaw\su\navy\cuisers\media\image5.jpg" style="width:6.67708in;height:4.32493in" />

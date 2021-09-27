@@ -1,7 +1,6 @@
 **Northern Fury – Plug the Gap**
 
-**<span class="underline">Playtest Report by AndrewJ 28 Apr
-2015</span>**
+**<u>Playtest Report by AndrewJ 28 Apr 2015</u>**
 
 Well, finished this one off, and managed to succeed. I fended off the
 hovercraft with Jaguars and Sea-Skua toting helicopters (which then
@@ -30,7 +29,7 @@ off axis BOL attack with every Sea Eagle the British own managed to sink
 the Kuznetsov, which didn't spot the attack in time for its escorts to
 weigh in significantly. Most of the Buccaneers and all the Harriers got
 away, but the ones toting Martel ARMs had to get too close, and didn't
-escape. (Incidentally, those Martels pack a wallop\! They managed to
+escape. (Incidentally, those Martels pack a wallop! They managed to
 cause significant damage to both the Slava and Kirov, and if I'd
 concentrated on one they'd have probably sunk it. No piddly HARM
-warheads there\!)
+warheads there!)

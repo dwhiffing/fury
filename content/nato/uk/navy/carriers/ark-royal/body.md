@@ -10,46 +10,46 @@ call at Cape Town South Africa and is on its way back north to the
 Somali coast. RFA Fort Victoria is returning from Bahrain with a full
 load of provisions and a new helicopter for Cardiff.
 
-![](/assets/images/nato/uk/navy/carriers/ark-royal/image1.jpeg)
+<img src="/assets\images\nato\uk\navy\carriers\ark-royal\media\image1.jpeg" style="width:6.5in;height:4.02986in" />
 
-  - R 07 HMS Ark Royal
-    
-      - 801 NAS 8x Sea Harrier FA.2
-    
-      - No.1 Sqn RAF 6x Harrier GR.7 (for Training with USMC)
-    
-      - 814 NAS 4x Sea King HAS.6
-    
-      - 849C NAS 2x Sea King AEW.2A
-    
-      - 771A NAS 2x Sea King HAR.3
+-   R 07 HMS Ark Royal
 
-  - D 98 HMS York (Type 42 Batch 3)
-    
-      - 815 NAS 1x Lynx HAS.3
+    -   801 NAS 8x Sea Harrier FA.2
 
-  - F 94 HMS Brave (Type 22 Batch 2)
-    
-      - 815 NAS 2x Lynx HAS.3
+    -   No.1 Sqn RAF 6x Harrier GR.7 (for Training with USMC)
+
+    -   814 NAS 4x Sea King HAS.6
+
+    -   849C NAS 2x Sea King AEW.2A
+
+    -   771A NAS 2x Sea King HAR.3
+
+-   D 98 HMS York (Type 42 Batch 3)
+
+    -   815 NAS 1x Lynx HAS.3
+
+-   F 94 HMS Brave (Type 22 Batch 2)
+
+    -   815 NAS 2x Lynx HAS.3
 
 Operating independently:
 
-  - D 108 HMS Cardiff (Type 42 Batch 1) – returning from repairs at
+-   D 108 HMS Cardiff (Type 42 Batch 1) – returning from repairs at
     Diego Garcia
 
-  - A 387 RFA Fort Victoria – enroute from Bahrain to link up with the
+-   A 387 RFA Fort Victoria – enroute from Bahrain to link up with the
     carrier
-    
-      - 845 NAS 1x Sea King HAR.3
-    
-      - 845 NAS 1x Sea King HC.4
-    
-      - 815 NAS 1x Lynx HAS.3 for HMS Cardiff
 
-  - F 71 HMS Scylla (Type 12I Batch 3A SW)
-    
-      - 815 NAS 1x Lynx HAS.2
+    -   845 NAS 1x Sea King HAR.3
 
-![](/assets/images/nato/uk/navy/carriers/ark-royal/image2.jpg)
+    -   845 NAS 1x Sea King HC.4
 
-![](/assets/images/nato/uk/navy/carriers/ark-royal/image3.jpg)
+    -   815 NAS 1x Lynx HAS.3 for HMS Cardiff
+
+-   F 71 HMS Scylla (Type 12I Batch 3A SW)
+
+    -   815 NAS 1x Lynx HAS.2
+
+<img src="/assets\images\nato\uk\navy\carriers\ark-royal\media\image2.jpg" style="width:6.85417in;height:4.78078in" />
+
+<img src="/assets\images\nato\uk\navy\carriers\ark-royal\media\image3.jpg" style="width:6.90406in;height:2.67708in" />

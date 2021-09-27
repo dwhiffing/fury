@@ -24,7 +24,7 @@ with outdated Surface to Surface missiles (SSM) and Surface to Air
 Missiles (SAM). The ship is slow by most standards and very large for
 its type.
 
-![](/assets/images/warsaw/ro/navy/image1.jpg)
+<img src="/assets\images\warsaw\ro\navy\media\image1.jpg" style="width:6.5in;height:4.875in" />
 
 **Corvettes**
 
@@ -33,7 +33,7 @@ and focus on ASW operations. The Tetal-II sub class has one gun turret
 removed and replaced by a helicopter landing deck.
 
 | Class    | Pennant | Name                            |
-| -------- | ------- | ------------------------------- |
+|----------|---------|---------------------------------|
 | Tetal-I  | F-260   | Amiral Petre Barbuneanu         |
 |          | F-261   | Vice-Amiral Vasile Scodrea      |
 |          | F-262   | Vice-Amiral Vasile Urseanu      |
@@ -41,7 +41,7 @@ removed and replaced by a helicopter landing deck.
 | Tetal-II | F-264   | Contraamiral Eustațiu Sebastian |
 |          | F-265   | Contraamiral Horia Macellariu   |
 
-![](/assets/images/warsaw/ro/navy/image2.jpg)
+<img src="/assets\images\warsaw\ro\navy\media\image2.jpg" style="width:6.5in;height:4.33333in" />
 
 **Missile Boats**
 
@@ -53,12 +53,12 @@ Surface Missiles (SSM) and high speed (42 Knts), this is a potent little
 ship, weighing in at 495 tons.
 
 | Class      | Pennant | Name       | Status | Remarks |
-| ---------- | ------- | ---------- | ------ | ------- |
+|------------|---------|------------|--------|---------|
 | Tarantul I | F-188   | Zborul     | Active |         |
 |            | F-189   | Pescăruşul | Active |         |
 |            | F-190   | Lăstunul   | Active |         |
 
-![](/assets/images/warsaw/ro/navy/image3.jpeg)
+<img src="/assets\images\warsaw\ro\navy\media\image3.jpeg" style="width:6.5in;height:3.65278in" />
 
 **[Osa
 Class](http://russianships.info/eng/warfareboats/project_205.htm)** The
@@ -68,7 +68,7 @@ the P-15 (S-N-2C) Styx SSM. All are based at Atia. The Osa I boats are
 in reserve and will take several days to activate.
 
 | Class  | Pennant | Name       | Status  | Remarks |
-| ------ | ------- | ---------- | ------- | ------- |
+|--------|---------|------------|---------|---------|
 | Osa I  | F-195   | Vulturul   | Reserve |         |
 |        | F-198   | Eretele    | Reserve |         |
 |        | F-199   | Albatrosul | Reserve |         |
@@ -76,7 +76,7 @@ in reserve and will take several days to activate.
 |        | F-204   | Vijelia    | Active  |         |
 |        | F-209   | Vulcanul   | Active  |         |
 
-![](/assets/images/warsaw/ro/navy/image4.jpg)
+<img src="/assets\images\warsaw\ro\navy\media\image4.jpg" style="width:6.5in;height:2.07431in" />
 
 **ASW Corvettes**
 
@@ -85,12 +85,12 @@ These rugged little ships have a good ASW suite in a small package. The
 Romanian Navy operate three, one of which is constantly on patrol.
 
 | Class | Pennant | Name | Status | Remarks |
-| ----- | ------- | ---- | ------ | ------- |
+|-------|---------|------|--------|---------|
 |       | MPK-31  |      | Active |         |
 |       | MPK-32  |      | Active |         |
 |       | MPK-33  |      | Active |         |
 
-![](/assets/images/warsaw/ro/navy/image5.jpg)
+<img src="/assets\images\warsaw\ro\navy\media\image5.jpg" style="width:6.5in;height:3.75347in" />
 
 **Submarines**
 
@@ -101,4 +101,4 @@ In the shallow waters of the Black sea and the confined space of the
 shipping lanes, this is a very potent threat, particularly to Turkish
 naval units.
 
-![](/assets/images/warsaw/ro/navy/image6.jpg)
+<img src="/assets\images\warsaw\ro\navy\media\image6.jpg" style="width:6.25in;height:3.125in" />

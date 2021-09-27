@@ -23,19 +23,19 @@ the one remaining FRAM II ship and the two of the Alcitepe (Carpenter)
 class focused on Anti-Submarine Warfare (ASW) operations.
 
 | Class    | Pennant | Name           | Status    | Remarks           |
-| -------- | ------- | -------------- | --------- | ----------------- |
+|----------|---------|----------------|-----------|-------------------|
 | Yucetepe | D 345   | Yucetepe       | Tied Up   |                   |
 |          | D 347   | Savastepe      | Tied Up   |                   |
 |          | D 349   | Kilic Ali Pasa | Tied Up   |                   |
 |          | D 350   | Piyale Pasa    | Tied Up   |                   |
-|          | D 351   | Mareşal Fevzi  | Tied Up   |                   |
+|          | D 351   | Mareşal Fevzi  | Tied Up   |                   |
 |          | D 352   | Gayret         | On Patrol | Black Sea         |
 |          | D 352   | Adatepe        | On Patrol | Mediterranean Sea |
 | Kocatepe | D 354   | Kocatepe       | On Patrol | Mediterranean Sea |
 | Alcitepe | D 346   | Alcitepe       | Tied Up   |                   |
 |          | D 347   | Anittepe       | On Patrol | Black Sea         |
 
-![](/assets/images/nato/tr/navy/image1.jpeg)
+<img src="/assets\images\nato\tr\navy\media\image1.jpeg" style="width:3.92708in;height:2.61601in" />
 
 [**Gelibolu Class**](https://en.wikipedia.org/wiki/Köln-class_frigate):
 These two Ex Koln class ships arrived from Germany in the 1980s. Turkey
@@ -47,11 +47,11 @@ missiles and rely on guns only for defence, but their ASW suites are
 reasonable.
 
 | Class    | Pennant | Name     | Status    | Remarks       |
-| -------- | ------- | -------- | --------- | ------------- |
+|----------|---------|----------|-----------|---------------|
 | Gelibolu | D 360   | Gelibolu | Tied Up   |               |
 |          | D 361   | Gemlik   | On Patrol | Sea of Marmar |
 
-![](/assets/images/nato/tr/navy/image2.jpeg)
+<img src="/assets\images\nato\tr\navy\media\image2.jpeg" style="width:5.17708in;height:4.08558in" />
 
 **Frigates**
 
@@ -68,13 +68,13 @@ built in Germany and the last two in Turkey. Plans to build another four
 of these ships are maturing for later in the decade.
 
 | Class | Pennant | Name       | Status    | Remarks           |
-| ----- | ------- | ---------- | --------- | ----------------- |
+|-------|---------|------------|-----------|-------------------|
 | Yavuz | F 240   | Yavuz      | Tied Up   |                   |
 |       | F 241   | Turgutreis | Tied Up   |                   |
 |       | F 242   | Fatih      | On Patrol | Black Sea         |
 |       | F 243   | Yildrim    | On Patrol | Mediterranean Sea |
 
-![](/assets/images/nato/tr/navy/image3.jpeg)
+<img src="/assets\images\nato\tr\navy\media\image3.jpeg" style="width:5.34375in;height:3.32406in" />
 
 **Fast Attack Craft**
 
@@ -88,7 +88,7 @@ and twin 35mm AAA as well as electronic and physical countermeasures,
 these are very powerful ships.
 
 | Class  | Pennant | Name    | Status | Remarks |
-| ------ | ------- | ------- | ------ | ------- |
+|--------|---------|---------|--------|---------|
 | Dogan  | P 340   | Dogan   | Active |         |
 |        | P 341   | Marti   | Active |         |
 |        | P 342   | Tayfun  | Active |         |
@@ -98,7 +98,7 @@ these are very powerful ships.
 |        | P 346   | Gurbet  | Active |         |
 |        | P 347   | Firtina | Active |         |
 
-![](/assets/images/nato/tr/navy/image4.jpg)
+<img src="/assets\images\nato\tr\navy\media\image4.jpg" style="width:6.5in;height:3.10069in" />
 
 [**Kartal
 Class**](http://www.navalanalyses.com/2014/07/kartal-class-fast-attack-crafts-of.html):
@@ -110,7 +110,7 @@ these boats can move in at 40 knots and engage targets out to 34 Km
 range, impressive for such a small boat.
 
 | Class  | Pennant | Name      | Status | Remarks |
-| ------ | ------- | --------- | ------ | ------- |
+|--------|---------|-----------|--------|---------|
 | Kartal | P 321   | Denizkusu | Active |         |
 |        | P 322   | Atmaco    | Active |         |
 |        | P 323   | Sahin     | Active |         |
@@ -120,7 +120,7 @@ range, impressive for such a small boat.
 |        | P 328   | Simsek    | Active |         |
 |        | P 329   | Kasirga   | Active |         |
 
-![](/assets/images/nato/tr/navy/image5.jpg)
+<img src="/assets\images\nato\tr\navy\media\image5.jpg" style="width:6.5in;height:4.33542in" />
 
 **Amphibious Vessels:** All of these ships have pennant numbers prefixed
 with NL, indicating that they have a secondary role of mine layer (N) in
@@ -143,23 +143,23 @@ class vessels can carry 400 troops and 10 tanks.
 LCU, 30 Ex-US LCM-8 and about 16 Ex Turkish built LCTs.
 
 | Class          | Pennant | Name             | Status | Remarks |
-| -------------- | ------- | ---------------- | ------ | ------- |
+|----------------|---------|------------------|--------|---------|
 | Osman Gazi LST | NL-125  | Osman Gazi       |        |         |
 |                | NL-126  | Orhan Gazi       |        |         |
 | Bey Class LST  | NL-122  | Çakabey          |        |         |
 |                | NL-123  | Sarucabey        |        |         |
 |                | NL-124  | Karamürselbey    |        |         |
 | Bayraktar      | NL-120  | Bayraktar        |        |         |
-|                | NL-121  | Sancaktar        |        |         |
+|                | NL-121  | Sancaktar        |        |         |
 | LCT/LCU/LCM    |         | 98 various types |        |         |
 
-![](/assets/images/nato/tr/navy/image6.jpg)
+<img src="/assets\images\nato\tr\navy\media\image6.jpg" style="width:6.5in;height:3.26597in" />
 
 **Ex US LSM 1**: In addition to the landing ships listed above these
 five 1,000 ton ships are converted specifically for mine laying.
 
 | Class       | Pennant | Name     | Status | Remarks |
-| ----------- | ------- | -------- | ------ | ------- |
+|-------------|---------|----------|--------|---------|
 | Ex US LSM 1 | N 101   | Mordoğan |        |         |
 |             | N 102   | Meriç    |        |         |
 |             | N 103   | Marmaris |        |         |
@@ -169,11 +169,10 @@ five 1,000 ton ships are converted specifically for mine laying.
 **Mine Sweepers**: Turkey does not have any Mine Hunters but has a
 variety of older mine sweepers of US, French and Canadian origin, some
 received third hand from other users. The primary role is to keep the
-shipping channel through the Bosporus and Dardanelles
-open.
+shipping channel through the Bosporus and Dardanelles open.
 
 | Class             | Pennant | Name        | Status | Remarks             |
-| ----------------- | ------- | ----------- | ------ | ------------------- |
+|-------------------|---------|-------------|--------|---------------------|
 | Cape Class        | M 500   | Foça        |        | Ex US MSI-15        |
 |                   | M 501   | Fethiye     |        | Ex US MSI-16        |
 |                   | M 502   | Fatsa       |        | Ex US MSI-17        |
@@ -194,11 +193,11 @@ open.
 | (German Vegesack) | M-521   | Kerempe     |        | Ex- French Detmold  |
 |                   | M-522   | Kilimli     |        | Ex- French Siegen   |
 |                   | M-523   | Kozlu       |        | Ex- French Hameln   |
-|                   | M-524   | Kuşadası    |        | Ex- French Vegesack |
+|                   | M-524   | Kuşadası    |        | Ex- French Vegesack |
 |                   | M-525   | Kemer       |        | Ex- French Passau   |
 | Bay Class         | M 532   | Tirebolu    |        | Ex Canadian Comox   |
 
-![](/assets/images/nato/tr/navy/image7.jpg)
+<img src="/assets\images\nato\tr\navy\media\image7.jpg" style="width:2.51458in;height:2.21736in" />
 
 **Submarines**:
 
@@ -216,7 +215,7 @@ maneuverable. Armed with torpedoes, mines and/or Harpoon SSMs these are
 perfect submarines for the confined waters of the Black or Aegean Sea.
 
 | Class  | Pennant | Name     | Status    | Remarks           |
-| ------ | ------- | -------- | --------- | ----------------- |
+|--------|---------|----------|-----------|-------------------|
 | Atilay | S 347   | Atilay   | Tied Up   |                   |
 |        | S 348   | Saldiray | On Patrol | Black Sea         |
 |        | S 349   | Batiray  | Tied Up   |                   |
@@ -224,7 +223,7 @@ perfect submarines for the confined waters of the Black or Aegean Sea.
 |        | S 351   | Doganay  | On Patrol | Black Sea         |
 |        | S 352   | Dolunay  | On Patrol | Mediterranean Sea |
 
-![](/assets/images/nato/tr/navy/image8.jpeg)
+<img src="/assets\images\nato\tr\navy\media\image8.jpeg" style="width:6.5in;height:3.83264in" />
 
 **Guppy/Tang Class**: There are three older classes of submarine in
 operation. Two versions of the GUPPY (Greater Underwater Propulsion
@@ -233,34 +232,32 @@ early 1950s. All of these boats were developments on World War Two
 German designs and were evolutionary in nature. For our purposes they
 have about the same capabilities, the Tang is a derivative of the GUPPY
 types and is therefore slightly more capable and also larger. None can
-hope to survive long in a modern conflict with capable ASW
-forces.
+hope to survive long in a modern conflict with capable ASW forces.
 
-| Class     | Pennant | Name          | Status | Remarks                   |
-| --------- | ------- | ------------- | ------ | ------------------------- |
-| Tang      | S 342   | Hizirreis     |        | Ex-USS Tang (SS-563)      |
-|           | S 343   | Pirireis      |        | Ex-USS Gudgeon (SS-567)   |
-| Guppy III | S 333   | Ikinci Inonu  |        | Ex-USS Corporal (SS-346)  |
-|           | S 341   | Canakkale     |        | Ex-USS Cobbler (SS-344)   |
-| Guppy IIA | S 335   | Burakreis     |        | Ex-USS Sea Fox (SS-402)   |
-|           | S 336   | Muratreis     |        | Ex-USS Razorback (SS-394) |
-|           | S 338   | Ulucalireis   |        | Ex-USS Thornback (SS-418) |
-|           | S 340   | Cerbe         |        | Ex-USS Trutta (SS-421)    |
-|           | S 346   | Birinci Inonu |        | Ex-USS Threadfin (SS-410) |
+| Class      | Pennant | Name          | Status | Remarks                   |
+|------------|---------|---------------|--------|---------------------------|
+| Tang       | S 342   | Hizirreis     |        | Ex-USS Tang (SS-563)      |
+|            | S 343   | Pirireis      |        | Ex-USS Gudgeon (SS-567)   |
+|  Guppy III | S 333   | Ikinci Inonu  |        | Ex-USS Corporal (SS-346)  |
+|            | S 341   | Canakkale     |        | Ex-USS Cobbler (SS-344)   |
+| Guppy IIA  | S 335   | Burakreis     |        | Ex-USS Sea Fox (SS-402)   |
+|            | S 336   | Muratreis     |        | Ex-USS Razorback (SS-394) |
+|            | S 338   | Ulucalireis   |        | Ex-USS Thornback (SS-418) |
+|            | S 340   | Cerbe         |        | Ex-USS Trutta (SS-421)    |
+|            | S 346   | Birinci Inonu |        | Ex-USS Threadfin (SS-410) |
 
-![](/assets/images/nato/tr/navy/image9.jpg)
+<img src="/assets\images\nato\tr\navy\media\image9.jpg" style="width:6.5in;height:5.05278in" />
 
 **Service Ships**: The Turkish Navy has one replenishment Oiler in
 service and one building. This ship allows the Turkish Navy to venture
 beyond its traditional patrol areas and complete tasks world-wide. The
 [Akar
 class](https://en.wikipedia.org/wiki/Akar-class_replenishment_oiler)
-carries 16,000 tons of fuel and a small amount of dry
-goods.
+carries 16,000 tons of fuel and a small amount of dry goods.
 
 | Class   | Pennant | Name                 | Status   | Remarks            |
-| ------- | ------- | -------------------- | -------- | ------------------ |
+|---------|---------|----------------------|----------|--------------------|
 | Akar AO | A-580   | Akar                 |          |                    |
 |         | A-595   | Yarbay Kudret Gungor | Building | Commission in 1995 |
 
-![](/assets/images/nato/tr/navy/image10.jpg)
+<img src="/assets\images\nato\tr\navy\media\image10.jpg" style="width:6.5in;height:3.97083in" />

@@ -28,17 +28,16 @@ by a Soviet Division (30<sup>th</sup> Gds MRD), the two Tank Divisions
 readiness so may be committed as reinforcements to 1<sup>st</sup> Army
 earlier than that.
 
-![](/assets/images/warsaw/cz/army/image1.png)
+<img src="/assets\images\warsaw\cz\army\media\image1.png" style="width:7.32087in;height:4.9375in" />
 
-![](/assets/images/warsaw/cz/army/image2.jpg)
+<img src="/assets\images\warsaw\cz\army\media\image2.jpg" style="width:6.5in;height:4.80972in" />
 
 Home grown Czech equipment was usually superior in design and
 workmanship to Soviet built and the ‘OT’ family of armored Personnel
-carriers (APC) was widely
-exported.
+carriers (APC) was widely exported.
 
 | **Role** | **Type**    | **Variant**                                                                                                                                                                                | **No** | **Remarks**                                                                            |
-| -------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------------------------- |
+|----------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------|
 | MBT      | T-72        | T-72                                                                                                                                                                                       | 70     | [T-72 Data](https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=965) |
 |          |             | T-72M                                                                                                                                                                                      | 200    |                                                                                        |
 |          |             | T-72M1                                                                                                                                                                                     | 543    | Local modification, improved fire control and ERA                                      |
@@ -84,6 +83,6 @@ exported.
 |          |             | S-200                                                                                                                                                                                      |        | 5 Bns                                                                                  |
 |          |             | S-300                                                                                                                                                                                      |        | 1 Bn                                                                                   |
 
-![](/assets/images/warsaw/cz/army/image3.jpg)
+<img src="/assets\images\warsaw\cz\army\media\image3.jpg" style="width:6.5in;height:4.49792in" />
 
-![](/assets/images/warsaw/cz/army/image4.jpeg)
+<img src="/assets\images\warsaw\cz\army\media\image4.jpeg" style="width:6.5in;height:4.35139in" />

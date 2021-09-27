@@ -1,7 +1,6 @@
-**<span class="underline">Northern Fury \#4 – A Cold and Lonely
-Place</span>**
+**<u>Northern Fury \#4 – A Cold and Lonely Place</u>**
 
-**<span class="underline">AAR by Coiler12, Mar 2014</span>**
+**<u>AAR by Coiler12, Mar 2014</u>**
 
 So I played this desperate defense from the NATO side, and threw my
 forces hard into it. Almost immediately after seeing the first Forgers
@@ -10,26 +9,26 @@ immediately threw my planes into the air. My aerial /assets at Jan Mayen
 were four F-5A's (two with Sidewinders and two with Bullpups), and a
 P-3.
 
-\-The initial aerial duel went strongly in my favor, with the hapless
+-The initial aerial duel went strongly in my favor, with the hapless
 Yak-38s getting splashed by my F-5s. My P-3 located the Azov and the
 Bullpup F-5s attacked it. Although it was badly damaged and the
 helicopter onboard destroyed, the Azov remained afloat and trundled
 towards Jan Mayen. That was the high water mark of my resistance.
 
-\-The large Tu-16 raid came in, and even though the Sidewinder F-5s
+-The large Tu-16 raid came in, and even though the Sidewinder F-5s
 brought one down, they devastated the base. I had the good sense to send
 my Bullpup F-5s back to Iceland, yet their Sidewinder counterparts
 landed and were trapped after the runway was destroyed, sealing their
 fate.
 
-\-My diesel sub near the island was detected by a sonobuoy and
+-My diesel sub near the island was detected by a sonobuoy and
 immediately blown up. My Los Angeles SSN was slightly more successful-I
 found the Kiev group and tossed a few Harpoons at one of the outer
 skunks, which turned out to be a Krivak, sinking it. Unfortunately,
 diving deep to continue the attack did not work, and an SS-N-14 sent my
 sub to the bottom.
 
-\-The Yak-141's just circled the fishing boats but did not fire. (This
+-The Yak-141's just circled the fishing boats but did not fire. (This
 may be a posture issue, note to Gunner98.) After the airdrop onto Jan
 Mayen and the loss of my SSN, I sent the P-3 back to Iceland as well.
 After that, the enemy took over the island and that was that.
@@ -38,11 +37,11 @@ Final score: 32: Average:
 
 SIDE: NATO
 
-\===========================================================
+===========================================================
 
 LOSSES:
 
-\-------------------------------
+-------------------------------
 
 1x AvGas (40k Liter Tank)
 
@@ -76,7 +75,7 @@ LOSSES:
 
 EXPENDITURES:
 
-\------------------
+------------------
 
 8x AIM-9N Sidewinder
 
@@ -92,11 +91,11 @@ EXPENDITURES:
 
 SIDE: WP
 
-\===========================================================
+===========================================================
 
 LOSSES:
 
-\-------------------------------
+-------------------------------
 
 6x Yak-38M Forger A
 
@@ -108,7 +107,7 @@ LOSSES:
 
 EXPENDITURES:
 
-\------------------
+------------------
 
 68x RGB-75 \[Basic Search, Passive Omni\]
 

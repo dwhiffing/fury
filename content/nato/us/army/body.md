@@ -1,4 +1,4 @@
-![](/assets/images/nato/us/army/image1.png)
+<img src="/assets\images\nato\us\army\media\image1.png" style="width:2.35417in;height:2.32292in" />
 
 **United States Army**
 
@@ -38,69 +38,69 @@ inconvenient for both military and budgetary planners. The end result is
 that some repatriation has occurred but some plans were canceled and
 others modified. The main points of impact are:
 
-  - 7<sup>th</sup> US Army HQ remains in Europe (double hatted as CENTAG
+-   7<sup>th</sup> US Army HQ remains in Europe (double hatted as CENTAG
     HQ)
 
-  - The 18 Division structure established by the Reagan administration
+-   The 18 Division structure established by the Reagan administration
     remains, therefore
-    
-      - 2<sup>nd</sup> Armored Division is not deactivated (planned for
-        1995)
-    
-      - 3<sup>rd</sup> Armored Division is not deactivated (in 1992)
-    
-      - 5<sup>th</sup> Infantry Division (Mech) is not deactivated (in
-        1992)
-    
-      - 6<sup>th</sup> Infantry Division (Light) is not deactivated
+
+    -   2<sup>nd</sup> Armored Division is not deactivated (planned
+        for 1995)
+
+    -   3<sup>rd</sup> Armored Division is not deactivated (in 1992)
+
+    -   5<sup>th</sup> Infantry Division (Mech) is not deactivated
+        (in 1992)
+
+    -   6<sup>th</sup> Infantry Division (Light) is not deactivated
         (originally reduced to one brigade in 94, removed in 98)
-    
-      - 7<sup>th</sup> Infantry Division (Light) is not deactivated (in
-        1994)
-    
-      - 8<sup>th</sup> Infantry Division (Mech) is not deactivated (in
-        1992)
-    
-      - 9<sup>th</sup> Infantry Division (Light) is not deactivated (in
-        1991)
-    
-      - Additionally, all National Guard and Army Reserve ‘Training’
+
+    -   7<sup>th</sup> Infantry Division (Light) is not deactivated
+        (in 1994)
+
+    -   8<sup>th</sup> Infantry Division (Mech) is not deactivated
+        (in 1992)
+
+    -   9<sup>th</sup> Infantry Division (Light) is not deactivated
+        (in 1991)
+
+    -   Additionally, all National Guard and Army Reserve ‘Training’
         Divisions remain intact.
 
-  - VII US Corps HQ remains in Europe but with a reduced staff and
+-   VII US Corps HQ remains in Europe but with a reduced staff and
     structure:
-    
-      - 1<sup>st</sup> Armored Division moved to the US with
+
+    -   1<sup>st</sup> Armored Division moved to the US with
         3<sup>rd</sup> Brigade remaining in Germany
-    
-      - 3<sup>rd</sup> Infantry Division moved to the US with
+
+    -   3<sup>rd</sup> Infantry Division moved to the US with
         3<sup>rd</sup> Brigade remaining in Germany
-    
-      - 77<sup>nd</sup> and 210<sup>th</sup> Artillery Brigades moved to
+
+    -   77<sup>nd</sup> and 210<sup>th</sup> Artillery Brigades moved to
         the US with a POMCUS site in Germany
-    
-      - 7<sup>th</sup> Combat Engineer Brigade is transferred from VII
+
+    -   7<sup>th</sup> Combat Engineer Brigade is transferred from VII
         Corps to 7<sup>th</sup> Army and remains in Germany
-    
-      - 197<sup>th</sup> Infantry Brigade (REFORGER) is transferred to
+
+    -   197<sup>th</sup> Infantry Brigade (REFORGER) is transferred to
         7<sup>th</sup> Army as CENTAG reserve
-    
-      - 207<sup>th</sup> Military Intelligence Brigade is transferred to
+
+    -   207<sup>th</sup> Military Intelligence Brigade is transferred to
         7<sup>th</sup> Army for general support and remains in Germany
 
-  - The ‘Berlin’ Brigade is due to deactivate in July of 1994.
+-   The ‘Berlin’ Brigade is due to deactivate in July of 1994.
 
-  - 56<sup>th</sup> Artillery Brigade, has exchanged its deactivated
+-   56<sup>th</sup> Artillery Brigade, has exchanged its deactivated
     Pershing missile systems for M270 MLRS armed with MGM-140 ATacMS
     (Army Tactical Missile System) and remains a direct reporting unit
     to 7<sup>th</sup> Army HQ.
 
-  - The POMCUS program was expanded to include six more Brigade size
+-   The POMCUS program was expanded to include six more Brigade size
     sets of equipment; 2 for 1<sup>st</sup> Armored Division, 2 for
     3<sup>rd</sup> Infantry Division, and 2 for the two artillery
     brigades.
 
-  - In order to maintain enhanced security in Kuwait, 187<sup>th</sup>
+-   In order to maintain enhanced security in Kuwait, 187<sup>th</sup>
     Infantry Brigade Army Reserve has been activated. This is a unique
     structure as Battlegroup size elements from the standing army,
     National Guard and Reserve rotate through the Brigade on an 8-month
@@ -120,11 +120,11 @@ up by 1993. The strength as of Jan 1994 is slightly smaller than its
 recent peak in the late ‘80s but about 200,000 more than historic -
 totals for the US Army in Northern Fury are:
 
-  - Army: 755,000
+-   Army: 755,000
 
-  - Army National Guard: 450,000
+-   Army National Guard: 450,000
 
-  - Army Reserve: 582,000
+-   Army Reserve: 582,000
 
 **Structure**
 
@@ -153,9 +153,9 @@ other hand made the unit ideal for desert operations, and its relative
 lack of heavy equipment made it suitable for complex terrain such as
 jungle, densely forested areas or even mountains.
 
-![](/assets/images/nato/us/army/image2.png)
+<img src="/assets\images\nato\us\army\media\image2.png" style="width:4.76042in;height:1.44028in" />
 
-![](/assets/images/nato/us/army/image3.jpg)
+<img src="/assets\images\nato\us\army\media\image3.jpg" style="width:4.78125in;height:3.28632in" />
 
 **III Corps**
 
@@ -171,7 +171,7 @@ Germany and operate as part of NORTHAG (British Army on the Rhine) while
 formations supporting V & VII Corps will be under command of CENTAG
 (7<sup>th</sup> US Army).
 
-![](/assets/images/nato/us/army/image4.png)
+<img src="/assets\images\nato\us\army\media\image4.png" style="width:7.20869in;height:3.64583in" />
 
 It is worth noting that the POMCUS policy was to move 6, now 8 divisions
 to Germany in less than 10 days: 1<sup>st</sup> Cav, 1<sup>st</sup> ID,
@@ -185,7 +185,7 @@ deployment was well practiced, as discussed earlier, 9<sup>th</sup> ID
 was not well suited to the north German plain. (\*From XVIII Airborne
 Corps below).
 
-![](/assets/images/nato/us/army/image5.jpg)
+<img src="/assets\images\nato\us\army\media\image5.jpg" style="width:7.91667in;height:3.875in" />
 
 **XVIII Airborne Corps**
 
@@ -208,9 +208,9 @@ Guard round-out Brigade, by sealift with a delivery time of 14 days,
 this is the only formation entirely relying on sea lift. The two
 independent brigades will deploy to Europe as discussed above.
 
-![](/assets/images/nato/us/army/image6.png)
+<img src="/assets\images\nato\us\army\media\image6.png" style="width:7.26714in;height:4.226in" />
 
-![](/assets/images/nato/us/army/image7.png)
+<img src="/assets\images\nato\us\army\media\image7.png" style="width:11.33333in;height:7.54167in" />
 
 **US Army Europe**
 
@@ -225,9 +225,9 @@ would be a powerful force indeed, with 10 American, 7 German, 3 French
 and one Canadian division at its disposal. Ten days is a long time in a
 modern conflict however.
 
-![](/assets/images/nato/us/army/image8.png)
+<img src="/assets\images\nato\us\army\media\image8.png" style="width:7.89583in;height:6.50362in" />
 
-![](/assets/images/nato/us/army/image9.jpg)
+<img src="/assets\images\nato\us\army\media\image9.jpg" style="width:5.52083in;height:8.28125in" />
 
 **US Army Pacific**
 
@@ -236,9 +236,9 @@ Commander 8<sup>th</sup> Army with his HQ in South Korea and having
 forces in Alaska, Hawaii and Japan, this army relies very heavily on its
 allies and the USAF to add armor and firepower to the fight.
 
-![](/assets/images/nato/us/army/image10.png)
+<img src="/assets\images\nato\us\army\media\image10.png" style="width:6.93506in;height:2.67883in" />
 
-![](/assets/images/nato/us/army/image11.jpg)
+<img src="/assets\images\nato\us\army\media\image11.jpg" style="width:12.5in;height:9.21875in" />
 
 **US Army South**
 
@@ -248,9 +248,9 @@ Panama Canal Zone, but it also assists the Panamanian Government and
 other US agencies in conducting counter insurgency and counter narcotics
 operations.
 
-![](/assets/images/nato/us/army/image12.png)
+<img src="/assets\images\nato\us\army\media\image12.png" style="width:1.84028in;height:1.52708in" />
 
-![](/assets/images/nato/us/army/image13.jpg)
+<img src="/assets\images\nato\us\army\media\image13.jpg" style="width:10.41667in;height:6.42708in" />
 
 **US Army Kuwait**
 
@@ -270,9 +270,9 @@ conducts an intensive training program and then returns home. The
 battalions rotate at 4 month intervals and routinely train with Kuwaiti
 and Saudi forces.
 
-![](/assets/images/nato/us/army/image14.png)
+<img src="/assets\images\nato\us\army\media\image14.png" style="width:1.96667in;height:1.38681in" />
 
-![](/assets/images/nato/us/army/image15.jpg)
+<img src="/assets\images\nato\us\army\media\image15.jpg" style="width:8.75in;height:4.91667in" />
 
 **US Army Special Operations Command**
 
@@ -285,9 +285,9 @@ Navy and US Air Force Special Operations elements operating under the
 control of SOCOM, it can precipitate strategic effect with a
 comparatively minor force commitment.
 
-![](/assets/images/nato/us/army/image16.png)
+<img src="/assets\images\nato\us\army\media\image16.png" style="width:7.29942in;height:1.83117in" />
 
-![](/assets/images/nato/us/army/image17.jpeg)
+<img src="/assets\images\nato\us\army\media\image17.jpeg" style="width:7in;height:5in" />
 
 **US Army Reserve**
 
@@ -302,9 +302,9 @@ providing replacements for battle losses. Another factor to consider
 when examining the diagram below, logistics units are not included and a
 large portion of the Army Reserve form logistics organisations.
 
-![](/assets/images/nato/us/army/image18.png)
+<img src="/assets\images\nato\us\army\media\image18.png" style="width:7.36076in;height:3.42857in" />
 
-![](/assets/images/nato/us/army/image19.jpg)
+<img src="/assets\images\nato\us\army\media\image19.jpg" style="width:7.5in;height:4.98958in" />
 
 **The US Army National Guard**
 
@@ -326,11 +326,11 @@ small units within the first 14 days of mobilization including up to
 five artillery brigades, two engineer brigades and one or two aviation
 brigades.
 
-![](/assets/images/nato/us/army/image20.png)
+<img src="/assets\images\nato\us\army\media\image20.png" style="width:9in;height:6.64894in" />
 
-![](/assets/images/nato/us/army/image21.jpg)
+<img src="/assets\images\nato\us\army\media\image21.jpg" style="width:8.22222in;height:6.25in" />
 
-**<span class="underline">Equipment</span>**
+**<u>Equipment</u>**
 
 **Main Battle Tank (MBT)**
 
@@ -361,10 +361,9 @@ M1A1s produced.
 particular upgrading the gun, these also had a second thermal site for
 the commander allowing rapid engagement subsequent targets at night or
 in obscured conditions. Total available in early 1994 is 1,190 including
-190 new production and about 1000 upgraded
-versions.
+190 new production and about 1000 upgraded versions.
 
-![](/assets/images/nato/us/army/image22.jpg)
+<img src="/assets\images\nato\us\army\media\image22.jpg" style="width:4.45833in;height:2.97166in" />
 
 [**M60A3**](http://www.tanks-encyclopedia.com/coldwar/US/M60_Patton.php):
 Built in the 1980s, the latest version of the ‘Patton’ MBT carried the
@@ -373,7 +372,7 @@ control system that produced a 70% hit probability of another tank at
 2000 meters. By the time production stopped over 1700 had been built and
 another 1700 older models had been converted to this standard.
 
-![](/assets/images/nato/us/army/image23.jpeg)
+<img src="/assets\images\nato\us\army\media\image23.jpeg" style="width:4.43333in;height:2.77083in" />
 
 **Disposition of MBTs**
 
@@ -392,14 +391,14 @@ battalions in independent infantry brigades and armored cavalry
 regiments are equipped with the M1IP. The remaining formations are a mix
 of basic M1 MBTs and M60A3s.
 
-  - **M1A1** & **A2**: Total 6,166: 5300 for Europe & REFORGER; 500 for
+-   **M1A1** & **A2**: Total 6,166: 5300 for Europe & REFORGER; 500 for
     PACOM & 24ID, remainder to CONUS forces.
 
-  - **M1IP**: 894: Reserve, NG & CONUS forces.
+-   **M1IP**: 894: Reserve, NG & CONUS forces.
 
-  - **M1**: 1630: Reserve & NG.
+-   **M1**: 1630: Reserve & NG.
 
-  - **M60A3**: 3400: Mostly NG.
+-   **M60A3**: 3400: Mostly NG.
 
 **Armored support vehicles**
 
@@ -407,15 +406,15 @@ All armored support vehicles are based on the M60 chassis. Although some
 support vehicles based on the M1 are in development, they are several
 years from fielding. These are spread throughout the force:
 
-  - 312 x M728 Combat Engineer Vehicle (CEV).
+-   312 x M728 Combat Engineer Vehicle (CEV).
 
-  - 400 x M60 Armored Vehicle Launched Bridge (AVLB).
+-   400 x M60 Armored Vehicle Launched Bridge (AVLB).
 
-  - 1,427 x M88A1 Armored Recovery Vehicles (ARV).
+-   1,427 x M88A1 Armored Recovery Vehicles (ARV).
 
-  - 896 x M88 upgraded to A1 standard.
+-   896 x M88 upgraded to A1 standard.
 
-![](/assets/images/nato/us/army/image24.jpg)
+<img src="/assets\images\nato\us\army\media\image24.jpg" style="width:9.88547in;height:6.68403in" />
 
 [**M2 Bradley Infantry Fighting Vehicle
 (IFV)**](https://fas.org/man/dod-101/sys/land/m2.htm)
@@ -432,7 +431,7 @@ disposition is roughly equivalent to the M1A2 laydown, with Germany
 based units and POMCUS sites having the latest A2 variants and CONUS
 based units, Reserve or NG having the A1 and A0 versions.
 
-![](/assets/images/nato/us/army/image25.jpeg)
+<img src="/assets\images\nato\us\army\media\image25.jpeg" style="width:5.19792in;height:3.37865in" />
 
 [**M3 Bradly Cavalry Fighting Vehicle
 (CFV)**](http://www.military-today.com/apc/m3_bradley.htm)
@@ -445,7 +444,7 @@ These had the same variant details as the M2 and once again, Germany has
 the latest equipment while the older variants requiring refit are in
 CONUS.
 
-![](/assets/images/nato/us/army/image26.jpg)
+<img src="/assets\images\nato\us\army\media\image26.jpg" style="width:5.21875in;height:3.69529in" />
 
 [**M113 Armored Personnel Carrier (APC)
 Family**](https://fas.org/man/dod-101/sys/land/m113.htm)
@@ -458,26 +457,26 @@ worldwide. These vehicles are used in virtually every mechanized unit in
 the army and are often pushed into roles they were not designed for. In
 1994 the following are in the inventory:
 
-  - Approximately 16,000 x A1, A2 or A3 variant; standard troop carrier.
+-   Approximately 16,000 x A1, A2 or A3 variant; standard troop carrier.
 
-  - 1,600 x M113A4 Armored Medical Evacuation Vehicle (AMEV). Ambulance
+-   1,600 x M113A4 Armored Medical Evacuation Vehicle (AMEV). Ambulance
     when translated to English.
 
-  - 1950 x M106 mortar carriers with 107mm (4.2in) mortars.
+-   1950 x M106 mortar carriers with 107mm (4.2in) mortars.
 
-  - 1275 x M125 mortar carriers with 81mm mortars.
+-   1275 x M125 mortar carriers with 81mm mortars.
 
-  - 4000+ x M548 ammunition carrier.
+-   4000+ x M548 ammunition carrier.
 
-  - 5000+ x M577 command post vehicle.
+-   5000+ x M577 command post vehicle.
 
-  - 3300 x M901 Self Propelled (SP) TOW-2 missile launchers.
+-   3300 x M901 Self Propelled (SP) TOW-2 missile launchers.
 
-  - 1000+ x M981 Fire Support Team Vehicle (FIST V)
+-   1000+ x M981 Fire Support Team Vehicle (FIST V)
 
-  - 600 x M730A2 Guided Missile Equipment Carrier (Chaparral)
+-   600 x M730A2 Guided Missile Equipment Carrier (Chaparral)
 
-![](/assets/images/nato/us/army/image27.jpg)
+<img src="/assets\images\nato\us\army\media\image27.jpg" style="width:6.5in;height:4.33333in" />
 
 **Artillery**
 
@@ -493,37 +492,37 @@ configurations and are meant to provide the Corps and Army commanders
 flexibility by supporting the main effort divisions with extra fire
 power. Key artillery systems are:
 
-  - 1100+ x [M101](https://fas.org/man/dod-101/sys/land/m101a1.htm) &
+-   1100+ x [M101](https://fas.org/man/dod-101/sys/land/m101a1.htm) &
     [M102](https://fas.org/man/dod-101/sys/land/m102.htm) towed 105mm
     howitzers.
 
-  - 150 x [M119](https://fas.org/man/dod-101/sys/land/m119.htm) (Light
+-   150 x [M119](https://fas.org/man/dod-101/sys/land/m119.htm) (Light
     Gun) towed, air portable 105mm howitzers.
 
-  - 2,400+ x
+-   2,400+ x
     [M109A2](https://fas.org/man/dod-101/sys/land/m109.htm)/A3/A4 SP
     155mm howitzers.
 
-  - \<100 x M109A6
+-   &lt;100 x M109A6
     [Paladin](https://fas.org/man/dod-101/sys/land/m109a6.htm) SP
     Autonomous howitzers (24<sup>th</sup> ID).
 
-  - 1000+ x [M198](https://fas.org/man/dod-101/sys/land/m198.htm) towed
+-   1000+ x [M198](https://fas.org/man/dod-101/sys/land/m198.htm) towed
     155mm howitzers.
 
-  - 526 x [M114](https://fas.org/man/dod-101/sys/land/m114.htm) towed
+-   526 x [M114](https://fas.org/man/dod-101/sys/land/m114.htm) towed
     155mm howitzers.
 
-  - 1046 x [M110A2](https://fas.org/man/dod-101/sys/land/m110a2.htm) SP
+-   1046 x [M110A2](https://fas.org/man/dod-101/sys/land/m110a2.htm) SP
     203mm howitzers.
 
-  - 750+ x M270 SP [MLRS](https://fas.org/man/dod-101/sys/land/m270.htm)
+-   750+ x M270 SP [MLRS](https://fas.org/man/dod-101/sys/land/m270.htm)
     (replacing all Lance and Pershing systems)
 
-  - 35- x MGM-52 [Lance](https://en.wikipedia.org/wiki/MGM-52_Lance)
+-   35- x MGM-52 [Lance](https://en.wikipedia.org/wiki/MGM-52_Lance)
     SSMs, conventional warheads only, retiring.
 
-![](/assets/images/nato/us/army/image28.jpg)
+<img src="/assets\images\nato\us\army\media\image28.jpg" style="width:6.5in;height:3.25in" />
 
 **Air Defence systems**
 
@@ -536,26 +535,26 @@ focused on the High Level and the Very Low Level air defence threats,
 leaving medium level threats to other nations or NATO air forces to deal
 with. The systems in inventory are:
 
-  - 220 x [M167](https://en.wikipedia.org/wiki/M167_VADS) towed 20mm
+-   220 x [M167](https://en.wikipedia.org/wiki/M167_VADS) towed 20mm
     Vulcan.
 
-  - 360 x [M163](https://en.wikipedia.org/wiki/M163_VADS) SP 20mm
+-   360 x [M163](https://en.wikipedia.org/wiki/M163_VADS) SP 20mm
     Vulcan.
 
-  - 1060 x [Stinger](https://fas.org/man/dod-101/sys/land/stinger.htm)
+-   1060 x [Stinger](https://fas.org/man/dod-101/sys/land/stinger.htm)
     missile launchers (13,000 missiles).
 
-  - 500+ x [Avenger](https://fas.org/man/dod-101/sys/land/avenger.htm)
+-   500+ x [Avenger](https://fas.org/man/dod-101/sys/land/avenger.htm)
     HUMMWV mounted Stinger missile launcher.
 
-  - 600 x [Chaparral](https://fas.org/man/dod-101/sys/land/m730.htm) SP.
+-   600 x [Chaparral](https://fas.org/man/dod-101/sys/land/m730.htm) SP.
 
-  - 500+ x [MIM-104
+-   500+ x [MIM-104
     Patriot](https://en.wikipedia.org/wiki/MIM-104_Patriot) SP High
     level missile system
 
-  - 400+ x
+-   400+ x
     [I-Hawk](https://en.wikipedia.org/wiki/MIM-23_Hawk#I-Hawk:_MIM-23B)
     towed High level missile system
 
-![](/assets/images/nato/us/army/image29.jpeg)
+<img src="/assets\images\nato\us\army\media\image29.jpeg" style="width:4.13119in;height:2.43325in" />

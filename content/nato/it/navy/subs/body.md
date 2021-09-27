@@ -9,13 +9,13 @@ had retired are being held in ready reserve and can put to sea in less
 than 30 days.
 
 | Class | Pennant | Ship              | Location  | Status  | Remarks |
-| ----- | ------- | ----------------- | --------- | ------- | ------- |
+|-------|---------|-------------------|-----------|---------|---------|
 | Toti  | S 505   | Attilio Bagnolini | La Spezia | Reserve |         |
 |       | S 506   | Enrico Toti       | Adriatic  | Active  | Patrol  |
 |       | S 513   | Enrico Dandolo    | Taranto   | Active  | Tied up |
 |       | S 514   | Lazzaro Mocenigo  | La Spezia | Reserve |         |
 
-![](/assets/images/nato/it/navy/subs/image1.jpeg)
+<img src="/assets\images\nato\it\navy\subs\media\image1.jpeg" style="width:6.5in;height:3.81319in" />
 
 [**Sauro
 Class**](https://www.militaryfactory.com/ships/detail.asp?ship_id=sauro-class-diesel-electric-attack-submarine-italy#overview):
@@ -26,18 +26,17 @@ with double the crew. Each batch has evolutionary improvements in
 sensors, crew accommodation, sound dampening and general operational
 capability. In Northern Fury the batch IV boats started construction
 about a year earlier than they did in real life and both are available
-for the campaign, with S 525 conducting her workup
-trials.
+for the campaign, with S 525 conducting her workup trials.
 
-| Class     | Pennant | Ship                          | Location      | Status | Remarks |
-| --------- | ------- | ----------------------------- | ------------- | ------ | ------- |
-| Sauro I   | S 518   | Nazario Sauro                 | La Spezia     | Active | Tied Up |
-|           | S 519   | Carlo Feccia di Cossato       | La Spezia     | Active | Tied Up |
-| Sauro II  | S 520   | Leonardo da Vinci             | Adriatic      | Active | Patrol  |
-|           | S 521   | Guglielmo Marconi             | La Spezia     | Active | Tied Up |
-| Sauro III | S 522   | Salvatore Pelosi              | La Spezia     | Active | Tied Up |
-|           | S 523   | Giuliano Prini                | Mediterranean | Active | Patrol  |
-| Sauro IV  | S 524   | Primo Longobardo              | Indian Ocean  | Active | Patrol  |
-|           | S 525   | Gianfranco Gazzana Priaroggia | Mediterranean | Active | Workups |
+| Class      | Pennant | Ship                          | Location      | Status | Remarks |
+|------------|---------|-------------------------------|---------------|--------|---------|
+| Sauro I    | S 518   | Nazario Sauro                 | La Spezia     | Active | Tied Up |
+|            | S 519   | Carlo Feccia di Cossato       | La Spezia     | Active | Tied Up |
+|  Sauro II  | S 520   | Leonardo da Vinci             | Adriatic      | Active | Patrol  |
+|            | S 521   | Guglielmo Marconi             | La Spezia     | Active | Tied Up |
+|  Sauro III | S 522   | Salvatore Pelosi              | La Spezia     | Active | Tied Up |
+|            | S 523   | Giuliano Prini                | Mediterranean | Active | Patrol  |
+|  Sauro IV  | S 524   | Primo Longobardo              | Indian Ocean  | Active | Patrol  |
+|            | S 525   | Gianfranco Gazzana Priaroggia | Mediterranean | Active | Workups |
 
-![](/assets/images/nato/it/navy/subs/image2.jpg)
+<img src="/assets\images\nato\it\navy\subs\media\image2.jpg" style="width:6.5in;height:2.78264in" />

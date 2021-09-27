@@ -22,7 +22,7 @@ enhancement.)***
 
 **MiG-21**
 
-![](/assets/images/warsaw/bg/air/image1.jpg)
+<img src="/assets\images\warsaw\bg\air\media\image1.jpg" style="width:6.5in;height:4.26458in" />
 
 Although these are dated and primarily used in the ground support role,
 one squadron remains in the air defence structure. The plan is to
@@ -52,11 +52,10 @@ fighter with a look down radar and wider selection of munitions.
 Additionally about 30 two seat training variants operated in an air
 combat training squadron, the **MiG-21UM** Mongol-B, with equivalent
 avionics to the 3<sup>rd</sup> generation MiG-21bis. All fighter pilots
-spent time on this type to learn the basics of air
-combat.
+spent time on this type to learn the basics of air combat.
 
 | **Unit**                    | **Formation**             | **Location**      | **Type**  | **No** | **Remarks**        |
-| --------------------------- | ------------------------- | ----------------- | --------- | ------ | ------------------ |
+|-----------------------------|---------------------------|-------------------|-----------|--------|--------------------|
 | 1/2<sup>nd</sup> Trg Sqn    | 2nd Cbt Trg Regt          | Kamenets AB       | MiG-21UM  | \~30   |                    |
 | 2/17<sup>th</sup> Ftr Regt  | 2<sup>nd</sup> AD Div     | Balchik AB        | MiG-21PFM | 24     | Many in reserve    |
 | 1/19 Ftr Regt               | 10<sup>th</sup> Avn Corps | Graf Ignatievo AB | Mig-21bis | 24     |                    |
@@ -65,11 +64,11 @@ combat.
 | 2/21 Ftr Regt               | 10<sup>th</sup> Avn Corps | Uzundzhovo AB     | MiG-21MF  | 24     | Composite variants |
 | 1/26<sup>th</sup> Recon Sqn | 10<sup>th</sup> Avn Corps | Tolbukhin AB      | MiG-21RF  | 6      |                    |
 
-![](/assets/images/warsaw/bg/air/image2.jpg)
+<img src="/assets\images\warsaw\bg\air\media\image2.jpg" style="width:4.20833in;height:2.67479in" />
 
 **MiG-23**
 
-![](/assets/images/warsaw/bg/air/image3.png)
+<img src="/assets\images\warsaw\bg\air\media\image3.png" style="width:5.90625in;height:2.50031in" />
 
 Similarly, there is a variety of MiG-23 Floggers employed in the
 Bulgarian air force. The variable wing geometry allowed for a very
@@ -100,17 +99,16 @@ Soviets, so in consolation they were able to obtain 40 of the Flogger-H.
 Additionally, Bulgaria operated 15 **MiG-23UB** Flogger-C training
 aircraft. About half were maintained at the Combat Training school while
 the rest were sprinkled around the squadrons to allow pilots to maintain
-qualifications. These were not used in
-combat.
+qualifications. These were not used in combat.
 
 | **Unit**                   | **Formation**             | **Location**     | **Type**  | **No** | **Remarks**        |
-| -------------------------- | ------------------------- | ---------------- | --------- | ------ | ------------------ |
+|----------------------------|---------------------------|------------------|-----------|--------|--------------------|
 | 1/18<sup>th</sup> Ftr Regt | 1<sup>st</sup> Air Div    | Dobroslavtsi AB  | MiG-23MLA | 18     | Composite variants |
 | 2/18<sup>th</sup> Ftr Regt | 1<sup>st</sup> Air Div    | Gabrovnitsa AB   | MiG-23MLD | 24     | 4 new from GDR     |
 | 1/25 Ftr/Bmr Regt          | 10<sup>th</sup> Avn Corps | Cheshnegirovo AB | Mig-23BN  | 18     |                    |
 | 1/25 Ftr/Bmr Regt          | 10<sup>th</sup> Avn Corps | Cheshnegirovo AB | Mig-23BN  | 18     |                    |
 
-![](/assets/images/warsaw/bg/air/image4.jpg)
+<img src="/assets\images\warsaw\bg\air\media\image4.jpg" style="width:6.5in;height:4.79861in" />
 
 **MiG-29**
 
@@ -122,15 +120,14 @@ Historically Bulgaria received 12 **Fulcrum A** plus 4 two seat ‘**UB**’
 trainers by 1994, while in Northern Fury the schedule for an additional
 six has been advanced and they are available. The primary task is to
 counter Turkish and Greek F-16s and they are deployed almost exclusively
-in the Air Defense
-role.
+in the Air Defense role.
 
 | **Unit**                   | **Formation**          | **Location** | **Type** | **No** | **Remarks**    |
-| -------------------------- | ---------------------- | ------------ | -------- | ------ | -------------- |
+|----------------------------|------------------------|--------------|----------|--------|----------------|
 | 2/17<sup>th</sup> Ftr Regt | 2<sup>nd</sup> Air Div | Ravnets AB   | MiG-29A  | 18     |                |
 |                            |                        |              | MiG-29UB | 4      | Combat capable |
 
-![](/assets/images/warsaw/bg/air/image5.jpg)
+<img src="/assets\images\warsaw\bg\air\media\image5.jpg" style="width:6.5in;height:4.08333in" />
 
 **Su-22**
 
@@ -147,12 +144,11 @@ Additionally, four **Su-22UM-3K** two seat trainers were used by the
 Squadron.
 
 | **Unit**                    | **Formation**             | **Location** | **Type**   | **No** | **Remarks** |
-| --------------------------- | ------------------------- | ------------ | ---------- | ------ | ----------- |
+|-----------------------------|---------------------------|--------------|------------|--------|-------------|
 | 2/26<sup>th</sup> Recon Sqn | 10<sup>th</sup> Avn Corps | Tolbukhin AB | Su-22M-4K  | 18     |             |
 |                             |                           |              | Su-22UM-3K | 4      |             |
 
-![Aerospaceweb.org | Ask Us - Largest Aircraft Production
-Run](/assets/images/warsaw/bg/air/image6.jpeg)
+<img src="/assets\images\warsaw\bg\air\media\image6.jpeg" style="width:5.33333in;height:3.33333in" alt="Aerospaceweb.org | Ask Us - Largest Aircraft Production Run" />
 
 **Su-25**
 
@@ -167,8 +163,8 @@ front line aircraft with the training versions held at the Regimental
 level.
 
 | **Unit**            | **Formation**             | **Location** | **Type** | **No** | **Remarks** |
-| ------------------- | ------------------------- | ------------ | -------- | ------ | ----------- |
+|---------------------|---------------------------|--------------|----------|--------|-------------|
 | 1/22nd Ftr/Bmr Regt | 10<sup>th</sup> Avn Corps | Bezmer AB    | Su-25K   | 18     |             |
 | 2/22nd Ftr/Bmr Regt | 10<sup>th</sup> Avn Corps | Bezmer AB    | Su-25K   | 18     |             |
 
-![](/assets/images/warsaw/bg/air/image7.jpg)
+<img src="/assets\images\warsaw\bg\air\media\image7.jpg" style="width:6.5in;height:3.38889in" />

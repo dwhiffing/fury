@@ -1,9 +1,9 @@
 **Northern Fury – Charge of the Light Bde**
 
-**<span class="underline">Playtest Report by AndrewJ Nov 2017</span>**
+**<u>Playtest Report by AndrewJ Nov 2017</u>**
 
 So, here we go with Charge of the Light Brigade, bearing the famous
-ominous poem in mind... ("Charge for the guns\!", he said: Into the
+ominous poem in mind... ("Charge for the guns!", he said: Into the
 Valley of Death rode the six hundred.)
 
 **THE SITUATION**
@@ -170,7 +170,7 @@ fighters start engaging Russian fighters from the Trondheim area,
 gradually pushing them back. The SA-20 in the Trondheim area starts
 interfering, forcing my planes down into the valleys to hide, which
 hampers my ability to fight, but gives me a valuable indicator of where
-it is located. (Very close to an SBS dropoff zone\!) A wave of fresh
+it is located. (Very close to an SBS dropoff zone!) A wave of fresh
 Mig-23s out of Orland drives off my Jaguars and F-5s, which had been
 harassing the Russian missile boats, before the last of my fighters
 force them away in turn, and for a moment there are only a few enemy
@@ -244,9 +244,9 @@ Tankers will preposition for the dawn strike. The dawn strike will
 concentrate on Orland (primary) and Vaernes (secondary) airfields,
 targeting runways with GBUs.
 
-Lets see what happens\!
+Lets see what happens!
 
-The Charge of the Light Brigade continues\!
+The Charge of the Light Brigade continues!
 
 As the planes from the evening attack return to base, air-to-air
 skirmishing continues in the north near Orland, and my retiring fighters
@@ -267,7 +267,7 @@ in a similar way.
 My decision to split the minesweepers into two groups turns out well -
 for the Russians. A ship in the outer coastal group suddenly vanishes in
 a thundering underwater explosion, with no sign of where it came from.
-Torpedo\! The others start to run, but they have no idea which direction
+Torpedo! The others start to run, but they have no idea which direction
 the attack came from, and a second ship explodes some minutes later. The
 others keep running blindly, certain they're about to die, but what
 actually happens is that the sub exhausts its batteries trying to catch

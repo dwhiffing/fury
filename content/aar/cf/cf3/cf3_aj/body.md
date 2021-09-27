@@ -1,6 +1,6 @@
 **Caribbean Fury \#3 – Rumble in the Jungle**
 
-**<span class="underline">Playtest Report by AndrewJ Sept 2020</span>**
+**<u>Playtest Report by AndrewJ Sept 2020</u>**
 
 It’s mid-Feb in the Caribbean, and the globe-spanning conflict continues
 to evolve. After heavy fighting around Cuba, US forces are refocusing
@@ -19,7 +19,7 @@ mix of rag-tag elements (F-4s/16s/18s, A-4s, and Kfirs) in southern
 Florida. Fortunately, I have enough tankers in the southern USA to get
 my planes to their targets. There are also a scattering of units around
 the Caribbean, including A-4s way over in Puerto Rico, a few F-16s and
-OV-10s (and an AC-130\!) down in the Canal zone, and some MPA and cargo
+OV-10s (and an AC-130!) down in the Canal zone, and some MPA and cargo
 aircraft on various islands.
 
 I’ve got four small task groups in the area, mostly of older second line
@@ -103,13 +103,13 @@ At this point, it feels like we can be confident of superiority in the
 air, but that turns out to be premature, and the Hondurans start trying
 to push us around. The first sign comes with the detection of powerful
 fighter radars coming from the direction of Soto Cano. These aren’t old
-F-5s\! They’re modern Flankers, presumably escaped from Cuba, and
-they’re headed north, ahead of a pack of attack planes. My fighters
-are out of position, away at tankers or refueling in the Caymans, and
-although they turn and hurry back, they can’t get there in time. The
-Dale opens fire again, but the agile Su-27s are well defended with
-jammers and chaff, and one manages to evade the SAMs and shoot down one
-of my little BN-2Ts which was out on a maritime patrol mission.
+F-5s! They’re modern Flankers, presumably escaped from Cuba, and they’re
+headed north, ahead of a pack of attack planes. My fighters are out of
+position, away at tankers or refueling in the Caymans, and although they
+turn and hurry back, they can’t get there in time. The Dale opens fire
+again, but the agile Su-27s are well defended with jammers and chaff,
+and one manages to evade the SAMs and shoot down one of my little BN-2Ts
+which was out on a maritime patrol mission.
 
 The Flankers can’t evade forever, and the Dale finally manages to hit
 them both, before tearing up the attack planes. These turn out to be old
@@ -249,7 +249,7 @@ stop my pilots from wrecking the docks and the control tower.
 
 Meanwhile, the Soviets are prowling beneath the waves, and TG Banckert
 (the NATO 3-ship frigate patrol) is suddenly fired on in the mid
-Caribbean\! Torps are detected boring in at 50 kts, and it looks like
+Caribbean! Torps are detected boring in at 50 kts, and it looks like
 they’re headed for my little Floreal, the slowest of the three frigates.
 My ships counterfire and turn to run, while both helicopters scramble
 and dash towards the probable location of the sub. The Floreal makes a
@@ -261,7 +261,7 @@ half miles away. Simultaneously, the helicopters are using a combination
 of dipping sonar and sonobuoys to localize the sub, and they each get a
 hit with a Mk 46, putting an end to the Victor.
 
-**BRONCOS ATTACK\!**
+**BRONCOS ATTACK!**
 
 At noon we get an unusual message from high command. They want to stage
 a daylight B-52 raid on Managua, in plain view at low altitude, to exert
@@ -280,9 +280,9 @@ attack, why can’t they? Don’t they have bombs too? They can’t get to
 Managua itself, but the two coastal airports are in reach. They know the
 northern one at Puerto Cabezos is well guarded, but the smaller one down
 south at Bluefields probably isn’t, and it’s only 125 miles away.
-Attack\! Diving down towards the waves, the four little planes push
-their twin turboprops up to a blistering 220 kts, and hurtle in, silk
-scarves freshly laundered for maximum effectiveness.
+Attack! Diving down towards the waves, the four little planes push their
+twin turboprops up to a blistering 220 kts, and hurtle in, silk scarves
+freshly laundered for maximum effectiveness.
 
 Well, Bluefields has plenty of AAA, and MANPADS, and, can you believe
 it, a fully functional SA-6, and it all starts firing the moment the

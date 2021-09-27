@@ -13,12 +13,12 @@ sweepers. They routinely serve one of the three Standing NATO Mine
 Countermeasures Groups (SNMCMG) but focus on SNMCMG 2 in the Adriatic
 with one ship supporting the new SNMCMG 3 at Djbouti.
 
-| Class  | Pennant | Name    | Task        | Remarks  |
-| ------ | ------- | ------- | ----------- | -------- |
-| Lerici | M 5550  | Lerici  | In Port     |          |
-|        | M 5551  | Sapri   | In Port     |          |
-|        | M 5552  | Malazzo | **SNMCMG3** | Djbouti  |
-|        | M 5553  | Vieste  | SNMCMG2     | Adriatic |
+| Class  | Pennant | Name    | Task    | Remarks  |
+|--------|---------|---------|---------|----------|
+| Lerici | M 5550  | Lerici  | In Port |          |
+|        | M 5551  | Sapri   | In Port |          |
+|        | M 5552  | Malazzo | SNMCMG3 | Djbouti  |
+|        | M 5553  | Vieste  | SNMCMG2 | Adriatic |
 
 **Gaeta Class:** Larger and more modern than the Lerici class, they have
 essentially the same capabilities. The final two of the eight ships are
@@ -26,7 +26,7 @@ still under construction but the fifth and sixth were launched ahead of
 their historic schedule.
 
 | Class | Pennant | Name      | Task        | Remarks  |
-| ----- | ------- | --------- | ----------- | -------- |
+|-------|---------|-----------|-------------|----------|
 | Gaeta | M 5554  | Gaeta     | In Port     |          |
 |       | M 5555  | Termoli   | SNMCMG2     | Adriatic |
 |       | M 5556  | Alghero   | In Port     |          |
@@ -36,7 +36,7 @@ their historic schedule.
 |       | M 5560  | Chioggia  | Building    | Mar 95   |
 |       | M 5561  | Rimini    | Building    | Jun 95   |
 
-![](/assets/images/nato/it/navy/other-vessels/image1.jpg)
+<img src="/assets\images\nato\it\navy\other-vessels\media\image1.jpg" style="width:4.5625in;height:2.58333in" />
 
 **Italian Amphibious Ships**
 
@@ -45,22 +45,22 @@ with three modern, state of the art LPD (Landing Platform Dock) of the
 ***San Giorgio*** class, complete with a new suite of Landing Craft.
 
 **[San Giorgio
-Class](http://www.military-today.com/navy/san_giorgio_class.htm): These
-three vessels can lift about a battalion of marines each, with 36
+Class](http://www.military-today.com/navy/san_giorgio_class.htm):**
+These three vessels can lift about a battalion of marines each, with 36
 vehicles or 30 tanks. They can operate 3x Sea King helicopters and
 several landing craft of varying size. The lead two ships can unload on
 the beach through bow doors and a ramp while the third cannot but has
 slighting more accommodation space. All three are available for the
-Northern Fury campaign, the labor problems encountered with *San Giusto*
-do not happen and she is commissioned in late 1993.**
+Northern Fury campaign, the labor problems encountered with ***San
+Giusto*** do not happen and she is commissioned in late 1993.
 
 | Class       | Pennant | Name        | Task            | Remarks  |
-| ----------- | ------- | ----------- | --------------- | -------- |
+|-------------|---------|-------------|-----------------|----------|
 | San Giorgio | L 9892  | San Giorgio | In Port         |          |
 |             | L 9893  | San Marco   | In Port         |          |
 |             | L 9894  | San Giusto  | Training cruise | Adriatic |
 
-![](/assets/images/nato/it/navy/other-vessels/image2.jpg)
+<img src="/assets\images\nato\it\navy\other-vessels\media\image2.jpg" style="width:6.5in;height:4.15069in" />
 
 **Italian Support Ships**
 
@@ -75,12 +75,12 @@ in the Mediterranean. They are small, about 20% of the size of the big
 US AORs – but are capable of assisting combat ships to stay at sea
 longer, which is their job. They carry diesel, a small amount of
 aviation fuel and about 300 tons of dry goods, certainly not enough to
-resupply the ***Giuseppe Garibaldi but adequate for an ASW Task
-Group.***
+resupply the ***Giuseppe Garibaldi*** but adequate for an ASW Task
+Group.
 
 | Class     | Pennant | Name      | Task     | Remarks |
-| --------- | ------- | --------- | -------- | ------- |
+|-----------|---------|-----------|----------|---------|
 | Stromboli | A 5327  | Stromboli | Adriatic |         |
 |           | A 5329  | Vesuvio   | In Port  |         |
 
-![](/assets/images/nato/it/navy/other-vessels/image3.jpg)
+<img src="/assets\images\nato\it\navy\other-vessels\media\image3.jpg" style="width:6.5in;height:3.50972in" />

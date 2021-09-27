@@ -19,7 +19,7 @@ interceptors and the remainder being support, training and transport
 aircraft; additionally, almost 12,000 SAM systems are in use as well as
 hundreds of radar and EW sites.
 
-![](/assets/images/warsaw/su/air/pvo/image1.png)
+<img src="/assets\images\warsaw\su\air\pvo\media\image1.png" style="width:10.70833in;height:7.67708in" />
 
 Organizationally each AD Army and the two districts are tailored to its
 specific task and the threats situation it faced.
@@ -33,11 +33,10 @@ SAMs in the Missile Brigades are of the very modern S-300 type, while it
 is unlikely that US Strategic bombers would be a major threat so there
 are no pure interceptors but much more agile fighter types able to
 engage with F-111, Tornados or Mirage IV, eventually all of the MiG-23s
-would be replaced by Su-27 but that will not happen for several
-years.
+would be replaced by Su-27 but that will not happen for several years.
 
 | Corps                    | Regiment                    | Location     | Number | Aircraft type | Remarks            |
-| ------------------------ | --------------------------- | ------------ | ------ | ------------- | ------------------ |
+|--------------------------|-----------------------------|--------------|--------|---------------|--------------------|
 | 11<sup>th</sup> AD Corps | 61<sup>st</sup>             | Baranovichi  | 38     | Su-27         |                    |
 |                          | 201<sup>st</sup>            | Machulishchi | 38     | MiG-23MLD     |                    |
 |                          |                             |              |        |               | 6x AA Missile Bdes |
@@ -49,7 +48,7 @@ years.
 |                          |                             |              |        |               | 1x EW Bde          |
 | Army Units               | 25<sup>th</sup> Ind Tpt Sqn | Machulischi  |        | Mixed Tpt     |                    |
 
-![](/assets/images/warsaw/su/air/pvo/image2.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image2.jpg" style="width:13.875in;height:8.85417in" />
 
 **[4<sup>th</sup> Independent Red Banner AD
 Army](https://www.ww2.dk/new/pvo/4oapvo.htm):** Mostly responsible for
@@ -58,11 +57,10 @@ force has more of an intercept role relying on MiG-25 and MiG-31 as well
 as older SAM systems (SA-2, SA-5). Some older MiG-23s have been replaced
 with hand-me-down MiG-25s (412<sup>th</sup> & 765<sup>th</sup> Regt).
 This Army is quite dispersed so relies on Division structures rather
-than more centralized
-Corps.
+than more centralized Corps.
 
 | Division               | Regiment         | Location     | Number | Aircraft type | Remarks            |
-| ---------------------- | ---------------- | ------------ | ------ | ------------- | ------------------ |
+|------------------------|------------------|--------------|--------|---------------|--------------------|
 | 28<sup>th</sup> AD Div | 681<sup>st</sup> | Danilovo     | 38     | MiG-23MLD     |                    |
 |                        | 683<sup>rd</sup> | Bobrovka     | 38     | MiG-23MLD     |                    |
 |                        |                  |              |        |               | 1x AA Missile Bdes |
@@ -81,7 +79,7 @@ Corps.
 |                        |                  |              |        |               | 1x Tech Bde        |
 |                        |                  |              |        |               | 2x Tech Regts      |
 
-![](/assets/images/warsaw/su/air/pvo/image3.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image3.jpg" style="width:6.33333in;height:4.75in" />
 
 [**6<sup>th</sup> Independent Red Banner AD
 Army**](https://www.ww2.dk/new/pvo/6oapvo.htm): Probably the most
@@ -90,11 +88,10 @@ Finland, the Baltics and the northern approach to Moscow. Most of the
 SAM systems are the most modern available and the aircraft are a mix
 between fighters and interceptors. The 892<sup>nd</sup> Regt was
 reactivated in 1993 and is destined to receive Su-27s but is currently
-outfitted with the antiquated
-Su-15s.
+outfitted with the antiquated Su-15s.
 
 | Corps                    | Division           | Regiment               | Location    | Number | Aircraft type | Remarks            |
-| ------------------------ | ------------------ | ---------------------- | ----------- | ------ | ------------- | ------------------ |
+|--------------------------|--------------------|------------------------|-------------|--------|---------------|--------------------|
 | 27<sup>th</sup> AD Corps |                    | 54<sup>th</sup> Gds    | Savostleyka | 38     | MiG-25PD/PDS  |                    |
 |                          |                    | 698<sup>th</sup> Gds   | Nivenskoye  | 36     | Su-27         |                    |
 |                          |                    | 892<sup>nd</sup>       | Nivenskoye  | 40     | Su-15TM       |                    |
@@ -110,7 +107,7 @@ Su-15s.
 |                          |                    |                        |             |        |               | 4x AA Missile Regt |
 |                          |                    |                        |             |        |               | 2x Tech Bds        |
 
-![](/assets/images/warsaw/su/air/pvo/image4.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image4.jpg" style="width:10.66667in;height:5.60417in" />
 
 [**8<sup>th</sup> Independent AD
 Army**](https://www.ww2.dk/new/pvo/8oapvo.htm): Covering the south
@@ -121,11 +118,10 @@ threat. Therefore the key vulnerability from this approach is cruise
 missiles and potentially long range bombers coming in over Turkey. Most
 of the SAM systems are the modern S-300 type but there are some older
 models as well. The weakness in this formation are two regiments of
-Su-15s which will offer very limited capability against a modern
-threat.
+Su-15s which will offer very limited capability against a modern threat.
 
 | Corps                    | Regiment                     | Location       | Number | Aircraft type | Remarks            |
-| ------------------------ | ---------------------------- | -------------- | ------ | ------------- | ------------------ |
+|--------------------------|------------------------------|----------------|--------|---------------|--------------------|
 | 49<sup>th</sup> AD Corps | 636<sup>th</sup> Gd          | Kramatorsk     | 39     | Su-15TM       |                    |
 |                          | 933<sup>rd</sup>             | Dnepropetrovsk | 38     | MiG-25PD/PDS  |                    |
 |                          | 146<sup>th</sup>             | Vasilkov       | 38     | MiG-25PD/PDS  |                    |
@@ -139,7 +135,7 @@ threat.
 | Army Units               | 498<sup>th</sup> Trg Msl Bde | Opotchka       |        |               |                    |
 |                          |                              |                |        |               |                    |
 
-![](/assets/images/warsaw/su/air/pvo/image5.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image5.jpg" style="width:13.45877in;height:8.94972in" />
 
 [**10<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/10oapvo.htm): The AD Army with the
@@ -151,11 +147,10 @@ modernized MiG-31 and another four of older MiG-25. The regiment of
 Su-27 will likely be involved in air superiority missions in northern
 Norway and the aging Su-15s will form a backstop of questionable value
 until replaced by MiG-31s in the coming year. The SAM units are all of
-the most modern types and concentrated on the Kola
-Peninsula.
+the most modern types and concentrated on the Kola Peninsula.
 
 | Corps/Army                  | Division              | Regiment             | Location        | Number | Aircraft type | Remarks            |
-| --------------------------- | --------------------- | -------------------- | --------------- | ------ | ------------- | ------------------ |
+|-----------------------------|-----------------------|----------------------|-----------------|--------|---------------|--------------------|
 |                             | 4<sup>th</sup> AD Div | 72<sup>nd</sup>      | Savatiya-Kotlas | 30     | MiG-31M/SM    |                    |
 |                             |                       | 641<sup>st</sup>     | Afrikanda       | 38     | MiG-25PD/PDS  |                    |
 |                             |                       |                      |                 |        |               | 1x AA Missile Bdes |
@@ -179,7 +174,7 @@ Peninsula.
 |                             |                       |                      |                 |        |               | 1x Tech Bde        |
 |                             |                       |                      |                 |        |               | 1x Tech Regt       |
 
-![](/assets/images/warsaw/su/air/pvo/image6.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image6.jpg" style="width:13.67917in;height:7.69453in" />
 
 [**11<sup>th</sup> Independent Red Banner AD
 Army**](http://www.ww2.dk/new/pvo/11oapvo.htm): The largest AD Army, the
@@ -188,11 +183,10 @@ Vladivostok to the Bering Strait, a distance of 4,500 km, with a total
 of 12 regiments of aircraft and 24 brigades or regiments of SAMs. The
 threat from this axis is low however and correspondingly, over half this
 force is quite dated and bordering on obsolete, the older MiG-23s are
-little better as fighters than the Su-15s are as
-interceptors.
+little better as fighters than the Su-15s are as interceptors.
 
 | Corps/Army                 | Division               | Regiment                   | Location        | Number | Aircraft type | Remarks            |
-| -------------------------- | ---------------------- | -------------------------- | --------------- | ------ | ------------- | ------------------ |
+|----------------------------|------------------------|----------------------------|-----------------|--------|---------------|--------------------|
 | 8<sup>th</sup> RB AD Corps |                        | 60<sup>th</sup>            | Dzemgi          | 38     | Su-27         |                    |
 |                            |                        | 301<sup>st</sup>           | Kalinka         | 38     | MiG-23P       |                    |
 |                            |                        | 308<sup>th</sup>           | Postovaya       | 38     | MiG-23P       |                    |
@@ -223,7 +217,7 @@ interceptors.
 |                            |                        |                            |                 |        |               | 1x Tech Regt       |
 |                            |                        | 167<sup>th</sup> Mixed Avn | Khabarovsk      |        |               |                    |
 
-![](/assets/images/warsaw/su/air/pvo/image7.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image7.jpg" style="width:7.625in;height:4.06822in" />
 
 [**12<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/12oapvo.htm): Concentrated in the
@@ -233,11 +227,10 @@ from Pakistan as both Iran and India are allies and Afghanistan is still
 in turmoil after the ten-year occupation by the Soviet Army. The two
 regiments of MiG-25s however will be useful on the off chance that
 American bombers attempted to infiltrate through the Hindukush
-mountains. The SAM forces in this army are mostly older
-types.
+mountains. The SAM forces in this army are mostly older types.
 
 | Corps/Army               | Division               | Regiment             | Location          | Number | Aircraft type | Remarks            |
-| ------------------------ | ---------------------- | -------------------- | ----------------- | ------ | ------------- | ------------------ |
+|--------------------------|------------------------|----------------------|-------------------|--------|---------------|--------------------|
 | 37<sup>th</sup> AD Corps |                        | 737<sup>th</sup>     | Chervonoglinskoye | 36     | MiG-23P       |                    |
 |                          |                        |                      |                   |        |               | 3x AA Missile Bdes |
 |                          |                        |                      |                   |        |               | 1x Tech Bds        |
@@ -252,7 +245,7 @@ types.
 |                          |                        |                      |                   |        |               | 4x AA Missile Regt |
 |                          |                        |                      |                   |        |               | 2x Tech Bde        |
 
-![](/assets/images/warsaw/su/air/pvo/image8.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image8.jpg" style="width:11.11111in;height:9.08333in" />
 
 [**14<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/14oapvo.htm): Patrolling the Siberian
@@ -263,11 +256,10 @@ of the SAM systems are S-300s. Most of this force however is deployed
 far to the south, along the Trans-Siberian railway protecting the link
 to the Far East from attack from both the north and China to the south.
 In times of higher threat, the aircraft would deploy to a number of
-dispersal bases to the
-north.
+dispersal bases to the north.
 
 | Corps/Army                   | Division               | Regiment                 | Location      | Number | Aircraft type | Remarks            |
-| ---------------------------- | ---------------------- | ------------------------ | ------------- | ------ | ------------- | ------------------ |
+|------------------------------|------------------------|--------------------------|---------------|--------|---------------|--------------------|
 | 38<sup>th</sup> AD Corps     |                        | 849<sup>th</sup>         | Kupino        | 38     | MiG-23P       |                    |
 |                              |                        |                          |               |        |               | 2x AA Missile Bdes |
 |                              |                        |                          |               |        |               | 7x AA Missile Regt |
@@ -290,7 +282,7 @@ north.
 |                              |                        |                          |               |        |               | 2x Tech Regt       |
 |                              |                        | 197<sup>th</sup> Ind Tpt | Novosibirsk   |        |               |                    |
 
-![](/assets/images/warsaw/su/air/pvo/image9.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image9.jpg" style="width:10.11111in;height:6.91667in" />
 
 **[19<sup>th</sup> Independent Red Banner AD
 Army](http://www.ww2.dk/new/pvo/19oapvo.htm):** Concentrated in the
@@ -299,11 +291,10 @@ southern approach to Moscow by intercepting bomber and cruise missile
 attacks emanating from the Mediterranean or Red Seas and perhaps from
 the Indian Ocean. With seven regiments of interceptors, mostly MiG-25,
 and 21 SAM brigades/regiments in a relatively small area this should not
-be a
-problem.
+be a problem.
 
 | Corps/Army               | Division                  | Regiment             | Location      | Number | Aircraft type | Remarks            |
-| ------------------------ | ------------------------- | -------------------- | ------------- | ------ | ------------- | ------------------ |
+|--------------------------|---------------------------|----------------------|---------------|--------|---------------|--------------------|
 | 12<sup>th</sup> AD Corps |                           | 83<sup>rd</sup>      | Rostov-na-Don | 38     | MiG-25PD/PDS  |                    |
 |                          |                           | 562<sup>nd</sup>     | Krymsk        | 38     | MiG-25PD/PDS  |                    |
 |                          |                           | 393<sup>rd</sup> Gds | Krymsk        | 38     | MiG-25PD/PDS  | Upgr from MiG-23   |
@@ -325,7 +316,7 @@ problem.
 |                          |                           |                      |               |        |               | 1x AA Missile Regt |
 |                          |                           |                      |               |        |               | 1x Tech Bde        |
 
-![](/assets/images/warsaw/su/air/pvo/image10.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image10.jpg" style="width:14.30729in;height:9.53819in" />
 
 [**Leningrad Military District**](http://www.ww2.dk/new/pvo/18kpvo.htm):
 The Leningrad Military District is not part of the PVO, however, the
@@ -333,18 +324,17 @@ The Leningrad Military District is not part of the PVO, however, the
 fact, there were several organizational changes in the 1970s and 80’s
 but when the PVO re-established the 6<sup>th</sup> AD Army, the
 18<sup>th</sup> AD Corps (In Northern Fury) remained in Location to
-defend Leningrad and was therefore independent of any AD
-Army.
+defend Leningrad and was therefore independent of any AD Army.
 
 | Corps/Army                  | Regiment             | Location  | Number | Aircraft type | Remarks            |
-| --------------------------- | -------------------- | --------- | ------ | ------------- | ------------------ |
+|-----------------------------|----------------------|-----------|--------|---------------|--------------------|
 | 18<sup>th</sup> RB AD Corps | 177<sup>th</sup>     | Lodeynoye | 38     | MiG-23MLD     |                    |
 |                             | 180<sup>th</sup> Gds | Gromovo   | 31     | MiG-31M/SM    |                    |
 |                             |                      |           |        |               | 5x AA Missile Bde  |
 |                             |                      |           |        |               | 5x AA Missile Regt |
 |                             |                      |           |        |               | 1x Tech Bde        |
 
-![](/assets/images/warsaw/su/air/pvo/image11.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image11.jpg" style="width:6.97917in;height:3.98685in" />
 
 [**Moscow Order of Lenin Air Defence
 District**](http://www.ww2.dk/new/pvo/mopvo.htm): It is probably not an
@@ -354,7 +344,7 @@ AD Armies with four interceptor and six fighter regiments plus 41 SAM
 brigades/regiments.
 
 | Corps/Army               | Division               | Regiment                     | Location     | Number | Aircraft type | Remarks            |
-| ------------------------ | ---------------------- | ---------------------------- | ------------ | ------ | ------------- | ------------------ |
+|--------------------------|------------------------|------------------------------|--------------|--------|---------------|--------------------|
 | 1<sup>st</sup> AD Army   | 86<sup>th</sup> AD Div |                              | Vidnoye      |        |               | 5x AA Missile Regt |
 |                          |                        |                              |              |        |               | 1x Tech Regt       |
 |                          | 87<sup>th</sup> AD Div |                              | Balashikha   |        |               | 4x AA Missile Regt |
@@ -388,16 +378,15 @@ brigades/regiments.
 |                          |                        |                              |              |        |               | 1x Tech Regt       |
 |                          |                        | 436<sup>th</sup> Ind Tpt Avn | Stupino      |        |               |                    |
 
-![](/assets/images/warsaw/su/air/pvo/image12.png)
+<img src="/assets\images\warsaw\su\air\pvo\media\image12.png" style="width:4.5754in;height:6.40055in" />
 
 [**PVO Forces**](http://www.ww2.dk/new/pvo/pvostrany.htm): One of the
 main functions of forces directly under PVO control was training. The
 PVO operated many schools for technical training, an Officer academy and
-three flight training centers flying over 1,200
-aircraft.
+three flight training centers flying over 1,200 aircraft.
 
 | Corps/Army                          | Regiment                 | Location      | Number | Aircraft type | Remarks |
-| ----------------------------------- | ------------------------ | ------------- | ------ | ------------- | ------- |
+|-------------------------------------|--------------------------|---------------|--------|---------------|---------|
 | Armavir Avn School                  | 627th Gds                | Tikhoretsk    | 84     | Aero L-39     |         |
 |                                     | 709<sup>th</sup>         | Maykop        | 120    | MiG-21UM      |         |
 |                                     | 713<sup>th</sup>         | Armavir       | 151    | L-39          |         |
@@ -417,4 +406,4 @@ aircraft.
 |                                     | 615<sup>th</sup> Trg     | Savostleyka   | 100    | MiG-21bis     |         |
 |                                     | 142<sup>nd</sup> Ind Tpt | Savostleyka   |        | Various       |         |
 
-![](/assets/images/warsaw/su/air/pvo/image13.jpg)
+<img src="/assets\images\warsaw\su\air\pvo\media\image13.jpg" style="width:6.83333in;height:5.125in" />

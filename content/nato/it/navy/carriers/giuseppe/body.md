@@ -1,6 +1,6 @@
 **C-551 Giuseppe Garibaldi**
 
-![](/assets/images/nato/it/navy/carriers/giuseppe/image1.jpg)
+<img src="/assets\images\nato\it\navy\carriers\giuseppe\media\image1.jpg" style="width:6.5in;height:4.40135in" />
 
 *C-551 Giuseppe Garibaldi with AV-8B Harrier IIs on deck*.
 
@@ -13,16 +13,16 @@ perspective the plan is to replace HMS Ark Royal as part of Combined
 Task Force (CTF)150. Because of this she is ready to sortie in support
 of operations within 24 hours of war starting.
 
-  - C-551 Giuseppe Garibaldi
-    
-      - Gruppo AI, 12x AV-8B Harrier II
-    
-      - 4\* Gruppo, 6x SH-3H Sea King
-    
-      - 5\* Gruppo, 4x SH-3D Sea King
+-   C-551 Giuseppe Garibaldi
 
-  - D-560 Luigi Durande De La Penne
+    -   Gruppo AI, 12x AV-8B Harrier II
 
-  - D-551 Audace
+    -   4\* Gruppo, 6x SH-3H Sea King
 
-  - F-565 Saggitario
+    -   5\* Gruppo, 4x SH-3D Sea King
+
+-   D-560 Luigi Durande De La Penne
+
+-   D-551 Audace
+
+-   F-565 Saggitario

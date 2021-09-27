@@ -1,6 +1,6 @@
 **Northern Fury – Something’s Fishy**
 
-**<span class="underline">Playtest Report by AndrewJ Mar 2017</span>**
+**<u>Playtest Report by AndrewJ Mar 2017</u>**
 
 I played this one last weekend, and I think it went reasonably
 conventionally for me.
@@ -21,10 +21,10 @@ sinking (after the Pauk did a flank speed dash to get in once the
 straits were cleared). Unloading proceeded, infantry slowly spread out,
 and the BTRs zoomed around to take revenge on the RBS-70s and let my few
 reloading Hinds get back into the area. I split my two tank platoons
-(mistake\!), sending one south to Lundamo and one east to Vaernes.
+(mistake!), sending one south to Lundamo and one east to Vaernes.
 Nothing came from the Lundamo direction, but Vaernes sure took a
 pounding, and I lost almost everything in the area (the greater part of
-an Inf Battalion and all the armour in the area - yikes\!). It took the
+an Inf Battalion and all the armour in the area - yikes!). It took the
 last of my 8" arty, all my mortars, cargo Hips making gun runs, and an
 infantry company stripped from the landing beaches security detachment
 to rescue the situation and restore control of the area.

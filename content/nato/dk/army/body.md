@@ -8,7 +8,7 @@ east, largely on Zealand, the Corps level HQ becomes NATO’s LANDZEALAND
 command defending the islands in the Baltic including Zealand, Fyn,
 Bornholm and many others.
 
-![](/assets/images/nato/dk/army/image1.png)
+<img src="/assets\images\nato\dk\army\media\image1.png" style="width:6.90625in;height:2.49363in" />
 
 **Leopard 1DK**
 
@@ -19,22 +19,22 @@ surplus German Army stock as that force downsized – in Northern Fury
 these were still required and not available from surplus so they are new
 build tanks.
 
-![](/assets/images/nato/dk/army/image2.jpg)
+<img src="/assets\images\nato\dk\army\media\image2.jpg" style="width:5in;height:3.75in" />
 
 **M41 DK**
 
 Denmark was the last European country to still be using this post World
 War Two light tank, with 41 examples providing armored support for the
-‘Bornholm’ Battle Group. Although modernized and equipped with
-improved fire control, a laser range finder and thermal site, better
-ammunition, fire suppression system and defence against Nuclear,
-Biological, and Chemical (NBC) threats; it was still an old tank.
-However, in theory the only armed force these tanks would face if this
-isolated island was invaded, would be the Soviet ‘PT-76’ light tank or
-perhaps airborne BMD or amphibious BMP Infantry Fighting Vehicles, so
-the 76mm high velocity gun and light armour would suffice.
+‘Bornholm’ Battle Group. Although modernized and equipped with improved
+fire control, a laser range finder and thermal site, better ammunition,
+fire suppression system and defence against Nuclear, Biological, and
+Chemical (NBC) threats; it was still an old tank. However, in theory the
+only armed force these tanks would face if this isolated island was
+invaded, would be the Soviet ‘PT-76’ light tank or perhaps airborne BMD
+or amphibious BMP Infantry Fighting Vehicles, so the 76mm high velocity
+gun and light armour would suffice.
 
-![](/assets/images/nato/dk/army/image3.jpg)
+<img src="/assets\images\nato\dk\army\media\image3.jpg" style="width:6.5in;height:4.86875in" />
 
 **M113**
 
@@ -42,9 +42,8 @@ The venerable M113 equipped the Danish mechanized Infantry force. Of the
 636 in the force, approximately 530 were the standard Armoured Personnel
 Carrier (APC) version, 50 of these were the new A2 DK version with a
 25mm gun, a further 56 were the Anti-Tank variant with TOW missiles and
-the remainder a mix of many other
-derivatives.
+the remainder a mix of many other derivatives.
 
-![](/assets/images/nato/dk/army/image4.jpg)
+<img src="/assets\images\nato\dk\army\media\image4.jpg" style="width:6.5in;height:4.06875in" />
 
-![](/assets/images/nato/dk/army/image5.jpg)![](/assets/images/nato/dk/army/image6.jpg)
+<img src="/assets\images\nato\dk\army\media\image5.jpg" style="width:3.08333in;height:2.29306in" /><img src="/assets\images\nato\dk\army\media\image6.jpg" style="width:3.4375in;height:2.29444in" />

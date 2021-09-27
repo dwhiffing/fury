@@ -1,19 +1,17 @@
 **Mediterranean Fury Background**
 
-**Aug 12, 2021**
+Aug 12, 2021
 
 The conflict in the Mediterranean is critical to the *Northern Fury*
 story and runs in parallel to the campaigns in central and northern
 Europe as well as other regions of the world. February 1994 finds NATO
 in a relatively strong position in the Med; France, Italy and the UK
 have forces on higher-than-normal readiness augmenting the US with a
-routine deployment of an Aircraft Carrier Battle Group, *USS Eisenhower
-(CVN-69)* and an Expeditionary Strike Group (ESG) centered on the *USS
-Kearsarge (LHD-3)* and *USS Iowa (BB-61).*
+routine deployment of an Aircraft Carrier Battle Group, USS *Eisenhower*
+(CVN-69) and an Expeditionary Strike Group (ESG) centered on the USS
+*Kearsarge* (LHD-3) and USS *Iowa* (BB-61).
 
-![r/WarshipPorn - Nimitz-class aircraft carrier USS Dwight D. Eisenhower
-(CVN 69) transits the Strait of Gibraltar \[5319 ×
-3546\]](/assets/images/blog/post26/image1.jpeg)
+<img src="/assets\images\blog\post26\media\image1.jpeg" style="width:6.5in;height:4.33333in" alt="r/WarshipPorn - Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN 69) transits the Strait of Gibraltar [5319 × 3546]" />
 
 Part of the Soviet effort to disperse NATO’s efforts and weaken its
 ability to react to any one situation was to invest heavily in training
@@ -43,10 +41,7 @@ System and an army of over 50,000 troops. These forces have considerable
 combat experience, though they have also suffered some major defeats in
 combat.
 
-![Shocking new video shows Gaddafi&\#39;s body &\#39;being used by
-rebels as ghoulish ventriloquist&\#39;s doll&\#39; | Muammar gaddafi,
-African royalty, Military
-uniform](/assets/images/blog/post26/image2.jpeg)
+<img src="/assets\images\blog\post26\media\image2.jpeg" style="width:4.875in;height:6.36458in" alt="Shocking new video shows Gaddafi&amp;#39;s body &amp;#39;being used by rebels as ghoulish ventriloquist&amp;#39;s doll&amp;#39; | Muammar gaddafi, African royalty, Military uniform" />
 
 **Syria**: In the *Northern Fury* world, Syria’s Ba’athist regime did
 not make a move to cozy up to the west in the early 1990s because its
@@ -56,8 +51,7 @@ troublesome neighbor. Fielding over 600 combat aircraft, 40 vessels and
 an army of over 130,000 troops in three corps, Syria’s military was
 strong in the 1980s and continued to get stronger with Soviet support.
 
-![Russian cruiser Moskva -
-Wikipedia](/assets/images/blog/post26/image3.jpeg)
+<img src="/assets\images\blog\post26\media\image3.jpeg" style="width:6.5in;height:3.21736in" alt="Russian cruiser Moskva - Wikipedia" />
 
 **Algeria**: In the *Northern Fury* timeline, the 1992 election went
 ahead as planned and was not canceled; however, the Islamic Salvation
@@ -70,8 +64,7 @@ is large, an army of over 270,000 with about 150 fairly modern aircraft,
 several modern surface vessels and two very modern *Kilo*-class
 submarines.
 
-![A picture containing mountain, outdoor, sky, ship Description
-automatically generated](/assets/images/blog/post26/image4.jpeg)
+<img src="/assets\images\blog\post26\media\image4.jpeg" style="width:6.5in;height:4.33194in" alt="A picture containing mountain, outdoor, sky, ship Description automatically generated" />
 
 **Israel**: Israel remains staunchly pro-western, pro-American, and
 anti-Arab in the *Northern Fury* world. Boasting small but powerful,
@@ -85,9 +78,7 @@ helpful to NATO’s war effort. The Soviets, however, have no love for
 Israel and would be more than happy to cause a rift between it and NATO,
 as well as the Arab world.
 
-![2 F16 and one F15 Israeli Air Force fighter jets - License, download
-or print for £31.99 | Photos |
-Picfair](/assets/images/blog/post26/image5.jpeg)
+<img src="/assets\images\blog\post26\media\image5.jpeg" style="width:6.5in;height:4.33542in" alt="2 F16 and one F15 Israeli Air Force fighter jets - License, download or print for £31.99 | Photos | Picfair" />
 
 **Jordan**: The Kingdom of Jordan is a western ally with strong historic
 ties to the British and economic ties to the US. Jordan’s military is
@@ -98,8 +89,7 @@ about 60 Mirage F-1s and Northrop F-5s as well as helicopters and
 transport aircraft. Since Jordan only has 26 kilometers of coastline,
 the Navy’s 20+ fast patrol boats are quite adequate.
 
-![654 (cn R.1382) Northrop F-5E Tiger II Photo by Frank Noort |
-AIRFIGHTERS.COM](/assets/images/blog/post26/image6.jpeg)
+<img src="/assets\images\blog\post26\media\image6.jpeg" style="width:5in;height:2.8125in" alt="654 (cn R.1382) Northrop F-5E Tiger II Photo by Frank Noort | AIRFIGHTERS.COM" />
 
 **Egypt**: Egypt remains a balancing force in the region, having good
 relations with the US, Israel, and the Arab world. Domestically however,
@@ -113,9 +103,7 @@ latest being produced by Turkey, 70 Mirage-5s, 20 Mirage 2000s, and many
 other aircraft. The Navy operates four submarines and several dozen
 other ships.
 
-![A group of military planes flying in formation Description
-automatically generated with low
-confidence](/assets/images/blog/post26/image7.jpeg)
+<img src="/assets\images\blog\post26\media\image7.jpeg" style="width:6.5in;height:4.27778in" alt="A group of military planes flying in formation Description automatically generated with low confidence" />
 
 **Tunisia**: Tunisia is a stable country, completely under the thumb of
 President Ben Ali and his corrupt and despotic family. Attempts by the
@@ -130,8 +118,7 @@ by France form the core of Tunisia’s military. These are augmented by
 some Chinese patrol boats. Soviet ships have made regular port calls to
 Tunis over the past several years.
 
-![Type 037 corvette -
-Wikipedia](/assets/images/blog/post26/image8.jpeg)
+<img src="/assets\images\blog\post26\media\image8.jpeg" style="width:6.5in;height:3.37778in" alt="Type 037 corvette - Wikipedia" />
 
 **Morocco**: Although King Hassan II has no love for his Spanish
 neighbor to the north, the animosity towards Algeria over the long and
@@ -145,8 +132,7 @@ Mirage F.1s, as well as a Spanish *Descubierta*-class corvettes
 (*Errhamani)* equipped with Exocet missiles and four *Lazaga*-class
 patrol vessels based on the German *Albatros*-class but built in Spain.
 
-![Morocco (2012) -
-4Aviation](/assets/images/blog/post26/image9.jpeg)
+<img src="/assets\images\blog\post26\media\image9.jpeg" style="width:6.5in;height:2.73056in" alt="Morocco (2012) - 4Aviation" />
 
 **Scenarios**
 
@@ -160,9 +146,7 @@ scenarios you will constantly be reminded of this conundrum, first
 losing key /assets but then benefiting as others come streaming through
 your area from the Indian Ocean.
 
-![The Iowa going through the Straights of Gibraltar with the Rock in the
-background | Battleship, Us battleships, Us navy
-ships](/assets/images/blog/post26/image10.jpeg)
+<img src="/assets\images\blog\post26\media\image10.jpeg" style="width:6.5in;height:4.3875in" alt="The Iowa going through the Straights of Gibraltar with the Rock in the background | Battleship, Us battleships, Us navy ships" />
 
 From a NATO perspective, the force posture is strong at sea but somewhat
 thin for aircraft. After the Spanish NATO membership referendum in 1986,
@@ -190,13 +174,12 @@ Fury*) and Albania was a corrupt and crumbling state; tensions
 throughout the remainder of the Balkans were high as was NATO’s
 commitment to the UN Protection Force.
 
-![](/assets/images/blog/post26/image11.png)
+<img src="/assets\images\blog\post26\media\image11.png" style="width:5.69792in;height:3.60417in" />
 
-***Scenario
-list***
+***Scenario list***
 
 | Scen | Date          | Title                 | Description                                                                                                  | Remarks  |
-| ---- | ------------- | --------------------- | ------------------------------------------------------------------------------------------------------------ | -------- |
+|------|---------------|-----------------------|--------------------------------------------------------------------------------------------------------------|----------|
 | 1    | 13-15 Feb     | The Road to Bzantium  | Soviet air and amphibious assault on the Bosporus. Play as Soviet.                                           | Complete |
 | 2    | 13-14 Feb     | Syrian Surprise       | NATO forces in the Eastern Med preparing for an exercise and scrambling react to war.                        | Complete |
 | 3    | 14-16 Feb     | Casbah Crunch         | NATO consolidating forces as Libya launches an attack                                                        | Complete |
@@ -205,5 +188,5 @@ list***
 | 6    | 19-20 Feb     | Revisit the Stone Age | Nimitz takes over the fight to knock Syria out of the war.                                                   |          |
 | 7    | 22-23 Feb     | Push Back             | Nimitz & Ark Royal help clean up the Bosporus                                                                |          |
 | 8    | 25 Feb        | Regime Change         | Decisive strike on Libya                                                                                     |          |
-| 9    | 28 Feb, 1 Mar | Deep Strike           | Strike on Bulgaria                                                                                           |          |
-| 10   | 4-6 Mar       | Convoy Ho\!           | Major oil convoy with an amphibious twist                                                                    |          |
+| 9    | 28 Feb, 1 Mar | Bulgarian Strike      | Strike on Bulgaria                                                                                           |          |
+| 10   | 4-6 Mar       | Convoy Ho!            | Major oil convoy with an amphibious twist                                                                    |          |

@@ -11,7 +11,7 @@ reserve battalions are fully mobilized. Because of the focus on Norway
 in the Northern Fury Storyline, more detail is provided here than for
 other countries.
 
-![](/assets/images/nato/no/army/image1.png)
+<img src="/assets\images\nato\no\army\media\image1.png" style="width:6.0875in;height:6.66736in" />
 
 **Brigade Nord**
 
@@ -64,7 +64,7 @@ North and moving South these formations are:
 
 **6<sup>th</sup> Division Finmark**
 
-![](/assets/images/nato/no/army/image2.png)
+<img src="/assets\images\nato\no\army\media\image2.png" style="width:5.64722in;height:5.58056in" />
 
 A mix of Permanent Force, Reserves and Fortress units, the HQ is also
 located in Bardufoss. Brigade Nord, responds to national priorities and
@@ -81,14 +81,14 @@ Lillehammer. 12 Brigade is a good example of a ‘Type 90’ Brigade with an
 armoured battalion and two infantry battalions, each with four
 companies.
 
-![](/assets/images/nato/no/army/image3.png)
+<img src="/assets\images\nato\no\army\media\image3.png" style="width:4.51389in;height:5.60069in" />
 
 **V Brigade (Brigade West) Bergan**
 
 Another permanent force brigade, part way to the ‘Type 90’ standard, ‘V’
 Brigade would likely form the nucleus of a division in wartime.
 
-![](/assets/images/nato/no/army/image4.png)
+<img src="/assets\images\nato\no\army\media\image4.png" style="width:1.52014in;height:2.41389in" />
 
 **1<sup>st</sup> Division South**
 
@@ -98,20 +98,20 @@ reserve brigades and 14 independent garrisons round out the structure.
 In all likelihood these forces would form two divisions in wartime. Most
 of the trade schools are also located in this area.
 
-![](/assets/images/nato/no/army/image5.png)
+<img src="/assets\images\nato\no\army\media\image5.png" style="width:5.37361in;height:6.52083in" />
 
 **2<sup>nd</sup> Division Oslo**
 
 Finally the Oslo area has another concentration of units. The Kings
 Guard is a mix between Reserve and Permanent Force but is mobilized for
-ceremonial duties during the
-Olympics.
+ceremonial duties during the Olympics.
 
-![](/assets/images/nato/no/army/image6.png)
+<img src="/assets\images\nato\no\army\media\image6.png" style="width:3.18056in;height:5.47361in" />
 
 **Equipment:**
 
-**[Leopard 1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)**
+**[Leopard
+1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)**
 
 Like many other nations, Norway decided to purchase the Leopard 1 Main
 Battle Tank (MBT). A total of 172 MBTs were acquired in addition to
@@ -119,7 +119,7 @@ several specialist vehicles; 14 Armored Recovery Vehicles (ARV), 9
 Armored Vehicle Launched Bridges (AVLB) and 22 Armored Engineering
 Vehicles (AEV).
 
-![](/assets/images/nato/no/army/image7.jpeg)
+<img src="/assets\images\nato\no\army\media\image7.jpeg" style="width:4.22917in;height:2.82221in" />
 
 [**M48A5 Patton**](https://en.wikipedia.org/wiki/M48_Patton)
 
@@ -130,7 +130,7 @@ and used as an independent squadron in the Oslo area. The original tanks
 were retired 1993 when the last of the Leopard 1’s were put into service
 but they remain available in reserve.
 
-![](/assets/images/nato/no/army/image8.png)
+<img src="/assets\images\nato\no\army\media\image8.png" style="width:4.20833in;height:2.7974in" />
 
 [**NM-116 Super
 Chaffee**](http://sturgeonshouse.ipbhost.com/topic/1021-nm-116-norwegian-super-chaffee/)
@@ -144,7 +144,7 @@ light armored vehicles while the smoke and HE provided excellent support
 to infantry units. Although retired in 1994, they remain in service for
 Northern Fury.
 
-![](/assets/images/nato/no/army/image9.png)
+<img src="/assets\images\nato\no\army\media\image9.png" style="width:6.04167in;height:4.13542in" />
 
 [**NM-135**](https://en.wikipedia.org/wiki/NM135)
 
@@ -155,7 +155,7 @@ Northern Fury the total is increased to \~140. This would imply a
 corresponding reduction of the \~300 M113’s available but more M113s
 could easily be purchased if required.
 
-![](/assets/images/nato/no/army/image10.png)
+<img src="/assets\images\nato\no\army\media\image10.png" style="width:4.69792in;height:3.19527in" />
 
 [**BV206**](https://www.army-technology.com/projects/bv2065/)
 
@@ -166,7 +166,7 @@ posts and for several other tasks. The video at this
 [link](https://www.youtube.com/watch?v=uqzXueZS9NI) demonstrates the all
 terrain maneuverability.
 
-![](/assets/images/nato/no/army/image11.jpg)
+<img src="/assets\images\nato\no\army\media\image11.jpg" style="width:4.48958in;height:2.98761in" />
 
 **NM-142**
 
@@ -175,44 +175,44 @@ similar to the US M901. Norway has 100 of these variants and they work
 very closely with the NM-116 in the Anti-Tank companies of Infantry
 Brigades.
 
-![](/assets/images/nato/no/army/image12.jpeg)
+<img src="/assets\images\nato\no\army\media\image12.jpeg" style="width:6.5in;height:4.34722in" />
 
 **Artillery**
 
 The Norwegian Army had several artillery systems:
 
-  - Hundreds of 81mm Mortars
+-   Hundreds of 81mm Mortars
 
-  - 97x M-30F1 107mm Mortars
+-   97x M-30F1 107mm Mortars
 
-  - 28 M106A1 107mm Self Propelled (SP) Mortars
+-   28 M106A1 107mm Self Propelled (SP) Mortars
 
-  - 220x M101 105mm Howitzers
+-   220x M101 105mm Howitzers
 
-  - 126x M109A3GN 155mm SP Howitzers
+-   126x M109A3GN 155mm SP Howitzers
 
-  - 48x M114/39 155mm towed Howitzers (39 calibre barrel)
+-   48x M114/39 155mm towed Howitzers (39 calibre barrel)
 
-  - \~100x M114/23 155mm towed Howitzers (23 calibre barrel) in reserve.
+-   \~100x M114/23 155mm towed Howitzers (23 calibre barrel) in reserve.
 
-![](/assets/images/nato/no/army/image13.jpg)
+<img src="/assets\images\nato\no\army\media\image13.jpg" style="width:6.5in;height:4.33472in" />
 
 **Air Defense Systems**
 
 Several different Air Defense systems were in use. The RBS-70 was very
 modern and in the Permanent Force units.
 
-  - 108x RBS-70 SAMs
+-   108x RBS-70 SAMs
 
-  - 132x M1 40mm AA guns
+-   132x M1 40mm AA guns
 
-  - Numerous Bofors 40L60 and 40L70 AA guns
+-   Numerous Bofors 40L60 and 40L70 AA guns
 
-  - 20mm KK-202 towed AA guns
+-   20mm KK-202 towed AA guns
 
-  - 12.7mm Quad towed MGs
+-   12.7mm Quad towed MGs
 
-![](/assets/images/nato/no/army/image14.jpg)
+<img src="/assets\images\nato\no\army\media\image14.jpg" style="width:6.25in;height:4.16667in" />
 
 **Cessna O-1A Bird Dog Spotter Aircraft**
 
@@ -220,4 +220,4 @@ Very few militaries still used fixed wing spotter aircraft in 1994 but
 the Norwegian maintained 17 venerable Cessna Bird Dogs for artillery
 spotting.
 
-![](/assets/images/nato/no/army/image15.jpg)
+<img src="/assets\images\nato\no\army\media\image15.jpg" style="width:6.5in;height:2.66111in" />
