@@ -12,42 +12,42 @@ CTF-150 providing maritime security along the coast of Somalia and the
 Gulf of Aden. The Gary will be attached to Under Command the ESG at war
 start.
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image1.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\peleliu\image1.jpg" style="width:6.59375in;height:4.70982in" />
 
 ESG Peleliu
 
-  - LHA 5 USS Peleliu
-    
-      - Elem VMA-311 – 6x AV-8B Harrier II+
-    
-      - Elem HMLA-267 – 4x AH-1W and 4x UH-1N
-    
-      - HMM-166 – 12x CH-46E
-    
-      - Elem HMH-463 – 4x CH-53D
+-   LHA 5 USS Peleliu
 
-  - CG 34 USS Biddle
+    -   Elem VMA-311 – 6x AV-8B Harrier II+
 
-  - DD 992 USS Fletcher
-    
-      - Elem HSL-43 – 2x SH-60B
+    -   Elem HMLA-267 – 4x AH-1W and 4x UH-1N
 
-  - LPD 7 USS Cleveland
+    -   HMM-166 – 12x CH-46E
 
-  - LSD 39 USS Mount Vernon
+    -   Elem HMH-463 – 4x CH-53D
 
-  - LST 1186 USS Cayuga (Detached)
+-   CG 34 USS Biddle
 
-  - LST 1195 USS Barbour County (Detached)
+-   DD 992 USS Fletcher
 
-  - 13<sup>th</sup> MEU (Special Operations Capable)
+    -   Elem HSL-43 – 2x SH-60B
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image2.jpg)
+-   LPD 7 USS Cleveland
+
+-   LSD 39 USS Mount Vernon
+
+-   LST 1186 USS Cayuga (Detached)
+
+-   LST 1195 USS Barbour County (Detached)
+
+-   13<sup>th</sup> MEU (Special Operations Capable)
+
+<img src="/assets\images\nato\us\navy\amphibious\peleliu\image2.jpg" style="width:6.5in;height:4.64097in" />
 
 *LHA 5 USS Peleliu*, in this photo it is accompanied by *LPD 5 USS
 Ogden* and *LSD 42 USS Germantown*
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image3.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\peleliu\image3.jpeg" style="width:6.57292in;height:4.39669in" />
 
 *CG 34 USS Biddle*, a Belknap class cruiser, the last conventionally
 powered cruiser constructed before the Ticonderoga class. She has
@@ -55,7 +55,7 @@ undergone a New Threat Upgrade (NTU) making her a moderately capable Air
 Defence ship with modern radars and 50 ‘Standard’ SM-2 missiles fired
 from a twin rail launcher.
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image4.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\peleliu\image4.jpg" style="width:6.55208in;height:4.6786in" />
 
 *DD 992 USS Fletcher* is a fully modernized Spruance class destroyer.
 She is one of the best ASW ships available and has a vertical launch
@@ -63,7 +63,7 @@ system with 45 Tomahawk Land Attack Cruise Missiles (T-LAM). Her air
 defences are relatively weak but her embarked helicopters provide
 significant flexibility.
 
-![](/assets/images/nato/us/navy/amphibious/peleliu/image5.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\peleliu\image5.jpeg" style="width:6.5in;height:4.26389in" />
 
 *FFG 51 USS Gary* is a ‘Long Hull’ Oliver Hazard Perry (OHP) class
 frigate with SH-60 helicopters. She is a very capable well rounded ship.

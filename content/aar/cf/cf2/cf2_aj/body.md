@@ -1,6 +1,6 @@
 **Caribbean Fury \#2 – Retribution**
 
-**<span class="underline">Playtest Report by AndrewJ Sept 2018</span>**
+**<u>Playtest Report by AndrewJ Sept 2018</u>**
 
 **SITUATION**
 
@@ -81,8 +81,8 @@ operating out of Central or South America. Something to keep an eye on.
 
 Meanwhile, the Kennedy group, which has been sailing along in a stately
 fashion while rearranging its formation, suddenly reports torpedoes
-coming in from behind\! The startled group accelerates as fast as it
-can, while launching helicopters and S-3s down the torpedo bearing, and
+coming in from behind! The startled group accelerates as fast as it can,
+while launching helicopters and S-3s down the torpedo bearing, and
 fortunately the torpedoes run out of fuel before they reach us. It seems
 the sub captain fired a little early. The S-3 soon picks up the contact,
 and sends the Kilo to the grave, and the Kennedy group resumes course.
@@ -128,45 +128,45 @@ flight of F-16s on CAP salvo their Sparrows at it and shoot it down, and
 then turn and start burnering back home for a quick turnaround. As soon
 as they're too far away to be of further use, multiple enemy planes
 start lifting off out of the two Havana airbases. Judging by their
-emissions, at least some of them are Fencers. Alas, poor Suribachi\!
+emissions, at least some of them are Fencers. Alas, poor Suribachi!
 You've been spotted...
 
 With nothing on CAP over the Suribachi I start desperately scrambling
 planes out of Key West and Homestead, and burnering them towards my
 ships. (I've got no F-14s up in the area. Some are escorting the S-3 out
 west, some are hunting the Bear out east, and I've decided to 'save' the
-ones on ship for the strike later in the day. Not good\!) The first of
-my planes make it in just before the enemy, and they manage to shoot
-down a swarm of incoming Mig-21s, but now fighters of all sorts are
-launching out of the Cuban airbases (including Mig-31s - I thought those
-would be held in reserve\!), and missiles start flying in all
-directions. I could open up with the SAM on my frigate, but two of the
-Su-24s are hanging back, and that means they've probably got ARMs, so
-the radar stays off for the moment. The desperate fighter combat
-continues at wave-top level, and at least I'm better there than the
-Mig-31s, which are fairly clumsy down low, and I manage to claim a
-couple, much to my delight. The incoming flight of Su-24s, presumably
-trying to bomb, are shot down, and I manage to wing one of the ARM
-carriers (making them drop their loadout and RTB), so the frigate
-finally manages to take a couple of shots. In the end it's desperately
-close, but I manage to keep the enemy from firing on my ships, although
-some of my fighters are damaged or lost in the process.
+ones on ship for the strike later in the day. Not good!) The first of my
+planes make it in just before the enemy, and they manage to shoot down a
+swarm of incoming Mig-21s, but now fighters of all sorts are launching
+out of the Cuban airbases (including Mig-31s - I thought those would be
+held in reserve!), and missiles start flying in all directions. I could
+open up with the SAM on my frigate, but two of the Su-24s are hanging
+back, and that means they've probably got ARMs, so the radar stays off
+for the moment. The desperate fighter combat continues at wave-top
+level, and at least I'm better there than the Mig-31s, which are fairly
+clumsy down low, and I manage to claim a couple, much to my delight. The
+incoming flight of Su-24s, presumably trying to bomb, are shot down, and
+I manage to wing one of the ARM carriers (making them drop their loadout
+and RTB), so the frigate finally manages to take a couple of shots. In
+the end it's desperately close, but I manage to keep the enemy from
+firing on my ships, although some of my fighters are damaged or lost in
+the process.
 
 Shortly before 10:00 my heavy SEAD strike begins, bringing in
 essentially everything I have, and attacking from the north and south
 simultaneously. First shots are taken by my TALD-carrying F-14s, but the
 Cubans show their contempt for the decoys by shooting at the planes
-instead\! Once again their tactics are rendering my decoys useless.
-Heavy strikes by HARMs and Shrikes manage to shut down the big
-radar-guided SAMs. Enemy fighters popping up are a real problem,
-shooting before I can get a shot off at them, but fortunately they spend
-most of their missiles trying to hit my ARMs. This time I have plenty of
-Phoenixes waiting for them, so they don't manage to land in one piece.
-With the major high-altitude SAMs destroyed, Maverick carrying planes
-move in to deal with SHORADs and the numerous MANPADs that ring the
-combat zone, as well as swarms of AAA in my immediate target areas. This
-allows my planes with iron bombs (and I have a lot of them) to inflict
-heavy damage on soft targets and troop concentrations in the area of
+instead! Once again their tactics are rendering my decoys useless. Heavy
+strikes by HARMs and Shrikes manage to shut down the big radar-guided
+SAMs. Enemy fighters popping up are a real problem, shooting before I
+can get a shot off at them, but fortunately they spend most of their
+missiles trying to hit my ARMs. This time I have plenty of Phoenixes
+waiting for them, so they don't manage to land in one piece. With the
+major high-altitude SAMs destroyed, Maverick carrying planes move in to
+deal with SHORADs and the numerous MANPADs that ring the combat zone, as
+well as swarms of AAA in my immediate target areas. This allows my
+planes with iron bombs (and I have a lot of them) to inflict heavy
+damage on soft targets and troop concentrations in the area of
 operations. When the raid departs, around noon, I'm confident I've
 cleared the air defenses around the targets. I've not attacked the
 airfields directly though, so if they've got anything more lurking in
@@ -180,7 +180,7 @@ activity near the 62nd Division barracks, so I ferry some of my
 conventional attack planes from Key west and Homestead over to Nassau.
 They won't be making attacks in the dark, so they can rest overnight and
 be ready to defend Guantanamo Bay if it is attacked in the morning. The
-Commando Solo (with escort\!) flies to the Havana coast and starts
+Commando Solo (with escort!) flies to the Havana coast and starts
 broadcasting reruns of 'I Love Lucy', to demonstrate how well America
 understands the common Cuban man.
 
@@ -219,7 +219,7 @@ inbound. I've already bombed and destroyed the troop concentrations in
 the region, so I'm expecting local militia resistance, if anything.
 Probably light infantry, and a few soft vehicles. What I get is a
 mechanized infantry quick response force in quick lightly armoured
-BTR-60s\! Uh-oh... Fortunately they're some distance away in the hills,
+BTR-60s! Uh-oh... Fortunately they're some distance away in the hills,
 so I've got a bit of time. I scramble night-vision equipped F-18s from
 the Kennedy and Key West, while the AC-130 bores in. Unfortunately, that
 turns out to be a rather clumsy thing to operate, nowhere nearly as
@@ -255,7 +255,7 @@ but line troops.) While that's happening, fighter probes towards Holguin
 prompt several more MiG-23s to lift off and get shot down.
 Reconnaissance along the coast near Santiago de Cuba reveals that the
 SA-10 there is too close to the escarpment, and I can actually pop up
-over the ridge and get within its minimum range before it can react\!
+over the ridge and get within its minimum range before it can react!
 F-14s manage to strafe it and put it out of commission, which gives me
 much more freedom of maneuver. (Post-war analysis was later to reveal
 that this battery was actually out of ammunition, and only serving a

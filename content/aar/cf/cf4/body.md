@@ -2,8 +2,7 @@
 
 19 Feb 1994, 1800 Zulu, 1400 Local
 
-![Stealth appears on Red Flag&\#39;s
-Radar](/assets/images/aar/cf/cf4/image1.jpeg)
+<img src="/assets\images\aar\cf\cf4\image1.jpeg" style="width:6.5in;height:2.83819in" alt="Stealth appears on Red Flag&amp;#39;s Radar" />
 
 The threat from Cuba, Honduras and Nicaragua have now been neutralized,
 the insurgency in Belize has at least been contained and the one in
@@ -24,20 +23,16 @@ Council that by using stealth technology, they cold conduct a covert
 strike to destroy the Soviet footprint while getting away undetected and
 leave the Venezuelan population none the wiser.
 
-![F-117 Nighthawk Stealth Fighter
-Profile](/assets/images/aar/cf/cf4/image2.jpeg)
+<img src="/assets\images\aar\cf\cf4\image2.jpeg" style="width:6.5in;height:4.55417in" alt="F-117 Nighthawk Stealth Fighter Profile" />
 
-\----------------
+----------------
 
-**<span class="underline">Caribbean Fury \#4</span>** In this scenario
-you fill the role of Commander 49<sup>th</sup> Fighter Wing, US Air
-Force. With a combination of F-117 Strike Fighters, a B-2 Stealth Bomber
-and reconnaissance from an SR-71 you are to conduct a strike on Manodez
-Air Base in Venezuela. In addition to destroying any Soviet aircraft
-located there, your targets include communications and command
-infrastructure being used by the Soviet ‘advisors’ in Venezuela. You are
-not to be detected.
+**<u>Caribbean Fury \#4</u>** In this scenario you fill the role of
+Commander 49<sup>th</sup> Fighter Wing, US Air Force. With a combination
+of F-117 Strike Fighters, a B-2 Stealth Bomber and reconnaissance from
+an SR-71 you are to conduct a strike on Manodez Air Base in Venezuela.
+In addition to destroying any Soviet aircraft located there, your
+targets include communications and command infrastructure being used by
+the Soviet ‘advisors’ in Venezuela. You are not to be detected.
 
-![SR-71 Blackbird: The Cold War spy plane that&\#39;s still the
-world&\#39;s fastest airplane - CNN
-Style](/assets/images/aar/cf/cf4/image3.jpeg)
+<img src="/assets\images\aar\cf\cf4\image3.jpeg" style="width:6.5in;height:3.65764in" alt="SR-71 Blackbird: The Cold War spy plane that&amp;#39;s still the world&amp;#39;s fastest airplane - CNN Style" />

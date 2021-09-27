@@ -18,11 +18,10 @@ would be assigned to various pre-arranged *Fronts* in wartime.
 Command of the Far East HQ in Vladivostok, and is primarily responsible
 for supporting the Pacific Fleet and should there be difficulties with
 China or Korea, support the army forces involved. A squadron of MiG-29
-is usually located at Cam Ranh Bay Naval Base in southern Viet
-Nam.
+is usually located at Cam Ranh Bay Naval Base in southern Viet Nam.
 
 | Corps/Army | Division                     | Regiment                   | Location       | Number | Aircraft type | Remarks             |
-| ---------- | ---------------------------- | -------------------------- | -------------- | ------ | ------------- | ------------------- |
+|------------|------------------------------|----------------------------|----------------|--------|---------------|---------------------|
 |            | 28<sup>th</sup> Ftr          | 216<sup>th</sup> Ftr       | Komsomolsk     | 41     | Su-27S        |                     |
 |            |                              | 302<sup>nd</sup> Ftr       | Khabarovsk     | 41     | MiG-29A       |                     |
 |            |                              | 404<sup>th</sup> Ftr       | Orlovka        | 41     | MiG-29M       |                     |
@@ -42,14 +41,13 @@ Nam.
 |            |                              | 799<sup>th</sup> Ind Recon | Varfolomeevka  | 6      | Su-24MR       |                     |
 |            |                              | 257<sup>th</sup> Ind Mixed | Khabarovsk     |        | Various       |                     |
 
-![](/assets/images/warsaw/su/air/vvs/image1.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image1.jpg" style="width:6.03125in;height:4.02083in" />
 
 **4<sup>th</sup> Air Army**: Displaced from Poland in 1989 and largely
-dispersed this force resides in the Ukraine and will reinforce
-westward.
+dispersed this force resides in the Ukraine and will reinforce westward.
 
 | Corps/Army | Division                 | Regiment                 | Location        | Number | Aircraft type | Remarks |
-| ---------- | ------------------------ | ------------------------ | --------------- | ------ | ------------- | ------- |
+|------------|--------------------------|--------------------------|-----------------|--------|---------------|---------|
 |            | 131<sup>st</sup> RB Ftr  | 114<sup>th</sup> RB Ftr  | Ivano-Frankovsk | 41     | Su-27S        |         |
 |            |                          | 192<sup>nd</sup> Ftr     | Ivano-Frankovsk | 45     | MiG-23MLA     |         |
 |            | 30<sup>th</sup> Ftr-Bmbr | 58<sup>th</sup> Ftr-Bmbr | Step            | 41     | Su-17M2       |         |
@@ -57,7 +55,7 @@ westward.
 |            |                          | 26<sup>th</sup> Gds Bmbr | Uchastok        | 41     | Su-17M3       |         |
 | Army Units |                          | 153<sup>rd</sup> Mix Sqn | Kishinev        |        | Various       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image2.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image2.jpg" style="width:6.4in;height:3.54667in" />
 
 **5<sup>th</sup> Air Army**: Reporting to Odessa MD this Air Army will
 likely be committed to the Western Military Direction as a second
@@ -65,11 +63,10 @@ echelon air force, or it could easily support the Southwestern Military
 Direction in either the Balkans or Turkey, it comprises a large number
 of independent regiments which could indicate that it will not be
 committed as a whole and could farm out its units individually and form
-a mobilization HQ for activating reserve
-elements.
+a mobilization HQ for activating reserve elements.
 
 | Corps/Army | Division                 | Regiment                     | Location    | Number | Aircraft type | Remarks       |
-| ---------- | ------------------------ | ---------------------------- | ----------- | ------ | ------------- | ------------- |
+|------------|--------------------------|------------------------------|-------------|--------|---------------|---------------|
 |            | 119<sup>th</sup> RB Ftr  | 86<sup>th</sup> Gds Ftr      | Markuleshty | 41     | MiG-29SM      |               |
 |            |                          | 161<sup>st</sup> Ftr         | Limanskoye  | 41     | MiG-29SM      |               |
 |            |                          | 841<sup>st</sup> Gds RB Ftr  | Meria       | 52     | MiG-23M       |               |
@@ -86,17 +83,16 @@ elements.
 |            |                          | 112<sup>th</sup> Mix Sqn     | Odessa      |        | Various       |               |
 |            |                          | 208<sup>th</sup> Ind EW Sqn  | Buyalyk     | 14     | Mi-8PPA       |               |
 
-![](/assets/images/warsaw/su/air/vvs/image3.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image3.jpg" style="width:9.02778in;height:5.40278in" />
 
 **14<sup>th</sup> Air Army:** The primary responsibility of this force
 is to reinforce the South Western Military Direction and very likely the
 1<sup>st</sup> Bulgarian Front attacking into Greece and Turkey. A
 secondary option would be to reinforce 36<sup>th</sup> Air Army further
-west fighting NATO forces over the
-Balkans.
+west fighting NATO forces over the Balkans.
 
 | Corps/Army | Division              | Regiment                    | Location        | Number | Aircraft type | Remarks |
-| ---------- | --------------------- | --------------------------- | --------------- | ------ | ------------- | ------- |
+|------------|-----------------------|-----------------------------|-----------------|--------|---------------|---------|
 |            | 4<sup>th</sup> Ftr    | 92<sup>nd</sup> Ftr         | Mukachevo       | 39     | MiG-29A       |         |
 |            |                       | 145<sup>th</sup> Ftr        | Ivano-Frankovsk | 41     | MiG-29A       |         |
 |            |                       | 916<sup>th</sup> RB Ftr     |                 | 41     | Su-27S        |         |
@@ -111,17 +107,16 @@ Balkans.
 |            |                       | 234<sup>th</sup> Ind Mix    | Lvov            |        | Various       |         |
 |            |                       | 209<sup>th</sup> Ind EW Sqn |                 | 11     | Mi-8PPA       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image4.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image4.jpg" style="width:8.88889in;height:6in" />
 
 **15<sup>th</sup> Air Army**: Based in the Baltics this army will work
 closely with Baltic Fleet and 26<sup>th</sup> Air Army units along the
 Baltic coast. Not a large army and dependent on others to provide air
 superiority, although the newly added regiment of Su-30s should go a
-long way to fixing that
-issue.
+long way to fixing that issue.
 
 | Corps/Army | Division                 | Regiment                     | Location     | Number | Aircraft type   | Remarks |
-| ---------- | ------------------------ | ---------------------------- | ------------ | ------ | --------------- | ------- |
+|------------|--------------------------|------------------------------|--------------|--------|-----------------|---------|
 |            | 39<sup>th</sup> Ftr-Bmbr | 53<sup>rd</sup> Gds Ftr-Bmbr | Siauliai     | 36     | MiG-27D         |         |
 |            |                          |                              |              | 11     | MiG-23UM        |         |
 |            |                          | 372<sup>nd</sup> Ftr-Bmbr    | Borisoglebsk | 36     | MiG-27D         |         |
@@ -136,18 +131,17 @@ issue.
 |            |                          |                              | Riga-Skulte  |        | Var Tpt         |         |
 |            |                          | 285<sup>th</sup> Ind EW Sqn  |              | 19     | Mi-8PPA         |         |
 
-![](/assets/images/warsaw/su/air/vvs/image5.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image5.jpg" style="width:8in;height:5.33333in" />
 
 **16<sup>th</sup> Air Army**: Formerly based in East Germany, this Air
 Army re-deployed to Czechoslovakia with the exception of a few units
 which deployed back to the Soviet Union, mostly to Moscow Military
 District. Of all Soviet VVS forces this Army is held at the highest
 state of readiness and its presence has improved Czechoslovakian
-training as
-well.
+training as well.
 
 | Corps/Army | Division                   | Regiment                      | Location     | Number | Aircraft type | Remarks     |
-| ---------- | -------------------------- | ----------------------------- | ------------ | ------ | ------------- | ----------- |
+|------------|----------------------------|-------------------------------|--------------|--------|---------------|-------------|
 |            | 16<sup>th</sup> Gds RB Ftr | 33<sup>rd</sup> Ftr           | Milovice     | 32     | MiG-29SMT     | 2 MiG-23UM  |
 |            |                            | 773<sup>rd</sup> Ftr          | Kbely        | 31     | MiG-29M       | 3 MiG-23UM  |
 |            |                            | 787<sup>th</sup> Ftr          | Ruzyně       | 31     | MiG-29M       | 2 MiG-23UM  |
@@ -175,15 +169,14 @@ well.
 |            |                            | 292<sup>nd</sup> Ind EW Sqn   | Kbely        | 11     | Mi-8PPA       |             |
 |            |                            | 39<sup>th</sup> Ind Recon Sqn | Brataslava   | 8      | Su-17M3R      |             |
 
-![](/assets/images/warsaw/su/air/vvs/image6.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image6.jpg" style="width:14.20833in;height:9.48611in" />
 
 **17<sup>th</sup> Air Army**: Primarily focused on basic and advanced
 training for the entire VVS, this Army is under command of the Kiev
-Military District and produces thousands of trained pilots every
-year.
+Military District and produces thousands of trained pilots every year.
 
 | Corps/Army | Division         | Regiment                    | Location       | Number | Aircraft type | Remarks |
-| ---------- | ---------------- | --------------------------- | -------------- | ------ | ------------- | ------- |
+|------------|------------------|-----------------------------|----------------|--------|---------------|---------|
 |            |                  | 255<sup>th</sup> Mixed      | Borispol       | 2      | Tu-134        |         |
 |            |                  |                             |                | 2      | Tu-154        |         |
 |            |                  |                             |                | 7      | Mi-8          |         |
@@ -204,17 +197,16 @@ year.
 |            |                  | 228<sup>th</sup> Trg        | Bagerovo       | 120    | MiG-21bis     |         |
 |            |                  |                             |                | 20     | L-29          |         |
 
-![](/assets/images/warsaw/su/air/vvs/image7.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image7.jpg" style="width:13.33333in;height:12.07292in" />
 
 **23<sup>rd</sup> Air Army**: A relatively small Air Army located in the
 Trans Baikal region. Primarily situated to support action in China, if
 there is no threat in this region this force of primarily
 Fighter-Bombers is ideally situated to reinforce the Far Eastern
-Military District and the Pacific
-Fleet.
+Military District and the Pacific Fleet.
 
 | Corps/Army | Division             | Regiment                     | Location | Number | Aircraft type | Remarks   |
-| ---------- | -------------------- | ---------------------------- | -------- | ------ | ------------- | --------- |
+|------------|----------------------|------------------------------|----------|--------|---------------|-----------|
 |            | 21<sup>st</sup> Bmbr | 2<sup>nd</sup> Gds Bmbr      | Dzhida   | 24     | Su-24M        |           |
 |            |                      | 21<sup>st</sup> Bmbr         | Bada     | 24     | Su-24M        |           |
 | Army Units |                      | 189<sup>th</sup> Gds Ftr-Bmr | Borzya-2 | 24     | Su-24M        |           |
@@ -227,17 +219,16 @@ Fleet.
 |            |                      | 36<sup>th</sup> Ind Mixed    | Chita    |        | Various       |           |
 |            |                      | 150<sup>th</sup> Ind Mixed   | Ulan-Ude |        | Various       |           |
 
-![](/assets/images/warsaw/su/air/vvs/image8.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image8.jpg" style="width:7.63889in;height:5.44444in" />
 
 **24<sup>rd</sup> Air Army (VKG ON)**: Located in western Ukraine and
 Belarus, this force has been tasked with nuclear strike in the past and
 therefore could be placed under the control of the VKG, however over 150
 Su-24 with plenty of fighter and electronic support would make a welcome
-reinforcement to any
-Front.
+reinforcement to any Front.
 
 | Corps/Army | Division                | Regiment                   | Location          | Number | Aircraft type | Remarks |
-| ---------- | ----------------------- | -------------------------- | ----------------- | ------ | ------------- | ------- |
+|------------|-------------------------|----------------------------|-------------------|--------|---------------|---------|
 |            | 32<sup>nd</sup> Bmbr    | 7<sup>th</sup> Bmbr        | Starokonstantinov | 29     | Su-24M        |         |
 |            |                         | 727<sup>th</sup> Bmbr      | Kanatovo          | 30     | Su-24M        |         |
 |            |                         | 953<sup>rd</sup> Bmbr      | Bobrovichi        | 28     | Su-24         |         |
@@ -251,16 +242,15 @@ Front.
 |            |                         |                            |                   | 37     | Yak-28PP      |         |
 |            |                         | 511<sup>th</sup> Ind Recon | Buyalyk           | 6      | Su-24MR       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image9.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image9.jpg" style="width:11.58333in;height:8.68056in" />
 
 **26<sup>th</sup> Air Army**: Based in Belorussia, the primary task of
 this force is to back up any fight in Europe. Equipped with many of the
 latest aircraft, this Air Army would provide depth and challenge NATO’s
-latest fighter
-forces.
+latest fighter forces.
 
 | Corps/Army | Division                | Regiment                     | Location        | Number | Aircraft type | Remarks |
-| ---------- | ----------------------- | ---------------------------- | --------------- | ------ | ------------- | ------- |
+|------------|-------------------------|------------------------------|-----------------|--------|---------------|---------|
 |            | 1<sup>st</sup> Gds Bmbr | 116<sup>th</sup> Gds RB Bmbr | Ross            | 30     | Su-24M        |         |
 |            |                         | 305<sup>th</sup> Bmbr        | Postavy         | 30     | Su-24M        |         |
 |            |                         | 497<sup>th</sup> Bmbr        | Lida            | 29     | Su-24         |         |
@@ -294,7 +284,7 @@ forces.
 |            |                         |                              |                 | 15     | MiG-21R       |         |
 |            |                         | 302<sup>nd</sup> Ind EW Sqn  |                 | 13     | Mi-8PPA       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image10.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image10.jpg" style="width:12.5in;height:8.33333in" />
 
 **34<sup>th</sup> Air Army**: Located in the Transcaucian region and
 primarily responsible for eastern Turkey and Iran, in Northern Fury, a
@@ -306,7 +296,7 @@ while elements of the 36<sup>th</sup> Bomber Division are in Yemen and
 Iran.
 
 | Corps/Army | Division                | Regiment                     | Location        | Number | Aircraft type | Remarks   |
-| ---------- | ----------------------- | ---------------------------- | --------------- | ------ | ------------- | --------- |
+|------------|-------------------------|------------------------------|-----------------|--------|---------------|-----------|
 |            | 283<sup>rd</sup> RB Ftr | 176<sup>th</sup> Ftr         | Sennoy          | 41     | MiG-29S       | 4 MiG-23U |
 |            |                         | 843<sup>rd</sup> Ftr         | Meria           | 52     | MiG-23M       |           |
 |            |                         | 982<sup>nd</sup> Ftr         | Tambov          | 44     | MiG-23MLD     |           |
@@ -325,7 +315,7 @@ Iran.
 |            |                         | 300<sup>th</sup> Ind Mix Sqn | Kala            |        | Various       |           |
 |            |                         | 286<sup>th</sup> Ind EW Sqn  | Dallyar         | 17     | Mi-8PPA       |           |
 
-![](/assets/images/warsaw/su/air/vvs/image11.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image11.jpg" style="width:6.66667in;height:3.78125in" />
 
 **36<sup>th</sup> Air Army**: Reinforcing the Army units’ based in
 Hungary, this Air Army, although small has some of the most advanced
@@ -333,7 +323,7 @@ aircraft. The primary role will be to defeat NATO air forces based in
 Italy.
 
 | Corps/Army | Division                   | Regiment                    | Location      | Number | Aircraft type | Remarks      |
-| ---------- | -------------------------- | --------------------------- | ------------- | ------ | ------------- | ------------ |
+|------------|----------------------------|-----------------------------|---------------|--------|---------------|--------------|
 |            | 11<sup>th</sup> Gds RB Ftr | 5<sup>th</sup> Gds RB Ftr   | Sármellék     | 41     | MiG-29SM      |              |
 |            |                            | 14<sup>th</sup> Gds RB Ftr  | Khalino-Kursk | 41     | MiG-29A       | 9 MiG-23UM   |
 |            |                            | 515<sup>th</sup> Ftr        | Tököl         | 34     | MiG-29SMT     |              |
@@ -345,15 +335,14 @@ Italy.
 |            |                            | 201<sup>st</sup> Ind Mixed  | Tököl         |        | Various       |              |
 |            |                            | 294<sup>th</sup> Ind EW Sqn | Debrecen      | 17     | Mi-8PPA       |              |
 
-![](/assets/images/warsaw/su/air/vvs/image12.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image12.jpg" style="width:5in;height:3.33333in" />
 
 **49<sup>th</sup> Air Army**: Located in Turkestan the main role of this
 Air Army is to reinforce into the Persian Gulf or Turkey, whichever
-requires more
-effort.
+requires more effort.
 
 | Corps/Army | Division                 | Regiment                     | Location        | Number | Aircraft type | Remarks |
-| ---------- | ------------------------ | ---------------------------- | --------------- | ------ | ------------- | ------- |
+|------------|--------------------------|------------------------------|-----------------|--------|---------------|---------|
 |            | 34<sup>th</sup> Ftr-Bmbr | 136<sup>th</sup> Ftr-Bmbr    | Chirchik        | 41     | Su-17M3       |         |
 |            |                          | 217<sup>th</sup> Ftr-Bmbr    | Kzyl-Arvat      | 41     | Su-17M3       |         |
 | Army Units |                          | 155<sup>th</sup> Gds Ind Ftr | Kokaydy         | 45     | MiG-29        |         |
@@ -363,15 +352,14 @@ effort.
 |            |                          |                              |                 | 24     | Su-17M2R      |         |
 |            |                          | 47<sup>th</sup> Ind Mix      | Ak-Tepe         |        | Various       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image13.jpeg)
+<img src="/assets\images\warsaw\su\air\vvs\image13.jpeg" style="width:4.66667in;height:2.9in" />
 
 **73<sup>rd</sup> Air Army**: Equipped with second line aircraft this
 Air Army conducts some advanced training as well as reinforcing forces
-in either Central Asia, Turkey or the Persian
-Gulf.
+in either Central Asia, Turkey or the Persian Gulf.
 
 | Corps/Army | Division                 | Regiment                   | Location     | Number | Aircraft type | Remarks |
-| ---------- | ------------------------ | -------------------------- | ------------ | ------ | ------------- | ------- |
+|------------|--------------------------|----------------------------|--------------|--------|---------------|---------|
 |            | 24<sup>th</sup> Ftr Bmbr | 129<sup>th</sup> Ftr Bmbr  | Taldy-Kurgan | 45     | MiG-23BN      |         |
 |            |                          | 134<sup>th</sup> Ftr Bmbr  | Zhangiz-Tobe | 45     | MiG-23BN      |         |
 |            | 10<sup>Th</sup> Trg Ctr  | 27<sup>th</sup> Gds Ftr    |              | 60     | MiG-21bis     |         |
@@ -384,17 +372,16 @@ Gulf.
 |            |                          | 381<sup>st</sup> Ind Recon | Chimkent     |        | Su-17M3R      |         |
 |            |                          | 218<sup>th</sup> Ind Mix   | Alma-Ata     |        | Various       |         |
 
-![](/assets/images/warsaw/su/air/vvs/image14.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image14.jpg" style="width:13.125in;height:8.57292in" />
 
 **76<sup>th</sup> Air Army**: Although headquartered in Leningrad, the
 primary focus of this Air Army is power projection in the north into
 Norway and the rest of Scandinavia. Equipped with about 120 each of
 Su-27 and Su-24, this force should easily overpower NATO defences in the
-north, especially when reinforced for the
-operation.
+north, especially when reinforced for the operation.
 
 | Corps/Army | Division              | Regiment                     | Location    | Number | Aircraft type | Remarks |
-| ---------- | --------------------- | ---------------------------- | ----------- | ------ | ------------- | ------- |
+|------------|-----------------------|------------------------------|-------------|--------|---------------|---------|
 |            | 149<sup>th</sup> Bmbr | 3<sup>rd</sup> Bmbr          | Lebyazhe    | 20     | Su-24         |         |
 |            |                       | 42<sup>nd</sup> Gds Bmbr     | Levashovo   | 25     | Su-24M        |         |
 |            |                       | 89<sup>th</sup> Bmbr         | Siverskaya  | 25     | Su-24M        |         |
@@ -412,7 +399,7 @@ operation.
 |            |                       | 138<sup>th</sup> Ind Mixed   | Levashovo   |        | Various       |         |
 |            |                       | 227<sup>th</sup> Ind EW Sqn  | Levashovo   | 15     | Mi-8PPA       | SMV     |
 
-![](/assets/images/warsaw/su/air/vvs/image15.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image15.jpg" style="width:6.45833in;height:3.69792in" />
 
 **Moscow Military District:** In addition to providing reinforcing
 forces forward, the air forces of the Moscow Military District are
@@ -422,11 +409,10 @@ likely to be broken up as replacements rather than going to war with
 three or four different aircraft types in a regiment. Much of the
 training, particularly in 4<sup>th</sup> Training Division is specific
 to aircraft type, these will also likely provide ready replacements into
-combat
-units.
+combat units.
 
 | Corps/Army     | Division             | Regiment                     | Location       | Number | Aircraft type | Remarks       |
-| -------------- | -------------------- | ---------------------------- | -------------- | ------ | ------------- | ------------- |
+|----------------|----------------------|------------------------------|----------------|--------|---------------|---------------|
 |                | 9<sup>th</sup> Mixed | 32<sup>nd</sup> Gds Ftr      | Shatalovo      | 45     | MiG-23MLD     |               |
 |                |                      | 234<sup>th</sup> Gds RB Ftr  | Kubinka        | 16     | Su-27         | Demonstration |
 |                |                      |                              |                | 16     | MiG-29S       |               |
@@ -468,15 +454,14 @@ units.
 |                |                      | 652<sup>nd</sup> Trg         | Tambov         | 96     | L-29          |               |
 |                |                      |                              |                |        | Tu-134UBL     |               |
 
-![](/assets/images/warsaw/su/air/vvs/image16.jpeg)
+<img src="/assets\images\warsaw\su\air\vvs\image16.jpeg" style="width:10.58056in;height:7.93542in" />
 
 **North Caucasus Military District:** Almost exclusively devoted to
 training of Fighter Bomber units, this Air Command also conducts a
-significant amount of basic flight training as
-well.
+significant amount of basic flight training as well.
 
 | Corps/Army | Division       | Regiment                   | Location    | Number | Aircraft type | Remarks     |
-| ---------- | -------------- | -------------------------- | ----------- | ------ | ------------- | ----------- |
+|------------|----------------|----------------------------|-------------|--------|---------------|-------------|
 |            |                | 138<sup>th</sup> Ind Mixed | Rostov      |        | Various       |             |
 |            | 1070 Trg Ctr   | 707<sup>th</sup> Trg       | Lebyazhe    | 46     | MiG-23BN      |             |
 |            |                |                            |             | 46     | MiG-23UB      |             |
@@ -503,28 +488,26 @@ well.
 |            |                |                            |             | 70     | Su-22         |             |
 |            |                | 960<sup>th</sup> Trg       | Primorsko   | 120    | L-39          |             |
 
-![](/assets/images/warsaw/su/air/vvs/image17.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image17.jpg" style="width:10.66667in;height:8in" />
 
 **Siberian Military District:** Focused entirely on basic flight and
-basic fighter/interceptor
-training.
+basic fighter/interceptor training.
 
 | Corps/Army     | Division | Regiment            | Location    | Number | Aircraft type | Remarks |
-| -------------- | -------- | ------------------- | ----------- | ------ | ------------- | ------- |
+|----------------|----------|---------------------|-------------|--------|---------------|---------|
 | Barnaul School |          | 44<sup>th</sup> Trg | Kalmanka    | 100    | L-29          |         |
 |                |          |                     |             | 62     | L-39          |         |
 |                |          | 59<sup>th</sup> Trg | Slavgorod   | 120    | MiG-21bis     |         |
 |                |          | 96<sup>th</sup> Trg | Kamen-na-Ob | 120    | MiG-21bis     |         |
 
-![](/assets/images/warsaw/su/air/vvs/image18.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image18.jpg" style="width:9.375in;height:7.29167in" />
 
 **Volga Military District:** The Volga Military District conducts both
 transport and helicopter training in addition to basic flight training
-for its
-students.
+for its students.
 
 | Corps/Army | Division        | Regiment                  | Location         | Number | Aircraft type | Remarks        |
-| ---------- | --------------- | ------------------------- | ---------------- | ------ | ------------- | -------------- |
+|------------|-----------------|---------------------------|------------------|--------|---------------|----------------|
 |            | Balashov School | 478<sup>th</sup> Trg      | Petrovsk         |        | An-26         | Transport Trg  |
 |            |                 |                           |                  |        | L-410         |                |
 |            |                 | 606<sup>th</sup> Trg      | Balashov         |        | An-26         |                |
@@ -550,4 +533,4 @@ students.
 |            |                 | 605<sup>th</sup> Trg      | Kamensk-Uralskiy |        | Tu-134Sh      |                |
 |            |                 | 607<sup>th</sup> Trg      | Yuzhno-Uralskiy  |        | Tu-134Sh      |                |
 
-![](/assets/images/warsaw/su/air/vvs/image19.jpg)
+<img src="/assets\images\warsaw\su\air\vvs\image19.jpg" style="width:7.29167in;height:4.86111in" />

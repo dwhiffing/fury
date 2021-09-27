@@ -4,6 +4,6 @@
 
 An attempt to destabilize the Warsaw Pact Alliance
 
-**<span class="underline">Mediterranean Fury \#9</span>**
+**<u>Mediterranean Fury \#9</u>**
 
 Scenario not yet completed.

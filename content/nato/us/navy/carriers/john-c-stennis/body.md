@@ -16,47 +16,47 @@ to heading back into dry-dock in July to work on any issues discovered
 and then transit to San Diego in August. Her Battle Group will form as
 required near the end of April and until then will conduct other tasks.
 
-![](/assets/images/nato/us/navy/carriers/john-c-stennis/image1.jpg)
+<img src="/assets\images\nato\us\navy\carriers\john-c-stennis\image1.jpg" style="width:6.5in;height:3.51042in" />
 
 USS John C. Stennis CVBG
 
-  - CVN-74 John C. Stennis (FLAG)
-    
-      - CVWR 30
-        
-          - VF-301 Devils Disciples F-14D
-        
-          - VF-302 Stallions F-14D
-        
-          - VFA-303 Golden Hawks F/A-18C
-        
-          - VFA-305 Lobos F/A-18C
-        
-          - VA-52 Knightriders A-6F
-        
-          - VAQ-309 Axemen EA-6B
-        
-          - VAW-88 Cotton Pickers E-2C
-        
-          - VS-31 Topcats S-3B
-        
-          - HS-85 Golden Gators SH-60F, HH-60H
-        
-          - VQ-5(El) Sea Shadows ES-3A
-    
-      - CG-73 Port Royal (Builders trials at war start)
-    
-      - CG-72 Villa Gulf
-    
-      - CG-61 Monterey
-    
-      - DD-997 Hayler
-    
-      - DD-986 Harry W. Hill
-    
-      - FFG-54 Klakring
-    
-      - FFG-43 Ford
+-   CVN-74 John C. Stennis (FLAG)
+
+    -   CVWR 30
+
+        -   VF-301 Devils Disciples F-14D
+
+        -   VF-302 Stallions F-14D
+
+        -   VFA-303 Golden Hawks F/A-18C
+
+        -   VFA-305 Lobos F/A-18C
+
+        -   VA-52 Knightriders A-6F
+
+        -   VAQ-309 Axemen EA-6B
+
+        -   VAW-88 Cotton Pickers E-2C
+
+        -   VS-31 Topcats S-3B
+
+        -   HS-85 Golden Gators SH-60F, HH-60H
+
+        -   VQ-5(El) Sea Shadows ES-3A
+
+    -   CG-73 Port Royal (Builders trials at war start)
+
+    -   CG-72 Villa Gulf
+
+    -   CG-61 Monterey
+
+    -   DD-997 Hayler
+
+    -   DD-986 Harry W. Hill
+
+    -   FFG-54 Klakring
+
+    -   FFG-43 Ford
 
 Notes
 

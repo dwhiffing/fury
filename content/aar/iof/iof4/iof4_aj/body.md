@@ -1,6 +1,6 @@
 **Indian Ocean Fury \#4 – Gate of Tears**
 
-**<span class="underline">Playtest Report by AndrewJ June 2018</span>**
+**<u>Playtest Report by AndrewJ June 2018</u>**
 
 One day in, and here's where I'm at so far...
 
@@ -22,10 +22,10 @@ offer a little protection for the oiler coming up the African coast. The
 Jeanne d’Arc group heads over to help escort the minesweepers, who seem
 very exposed with their single escort. The support ships in Oman put
 their two escorts out front, and start steaming west along the coast.
-I’d like to put up some MPA ASW patrols in the area, but since there
-are probably still aircraft lurking in Socotra I’m holding off for now.
-The French in Djibouti will stay in port for now. The lone Brit up in
-the Red Sea is just asking for death. Hopefully nobody notices it.
+I’d like to put up some MPA ASW patrols in the area, but since there are
+probably still aircraft lurking in Socotra I’m holding off for now. The
+French in Djibouti will stay in port for now. The lone Brit up in the
+Red Sea is just asking for death. Hopefully nobody notices it.
 
 Looking over my airborne /assets, I can see I’ve got a lot of Harriers
 carrying stores that need buddy-lasing, so I decide to request the
@@ -103,7 +103,7 @@ my iron bombers swoop in, only to find that there are plenty of MANPADS
 active in the area, and I can’t see where they’re coming from. My pod
 equipped strikers drop down ‘till they’re a kilometer above missile
 ceiling, and that’s when they spot the full scope of the enemy
-deployment on the island. That’s a lot of guys\! My remaining LGBs
+deployment on the island. That’s a lot of guys! My remaining LGBs
 destroy some of the MANPADS, and my other bombers work over outlying
 troops where the little SAMs can’t reach.
 
@@ -193,7 +193,7 @@ The amphib landing will proceed on Socotra (barring minefield disasters)
 but I’m already behind schedule. I should have read my timelines more
 closely and planned better at the beginning. Slowing and consolidating
 into task groups was prudent, but took time my commander did not want me
-to spend\! Pelilieu is expected to stay at Socotra, but I may try
+to spend! Pelilieu is expected to stay at Socotra, but I may try
 hurrying Ark Royal towards the Bab. The American SSN hasn’t found
 anything hidden en-route yet, but a Tango or Kilo shaped surprise may
 still be lurking about, so a high speed transit would be risky.
@@ -248,7 +248,7 @@ aircraft start appearing behind me, and I realise they are coming from
 the airbase on the Red Sea shore, which I had assumed was empty. This
 means they have an unobstructed path to the E-8 (which is only \~ 125
 miles away over Eritrea), and if they go to burner I am on the wrong
-side to intercept them\! My last Mirage scrambles from Djibouti, the E-8
+side to intercept them! My last Mirage scrambles from Djibouti, the E-8
 turns off its radar and flees south, and the other Mirages turn to close
 in. Fortunately, the enemy (which turn out to be Mig-21s) join the
 general engagement, rather than chasing the E-8. They’re badly
@@ -382,7 +382,7 @@ They’re staying radar silent with their SAMs for now, which may make it
 awkward to deal with them, and who knows what’s lurking deeper in
 Khartoum, etc.
 
-We shall see\!
+We shall see!
 
 A little more time to play, so another half day of progress.
 
@@ -408,8 +408,8 @@ with HARMs) is just west of Sana’a, approaching the Red Sea coast, when
 a pair of bogeys with Slot Back radars are reported coming up out of
 Sana’a behind them. Uh-oh. Then more. And more. Soon there must be a
 dozen of them, all angry Mig-29s, along with some Fencers headed south,
-and even a pair of low altitude contacts coming out of Ataq\! So much
-for my ‘clear skies over Yemen’.
+and even a pair of low altitude contacts coming out of Ataq! So much for
+my ‘clear skies over Yemen’.
 
 Tankers and support aircraft turn to flee. Fighters are scrambled from
 the Ark Royal and Djibouti, the Mirage CAP goes to burner, and the
@@ -503,7 +503,7 @@ Yemeni SAMs. After that, with most target concentrations gone, the
 strikers are allowed to stand down. Munitions for the American Harriers
 are essentially exhausted in Djibouti, as are the pilots who have been
 making attacks night and day because of their night vision capabilities.
-Rest is welcome\!
+Rest is welcome!
 
 Militia fighting continues on Socotra, but extensive searches with
 FLIR-equipped helicopters don’t turn up any signs of headquarters or
@@ -573,7 +573,7 @@ provoking. (Even though nothing bad happened.)
 I really liked the regiment (++) coming down the coast. When I spotted
 it with the E-8 the long thin line of contacts snaking down the coast
 put me in mind of the Iraqi troop movements in Desert Storm, which were
-also detected by E-8s. Very thematic\!
+also detected by E-8s. Very thematic!
 
 The endless stream of rebel militia from western Socotra may be a little
 questionable. By dusk on day three I had killed 1444 7.62mm infantry
@@ -599,7 +599,7 @@ was particularly useful in this regard, spending hours loitering over
 the regiment, and designating one target after another for Harriers with
 LGBs and Laser Mavericks.
 
-Friendly fire\! How embarrassing. Preconceptions shaped my actions, and
+Friendly fire! How embarrassing. Preconceptions shaped my actions, and
 it never occurred to me that there would be Saudi helicopters that I
 wouldn’t be aware of. A very realistic outcome however, when I decided
 to shoot an unidentified target.

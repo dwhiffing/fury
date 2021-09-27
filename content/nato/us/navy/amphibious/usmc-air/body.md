@@ -26,12 +26,11 @@ transitioning to the ‘C’ variant early after the demise of the A-6E.
 With this change in effect, all but one of them have received their
 aircraft but five of those are still going through conversion training.
 All F/A-18 Sqns have 12 aircraft except VMFAT-101, the training Sqn
-which has 30
-airframes.
+which has 30 airframes.
 
 | USMC Aircraft   |                |               |                |                |
-| --------------- | -------------- | ------------- | -------------- | -------------- |
-| Sqn \#          | Nickname       | Airframe      | Task           | Remarks        |
+|-----------------|----------------|---------------|----------------|----------------|
+| Sqn \#          | Nickname       | Airframe      | Task           | Remarks        |
 | Atlantic        |                |               |                |                |
 | VMFA-115        | Silver Eagles  | F/A-18A       | Med            |                |
 | VMFA-122        | Werewolves     | F/A-18A       | CVW 14         |                |
@@ -64,7 +63,7 @@ airframes.
 | Non Operational |                |               |                |                |
 | VMFAT-101       | Sharpshooters  | 30x F/A-18A/D | El Toro        | Training       |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image1.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image1.jpeg" style="width:6.5in;height:4.61528in" />
 
 F/A-18D from VMFA(AW)-225 ‘Vikings’
 
@@ -77,12 +76,11 @@ the provision of the AN/APG-65 Radar allowing the use of the AIM-7
 Sparrow and AIM-120 AMRAAM air to air missiles. The Harriers primary
 mission is to fly off the LHD/LHA ships in support of Marine ground
 units ashore. The TAV variant is a two seat trainer, solely for use in
-conversion
-training
+conversion training
 
 | USMC Aircraft   |                   |                       |             |              |
-| --------------- | ----------------- | --------------------- | ----------- | ------------ |
-| Sqn \#          | Nickname          | Airframe              | Base        | Remarks      |
+|-----------------|-------------------|-----------------------|-------------|--------------|
+| Sqn \#          | Nickname          | Airframe              | Base        | Remarks      |
 | Atlantic        |                   |                       |             |              |
 | VMA-223         | Bulldogs          | 22x AV-8B Harrier II  | Cherry Pt   |              |
 | VMA-231         | Ace of Spades     | 22x AV-8B Harrier II+ | Cherry Pt   |              |
@@ -96,7 +94,7 @@ training
 | Non Operational |                   |                       |             |              |
 | VMAT-203        | Hawks             | 16 AV-8B, 26 TAV-8B   | El Toro     | Training     |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image2.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image2.jpg" style="width:6.95491in;height:4.41667in" />
 
 Two USMC AV-8B Harrier II loaded with AGM-65 Maverick, AIM-9 Sidewinder
 and GBU-16s
@@ -106,8 +104,8 @@ the USN. The EA-6B Sqns are mostly located at MCAS Cherry Point NC but
 operate detachments around the world when required.
 
 | USMC Aircraft |           |          |             |          |
-| ------------- | --------- | -------- | ----------- | -------- |
-| Sqn \#        | Nickname  | Airframe | Base        | Remarks  |
+|---------------|-----------|----------|-------------|----------|
+| Sqn \#        | Nickname  | Airframe | Base        | Remarks  |
 | VMAQT-1       | Banshee   | 2 EA-6B  | Cherry Pt   | Training |
 | VMAQ-2        | Panthers  | 5x EA-6B | Cherry Pt   |          |
 | VMAQ-3        | Moon Dogs | 5x EA-6B | Cherry Pt   |          |
@@ -115,7 +113,7 @@ operate detachments around the world when required.
 | Deployed      |           |          |             |          |
 | VMAQ-2 Det    | Panthers  | 2x EA-6B | Iwakuni Jap |          |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image3.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image3.jpg" style="width:6.5in;height:3.65625in" />
 
 EA-6B from VMAQ-2 ‘Panthers’
 
@@ -127,16 +125,16 @@ areas while the OV-10s look after the low intensity Counter Insurgency
 (COIN) conflicts, primarily in Central America. Of the 130 originally
 produced for the USMC, 51 remain.
 
-| USMC Aircraft |              |            |             |         |
-| ------------- | ------------ | ---------- | ----------- | ------- |
-| Sqn \#        | Nickname     | Airframe   | Base        | Remarks |
-| Atlantic      |              |            |             |         |
-| VMO-1         | Yazoo        | 22x OV-10D | New River   |         |
-| Pacific       |              |            |             |         |
-| VMO-2         | Cherry Deuce | 22x OV-10D | El Toro     |         |
-| VMO-2 Det     |              | 7x OV-10D  | Iwakuni Jap |         |
+| USMC Aircraft |              |            |             |          |
+|---------------|--------------|------------|-------------|----------|
+| Sqn \#        | Nickname     | Airframe   | Base        | Remarks  |
+| Atlantic      |              |            |             |          |
+| VMO-1         | Yazoo        | 22x OV-10D | New River   |          |
+| Pacific       |              |            |             |          |
+| VMO-2         | Cherry Deuce | 22x OV-10D | El Toro     |          |
+| VMO-2 Det     |              | 7x OV-10D  | Iwakuni Jap |          |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image4.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image4.jpg" style="width:6.39667in;height:3.60417in" />
 
 OV-10D Observation and light attack aircraft
 
@@ -151,21 +149,20 @@ support Amphibious Ready Groups (ARG) and other elements – this support
 is almost always provided by VMGR-252 which usually has between 10 and
 20 KC-130s deployed. Three versions of the ‘Hurc’ are in use; legacy
 KC-130F which date from the 1960’s, improved KC-130R and the latest
-KC-130T with updated
-avionics.
+KC-130T with updated avionics.
 
-| USMC Aircraft |                 |                         |             |         |
-| ------------- | --------------- | ----------------------- | ----------- | ------- |
-| Sqn \#        | Nickname        | Airframe                | Base        | Remarks |
-| Atlantic      |                 |                         |             |         |
-| VMGR-252      | Otis            | 8x KC-130F, 4x KC-130R  | Cherry Pt   |         |
-| VMGR-252      | Otis (Depl Det) | 9x KC-130F, 12x KC-130R | Cherry Pt   |         |
-| VMGRT-253     | Titans          | 6x KC-130F              | Cherry Pt   |         |
-| Pacific       |                 |                         |             |         |
-| VMGR-152      | Sumos           | 13x KC-130T             | Futenma Jap |         |
-| VMGR-352      | Raiders         | 3x KC-130F, 10x KC-130R | El Toro     |         |
+| USMC Aircraft |                 |                         |             |          |
+|---------------|-----------------|-------------------------|-------------|----------|
+| Sqn \#        | Nickname        | Airframe                | Base        | Remarks  |
+| Atlantic      |                 |                         |             |          |
+| VMGR-252      | Otis            | 8x KC-130F, 4x KC-130R  | Cherry Pt   |          |
+| VMGR-252      | Otis (Depl Det) | 9x KC-130F, 12x KC-130R | Cherry Pt   |          |
+| VMGRT-253     | Titans          | 6x KC-130F              | Cherry Pt   |          |
+| Pacific       |                 |                         |             |          |
+| VMGR-152      | Sumos           | 13x KC-130T             | Futenma Jap |          |
+| VMGR-352      | Raiders         | 3x KC-130F, 10x KC-130R | El Toro     |          |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image5.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image5.jpg" style="width:6.5in;height:4.35556in" />
 
 KC-130F from VMGR-252 ‘Otis’ refuelling CH-53E’s
 
@@ -332,7 +329,7 @@ for operations.
 </tbody>
 </table>
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image6.jpg)![](/assets/images/nato/us/navy/amphibious/usmc-air/image7.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image6.jpg" style="width:2.86215in;height:1.9081in" /><img src="/assets\images\nato\us\navy\amphibious\usmc-air\image7.jpg" style="width:3.95833in;height:2.68239in" />
 
 AH-1W ‘Whiskey Cobra’ UH-1N ‘Twin Huey’
 
@@ -343,12 +340,11 @@ either internally or slung underneath. Additionally, they are often
 configured for Combat Search and Rescue (CSAR), or Medical Evacuation
 (MEDEVAC) missions where they can carry 15 stretchers. An upgrade
 program to extend the range of the ‘Sea Knight’ is ongoing and most
-Squadrons have at least 2-4 of these upgraded
-‘Phrogs’.
+Squadrons have at least 2-4 of these upgraded ‘Phrogs’.
 
 | USMC Aircraft   |                   |            |             |          |
-| --------------- | ----------------- | ---------- | ----------- | -------- |
-| Sqn \#          | Nickname          | Airframe   | Base        | Remarks  |
+|-----------------|-------------------|------------|-------------|----------|
+| Sqn \#          | Nickname          | Airframe   | Base        | Remarks  |
 | Atlantic        |                   |            |             |          |
 | HMM-162         | Golden Eagles     | 12x CH-46E | New River   |          |
 | HMM-261         | Raging Bulls      | 12x CH-46E | New River   |          |
@@ -374,7 +370,7 @@ Squadrons have at least 2-4 of these upgraded
 | HMMT-301        | Windwalkers       | 10x CH-46  | Tustin      | Training |
 | HMMT-204        | Raptors           | 10x CH-46  | New River   | Training |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image8.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image8.jpeg" style="width:6.5in;height:4.33194in" />
 
 CH-46E from HMM-268 ‘Red Dragons’ picks up a slung load.
 
@@ -384,12 +380,11 @@ deploy Marine ground elements quickly onto the battlefield with the
 combat power needed to win the day. The ‘Sea Stallion’ is one of the
 fastest helicopters in the world even when carrying a heavy load. The
 ‘Super Stallion’ in addition to keeping the speed of the earlier model
-is one of the largest helicopters in the
-world.
+is one of the largest helicopters in the world.
 
 | USMC Aircraft   |               |                        |               |          |
-| --------------- | ------------- | ---------------------- | ------------- | -------- |
-| Sqn \#          | Nickname      | Airframe               | Base          | Remarks  |
+|-----------------|---------------|------------------------|---------------|----------|
+| Sqn \#          | Nickname      | Airframe               | Base          | Remarks  |
 | Atlantic        |               |                        |               |          |
 | HMH-362         | Ugly Angles   | 16x CH-53D             | New River     |          |
 | HMH-366         | Hammerheads   | 16x CH-53E             | New River     |          |
@@ -412,6 +407,6 @@ world.
 | Non Operational |               |                        |               |          |
 | HMHT-302        | Phoenix       | 12x CH-53D, 12x CH-53E | New River     | Training |
 
-![](/assets/images/nato/us/navy/amphibious/usmc-air/image9.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\usmc-air\image9.jpg" style="width:5.65625in;height:3.71191in" />
 
 CH-53E taking off from an LHD (Wasp Class)

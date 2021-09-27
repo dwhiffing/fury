@@ -6,7 +6,7 @@ role. Ranging in age from 35-year-old B-52G’s to brand new B-2 Spirit
 only entering service in the past few weeks and months, the bomber force
 is as diverse as it is powerful.
 
-![](/assets/images/nato/us/air/bombers/image1.jpg)
+<img src="/assets\images\nato\us\air\bombers\image1.jpg" style="width:6.51961in;height:3.39175in" />
 
 [**B-2 Spirit**](https://fas.org/nuke/guide/usa/bomber/b-2.htm)
 
@@ -24,23 +24,23 @@ squadron are listed below and the next one off the assembly line (Spirit
 of Nebraska) is expected in March 94 with another roughly every 2-3
 months after that until all 21 are delivered:
 
-  - AV-5 Spirit of Ohio ATEC Testbed
+-   AV-5 Spirit of Ohio ATEC Testbed
 
-  - AV-6 Spirit of Mississippi ATEC Testbed
+-   AV-6 Spirit of Mississippi ATEC Testbed
 
-  - AV-7 Spirit of Texas
+-   AV-7 Spirit of Texas
 
-  - AV-8 Spirit of Missouri
+-   AV-8 Spirit of Missouri
 
-  - AV-9 Spirit of California
+-   AV-9 Spirit of California
 
-  - AV-10 Spirit of South Carolina
+-   AV-10 Spirit of South Carolina
 
-  - AV-11 Spirit of Washington
+-   AV-11 Spirit of Washington
 
-  - AV-12 Spirit of Kansas
+-   AV-12 Spirit of Kansas
 
-![](/assets/images/nato/us/air/bombers/image2.jpg)
+<img src="/assets\images\nato\us\air\bombers\image2.jpg" style="width:6.5in;height:3.33681in" />
 
 [**B-1B Lancer**](https://fas.org/nuke/guide/usa/bomber/b-1b.htm)
 
@@ -67,11 +67,10 @@ rectified. By 1994 the ‘Bones’ could drop general purpose and cluster
 munitions from both low and high altitude, but were unable to use
 precision guided munitions. Two wings of B-1Bs operate the majority of
 the airframes for ACC as well as the 46<sup>th</sup> Bomb squadron which
-conducts training, testing and evaluation for
-ATEC.
+conducts training, testing and evaluation for ATEC.
 
 | Wing                      | Squadron | Name                | Base          | \# of AC | Type |
-| ------------------------- | -------- | ------------------- | ------------- | -------- | ---- |
+|---------------------------|----------|---------------------|---------------|----------|------|
 | 7<sup>th</sup> Bomb Wing  | 9 BS     | Bats                | Dyess AFB     | 15       | B-1B |
 | 7<sup>th</sup> Bomb Wing  | 28 BS    | Mohawks             | Dyess AFB     | 15       | B-1B |
 | 7<sup>th</sup> Bomb Wing  | 337 BS   | Griffons            | Dyess AFB     | 15       | B-1B |
@@ -79,7 +78,7 @@ ATEC.
 | 28<sup>th</sup> Bomb Wing | 37 BS    | Tigers              | Ellsworth AFB | 15       | B-1B |
 | 28<sup>th</sup> Bomb Wing | 77 BS    | Blue Lightning      | Ellsworth AFB | 15       | B-1B |
 
-![](/assets/images/nato/us/air/bombers/image3.jpg)
+<img src="/assets\images\nato\us\air\bombers\image3.jpg" style="width:6.5in;height:3.51667in" />
 
 [**B-52**](https://fas.org/nuke/guide/usa/bomber/b-52.htm)
 
@@ -106,13 +105,12 @@ both were undergoing a constant series of ECM upgrades. The B-52 played
 a significant role in the Gulf War, some flying from the US and
 returning home, capturing the record for longest distance combat mission
 from the British ‘Black Buck’ missions executed during the Falkland
-Islands
-campaign.
+Islands campaign.
 
-![](/assets/images/nato/us/air/bombers/image4.jpg)
+<img src="/assets\images\nato\us\air\bombers\image4.jpg" style="width:6.5in;height:3.65625in" />
 
 | Wing                       | Squadron | Name           | Base          | \# of AC | Type    |
-| -------------------------- | -------- | -------------- | ------------- | -------- | ------- |
+|----------------------------|----------|----------------|---------------|----------|---------|
 | 2<sup>nd</sup> Bomb Wing   | 11 BS    | Mr Jiggs       | Barksdale AFB | 16       | B-52H   |
 | 2<sup>nd</sup> Bomb Wing   | 20 BS    | The Buccaneers | Barksdale AFB | 16       | B-52H   |
 | 2<sup>nd</sup> Bomb Wing   | 96 BS    | Red Devils     | Barksdale AFB | 16       | B-52H   |

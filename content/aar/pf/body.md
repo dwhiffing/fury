@@ -8,8 +8,7 @@ alliances with Pacific Rim partners is a critical national security
 objective in Washington and any threat to those relationships is
 threated very seriously.
 
-![Map Description automatically
-generated](/assets/images/aar/pf/image1.png)
+<img src="/assets\images\aar\pf\image1.png" style="width:6.5in;height:8.73056in" alt="Map Description automatically generated" />
 
 The US and its allies are dispersed at the start of hostilities, the US
 Navy has seven aircraft carriers in the Pacific Fleet but two of those
@@ -27,7 +26,7 @@ strategic reach. The base at Cam Ranh Bay Vietnam is the exception to
 this and there are plans to make as much use out of that location as
 possible.
 
-There are fifteen scenarios in the series, two are played from the
+There are fifteen scenarios in the series, four are played from the
 Soviet side, one as the North Korean while the remainder are from either
 a US or South-East Asian perspective.
 
@@ -58,10 +57,10 @@ a US or South-East Asian perspective.
 
 10. Kuril Crackdown, USN double carrier strike on the Kuril Islands
 
-11. You sunk my Battleship, USS New Jersey is ambushed in the Philippian
-    Sea
+11. You sank my Battleship, USS New Jersey is ambushed in the Philippian
+    Sea (Soviet player)
 
-12. Wolfpack, TBC
+12. Wolfpack, TBC (Soviet player)
 
 13. TBC, TBC
 

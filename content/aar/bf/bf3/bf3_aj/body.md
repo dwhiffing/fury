@@ -1,6 +1,6 @@
 **Baltic Fury \#3 – Warsaw Uprising**
 
-**<span class="underline">Playtest Report by AndrewJ Nov 2020</span>**
+**<u>Playtest Report by AndrewJ Nov 2020</u>**
 
 **Situation**
 
@@ -64,7 +64,7 @@ of Bornholm on its way home. The route is longer, and the passage is
 narrower and more easily blocked, but it's also closer to my forces,
 further from the Soviets, and the water is deeper. The last thing I need
 to do is blunder into some shallows, and be forced so high my masts are
-awash while the Soviets are patrolling directly overhead\!
+awash while the Soviets are patrolling directly overhead!
 
 **Opening Moves**
 
@@ -159,8 +159,8 @@ kills go to my Tornadoes, who finally manage to cut through Sweden, fly
 around the top of Bornholm, and turn in from the NE. It turns out the
 SA-10s are mostly on the S side of the island, and the high ground gives
 a very thin low-level radar shadow we can use to approach the island.
-The Tornadoes manage to get a few MiG-23s this way (finally\!) as well
-as a jammer plane, but hit rates are poor, and they withdraw once their
+The Tornadoes manage to get a few MiG-23s this way (finally!) as well as
+a jammer plane, but hit rates are poor, and they withdraw once their
 long-ranged missiles are gone.
 
 The storm hits as the Soviets arrive, and major air-to-air combat erupts
@@ -223,7 +223,7 @@ not played the scenario***
 *Further Complications*
 
 *Intel suddenly reports that the isolated destroyer, the Warszawa, isn’t
-making a tactical blunder. It’s actually trying to defect\! (I literally
+making a tactical blunder. It’s actually trying to defect! (I literally
 had the cursor hovering over the destroyer to select it for an attack
 when the message popped up. If I’d been thirty seconds sooner the
 missiles would have been underway.)*
@@ -234,35 +234,35 @@ wanted to start my big SEAD strike on Bornholm, and he’s headed right
 for the place where we had spotted that enemy sub. It’s only a few
 minutes later that AWACS detects a stream of anti-shipping missiles
 headed towards the destroyer from Bornholm, and then his sonar operators
-pick up the sound of incoming torpedoes dead ahead\! (This is way too
+pick up the sound of incoming torpedoes dead ahead! (This is way too
 much fun to resist, so I switch sides and take over the ship.)*
 
-*“Jammers, sonar, radar, everything on\!” yells the Captain, “Hard to
-port, flank speed\!” The destroyer surges to its impressive 35 knot top
+*“Jammers, sonar, radar, everything on!” yells the Captain, “Hard to
+port, flank speed!” The destroyer surges to its impressive 35 knot top
 speed, leaning as it turns. "Two-torpedo BOL spread, fire when they
-bear\!" The two torpedoes come hissing out of their tubes moments later,
+bear!" The two torpedoes come hissing out of their tubes moments later,
 headed for the torpedo launch point, as the destroyer turns for the
 coast, pointing it’s four stern-facing anti-shipping missiles at the
 Russian ASW boats near Bornholm. “Fire three at the Russian patrol
-boats, and one at the missile boat near our coast\!”*
+boats, and one at the missile boat near our coast!”*
 
-*“But that’s Captain Juraslefski’s boat\!” protests the startled
+*“But that’s Captain Juraslefski’s boat!” protests the startled
 lieutenant.*
 
-*“Juraslefski’s an asshole\!” roars the captain. “Fire\!”*
+*“Juraslefski’s an asshole!” roars the captain. “Fire!”*
 
 *The Polish missiles roar away in clouds of smoke, and then all the crew
 can do is wait for the Russian missiles to arrive, knowing all too well
 that their ancient SA-N-1s are ill-suited to shoot them down. The first
 enemy missiles clear the horizon, and the SAMs shoot, missing badly. But
 then the incoming missiles suddenly pitch down and crash into the ocean
-a few kilometers away. Out of fuel\! “Cease fire,” orders the captain,
+a few kilometers away. Out of fuel! “Cease fire,” orders the captain,
 and they all watch in amazement as the entire swarm of incoming missiles
 glides harmlessly down into the ocean.*
 
 *Their own missile close on the Russian ASW patrol boats, but it’s no
 surprise when the Bornholm CAP and the Russian SAMs pounce on them and
-shoot them all down. Still, it made them spend missiles\! Juraslefski
+shoot them all down. Still, it made them spend missiles! Juraslefski
 doesn’t do so well, and vanishes in violent explosion that sinks his
 missile boat. The incoming torpedoes from the enemy sub zoom past, with
 no wires to allow them to correct their course, and run out of fuel
@@ -362,7 +362,7 @@ It is now 04:00, and most of my planes have recycled and are ready to
 go. Things are quiet in the air. My plan is to launch another SEAD
 attack on Bornholm (probably using way too many HARMs), hopefully
 knocking back the SAMs enough to enable my conventionally armed attack
-planes to get through. We shall see\!
+planes to get through. We shall see!
 
 The fight continues…
 
@@ -370,7 +370,7 @@ The fight continues…
 
 The next strike at Bornholm happens around 04:30 hrs, and this time it
 goes a lot more smoothly. (It’s amazing the difference a pair of SA-10s
-can make\!) First to arrive are a swarm of HARM carriers, both Tornadoes
+can make!) First to arrive are a swarm of HARM carriers, both Tornadoes
 and F-16s, and they manage to engage some more of the SA-11 sites, when
 they open fire on recce aircraft flying provocatively off the coast.
 Still, the majority of the SAMs stay quiet, until attack on Ronne
@@ -462,7 +462,7 @@ some time this weekend to look under the hood.
 **Impressions**
 
 Hoo boy, that is one tough little Island. I’m having flashbacks to
-Iceland\! Anyone who tries charging in with unprotected low-level
+Iceland! Anyone who tries charging in with unprotected low-level
 Tornadoes is in for a horrible time. Those SA-10s with elevated radars,
 and me having to approach over a vast open ocean with not a jot of cover
 is a really nasty situation. Even with the SA-10s down, it was still

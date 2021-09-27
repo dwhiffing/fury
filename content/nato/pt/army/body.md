@@ -8,7 +8,7 @@ Portugal to enable mobilization or deploy with the Mechanized Brigade to
 NATO’s Southern Army Group (SOUTHAG). The standing army was 44,000
 personnel with about 175,000 reserves.
 
-![](/assets/images/nato/pt/army/image1.png)
+<img src="/assets\images\nato\pt\army\image1.png" style="width:7.05936in;height:2.84375in" />
 
 The majority of the Portuguese Army is ‘light’. The units are either
 specialized light infantry such as the Paratroop Brigade which is
@@ -32,7 +32,7 @@ poor visibility operations. Most, (53) of these MBTs are in the Armored
 Battalion of the Mixed Brigade while the remainder are in the Cavalry
 (Reconnaissance) Squadron and training school.
 
-![](/assets/images/nato/pt/army/image2.jpg)
+<img src="/assets\images\nato\pt\army\image2.jpg" style="width:4.84375in;height:3.37814in" />
 
 [**M113**](https://en.wikipedia.org/wiki/M113_armored_personnel_carrier)
 
@@ -44,7 +44,7 @@ mortar carrier (M106) and the 81mm mortar carrier (M125). The remainder
 of the M113s are spread throughout the regional brigades and training
 schools.
 
-![](/assets/images/nato/pt/army/image3.jpeg)
+<img src="/assets\images\nato\pt\army\image3.jpeg" style="width:5.13542in;height:3.85135in" />
 
 **Artillery**
 
@@ -52,17 +52,17 @@ Portugal employs a wide variety of artillery systems, mostly older towed
 guns held in the schools and the reserves with two Self Propelled (SP)
 batteries in the mixed brigade.
 
-  - 23x 5.5 inch guns
+-   23x 5.5 inch guns
 
-  - 6x M109A2 SP 155mm Howitzer
+-   6x M109A2 SP 155mm Howitzer
 
-  - 40x M114/23 Towed 155mm Howitzer
+-   40x M114/23 Towed 155mm Howitzer
 
-  - 60x M-101 Towed 105mm Howitzer
+-   60x M-101 Towed 105mm Howitzer
 
-  - 6x M108 SP 105mm Howitzer
+-   6x M108 SP 105mm Howitzer
 
-![](/assets/images/nato/pt/army/image4.jpeg)
+<img src="/assets\images\nato\pt\army\image4.jpeg" style="width:5.47917in;height:3.0791in" />
 
 5.5 Inch Gun
 
@@ -72,12 +72,12 @@ Portugal has a large number of light air defence systems with the Vulcan
 SP and RH202 systems in the active force and most of the remainder in
 reserve forces.
 
-  - 332x Bofors, 40mmL/70 Towed AA Guns
+-   332x Bofors, 40mmL/70 Towed AA Guns
 
-  - 30x RH202, 20mm Towed AA Guns
+-   30x RH202, 20mm Towed AA Guns
 
-  - 34x M163A1 20mm Vulcan SP AA Guns
+-   34x M163A1 20mm Vulcan SP AA Guns
 
-  - 57x Blowpipe SAM
+-   57x Blowpipe SAM
 
-![](/assets/images/nato/pt/army/image5.jpeg)
+<img src="/assets\images\nato\pt\army\image5.jpeg" style="width:4.19444in;height:3.14583in" />

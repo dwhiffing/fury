@@ -2,8 +2,7 @@
 
 13 Feb 1994, 1215 Zulu, 1415 Local
 
-![Russian Navy Conducts First Black Sea Supersonic Cruise Missile Test -
-The Moscow Times](/assets/images/aar/mf/mf1/image1.jpeg)
+<img src="/assets\images\aar\mf\mf1\image1.jpeg" style="width:6.5in;height:3.66111in" alt="Russian Navy Conducts First Black Sea Supersonic Cruise Missile Test - The Moscow Times" />
 
 You are the Commander of the South Wester Direction HQ in Vinnitsa in
 Central Ukraine. You report directly to the Soviet High Command in
@@ -28,7 +27,7 @@ but rest assured – you are not alone in this fight. Even now the wheels
 are in motion to help you achieve what many have tried and failed in the
 past.
 
-Take your hammer and bang on the door – the Russians are coming\!
+Take your hammer and bang on the door – the Russians are coming!
 
 ***Scenario Name: Catherine the Great’s longest serving consort, Prince
 Potemkin, after securing control of the
@@ -40,20 +39,17 @@ Black Sea and be the successor to the Eastern Roman Empire. Once again
 Russia is using the Crimea as a springboard to seize the Bosporus and
 Dardanelles – once more the road is traveled***
 
-![A picture containing mountain, nature, valley, outdoor Description
-automatically generated](/assets/images/aar/mf/mf1/image2.jpeg)
+<img src="/assets\images\aar\mf\mf1\image2.jpeg" style="width:6.02639in;height:9in" alt="A picture containing mountain, nature, valley, outdoor Description automatically generated" />
 
-**<span class="underline">Mediterranean Fury \#1</span>** is a large and
-intense scenario. The player has strategic decisions to make which will
-affect the tactical outcomes of play. After gaining air and sea
-superiority over the Black Sea, the invasion of Turkey takes center
-stage. The Turkish response is hampered by an attempted, and possibly
-successful coup as well as some other intrigues which have been
-occurring over the past months.
+**<u>Mediterranean Fury \#1</u>** is a large and intense scenario. The
+player has strategic decisions to make which will affect the tactical
+outcomes of play. After gaining air and sea superiority over the Black
+Sea, the invasion of Turkey takes center stage. The Turkish response is
+hampered by an attempted, and possibly successful coup as well as some
+other intrigues which have been occurring over the past months.
 
 Turkey is not alone however, however their long-mistrusted allies, the
 Greeks have been subjected so similar tactics by the Soviets. The
 Americans are sure to respond, but in what way?
 
-![A picture containing grass, outdoor, plane, sky Description
-automatically generated](/assets/images/aar/mf/mf1/image3.jpeg)
+<img src="/assets\images\aar\mf\mf1\image3.jpeg" style="width:6.5in;height:4.33333in" alt="A picture containing grass, outdoor, plane, sky Description automatically generated" />

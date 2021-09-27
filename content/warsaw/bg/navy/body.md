@@ -26,7 +26,7 @@ out to about 13Km. The ASW suite is decent and the ship carries 2x 76mm
 guns as well as 2x 30mm cannons which act as a last ditch Close in
 Weapons System (CIWS).
 
-![](/assets/images/warsaw/bg/navy/image1.jpg)
+<img src="/assets\images\warsaw\bg\navy\image1.jpg" style="width:6.46875in;height:4.3125in" />
 
 **[Riga Class](http://russianships.info/eng/warships/project_50.htm)**
 Two of the three ships of this class are laid up in preservation by the
@@ -43,12 +43,12 @@ one would need a new pennant number while the other would need a new
 name.
 
 | Class | Pennant | Name   | Status  | Remarks    |
-| ----- | ------- | ------ | ------- | ---------- |
+|-------|---------|--------|---------|------------|
 | Riga  | F-11    | Derzki | Laid up |            |
 |       | F-12    | Smeli  | Laid up |            |
 |       | F-13    | Bodri  | Active  | Modernized |
 
-![](/assets/images/warsaw/bg/navy/image2.jpeg)
+<img src="/assets\images\warsaw\bg\navy\image2.jpeg" style="width:6.5in;height:3.85556in" />
 
 **Missile Boats**
 
@@ -59,7 +59,7 @@ Back Sea Fleet. With 4x P-15M (S-N-2C) Styx, Surface to Surface Missiles
 (SSM) and high speed (42 Knts), this is a potent little ship, weighing
 in at 495 tons. The ***BGS Malniya (P-101)*** is based at Atia.
 
-![](/assets/images/warsaw/bg/navy/image3.jpeg)
+<img src="/assets\images\warsaw\bg\navy\image3.jpeg" style="width:6.5in;height:3.65278in" />
 
 **[Osa
 Class](http://russianships.info/eng/warfareboats/project_205.htm)** The
@@ -69,7 +69,7 @@ Soviet control. The main improvement between the two sub classes is a
 modernized version of the P-15 (S-N-2C) Styx SSM. All are based at Atia.
 
 | Class  | Pennant | Name        | Status | Remarks  |
-| ------ | ------- | ----------- | ------ | -------- |
+|--------|---------|-------------|--------|----------|
 | Osa I  | RKA-10  | Uragan      | Active | Pr. 205  |
 |        | RKA-11  | Svetkavitca | Active |          |
 |        | RKA-12  | Tayfun      | Active |          |
@@ -77,7 +77,7 @@ modernized version of the P-15 (S-N-2C) Styx SSM. All are based at Atia.
 |        | RKA-21  | Grum        | Active |          |
 |        | RKA-22  | Burya       | Active |          |
 
-![](/assets/images/warsaw/bg/navy/image4.jpg)
+<img src="/assets\images\warsaw\bg\navy\image4.jpg" style="width:6.5in;height:2.07431in" />
 
 **ASW Corvettes**
 
@@ -88,7 +88,7 @@ suite in a small package. The Bulgarian Navy operated six of these
 ships.
 
 | Class | Pennant | Name        | Status | Remarks |
-| ----- | ------- | ----------- | ------ | ------- |
+|-------|---------|-------------|--------|---------|
 |       | PLK-41  | Letjashhi   | Active | Atia    |
 |       | PLK-42  | Bditelni    | Active | Atia    |
 |       | PLK-43  | Naporisti   | Active | Atia    |
@@ -96,7 +96,7 @@ ships.
 |       | PLK-45  | Strogi      | Active | Varna   |
 |       | PLK-46  | Bezstrashni | Active | Varna   |
 
-![](/assets/images/warsaw/bg/navy/image5.jpg)
+<img src="/assets\images\warsaw\bg\navy\image5.jpg" style="width:6.5in;height:3.75347in" />
 
 **[Pauk
 Class](http://russianships.info/eng/warships/project_12412.htm)** These
@@ -104,31 +104,31 @@ two ships, based on the Tarantul class hull were transferred from the
 Soviet Black Sea Fleet in 1989 and 1992. They are more modern with
 improved weapons and sensors but do the same job as the Poti class.
 
-| Class | Pennant | Name       | Status | Remarks |
-| ----- | ------- | ---------- | ------ | ------- |
-|       | PLK-13  | Reshitelni | Active | Varna   |
-|       | PLK-14  | Bodri      | Active | Varna   |
+| Class | Pennant | Name        | Status | Remarks |
+|-------|---------|-------------|--------|---------|
+|       | PLK-13  | Reshitelni  | Active | Varna   |
+|       | PLK-14  | Bodri       | Active | Varna   |
 
-![](/assets/images/warsaw/bg/navy/image6.jpg)
+<img src="/assets\images\warsaw\bg\navy\image6.jpg" style="width:6.5in;height:4.28472in" />
 
 **Torpedo Boats**
 
 **[Shershen
-Class](http://russianships.info/eng/warfareboats/project_206.htm) By
-1994 these** six boats were obsolete and historically were in various
+Class](http://russianships.info/eng/warfareboats/project_206.htm)** By
+1994 these six boats were obsolete and historically were in various
 levels of readiness. In Northern Fury they are all in reserve status and
 will require a week or so to put to sea.
 
-| Class    | Pennant | Name     | Status  | Remarks |
-| -------- | ------- | -------- | ------- | ------- |
-| Shershen | TKA-24  | Orel     | Reserve |         |
-|          | TKA-25  | Yastreb  | Reserve |         |
-|          | TKA-26  | Albatros | Reserve |         |
-|          | TKA-27  | Yaguar   | Reserve |         |
-|          | TKA-28  | Bars     | Reserve |         |
-|          | TKA-29  | Pantera  | Reserve |         |
+| Class    | Pennant | Name      | Status  | Remarks |
+|----------|---------|-----------|---------|---------|
+| Shershen | TKA-24  | Orel      | Reserve |         |
+|          | TKA-25  | Yastreb   | Reserve |         |
+|          | TKA-26  | Albatros  | Reserve |         |
+|          | TKA-27  | Yaguar    | Reserve |         |
+|          | TKA-28  | Bars      | Reserve |         |
+|          | TKA-29  | Pantera   | Reserve |         |
 
-![](/assets/images/warsaw/bg/navy/image7.jpeg)
+<img src="/assets\images\warsaw\bg\navy\image7.jpeg" style="width:6.5in;height:3.65625in" />
 
 **Amphibious Ships**
 
@@ -139,11 +139,11 @@ Each is able to lift a reinforced company sized unit of 10-12 armored
 vehicles or four tanks. All landing ships are based at Atia.
 
 | Class | Pennant | Name    | Status | Remarks |
-| ----- | ------- | ------- | ------ | ------- |
+|-------|---------|---------|--------|---------|
 |       | L-701   | Sirius  | Active |         |
 |       | L-702   | Antares | Active |         |
 
-![](/assets/images/warsaw/bg/navy/image8.jpg)
+<img src="/assets\images\warsaw\bg\navy\image8.jpg" style="width:6.5in;height:4.225in" />
 
 **[Vydra
 Class](http://weaponsystems.net/weaponsystem/GG08+-+Vydra+class.html)**
@@ -153,31 +153,31 @@ service, 4 have been converted to minelayers and one to a general stores
 ship. The 19 remaining operate with the two Polocny class to form the
 Landing Ship Division.
 
-![](/assets/images/warsaw/bg/navy/image9.jpg)
+<img src="/assets\images\warsaw\bg\navy\image9.jpg" style="width:6.5in;height:3.20139in" />
 
 **Minesweepers**: Some 24 -30 minesweeping craft are in operation, based
 in both ports in roughly equal numbers.
 
-  - 6x [Vanya](https://en.wikipedia.org/wiki/Vanya-class_minesweeper)
+-   6x [Vanya](https://en.wikipedia.org/wiki/Vanya-class_minesweeper)
     class
 
-  - 4x
+-   4x
     [Yevgenya](https://en.wikipedia.org/wiki/Yevgenya-class_minesweeper)
     class
 
-  - 4x [Sonya](https://en.wikipedia.org/wiki/Sonya-class_minesweeper)
+-   4x [Sonya](https://en.wikipedia.org/wiki/Sonya-class_minesweeper)
     class
 
-  - 6x [Olya](http://russianships.info/eng/warships/project_1259.htm)
+-   6x [Olya](http://russianships.info/eng/warships/project_1259.htm)
     class
 
-  - 4x converted
+-   4x converted
     [Vydra](http://russianships.info/eng/warships/project_106k.htm)
     Class
 
-  - Several others of various heritage, vintage and readiness
+-   Several others of various heritage, vintage and readiness
 
-![](/assets/images/warsaw/bg/navy/image10.jpg)
+<img src="/assets\images\warsaw\bg\navy\image10.jpg" style="width:6.5in;height:4.55139in" />
 
 **Submarines**
 
@@ -187,11 +187,11 @@ boats are well past their prime, two have been decommissioned and will
 probably never sail again, the other two are limited in both dive depth
 and range from port.
 
-| Class | Pennant | Name      | Status         | Remarks |
-| ----- | ------- | --------- | -------------- | ------- |
-| Romeo | S 81    | Pobeda    | Decommissioned |         |
-|       | S 82    | Viktoriya | Decommissioned |         |
-|       | S 83    | Nadezhda  |                |         |
-|       | S 84    | Slava     |                |         |
+| Class | Pennant | Name       | Status         | Remarks |
+|-------|---------|------------|----------------|---------|
+| Romeo | S 81    | Pobeda     | Decommissioned |         |
+|       | S 82    | Viktoriya  | Decommissioned |         |
+|       | S 83    | Nadezhda   |                |         |
+|       | S 84    | Slava      |                |         |
 
-![](/assets/images/warsaw/bg/navy/image11.jpg)
+<img src="/assets\images\warsaw\bg\navy\image11.jpg" style="width:6.5in;height:4.875in" />

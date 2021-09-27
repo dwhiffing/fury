@@ -4,6 +4,6 @@
 
 USS Nimitz and HMS Ark Royal lend support to the fight in Turkey.
 
-**<span class="underline">Mediterranean Fury \#7</span>**
+**<u>Mediterranean Fury \#7</u>**
 
 Scenario not yet completed.

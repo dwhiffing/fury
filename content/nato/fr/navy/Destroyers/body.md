@@ -7,7 +7,7 @@ The terms Destroyer and Frigate are also used interchangeably with the
 title of Frigate belonging to what other navies would term Offshore
 Patrol Vessels.
 
-![](/assets/images/nato/fr/navy/destroyers/image1.jpg)
+<img src="/assets\images\nato\fr\navy\destroyers\image1.jpg" style="width:6.5in;height:4.56528in" />
 
 [**Suffren
 Class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Suffren-class.htm):
@@ -20,11 +20,11 @@ designed and produced missiles that are unique to this class of ship.
 1991).
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Role** | **Task** |
-| ----------- | --------- | -------- | ---------- | ------------ | -------- | -------- |
+|-------------|-----------|----------|------------|--------------|----------|----------|
 | D 602       | Suffren   | Suffren  | Active     | Med          | AD       | Clem BG  |
 | D 603       | Suffren   | Duquesne | Active     | Med          | AD       | Foch BG  |
 
-![](/assets/images/nato/fr/navy/destroyers/image2.jpg)
+<img src="/assets\images\nato\fr\navy\destroyers\image2.jpg" style="width:6.5in;height:3.71944in" />
 
 [**Aconit**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/D-609-FS-Aconit.htm):
 This ship was to be the lead ship in a class of five and was designed
@@ -34,14 +34,13 @@ and did not have helicopter facilities so the program was terminated.
 She was upgraded in the mid-80s and received Exocet Anti-Ship Missiles
 (ASM) and again in 1992 with a new Towed Array, some point defences
 against missile and air attack. She is smaller than her successors but
-works to augment ASW Task
-Groups.
+works to augment ASW Task Groups.
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Role** | **Task** |
-| ----------- | --------- | -------- | ---------- | ------------ | -------- | -------- |
+|-------------|-----------|----------|------------|--------------|----------|----------|
 | D 609       | Aconit    | Aconit   | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/destroyers/image3.png)
+<img src="/assets\images\nato\fr\navy\destroyers\image3.png" style="width:6.5in;height:4.22917in" />
 
 **[Tourville
 Class](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Tourville-class.htm):**
@@ -52,12 +51,12 @@ Atlantic where they routinely perform admirably in company with NATO
 ships.
 
 | **Pennant** | **Class** | **Ship**      | **Status** | **Location** | **Role** | **Task** |
-| ----------- | --------- | ------------- | ---------- | ------------ | -------- | -------- |
+|-------------|-----------|---------------|------------|--------------|----------|----------|
 | D 610       | Tourville | Tourville     | Active     | Atlantic     | ASW      |          |
 | D 611       | Tourville | Duguay-Trouin | Active     | Atlantic     | ASW      |          |
 | D 612       | Tourville | De Grasse     | Active     | Atlantic     | ASW      |          |
 
-![](/assets/images/nato/fr/navy/destroyers/image4.jpg)
+<img src="/assets\images\nato\fr\navy\destroyers\image4.jpg" style="width:6.45833in;height:3.94792in" />
 
 [**Cassard
 Class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Cassard-class.htm):
@@ -75,22 +74,21 @@ but are well rounded ships that can lead small Task Groups or act
 independently.
 
 | **Pennant** | **Class** | **Ship**  | **Status** | **Location** | **Role** | **Task** |
-| ----------- | --------- | --------- | ---------- | ------------ | -------- | -------- |
+|-------------|-----------|-----------|------------|--------------|----------|----------|
 | D 614       | Cassard   | Cassard   | Active     | Med          | AAW      | Foch BG  |
 | D 615       | Cassard   | Jean Bart | Active     | Med          | AAW      | Clem BG  |
 
-![](/assets/images/nato/fr/navy/destroyers/image5.jpg)
+<img src="/assets\images\nato\fr\navy\destroyers\image5.jpg" style="width:6.5in;height:4.33125in" />
 
-[***Georges Leygues*
+[**Georges Leygues
 class**](http://www.seaforces.org/marint/French-Navy/Destroyer-Frigate/Georges-Leygues-class.htm):
 Sharing the same hull as the Cassard class, the seven ships of this ASW
 oriented design replace the medium range SAMs for shorter ranged Crotale
 SAMs, a Towed Array Sonar and a second helicopter. These are well
-rounded general purpose ships which are used in many
-roles.
+rounded general purpose ships which are used in many roles.
 
 | **Pennant** | **Class** | **Ship**          | **Status** | **Location** | **Role** | **Task** |
-| ----------- | --------- | ----------------- | ---------- | ------------ | -------- | -------- |
+|-------------|-----------|-------------------|------------|--------------|----------|----------|
 | D 640       | Georges   | Georges Leygues   | Active     | Med          | ASW      |          |
 | D 641       | Georges   | Dupleix           | Active     | Med          | ASW      | Foch BG  |
 | D 642       | Georges   | Montcalm          | Active     | Med          | ASW      | Clem BG  |

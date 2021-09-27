@@ -39,15 +39,14 @@ history is the second ship in this class. The Varyag was launched in
 1988 but never completed, eventually she was sold to the Chinese,
 restored and entered service with them in 2012. Northern Fury has her
 completed under tight security and being and unpleasant surprise for
-NATO. Both ships are in the Northern Fleet and based at
-Severomorsk.
+NATO. Both ships are in the Northern Fleet and based at Severomorsk.
 
 | Class     | Pennant | Name              | Status         | Remarks                 |
-| --------- | ------- | ----------------- | -------------- | ----------------------- |
+|-----------|---------|-------------------|----------------|-------------------------|
 | Kuznetsov | 063     | Admiral Kuznetsov | Northern Fleet | Flagship Northern Fleet |
 | Varyag    | 077     | Varyag            | Northern Fleet |                         |
 
-![](/assets/images/warsaw/su/navy/carriers/image1.jpeg)
+<img src="/assets\images\warsaw\su\navy\carriers\image1.jpeg" style="width:5.78125in;height:3.44306in" />
 
 [**Kiev Class**](http://www.military-today.com/navy/kiev_class.htm)
 
@@ -62,17 +61,16 @@ included the [Yak-38](http://www.airvectors.net/avredvt.html) Vertical
 Take Off and Landing (VTOL) fighter to provide limited strike and air
 superiority, in Northern Fury the historically canceled [Yak-41
 Freestyle](http://www.military-today.com/aircraft/yak_141.htm) was also
-coming on
-line.
+coming on line.
 
 | Class | Pennant | Name         | Status         | Remarks                |
-| ----- | ------- | ------------ | -------------- | ---------------------- |
+|-------|---------|--------------|----------------|------------------------|
 | Kiev  | 121     | Kiev         | Northern Fleet |                        |
 |       | 011     | Minsk        | Pacific Fleet  |                        |
 |       | 137     | Novorossiysk | Pacific Fleet  | Pacific Fleet Flagship |
 |       | 103     | Baku         | Northern Fleet |                        |
 
-![](/assets/images/warsaw/su/navy/carriers/image2.jpg)
+<img src="/assets\images\warsaw\su\navy\carriers\image2.jpg" style="width:6.5in;height:2.88681in" />
 
 [**Moskva
 Class**](https://en.wikipedia.org/wiki/Moskva-class_helicopter_carrier)
@@ -88,8 +86,8 @@ Ka-27 and the older
 [Ka-25](http://www.military-today.com/helicopters/kamov_ka25_hormone.htm).
 
 | Class  | Pennant | Name      | Status        | Remarks                  |
-| ------ | ------- | --------- | ------------- | ------------------------ |
+|--------|---------|-----------|---------------|--------------------------|
 | Moskva | 113     | Moskva    | Black Sea/Med | Flagship Black Sea Fleet |
 |        | 109     | Leningrad | Black Sea/Med |                          |
 
-![](/assets/images/warsaw/su/navy/carriers/image3.jpg)
+<img src="/assets\images\warsaw\su\navy\carriers\image3.jpg" style="width:6.5in;height:4.39653in" />

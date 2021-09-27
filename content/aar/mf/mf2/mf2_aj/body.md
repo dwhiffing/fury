@@ -1,10 +1,10 @@
 **Mediterranean Fury \#2 – Syrian Surprise**
 
-**<span class="underline">Playtest Report by AndrewJ Feb 2019</span>**
+**<u>Playtest Report by AndrewJ Feb 2019</u>**
 
 Good grief, that's a long list of Syrians.
 
-Air Defence\! I need Air Defence\!
+Air Defence! I need Air Defence!
 
 (The Bain in Spain causes me a migraine...)
 
@@ -12,7 +12,7 @@ Edit: and if there's a Slava off Latakia, then we're all in range right
 now
 
 Having invaded Turkey last week, it’s time to step back a couple of days
-in simulation time, and defend myself from a surprise Syrian attack\!
+in simulation time, and defend myself from a surprise Syrian attack!
 
 **THE SITUATION**
 
@@ -46,15 +46,14 @@ The Russians are in Latakia, where they have based a modest airgroup.
 Fortunately, it looks like they’ve got nothing truly modern, and are
 operating a little over a dozen MiG-23s, but their pilots should be
 good. Their surface force is just fine, based around a Moskva and the
-Moskva – not confusing at all\! The old helicopter carrier is
-interesting as a technical experiment, but other than a flock of ASW
-helicopters it doesn’t bring much to the fight. The Slava, on the other
-hand, is a very dangerous foe, and it’s backed up by a Sovremenny, a
-Neustrashimy, and a bunch of decent middle-aged ASW-type cruisers and
-the like. That’s a surface group with a lot of punch. There may be an
-SA-10 in Latakia to give them extra cover too. As an added bonus, there
-is apparently a Victor lurking around somewhere, probably keeping an eye
-on my exercise.
+Moskva – not confusing at all! The old helicopter carrier is interesting
+as a technical experiment, but other than a flock of ASW helicopters it
+doesn’t bring much to the fight. The Slava, on the other hand, is a very
+dangerous foe, and it’s backed up by a Sovremenny, a Neustrashimy, and a
+bunch of decent middle-aged ASW-type cruisers and the like. That’s a
+surface group with a lot of punch. There may be an SA-10 in Latakia to
+give them extra cover too. As an added bonus, there is apparently a
+Victor lurking around somewhere, probably keeping an eye on my exercise.
 
 The Syrians, of course, are here in huge quantity. (Well, they do live
 here after all.) They have lots of everything in terms of SAMs and
@@ -98,7 +97,7 @@ range. There’s a tattletale only a few miles away from the Iowa group,
 and another relatively close to the Andromeda group. And it doesn’t take
 long before the Russians use the data.
 
-VAMPIRE\! VAMPIRE\!
+VAMPIRE! VAMPIRE!
 
 Radar operators start picking up multiple high-speed targets soaring
 upwards from the Russian battlegroup, heading straight for the Iowa. The
@@ -156,7 +155,7 @@ and AWACS reports large formations of aircraft assembling in Syria. It
 looks like one of them may be headed for Incirlik, and one for Akrotiri.
 About this time orders come in to stay alive, protect our forces, but to
 not interfere with Syria. Well, it looks like the Syrians are about to
-interfere with me\!
+interfere with me!
 
 The first raid to hit turns out to be aiming for the radar station in
 southern-most Turkey, not Incirlik itself, but my F-4s which are rushing
@@ -237,21 +236,21 @@ of this can happen.
 **FEB 13 – Heavy attacks**
 
 The next raid nearly gets into the Andromeda group (still alone), and
-it’s only the arrival of F-5s and F-18s from Greece which let me fend
-it off. The F-18s did an amazing afterburner run from Souda, tanking
-just west of Cyprus, and then burnering the rest of the way in. Lord
-knows what condition their engines are in now. It’s only a few minutes
-to the next attack, as MiG-23s press in to bomb the Andromeda, and this
-time British F-4s and the F-18s (now down to guns) shoot down the
-attackers. The Syrians make three more raids in the next hour or so, all
-trying to get at the Andromeda or the Iowa, but now the Turkish F-4s
-start to play a starring role. They have to fly the long way around
-Syria, turning south at Incirlik (and avoiding the heavy SAMs on the
-Slava), and hurrying down to the fight. They only show up two at a time,
-but that’s enough to match the pace of the raids, and these old
-work-horses hold the line and do a tremendous amount of good work. These
-raids also don’t have the heavy escort that the first ones did, so they
-are easier to tackle directly.
+it’s only the arrival of F-5s and F-18s from Greece which let me fend it
+off. The F-18s did an amazing afterburner run from Souda, tanking just
+west of Cyprus, and then burnering the rest of the way in. Lord knows
+what condition their engines are in now. It’s only a few minutes to the
+next attack, as MiG-23s press in to bomb the Andromeda, and this time
+British F-4s and the F-18s (now down to guns) shoot down the attackers.
+The Syrians make three more raids in the next hour or so, all trying to
+get at the Andromeda or the Iowa, but now the Turkish F-4s start to play
+a starring role. They have to fly the long way around Syria, turning
+south at Incirlik (and avoiding the heavy SAMs on the Slava), and
+hurrying down to the fight. They only show up two at a time, but that’s
+enough to match the pace of the raids, and these old work-horses hold
+the line and do a tremendous amount of good work. These raids also don’t
+have the heavy escort that the first ones did, so they are easier to
+tackle directly.
 
 About this time AWACs starts spotting extremely low altitude
 high-subsonic contacts moving in the direction of the Andromeda group.
@@ -273,7 +272,7 @@ from the fight, which would leave a dangerous vulnerability. So the
 AWACS turns and flees into southern Turkey, and gets chased most of the
 way to the Dardanelles before the MiG has to turn back when it runs low
 on fuel. (It then gets whacked by a pair of F-104s. Early cold-war
-justice\!)
+justice!)
 
 The underwater scene isn’t quiet either. There have been numerous false
 contacts throughout my area of operation, but my P-3 patrolling in the
@@ -320,7 +319,7 @@ need to try something else.
 
 The Syrian raids continue, coming in without escorts now, and I’m
 getting a bit complacent when one of them suddenly opens up with a
-frontal aspect missile\! These are Fencers, not Floggers or Fitters, and
+frontal aspect missile! These are Fencers, not Floggers or Fitters, and
 they’re not such easy kills. Wrenching away from the missile, my pilots
 draw back and come around from the rear, but that gives more time for
 the Fencers to close in on my ships. I consider opening fire with SAMs,
@@ -340,8 +339,8 @@ simply destroy itself, by sending in multiple small unsupported raids
 that I can easily overwhelm, but it seems like they’re getting more
 organized now. The next raid of note is 10 attack planes, distributed in
 several flights of two, including Su-24s, plus four escorts. My fighters
-handle the situation again (love that steady flow of Turkish F-4s\!),
-but at the end of this fight I’m growing concerned that the cupboard is
+handle the situation again (love that steady flow of Turkish F-4s!), but
+at the end of this fight I’m growing concerned that the cupboard is
 getting bare, as more and more of my fighters have completed their
 second quick turnaround flight and are now down for three hours of
 maintenance. The F-18s and F-5s that flew in from Greece earlier in the
@@ -389,11 +388,11 @@ remaining F-18s and all the F-5s are sent to land. As this is happening,
 AWACS starts reporting many new contacts launching and forming up in
 Syria. ESM suggests we’re looking at large numbers of MiG-23s and
 MiG-29s. Whatever’s happening is going to be big. The trouble is, I
-don’t know where it’s going yet. So three flights of Turkish F-4s
-launch to cover Incirlik, while a flight of F-16s with AMRAAMs launch
-and head south for Akrotiri, joining up with some F-4s already en-route.
-They’ll meet up with the planes already in that area. Hopefully that
-will cover all my major /assets.
+don’t know where it’s going yet. So three flights of Turkish F-4s launch
+to cover Incirlik, while a flight of F-16s with AMRAAMs launch and head
+south for Akrotiri, joining up with some F-4s already en-route. They’ll
+meet up with the planes already in that area. Hopefully that will cover
+all my major /assets.
 
 As radar operators peer at their screens, the enemy’s course becomes
 clear. They’ve got four Fitters escorted by eight or so MiG-23s,
@@ -404,7 +403,7 @@ for a death-run into Syria.) I’m facing them with the two new flights of
 F-18s from Greece, two flights of F-16 with AMRAAM, and a flight of
 Turkish F-4s. They outnumber me 2 to 1 in fighters, but I have much
 better missiles. After a last-minute splash of fuel from the tankers, we
-turn to engage\!
+turn to engage!
 
 First shots are taken by the F-18s, picking exclusively on the MiG-23s
 and trying to turn them aside with Sparrow shots, and then pressing on
@@ -438,7 +437,7 @@ domain instead, to deal with the fleet and land-based elements.
 I think I’m doing okay whittling down the Russian MiG-23s (although
 there’s a lot more than the dozen or so that intel suspected), and I can
 probably kill some more, or at least be ready to hit them if they
-appear. I might (maybe) be able to get subs in (go Dolunay\!), if the
+appear. I might (maybe) be able to get subs in (go Dolunay!), if the
 Russians aren’t using active sonar, but if they are then I’m so much
 dead meat. The big risk will be MAD hits from the swarm of ASW
 helicopters, which I still need to deal with, and that’s very much a
@@ -458,18 +457,18 @@ and powerful.
 
 (And then there’s the Israeli wildcard. Will things get politically
 messy in that corner of the Med? I do not need a diversion of /assets
-down there\!)
+down there!)
 
 We shall see.
 
-\---
+---
 
 Well crappity crap. They do have two of them.
 
 Edit: And they're big units too. 48 cells each, 96 ready tubes between
-them\! Saturate that - yeah right\!
+them! Saturate that - yeah right!
 
-\---
+---
 
 A little more game time, a little more report...
 
@@ -560,7 +559,7 @@ screen shoots down the Mig-21s and a few MiG-23s, I still don’t achieve
 decisive results against the MiG-29s, which disengage and head home for
 more missiles. But in the meantime the two surveillance Badgers are shot
 down, as well as one jammer Badger, and my raid turns back and clears
-the coast. Phase 1 is successful\! (Assuming the Russians don’t simply
+the coast. Phase 1 is successful! (Assuming the Russians don’t simply
 launch two more… I’m hoping intelligence reports that they only have a
 very small number of them are correct.)
 
@@ -568,7 +567,7 @@ For Phase 2, the planes which still have long-range missiles remaining
 turn north and head for the Soviet fleet, intending to approach at low
 altitude and take shots at the helicopters there. But, as they begin to
 fly north AWACS reports more Badgers lifting off from Damascus behind
-them. The Russians do have more\! Oh, and by the way, there’s a
+them. The Russians do have more! Oh, and by the way, there’s a
 four-plane raid of attack planes with a pair of escorts coming in at the
 same time. My fighters turn about and re-engage, fending off yet more
 defensive fighters, and getting the raid, and one jammer Badger and one
@@ -589,7 +588,7 @@ through the jamming they begin to open fire, killing an ELINT plane, and
 a handful of helicopters, until they finally get close enough that the
 Sovremenny opens up with its own medium-range SAMs. The pleased pilots
 turn and dash away, taking back the good news that the fleet’s major SAM
-defence is down\!
+defence is down!
 
 Behind them the Su-24 jammer sits smugly above the formation, completely
 immune to their attacks…
@@ -641,14 +640,14 @@ The big question is what to do with the F-16s at Incirlik, and the A-7s
 in Greece. Low-level attacks against Soviet air defences are a death
 ride, but so are medium altitude LGB attacks in the face of paired
 SA-10s. Do I take all my best fighters out of the line for six hours, to
-load up every HARM and Maverick I have and make a daylight (\!) attack
-on the SA-10s, in the hope that will clear the way for the A-7s? (Not to
+load up every HARM and Maverick I have and make a daylight (!) attack on
+the SA-10s, in the hope that will clear the way for the A-7s? (Not to
 mention the SA-2s, 3s, and 6s in the area, of course.) Or do I admit
 that I’m not getting into Latakia today?
 
 The decision needs to come soon…
 
-And now, the conclusion of Syrian Surprise\!
+And now, the conclusion of Syrian Surprise!
 
 **FEB 13 – PLANS FINALIZE**
 
@@ -712,7 +711,7 @@ fighters rush to engage it with long-range SARH missiles, hoping to
 force back the MiG-29s and let the MiG-23s (presumably carrying bombs?)
 carry on to be tackled by the Harriers closer to my ships. That’s when
 the flight leaders realize that all the MiG-23s are maneuvering like
-fighters – that’s 19 escorts for 4 strikers\! My fighters are badly
+fighters – that’s 19 escorts for 4 strikers! My fighters are badly
 outnumbered, and the Harriers are certainly outclassed. My ships turn on
 their radars and try long-range SAM shots to break up the formations,
 but they have minimal effect, and my Sparrow shots aren’t going to kill
@@ -720,7 +719,7 @@ enough of them before they close with me. My planes keep having to turn
 and run, as the relentless wave advances.
 
 Suddenly, two of the attack planes open fire before I can get a shot at
-them. Vampires\! But they’re not headed for my ships. They’re headed for
+them. Vampires! But they’re not headed for my ships. They’re headed for
 the center of Cyprus, where I have a land based radar cheerfully
 emitting, helping the AWACs keep tabs on the local air traffic. The crew
 chop the circuit breakers and run desperately for the slit trenches, as
@@ -804,14 +803,14 @@ steerage, and the Dolunay ascends to periscope depth. There they are,
 all the big ships in the core of the fleet. The Slava is too fast, and
 the short ranged torps will never catch it, but the nearby Kara is
 definitely in range, and the Moskva CVH might just be achievable. Four
-torpedoes are assigned to each, and the shots are away\!
+torpedoes are assigned to each, and the shots are away!
 
 The Russians detect the shots almost immediately, and radars and sonars
 flick on as the ships turn to run at best speed. Two torpedoes hit the
 Kara, sinking it, and the four chasing the Moskva hissed off into the
 distance, their fuel supplies dwindling rapidly. Then, within half a
 mile of expected loss of control, 1, 2, 3, and 4 explosions happen on
-the bearing to the Moskva\! But there is no one to hear the breakup
+the bearing to the Moskva! But there is no one to hear the breakup
 sounds of the sinking ship. The little Dolunay had turned and ducked
 into the layer again, hoping to clear the area and escape, but little
 SSKs are slower than SS-N-14s. The Dolunay was already dead.
@@ -886,7 +885,7 @@ are closely followed by a salvo of every Harpoon I have, from the F-18s,
 the P-3s, the Iowa group, and my SSNs. The majority are aimed at the
 Soviet task group, with a handful headed for the Syrian patrol boats
 near the port. Between Harpoons and TLAMs, I have 170 missiles on the
-way in. Now that's saturation\!
+way in. Now that's saturation!
 
 The stream of TLAMs draws fire from the surface ships, before their
 attention gets diverted to the incoming Harpoons. The ships fight hard,
@@ -1013,7 +1012,7 @@ Leahy.
 
 **PLAY OBSERVATIONS**
 
-Wow\! This one’s great. Tons of action, from frantic self defence, to
+Wow! This one’s great. Tons of action, from frantic self defence, to
 sneaky subs, to massive hammering blows of surface group missile
 barrages. I think the Med works really well, because the quarters are so
 confined that you can’t just vanish into the cold dark Atlantic where
@@ -1030,7 +1029,7 @@ keep Israel out of the war.
 
 If the Latakia strike had gone poorly, I was contemplating closing in
 for a battleship bombardment of known SAM sites. Wouldn’t that have been
-exciting\! (It’s a shame runways aren’t a valid target for 16” guns.)
+exciting! (It’s a shame runways aren’t a valid target for 16” guns.)
 
 The uncoordinated small Syrian attacks and probes were certainly
 infuriating, forcing me to repeatedly divert away from what I wanted to

@@ -1,29 +1,28 @@
-**<span class="underline">Mediterranean Fury \#2 – Syrian
-Surprise</span>**
+**<u>Mediterranean Fury \#2 – Syrian Surprise</u>**
 
-**<span class="underline">AAR by maverick3320, June 2021</span>**
+**<u>AAR by maverick3320, June 2021</u>**
 
 Situation: you start as the commander of the Kearsarge ESG near Cyprus
 when Warsaw Pact kicks off the fighting.
 
 Assets:
 
-> \-Kearsarge ESG (Mainly an Essex-class with 5 Harriers, a Leahy CG,
+> -Kearsarge ESG (Mainly an Essex-class with 5 Harriers, a Leahy CG,
 > Iowa BB, and some ASW and amphib /assets with no ground forces) with
 > 100 or so Tomahawks and 40 or so Harpoons
-> 
-> \-Scattered other ASW and sustainment ships
-> 
-> \-RAF Akrotiri air base, with 4x Tornados and 4x Phantoms
-> 
-> \-Incirlik with E3 AWACs and 14x F-16 (AMRAAMs, although limited
+>
+> -Scattered other ASW and sustainment ships
+>
+> -RAF Akrotiri air base, with 4x Tornados and 4x Phantoms
+>
+> -Incirlik with E3 AWACs and 14x F-16 (AMRAAMs, although limited
 > quantity, but still probably your biggest asset)
-> 
-> \-10 F/A-18s in Greece with some HARMs and TALDs
-> 
-> \-40ish other Turkish F4s and F16s with AIM-9Ls
-> 
-> \-20+ Greek A-7 Corsairs with some GBUs (that need buddy guidance) and
+>
+> -10 F/A-18s in Greece with some HARMs and TALDs
+>
+> -40ish other Turkish F4s and F16s with AIM-9Ls
+>
+> -20+ Greek A-7 Corsairs with some GBUs (that need buddy guidance) and
 > dumb bombs
 
 Enemy: Intel says 12ish WP Mig 23s, plus jammers and a SAG centered on

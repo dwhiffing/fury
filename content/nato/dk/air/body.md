@@ -9,7 +9,7 @@ Warsaw Pact surface forces access to the North Sea. To do this the bulk
 of the RDAF is focused on four squadrons of F-16s and two squadrons of
 F-35 Drakan’s.
 
-![](/assets/images/nato/dk/air/image1.jpeg)
+<img src="/assets\images\nato\dk\air\image1.jpeg" style="width:5.82292in;height:3.87796in" />
 
 [**F-16**](http://www.f-16.net/f-16_users_article3.html)
 
@@ -21,13 +21,13 @@ squadrons and reside in two bases, 723 Squadron has the added role of
 conducting initial and continuation training.
 
 | Sqn | Name     | Location   | AC   | Type    |
-| --- | -------- | ---------- | ---- | ------- |
+|-----|----------|------------|------|---------|
 | 723 | Horntail | Aalborg    | 6/16 | F-16A/B |
 | 726 | Phantom  | Aalborg    | 16   | F-16A   |
 | 727 | Craven   | Skrydstrup | 16   | F-16A   |
 | 730 | Birdsong | Skrydstrup | 16   | F-16A   |
 
-![](/assets/images/nato/dk/air/image2.jpg)
+<img src="/assets\images\nato\dk\air\image2.jpg" style="width:3.18681in;height:4.47917in" />
 
 [**F-35 Draken**](https://en.wikipedia.org/wiki/Saab_35_Draken)
 
@@ -43,10 +43,10 @@ Both squadrons were projected to operate into the late 90’s but were
 disbanded in 1992 due to the end of the Cold War – they remain for
 Northern Fury.
 
-| Sqn | Name   | Location | AC | Type  |
-| --- | ------ | -------- | -- | ----- |
-| 725 | Dragon | Karup    | 20 | F-35  |
-| 729 | Eagle  | Karup    | 20 | RF-35 |
+| Sqn | Name   | Location | AC  | Type  |
+|-----|--------|----------|-----|-------|
+| 725 | Dragon | Karup    | 20  | F-35  |
+| 729 | Eagle  | Karup    | 20  | RF-35 |
 
 **Transport/SAR/AD**
 
@@ -55,6 +55,6 @@ C-130H Hercules, 722 ‘Sea Lions’ Search and Rescue Squadron flying 8x
 S-61A helicopters, and eight ‘I-HAWK’ surface to air missile batteries
 divided into East and West commands.
 
-![](/assets/images/nato/dk/air/image3.jpg)
+<img src="/assets\images\nato\dk\air\image3.jpg" style="width:5.375in;height:3.58542in" />
 
-![](/assets/images/nato/dk/air/image4.jpg)
+<img src="/assets\images\nato\dk\air\image4.jpg" style="width:5.41667in;height:3.94097in" />

@@ -10,8 +10,7 @@ Eisenhower (CVN-69)* and an Expeditionary Strike Group (ESG) centered on
 the *USS Kearsarge (LHD-3)* and *USS Iowa (BB-61).* More background
 information is available [here](http://northernfury.us/blog/post26/).
 
-![Map Description automatically
-generated](/assets/images/aar/mf/image1.png)
+<img src="/assets\images\aar\mf\image1.png" style="width:6.5in;height:2.74167in" alt="Map Description automatically generated" />
 
 Part of the Soviet effort to disperse NATO’s efforts and weaken its
 ability to react to any one situation was to invest heavily in training
@@ -50,4 +49,4 @@ Soviet side while the remainder are from a NATO perspective.
 
 9.  Bulgarian Strike, An attempt to destabilize the Warsaw Pact Alliance
 
-10. Convoy Ho\! A continuation of the oil convoy from the Persian Gulf
+10. Convoy Ho! A continuation of the oil convoy from the Persian Gulf

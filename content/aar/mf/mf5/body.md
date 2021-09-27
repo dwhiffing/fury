@@ -1,9 +1,8 @@
-**Mediterranean Fury 5: Serbia-right\!**
+**Mediterranean Fury 5: Serbia-right!**
 
 16 Feb 1994, 1300 Zulu, 1400 Local
 
-![UNPROFOR checkpoint in Bosnia and Herzegovina (Stari Vitez, 1 May
-1994) - CVCE Website](/assets/images/aar/mf/mf5/image1.jpeg)
+<img src="/assets\images\aar\mf\mf5\image1.jpeg" style="width:6.5in;height:4.32917in" alt="UNPROFOR checkpoint in Bosnia and Herzegovina (Stari Vitez, 1 May 1994) - CVCE Website" />
 
 Three days into World War Three and you as **Commander 5<sup>th</sup>
 Allied Tactical Air Force (ATAF)** are now focusing your efforts on the
@@ -34,7 +33,7 @@ sea blockade of the Balkans, are still in place but their
 responsibilities and resources have fallen under your control.
 
 For the past 72 hours your Area of Operation (AO) has been quiet –
-disturbingly quiet\! The WP has not violated UNPROFOR airspace while the
+disturbingly quiet! The WP has not violated UNPROFOR airspace while the
 tempest of war goes on to the north, south and east, apparently content
 to hold down NATO forces while conserving their own. NATO on the other
 hand is not anxious to engage on another front at a disadvantage, and
@@ -61,21 +60,16 @@ to deter WP operations in Syria and the Bosporus area and finally, to
 cover SNMCMG2’s (Standing NATO Mine Countermeasures Group 2) operation
 to rescue the ***Hansa Carrier.***
 
-![Aerial port side view of the Italian Sparviero class hydrofoil-missile
-NIBBIO P-421) and FALCONE (P-422) underway - U.S. National Archives
-\&amp; DVIDS Public Domain
-Search](/assets/images/aar/mf/mf5/image2.jpeg)
+<img src="/assets\images\aar\mf\mf5\image2.jpeg" style="width:6.5in;height:4.34792in" alt="Aerial port side view of the Italian Sparviero class hydrofoil-missile NIBBIO P-421) and FALCONE (P-422) underway - U.S. National Archives &amp;amp; DVIDS Public Domain Search" />
 
-**<span class="underline">Mediterranean Fury \#5</span>** places the
-player at the horns of a dilemma. Should the allied air forces proceed
-as directed and conduct strikes into Hungary, or should they prepare for
-a WP air and ground assault which the intelligence staff is warning
-against?
+**<u>Mediterranean Fury \#5</u>** places the player at the horns of a
+dilemma. Should the allied air forces proceed as directed and conduct
+strikes into Hungary, or should they prepare for a WP air and ground
+assault which the intelligence staff is warning against?
 
 The end result is a complex and diverse scenario running the width of
 the Balkans and the breadth of the Aegean. Counter smuggling operations,
 rescue of UNPRFOR personnel, defending far flung locations and striking
 deep into WP territory are all part of the game.
 
-![List of Mikoyan-Gurevich MiG-21 operators -
-Wikipedia](/assets/images/aar/mf/mf5/image3.jpeg)
+<img src="/assets\images\aar\mf\mf5\image3.jpeg" style="width:6.5in;height:7.98542in" alt="List of Mikoyan-Gurevich MiG-21 operators - Wikipedia" />

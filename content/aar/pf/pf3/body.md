@@ -1,14 +1,11 @@
-**Pacific Fury 3: Caught Flat Footed\!**
+**Pacific Fury 3: Caught Flat Footed!**
 
 13 Feb 1994, 1200 Zulu, 2100 Local
 
-![A bow view of the aircraft carrier USS CONSTELLATION (CV-64) underway.
-Various aircraft of the carrier&\#39;s air wing are parked on the flight
-deck - U.S. National Archives \&amp; DVIDS Public
-Domain](/assets/images/aar/pf/pf3/image1.jpeg)
+<img src="/assets\images\aar\pf\pf3\image1.jpeg" style="width:6.5in;height:4.31875in" alt="A bow view of the aircraft carrier USS CONSTELLATION (CV-64) underway. Various aircraft of the carrier&amp;#39;s air wing are parked on the flight deck - U.S. National Archives &amp;amp; DVIDS Public Domain" />
 
-**You are the commander of the USS *Constellation* Carrier Battle Group
-(CVBG).** Due to the increased tensions with the Soviets, the Pacific
+You are the commander of the USS *Constellation* Carrier Battle Group
+(CVBG). Due to the increased tensions with the Soviets, the Pacific
 Fleet’s exercise schedule has been ramped up, and your CVBG has been
 participating in a series of exercise over the past six weeks. Departing
 San Diego, a couple days after Christmas you deployed to the Philippians
@@ -28,15 +25,11 @@ comfortable with.
 
 It is time to get things under control and get back on the front foot.
 
-![Russia Is Trying To Restore a Giant Nuclear Battlecruiser—It&\#39;s
-Not Working Out](/assets/images/aar/pf/pf3/image2.jpeg)
+<img src="/assets\images\aar\pf\pf3\image2.jpeg" style="width:6.5in;height:3.04444in" alt="Russia Is Trying To Restore a Giant Nuclear Battlecruiser—It&amp;#39;s Not Working Out" />
 
-**<span class="underline">Pacific Fury \#3</span>** opens with some
-desperate moments as a surprise attack from several angles catches
-dispersed elements of the CVBG unprepared. Once the initial shock is
-over the player has some good opportunities to strike back and exert a
-little revenge.
+**<u>Pacific Fury \#3</u>** opens with some desperate moments as a
+surprise attack from several angles catches dispersed elements of the
+CVBG unprepared. Once the initial shock is over the player has some good
+opportunities to strike back and exert a little revenge.
 
-![VMFA 332 F-18 Superhornet along side Philippine Air Force F-5 Freedom
-Fighters circa 2003:
-Military](/assets/images/aar/pf/pf3/image3.jpeg)
+<img src="/assets\images\aar\pf\pf3\image3.jpeg" style="width:6.5in;height:2.54583in" alt="VMFA 332 F-18 Superhornet along side Philippine Air Force F-5 Freedom Fighters circa 2003: Military" />

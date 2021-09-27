@@ -1,6 +1,6 @@
 **Baltic Fury \#1 – Storm the Gates**
 
-**<span class="underline">Playtest Report by AndrewJ Aug 2018</span>**
+**<u>Playtest Report by AndrewJ Aug 2018</u>**
 
 So that's what Sepals are for...
 
@@ -11,29 +11,29 @@ smugly there in what is sure to be excellent SAM cover. And those are
 only the ones the Russians want me to see. An Aegis cruiser could shrug
 them off, but my little patrol boats sure can't.
 
-\---
+---
 
 What are you carrying, Emden?? I wish there was a way to say 'Heave to,
-or else\!'
+or else!'
 
 Not that I really have an 'else' at the moment... I've got at least 140
 inbound bogeys, so that's a whole heck of a lot more 'else' than I can
 deal with.
 
-\---
+---
 
 Survived the first wave, commended myself on my dashing Kormoran
 counterstroke, only to find that just as my best fighters have landed to
 refuel the orcs are boiling out of Mordor for the second wave. Oh boy,
 that's a lotta planes...
 
-Still playing V1.0 and loving it\!
+Still playing V1.0 and loving it!
 
-\---
+---
 
 **SITUATION**
 
-The Russians are coming\! The Russians are coming\!
+The Russians are coming! The Russians are coming!
 
 Well, we’re heading into a hot war with Russia, and I’ve got to defend
 the Baltic. I’ve got some old Drakens with bad Sidewinders, a fair
@@ -82,7 +82,7 @@ on a fishing holiday, and there are a number of large merchant ships
 transiting the area. Most of them are tanker, bulk cargo, or container
 ships, but one is a Ro-Ro, which piques command's interest. It's called
 the Emden, and it's heading for the north tip of Zealand. Being dutiful
-officers, we've all read our Clancy\! Could this be a boat-load of
+officers, we've all read our Clancy! Could this be a boat-load of
 commies in disguise, ready to pounce on a vulnerable coastal airfield?
 Observation helicopters are put on patrol to monitor it continuously,
 and the Alpha-jets and some of the Drakens are warned to be ready for
@@ -92,9 +92,9 @@ First hostile action comes when ASMs are spotted inbound towards
 Bornholm from the east, on a course which would take them over the
 island and directly towards the Russian patrol boat on the west. Is this
 some convoluted attempt to fabricate a pretext for war? "Missiles from
-Bornholm sink Russian patrol boat\!" screams Pravda\! " Russia demands
+Bornholm sink Russian patrol boat!" screams Pravda! " Russia demands
 immediate occupation of hostile island," proclaims Russian UN
-ambassador\! The order goes out to shoot them down before any incident
+ambassador! The order goes out to shoot them down before any incident
 can happen, and it takes several minutes before somebody points out that
 some of the Russian missiles can engage ground targets too. Like those
 radars directly in the flight path...
@@ -111,7 +111,7 @@ fighters are about to pounce on the first of the Bornholm attackers the
 controllers recognize that a large stream of the Russian fighters are
 headed for Laage. I'd like to fight, but Laage is far more important
 than Bornholm, and the Migs and Phantoms are recalled. Bornholm, and its
-last two F-16s are on their own\!
+last two F-16s are on their own!
 
 The F-16s make it into the air just before the strike arrives, and they
 get a few before they flee to Roskilde under afterburner. Surprisingly,
@@ -148,7 +148,7 @@ the HAWKs exhaust their ready loadout and get pummelled by ARMs with
 target memory. I had thought of pulling back again (and was wondering if
 I should have evacuated the Bornholm planes further back than Roskilde)
 when I got the message to preserve the Gulfstreams and escort my
-officials out. Rotten timing\! A few Tornado F3s dash in, having flown
+officials out. Rotten timing! A few Tornado F3s dash in, having flown
 direct from England and now perilously low on fuel after a final
 afterburner run, and manage to break up some more of the attack, but
 it's not enough. Vaernes and Roskilde are both bombed.
@@ -206,7 +206,7 @@ dozen miles from the shore and closing. I've got a FLIR equipped
 helicopter on station overhead, some bomb and rocket equipped fighters
 loitering in readiness, and more on hot pad alert, just waiting for the
 call. Itchy fingers rest on triggers. What will those sneaky commies do?
-Turn back, that's what\! The innocent Emden decides a war zone is a bad
+Turn back, that's what! The innocent Emden decides a war zone is a bad
 place to be, and placidly turns about and sails back towards the
 Atlantic. The bemused pilots watch for a while, before being ordered
 home, shaking their heads about paranoia in the upper ranks. The
@@ -217,7 +217,7 @@ fighters, and the Fort Stevn HAWK makes a good score against enemy
 planes which pursue me into its reach. A Russian sub tries snorting in
 the Skagerrak, but that's a short-term strategy. My two eastern subs
 manage to kill a couple of the slower moving ASW patrol boats, as well
-as sinking one Krivak and damaging another. (Good job Nordkaperen\!)
+as sinking one Krivak and damaging another. (Good job Nordkaperen!)
 ELINT and AWACS start getting indications of emissions from a surface
 group coming west along the coast, probably the cruiser group we've been
 warned about. The Russian aircraft have landed and are recovering from
@@ -253,7 +253,7 @@ making a raid, which is destroyed easily enough, but then we start
 picking up ESM indications of something big coming: at least 15 planes
 and counting, emitting Slot Back radars. It only takes a few minutes to
 tell that there's a massive strike coming up north, and most of my best
-fighters have just landed\! It's come as you are, with no SAM support,
+fighters have just landed! It's come as you are, with no SAM support,
 and only a handful of long range missiles, in the face of the Russian
 horde. Most of the battle takes place over southern Sweden, as we try to
 hit the SU-24s before they can launch their payload, and the leading
@@ -271,13 +271,13 @@ Russian attack planes for a second time, and none of their ordnance
 crossed my airbase perimeters.
 
 As dawn approaches the Russians try an un-escorted raid, which gets
-eaten alive, and then a tiny (2 attackers\!) but heavily escorted (12
-Flankers\!) attack on Laage. I manage to execute a beautiful wall on
-that one, with 8 Tornado F3s engaging at long range, killing the
-majority, and then disengaging successfully. At the same time, 2 pairs
-of Phantoms circled around behind, to pounce on the survivors who RTBed.
-My main surface combatants had formed up into a decent surface group by
-this point, and were headed east towards Bornholm when they suddenly had
+eaten alive, and then a tiny (2 attackers!) but heavily escorted (12
+Flankers!) attack on Laage. I manage to execute a beautiful wall on that
+one, with 8 Tornado F3s engaging at long range, killing the majority,
+and then disengaging successfully. At the same time, 2 pairs of Phantoms
+circled around behind, to pounce on the survivors who RTBed. My main
+surface combatants had formed up into a decent surface group by this
+point, and were headed east towards Bornholm when they suddenly had
 torps inbound. ASROCs at the suspected launch point produced a kill, to
 my surprise, and my group managed to turn and outrun the torpedoes (as
 well as putting some Harpoons into ASW patrol craft near Bornholm). A
@@ -296,13 +296,12 @@ mostly empty of their aircraft.
 
 **Assorted Observations**
 
-This one's a workout\! Tons of planes and action, and lots of weaving
-and dodging for a micromanager to play with. It took me just over two
-weeks of occasional evening play to finish it. I must admit I was
-looking over my shoulder for dirty tricks, a la Iceland, and seeing them
-where they weren't. In retrospect, a one-boat invasion of a Danish
-province of 2.3 million is a far cry from picking on isolated
-settlements in Iceland.
+This one's a workout! Tons of planes and action, and lots of weaving and
+dodging for a micromanager to play with. It took me just over two weeks
+of occasional evening play to finish it. I must admit I was looking over
+my shoulder for dirty tricks, a la Iceland, and seeing them where they
+weren't. In retrospect, a one-boat invasion of a Danish province of 2.3
+million is a far cry from picking on isolated settlements in Iceland.
 
 I hadn't appreciated how shallow the Baltic really is. There are
 numerous places where my subs couldn't fully submerge, and the ones

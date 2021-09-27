@@ -25,17 +25,17 @@ guns in twin turrets, torpedo tubes a flight deck and small hanger but
 no facilities for a permanent helicopter. These ships are well past
 their prime and rarely sail.
 
-![](/assets/images/nato/gr/navy/image1.jpg)
+<img src="/assets\images\nato\gr\navy\image1.jpg" style="width:6.34375in;height:2.55227in" />
 
 **Kanaris Class:** Outfitted for ASW work, these six ships are all based
 on Gearing FRAM I hulls. They only have 2x 5” twin turrets, but also
 carry 8x Harpoon ASuW missiles, ASW rockets (ASROC), an Oto Melara 76mm
 gun for air defence but no flight deck.
 
-![](/assets/images/nato/gr/navy/image2.jpeg)
+<img src="/assets\images\nato\gr\navy\image2.jpeg" style="width:6.5in;height:2.64236in" />
 
 | Class        | Pennant | Name          | Status  | Remarks |
-| ------------ | ------- | ------------- | ------- | ------- |
+|--------------|---------|---------------|---------|---------|
 | Themistoklis | D 210   | Themistoklis  | Tied up |         |
 |              | D 211   | Miaoulis      | Refit   |         |
 | Kanaris      | D 212   | Kanaris       | Tied up |         |
@@ -55,10 +55,10 @@ modern propulsion system, aircraft facilities for two AB-212 ASW
 helicopters, 8x Harpoon missiles, Sea Sparrow air defence missiles, an
 Oto-Melara 76mm gun and Phalanx Close In Weapons System (CIWS).
 
-![](/assets/images/nato/gr/navy/image3.jpeg)
+<img src="/assets\images\nato\gr\navy\image3.jpeg" style="width:6.5in;height:2.07986in" />
 
 | Class | Pennant | Name   | Status  | Remarks |
-| ----- | ------- | ------ | ------- | ------- |
+|-------|---------|--------|---------|---------|
 | Elli  | F 450   | Elli   | Tied up |         |
 |       | F 451   | Limnos | Patrol  |         |
 
@@ -74,11 +74,10 @@ were completed after long delays in Greece. For Northern Fury the
 evolving Soviet threat and the lack of other ship transfers spurred the
 building program so that the two canceled ships were built in Germany,
 both completing in 1993 while one locally built has been commissioned
-and the other two will come into service later in
-1994.
+and the other two will come into service later in 1994.
 
 | Class | Pennant | Name       | Status   | Remarks                           |
-| ----- | ------- | ---------- | -------- | --------------------------------- |
+|-------|---------|------------|----------|-----------------------------------|
 | Hydra | F 452   | Hydra      | Active   |                                   |
 |       | F 453   | Spetsai    | Active   |                                   |
 |       | F 454   | Psara      | Building |                                   |
@@ -86,7 +85,7 @@ and the other two will come into service later in
 |       | F 456   | Aigaion    | Active   | Name from F 460, built in Germany |
 |       | F 457   | Bouboulina | Active   | Name from F 463, built in Germany |
 
-![](/assets/images/nato/gr/navy/image4.jpeg)
+<img src="/assets\images\nato\gr\navy\image4.jpeg" style="width:6.5in;height:2.07431in" />
 
 **Fast Attack Craft (FAC)**
 
@@ -98,11 +97,10 @@ FACs in the Aegean Sea as an inexpensive and effective way of countering
 any threat in those confined and busy waters. Over the years more boats
 were added; 14 boats in service in 1994, the six from Germany would have
 allowed retirement of some of the older craft but the numbers would have
-remained
-stable.
+remained stable.
 
 | Class               | Pennant | Name          | Status | Remarks           |
-| ------------------- | ------- | ------------- | ------ | ----------------- |
+|---------------------|---------|---------------|--------|-------------------|
 | La Combattante II   | P 14    | Anninos       | Active | 4x mm-38 Exocet   |
 |                     | P 15    | Arliotis      | Active | 4x mm-38 Exocet   |
 |                     | P 16    | Konidis       | Active | 4x mm-38 Exocet   |
@@ -118,7 +116,7 @@ stable.
 |                     | P 28    | Simitzopoulos | Active | 6x Penguin Mk 2   |
 |                     | P 29    | Starakis      | Active | 6x Penguin Mk 2   |
 
-![](/assets/images/nato/gr/navy/image5.jpg)
+<img src="/assets\images\nato\gr\navy\image5.jpg" style="width:6.5in;height:4.66389in" />
 
 Gun Boats
 
@@ -126,11 +124,10 @@ There are three main classes of small gun boats used by the Hellenic
 Navy, the common factor is size, between 550 and 600 tons, speed of
 about 24 knts, and role – to patrol the hundreds of Greek islands in the
 Aegean archipelago. The Thetis boats have an ASW capability but the two
-Osprey types are simply
-gunboats.
+Osprey types are simply gunboats.
 
 | Class     | Pennant | Name       | Status | Remarks                             |
-| --------- | ------- | ---------- | ------ | ----------------------------------- |
+|-----------|---------|------------|--------|-------------------------------------|
 | Osprey 55 | P 18    | Armatolos  |        | Oto-Melara 76mm                     |
 |           | P 19    | Navmachos  |        | Oto-Melara 76mm                     |
 | HSY-55    | P 57    | Pyrpolitis |        | Oto-Melara 76mm                     |
@@ -141,14 +138,15 @@ gunboats.
 |           | P 65    | Karteria   |        | Two twin Boffors L70/Breda 40 mm/70 |
 |           | P 66    | Agon       |        | Two twin Boffors L70/Breda 40 mm/70 |
 
-![](/assets/images/nato/gr/navy/image6.jpeg)
+<img src="/assets\images\nato\gr\navy\image6.jpeg" style="width:6.5in;height:4.29306in" />
 
 **Amphibious vessels**
 
-![](/assets/images/nato/gr/navy/image7.JPG)**Kos Class LST**: These
-two ‘Landing Ship Tank’ of the World War Two ‘Terrebonne Parish-class’
-were transferred to Greece in the early 1970s after many years of
-service for the USN in both Korea and Viet Nam as well as other service.
+<img src="/assets\images\nato\gr\navy\image7.JPG" style="width:3.51319in;height:2.5in" />**Kos
+Class LST**: These two ‘Landing Ship Tank’ of the World War Two
+‘Terrebonne Parish-class’ were transferred to Greece in the early 1970s
+after many years of service for the USN in both Korea and Viet Nam as
+well as other service.
 
 **Casa Grande LSD**: Another World War Two design, this ship was
 commissioned immediately after the war and transferred to Greece in
@@ -158,28 +156,27 @@ commissioned immediately after the war and transferred to Greece in
 Ikarias transferred to Greece after service in Korea and Viet Nam, while
 the six Samos class were delivered in the early 1950s.
 
-**Grigoropoulos class LSM**: More veterans transferred in
-1958.
+**Grigoropoulos class LSM**: More veterans transferred in 1958.
 
 | Class                   | Pennant | Name          | Remarks                              |
-| ----------------------- | ------- | ------------- | ------------------------------------ |
+|-------------------------|---------|---------------|--------------------------------------|
 | Terrebonne Parish LST   | L 116   | Kos           | about 400 troops or several vehicles |
 |                         | L 104   | Oinoussai     |                                      |
 | Casa Grande LSD         | L 153   | Nafkratousa   | about 200 troops and 15 tanks        |
 | Ikaria LST              | L 154   | Ikaria        | about 150 troops and 5 tanks         |
 |                         | L 171   | Krit          |                                      |
-| Samos                   | L 144   | Siros         |                                      |
-|                         | L 157   | Rodos         |                                      |
-|                         | L 158   | Limnos        |                                      |
-|                         | L 172   | Lesbos        |                                      |
-|                         | L 179   | Samos         |                                      |
-|                         | L 195   | Chios         |                                      |
+| Samos                   | L 144   | Siros         |                                      |
+|                         | L 157   | Rodos         |                                      |
+|                         | L 158   | Limnos        |                                      |
+|                         | L 172   | Lesbos        |                                      |
+|                         | L 179   | Samos         |                                      |
+|                         | L 195   | Chios         |                                      |
 | Grigoropoulos class LSM | L 161   | Grigoropoulos | 5 Tanks                              |
-|                         | L 162   | Tournas       |                                      |
+|                         | L 162   | Tournas       |                                      |
 |                         | L 163   | Daniolos      |                                      |
-|                         | L 164   | Roussen       |                                      |
-|                         | L 165   | Krystallidis  |                                      |
-|                         | L 166   | Merlin        |                                      |
+|                         | L 164   | Roussen       |                                      |
+|                         | L 165   | Krystallidis  |                                      |
+|                         | L 166   | Merlin        |                                      |
 
 **Submarines**
 
@@ -189,7 +186,7 @@ the older Type 209-1100 and four of the Harpoon missile capable Type
 restricted water of the Aegean Sea.
 
 | Class    | Pennant | Name       | Status | Remarks       |
-| -------- | ------- | ---------- | ------ | ------------- |
+|----------|---------|------------|--------|---------------|
 | Glaukos  | S 110   | Glaukos    |        | Type 209-1100 |
 |          | S 111   | Nireus     |        |               |
 |          | S 112   | Triton     |        |               |
@@ -199,4 +196,4 @@ restricted water of the Aegean Sea.
 |          | S 118   | Okeanos    |        |               |
 |          | S 119   | Poseidon   |        |               |
 
-![](/assets/images/nato/gr/navy/image8.jpeg)
+<img src="/assets\images\nato\gr\navy\image8.jpeg" style="width:6.5in;height:4.22153in" />

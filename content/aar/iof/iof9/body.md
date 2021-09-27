@@ -8,6 +8,6 @@ simmering for the past 10 days, escalates into full blown war. The
 player must achieve key objectives without being drawn into the Indo/Pac
 conflict
 
-**<span class="underline">Indian Ocean Fury \#9</span>**
+**<u>Indian Ocean Fury \#9</u>**
 
 Not yet built

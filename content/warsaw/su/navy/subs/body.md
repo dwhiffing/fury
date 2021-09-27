@@ -12,10 +12,9 @@ keeping him occupied and away from your littoral, while maintaining a
 viable nuclear deterrence and maintaining the ability to strike (fleet
 in being) limits an enemies options. Doctrinal wrangling aside, the
 Soviets maintain twice as many submarines as the US and almost as many
-as all nations in NATO
-combined.
+as all nations in NATO combined.
 
-![](/assets/images/warsaw/su/navy/subs/image1.jpeg)![](/assets/images/warsaw/su/navy/subs/image2.jpg)All
+<img src="/assets\images\warsaw\su\navy\subs\image1.jpeg" style="width:2.65486in;height:2.80139in" /><img src="/assets\images\warsaw\su\navy\subs\image2.jpg" style="width:3.69444in;height:2.77083in" />All
 Soviet subs are double hulled, meaning that they have a ‘Light Hull’ of
 thin steel as an outer hull, forming the hydrodynamic shape of the boat.
 The light hull allows the attachment of machinery, equipment and missile
@@ -53,4 +52,4 @@ the 1960s) However the story at this
 shows how the Soviets can break the mold and should not be discounted
 from a technology standpoint.
 
-![](/assets/images/warsaw/su/navy/subs/image3.jpg)
+<img src="/assets\images\warsaw\su\navy\subs\image3.jpg" style="width:6.5in;height:4.26875in" />

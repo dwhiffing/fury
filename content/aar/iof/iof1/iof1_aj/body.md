@@ -1,19 +1,19 @@
 **Indian Ocean Fury \#1 – Persian Pounce**
 
-**<span class="underline">Playtest Report by AndrewJ July 2017</span>**
+**<u>Playtest Report by AndrewJ July 2017</u>**
 
 Multiple unidentified bogeys inbound on bearings to my dispersed patrol
-vessels, and the Sara miles away. Crap\! Scramble what I've got, get the
+vessels, and the Sara miles away. Crap! Scramble what I've got, get the
 helicopters airborne and running ashore. We're gonna lose some ships...
 
 Incidentally, that Badger waaay out behind me is a very nice touch. Is
 he just looking? Has he got a raid lined up behind him? Is he just a
 distraction? Do I really waste a set of F-14s to go after him?
 
-And who the heck thought it was a good idea to sell F-14s to Iran\!
+And who the heck thought it was a good idea to sell F-14s to Iran!
 
 We'd better clear the straits? I could walk from shore to shore on
-Iranian speedboats, and never see the skies through the clouds of MiGs\!
+Iranian speedboats, and never see the skies through the clouds of MiGs!
 
 Say, that's an unusual set of radar emissions for cargo ships... What
 are you up to Gunner?
@@ -26,7 +26,7 @@ Hmmm...
 
 Initially my forces in the Gulf region put up a number of observation
 aircraft to assess the situation, and a limited number of small CAPs
-took off but generally stayed over the friendly coast, hoping (hah\!)
+took off but generally stayed over the friendly coast, hoping (hah!)
 that the region might remain calm. The biggest change was that the Sara
 group was ordered to turn west and sail towards Masirah, to bring her
 aircraft closer to the potential trouble zone.

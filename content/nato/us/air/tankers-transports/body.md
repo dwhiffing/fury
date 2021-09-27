@@ -17,9 +17,9 @@ reconfiguration to do so and pilots called the drogue basket on a KC-135
 the ‘Iron Maiden’ as it didn’t have much flexibility and could easily
 break an aircrafts probe causing a scrubbed mission.
 
-![](/assets/images/nato/us/air/tankers-transports/image1.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image1.jpg" style="width:5.95833in;height:3.35143in" />
 
-![](/assets/images/nato/us/air/tankers-transports/image2.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image2.jpg" style="width:12.5in;height:6.5625in" />
 
 Probe refueling of an F-16
 
@@ -39,7 +39,7 @@ fueling on the same mission and change methods in flight. The Extender
 is operated by 12 Squadrons, all within AMC with a mix of regular and
 reserve crews.
 
-![](/assets/images/nato/us/air/tankers-transports/image3.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image3.jpg" style="width:9.29167in;height:6.29277in" />
 
 [KC-135 Stratotanker](https://fas.org/nuke/guide/usa/bomber/kc-135r.htm)
 
@@ -63,7 +63,7 @@ operational demand. There were about 10 C-135 and seven C-137, which
 were a pure cargo version of the 707, these were used as the bases for
 modification to create specialty aircraft such as J-STARS.
 
-![](/assets/images/nato/us/air/tankers-transports/image4.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image4.jpg" style="width:7.29167in;height:4.38715in" />
 
 [**C-5
 Galaxy**](http://www.military-today.com/aircraft/lockheed_c_5_galaxy.htm)
@@ -82,7 +82,7 @@ reliability. By 1994, there had been seven crashes leaving a total of
 120 airframes operated by 13 AMC/ANG/Air Reserve squadrons, all are
 upgraded to the ‘B’ standard.
 
-![](/assets/images/nato/us/air/tankers-transports/image5.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image5.jpg" style="width:6.5in;height:4.33681in" />
 
 [**C-141B Starlifter**](https://fas.org/man/dod-101/sys/ac/c-141.htm)A
 companion heavy lifter to the C-5, the more numerous Starlifters tended
@@ -100,7 +100,7 @@ effectively adding 90 aircraft worth of carrying capacity to the fleet.
 The 270 aircraft are operated by 30 squadrons, half of them in the Air
 Force Reserve.
 
-![](/assets/images/nato/us/air/tankers-transports/image6.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image6.jpg" style="width:6.28125in;height:4.05268in" />
 
 [**C-17 Globemaster
 III**](http://www.military-today.com/aircraft/boeing_globemaster_III.htm)
@@ -122,7 +122,7 @@ passengers of the Starlifter but will fit bulkier cargo. Where the
 Globemaster shines however is on small runways where its reversible
 engines add a high degree of flexibility.
 
-![](/assets/images/nato/us/air/tankers-transports/image7.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image7.jpg" style="width:6.5in;height:3.65625in" />
 
 [**C-130 Hercules**](https://fas.org/man/dod-101/sys/ac/c-130.htm)
 
@@ -140,7 +140,7 @@ production line at Lockheed still produce the Hercules for use in over
 60 different countries. Specialty versions will be discussed in other
 areas.
 
-![](/assets/images/nato/us/air/tankers-transports/image8.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image8.jpg" style="width:6.5in;height:4.36597in" />
 
 [**C-9A Nightingale**](https://fas.org/man/dod-101/sys/ac/c-9.htm)
 
@@ -154,7 +154,7 @@ Japan in six Aeromedical Evacuation Squadrons (AES). The USN also
 operate 29 C-9B Skytrain II passenger/transports. A total of 3
 additional VC-9C executive transports are operated by the USAF.
 
-![](/assets/images/nato/us/air/tankers-transports/image9.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image9.jpg" style="width:5.64583in;height:3.33781in" />
 
 [**C-12 Huron**](https://fas.org/man/dod-101/sys/ac/c-12.htm)
 
@@ -164,7 +164,7 @@ same aircraft in use in the Coast Guard, Navy, Army and in the USAF
 itself. There are no C-12 Squadrons as they are distributed through
 various bases and commands for general use.
 
-![](/assets/images/nato/us/air/tankers-transports/image10.png)
+<img src="/assets\images\nato\us\air\tankers-transports\image10.png" style="width:4.46875in;height:3.19196in" />
 
 [**C-20**](https://fas.org/man/dod-101/sys/ac/c-20.htm)
 
@@ -173,7 +173,7 @@ executive jets out of Andrews AFB, Ramstein AB Germany, Guam and Yakota
 AB Japan. The USN, USMC and US Army also operate a fleet out these
 aircraft around the world.
 
-![](/assets/images/nato/us/air/tankers-transports/image11.jpeg)
+<img src="/assets\images\nato\us\air\tankers-transports\image11.jpeg" style="width:4.38542in;height:2.92361in" />
 
 [**C-21**](https://fas.org/man/dod-101/sys/ac/c-21.htm)
 
@@ -183,7 +183,7 @@ are managed by two regular and one ANG squadrons in the 375<sup>th</sup>
 Air Mobility Wing based at Scott AFB, IL. Most numbered Air Force level
 commanders have these aircraft available for rapid world wide transport.
 
-![](/assets/images/nato/us/air/tankers-transports/image12.png)
+<img src="/assets\images\nato\us\air\tankers-transports\image12.png" style="width:4.40625in;height:3.018in" />
 
 [**C-22**](https://fas.org/man/dod-101/sys/ac/c-22.htm)
 
@@ -191,7 +191,7 @@ The Air National Guard operate 3 of these Boeing 727 aircraft for
 general transport. Based at Andrews AFB MD they are flown by
 201<sup>st</sup> Airlift Squadron ANG.
 
-![](/assets/images/nato/us/air/tankers-transports/image13.jpeg)
+<img src="/assets\images\nato\us\air\tankers-transports\image13.jpeg" style="width:4.375in;height:2.89618in" />
 
 [**C-23 Sherpa**](https://fas.org/man/dod-101/sys/ac/c-23.htm)
 
@@ -202,7 +202,7 @@ Distribution System Aircraft). The US Army National Guard also use a
 fleet of 44 of these aircraft and it is the only cargo aircraft the Army
 flies.
 
-![](/assets/images/nato/us/air/tankers-transports/image14.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image14.jpg" style="width:4.1875in;height:2.0339in" />
 
 [**C-26**](https://fas.org/man/dod-101/sys/ac/c-26.htm)
 
@@ -212,14 +212,14 @@ secondary role. These are based in most ANG wings and are not assigned
 to any particular squadron. The USN and US Army also operate C-26
 aircraft.
 
-![](/assets/images/nato/us/air/tankers-transports/image15.jpg)
+<img src="/assets\images\nato\us\air\tankers-transports\image15.jpg" style="width:4.10417in;height:2.20153in" />
 
 [**C-27A**](https://fas.org/man/dod-101/sys/ac/c-27.htm)To fill the role
 of a rugged medium lift transport the USAF procured 10 Italian G.222 to
 operate out of Howard AFB Panama. They are operated by 310<sup>th</sup>
 Airlift Squadron who also operate 6 C-130Hs.
 
-![](/assets/images/nato/us/air/tankers-transports/image16.jpeg)
+<img src="/assets\images\nato\us\air\tankers-transports\image16.jpeg" style="width:4in;height:2.7144in" />
 
 **[CRAF](https://fas.org/man/dod-101/sys/ac/craf.htm) Civilian Reserve
 Air Fleet**

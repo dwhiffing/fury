@@ -10,11 +10,11 @@ Aircraft Carriers, and with dated air wings, these ships are suitable
 for secondary roles only and are of limited value against a Soviet
 threat. Both were based at Toulon on the Mediterranean.
 
-![](/assets/images/nato/fr/navy/carriers/image1.jpg)
+<img src="/assets\images\nato\fr\navy\carriers\image1.jpg" style="width:6.33044in;height:4.67661in" />
 
 R 98 FS Clémenceau
 
-![](/assets/images/nato/fr/navy/carriers/image2.jpeg)
+<img src="/assets\images\nato\fr\navy\carriers\image2.jpeg" style="width:6.5in;height:4.34306in" />
 
 R 99 FS Foch
 
@@ -26,4 +26,4 @@ of Northern Fury she is returning home through the Indian Ocean. Of a
 similar age and condition to the Clemenceau class, this ship is a cross
 between a cruiser and a carrier, similar to the Soviet Moskva Class.
 
-![](/assets/images/nato/fr/navy/carriers/image3.jpg)
+<img src="/assets\images\nato\fr\navy\carriers\image3.jpg" style="width:6.5in;height:4.66597in" />

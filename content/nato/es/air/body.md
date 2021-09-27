@@ -1,6 +1,6 @@
 **Spanish Air Force**
 
-The Spanish Air Force (*Ejército del Aire, or Army of the Air) has
+The Spanish Air Force (*Ejército del Aire, or Army of the Air)* has
 undergone significant transition since the death of Francisco Franco in
 1975, the shift to democracy and joining NATO in 1982. Always depending
 on the west for equipment Spain replaced its F-86 and T-33 with F-4
@@ -9,7 +9,7 @@ investment in the EF-18 has propelled the Spanish Air Force into the
 modern era. Because of past difficulties with obtaining aircraft or
 replacement parts from the US, Spain maintains a policy of ensuring that
 it holds both European (primarily French) as well as US fighters at all
-times.*
+times.
 
 [**EF-18
 Hornet**](https://www.plane-encyclopedia.com/modern/ef-18-hornet-in-spanish-service/)
@@ -22,18 +22,17 @@ precision ground attack munitions, however they are limited to the
 Aim-7F Sparrow missile for air to air combat. An attempt (historically
 successful) to acquire a further 24 ex-US Navy Hornets has been thwarted
 by US requirements to expand its inventory of F/A-18s. Each Squadron
-operates at least two EF-18B in addition to its single seat
-fighters.
+operates at least two EF-18B in addition to its single seat fighters.
 
 | Wing  | Squadron | Name       | Base     | \# of AC | Type  | Role     |
-| ----- | -------- | ---------- | -------- | -------- | ----- | -------- |
+|-------|----------|------------|----------|----------|-------|----------|
 | Gr.12 | Esc 121  | Aces       | Torrejon | 14       | EF 18 | CAS/Mar  |
 | Gr.12 | Esc 122  | Black Cats | Torrejon | 14       | EF 18 | A2A      |
 | Gr.15 | Esc 151  | Bulls      | Zaragoza | 14       | EF 18 | A2A      |
 | Gr.15 | Esc 152  | Mars       | Zaragoza | 14       | EF 18 | SEAD     |
 | Gr.15 | Esc 153  |            | Zaragoza | 16       | EF 18 | Training |
 
-![](/assets/images/nato/es/air/image1.jpg)
+<img src="/assets\images\nato\es\air\image1.jpg" style="width:5.39583in;height:3.59722in" />
 
 [**Mirage F.1**](https://en.wikipedia.org/wiki/Dassault_Mirage_F1)
 
@@ -44,13 +43,13 @@ to the ‘EE’ interceptor role, and the remainder are the ‘CE’ standard
 focusing on Close Air Support (CAS)
 
 | Wing   | Squadron | Name     | Base   | \# of AC | Type  | Role |
-| ------ | -------- | -------- | ------ | -------- | ----- | ---- |
+|--------|----------|----------|--------|----------|-------|------|
 | Ala.11 | Esc 111  | Wolves   | Moron  | 12       | F.1CE | CAS  |
 | Ala.11 | Esc 113  | Cocks    | Moron  | 12       | F.1EE | A2A  |
 | Ala.14 | Esc 141  | Bulldogs | Llanos | 12       | F.1CE | CAS  |
 | Ala.14 | Esc 142  | Tiger    | Llanos | 12       | F.1EE | A2A  |
 
-![](/assets/images/nato/es/air/image2.jpg)
+<img src="/assets\images\nato\es\air\image2.jpg" style="width:6.5in;height:4.68958in" />
 
 [**SF-5 Freedom
 Fighter**](http://www.joebaugher.com/usaf_fighters/f5_24.html)
@@ -98,14 +97,14 @@ EF-18 pilots.
 </tbody>
 </table>
 
-![](/assets/images/nato/es/air/image3.jpg)
+<img src="/assets\images\nato\es\air\image3.jpg" style="width:5.03125in;height:3.35509in" />
 
 **P-3B**
 
 Spain purchased 5 P-3B’s from Norway in 1989 and 221 Squadron operates
 them from Moron Air Base.
 
-![](/assets/images/nato/es/air/image4.jpg)
+<img src="/assets\images\nato\es\air\image4.jpg" style="width:6.64501in;height:3.46875in" />
 
 **CN-212 and CN-235**
 
@@ -116,21 +115,21 @@ Both have Electronic Warfare, Photo Reconnaissance, Search and Rescue,
 and Maritime Patrol variants but in 1994 these functions remained with
 the CN-212 while the CN-235 was quickly replacing the cargo variants.
 
-![](/assets/images/nato/es/air/image5.jpg)
+<img src="/assets\images\nato\es\air\image5.jpg" style="width:5.64583in;height:2.93714in" />
 
 **Falcon 20**
 
 This French built executive jet serves the Portuguese, and many other
 European nations, as an Electronic warfare aircraft.
 
-![](/assets/images/nato/es/air/image6.jpg)
+<img src="/assets\images\nato\es\air\image6.jpg" style="width:5.12585in;height:3.42708in" />
 
 **C-130H**
 
 The ubiquitous Hercules serves the Spanish Air Force as both a Tactical
 Transport (8) and an areal refueling tanker (5).
 
-![](/assets/images/nato/es/air/image7.jpg)
+<img src="/assets\images\nato\es\air\image7.jpg" style="width:6.5in;height:4.33542in" />
 
 **Boing 707B**: The one example of the venerable 707 in the Spanish Air
 Force serves as a refueling tanker.

@@ -29,7 +29,7 @@ and that is not the message that Moscow wants to send.
 
 [**Typhoon Class**](https://fas.org/nuke/guide/russia/slbm/941.htm)
 
-![](/assets/images/warsaw/su/navy/subs/ssbn/image1.jpeg)These
+<img src="/assets\images\warsaw\su\navy\subs\ssbn\image1.jpeg" style="width:4.9375in;height:3.27847in" />These
 massive submarines, called Akula or Shark in Russian, are the largest in
 the world. They have a submerged displacement of 48,000 tons compared to
 the next largest, the US Ohio class SSBN, of 18,750 tons, although the
@@ -43,11 +43,10 @@ having ten MIRV (Multiple independently targetable reentry vehicle)
 warheads, these are fearsome weapons. Originally 10 Typhoons were
 planned but construction stopped at six with the seventh being broken up
 during construction. Northern Fury has seven in service and an eighth
-building, all are in the Northern
-Fleet.
+building, all are in the Northern Fleet.
 
 | Class   | Pennant | Name            | Status               | Remarks                  |
-| ------- | ------- | --------------- | -------------------- | ------------------------ |
+|---------|---------|-----------------|----------------------|--------------------------|
 | Typhoon | TK-208  | Dmitriy Donskoy | On Patrol            | No fire and not upgraded |
 |         | TK-202  |                 | Tied Up              |                          |
 |         | TK-12   | Simbirsk        | Put to sea 13 Feb 94 |                          |
@@ -58,7 +57,7 @@ Fleet.
 
 [**Delta IV class**](https://fas.org/nuke/guide/russia/slbm/667BDRM.htm)
 
-![](/assets/images/warsaw/su/navy/subs/ssbn/image2.jpeg)Latest
+<img src="/assets\images\warsaw\su\navy\subs\ssbn\image2.jpeg" style="width:4.08889in;height:2.53125in" />Latest
 modification in the Delta (or Dolphin) series, the Delta IV is being
 built in parallel with the Typhoons to satisfy the two pronged SSBN
 doctrine (Bastion and under ice) and modernize the Bastion based boats.
@@ -74,7 +73,7 @@ SS-N-23 by NATO, each missile has four MIRVs and a range of 8,300km
 (5,200 miles). All are in the Northern Fleet.
 
 | Class    | Pennant | Name         | Status               | Remarks |
-| -------- | ------- | ------------ | -------------------- | ------- |
+|----------|---------|--------------|----------------------|---------|
 | Delta IV | K-51    | Verkhoturye  | Tied Up              |         |
 |          | K-84    | Ekaterinburg | On Patrol            |         |
 |          | K-64    | Podmoskovye  | On Patrol            |         |
@@ -94,11 +93,10 @@ this class carried the [R-29R
 Stingray](https://fas.org/nuke/guide/russia/slbm/r29r_r2s.htm) (NATO
 SS-N-18) which could target either a single point with a range of
 8,000Km (4970) or an option of three or seven MIRVs with a range of
-6,500km (4,038
-miles).
+6,500km (4,038 miles).
 
 | Class     | Pennant | Name                         | Status   | Remarks              |
-| --------- | ------- | ---------------------------- | -------- | -------------------- |
+|-----------|---------|------------------------------|----------|----------------------|
 | Delta III | K-424   |                              | Northern | Tied Up              |
 |           | K-441   |                              | Pacific  | Tied Up              |
 |           | K-449   |                              | Pacific  | On Patrol            |
@@ -114,11 +112,11 @@ miles).
 |           | K-129   | Orenburg                     | Northern | On Patrol            |
 |           | K-44    | Ryazan                       | Pacific  | Tied Up              |
 
-![](/assets/images/warsaw/su/navy/subs/ssbn/image3.jpg)
+<img src="/assets\images\warsaw\su\navy\subs\ssbn\image3.jpg" style="width:4.94444in;height:3.70833in" />
 
 Delta IV on left, Delta III on right
 
-![](/assets/images/warsaw/su/navy/subs/ssbn/image4.jpeg)[**Delta
+<img src="/assets\images\warsaw\su\navy\subs\ssbn\image4.jpeg" style="width:4.10625in;height:2.66667in" />[**Delta
 II**](https://fas.org/nuke/guide/russia/slbm/667BD.htm)
 
 Only four of these boats were built as construction turned rapidly to
@@ -132,7 +130,7 @@ missiles with a unitary 1.5 megaton warhead with a range of 9,100km
 (5654 miles). All are in the Northern Fleet.
 
 | Class    | Pennant | Name | Status    | Remarks |
-| -------- | ------- | ---- | --------- | ------- |
+|----------|---------|------|-----------|---------|
 | Delta II | K-182   |      | Tied Up   |         |
 |          | K-92    |      | On Patrol |         |
 |          | K-193   |      | Tied Up   |         |
@@ -140,9 +138,9 @@ missiles with a unitary 1.5 megaton warhead with a range of 9,100km
 
 [**Delta I**](https://fas.org/nuke/guide/russia/slbm/667B.htm)
 
-![](/assets/images/warsaw/su/navy/subs/ssbn/image5.png)When these
-boats were introduced in the ‘70s they were a significant improvement
-over all previous SSB/SSBNs classes. The 12 [R-29
+<img src="/assets\images\warsaw\su\navy\subs\ssbn\image5.png" style="width:4.9375in;height:0.75764in" />When
+these boats were introduced in the ‘70s they were a significant
+improvement over all previous SSB/SSBNs classes. The 12 [R-29
 Sawfly](https://fas.org/nuke/guide/russia/slbm/r-29.htm) (SS-N-8)
 carried far outstripped previous missiles, more than doubling the range
 to 7,800km (4846 miles) , reducing the error radius by half (CEP 900m)
@@ -160,7 +158,7 @@ In total 18 boats were built split evenly between the North and the
 Pacific fleets.
 
 | Class   | Pennant | Name | Status   | Remarks   |
-| ------- | ------- | ---- | -------- | --------- |
+|---------|---------|------|----------|-----------|
 | Delta I | K-279   |      | Northern | Tied Up   |
 |         | K-447   |      | Pacific  | Tied Up   |
 |         | K-450   |      | Northern | On Patrol |

@@ -12,7 +12,7 @@ for the expected tasks of that fleet, using the Air Division as a common
 basis, but the groupings within Regiments of that Division would often
 contain a mix of airframes.
 
-![](/assets/images/warsaw/su/air/naval/image1.jpg)
+<img src="/assets\images\warsaw\su\air\naval\image1.jpg" style="width:18.05556in;height:11.90278in" />
 
 [**Red Banner Northern Fleet**](https://www.ww2.dk/new/navy/SF.htm):
 
@@ -25,11 +25,10 @@ Yak-141 operating from the four Kiev class carriers report to the
 Shipborne Aviation Squadron located in the Far East. Northern Fleet
 works closely with the air element of the Baltic Fleet as well as the
 6<sup>th</sup> Red Banner Air Defence Army PVO and the Leningrad
-Military District air
-command.
+Military District air command.
 
 | Division                  | Regiment                  | Location      | Number | Aircraft type | Remarks   |
-| ------------------------- | ------------------------- | ------------- | ------ | ------------- | --------- |
+|---------------------------|---------------------------|---------------|--------|---------------|-----------|
 | 5<sup>th</sup> Red Banner | 574<sup>th</sup> MRAP     | Lakhta        | 32     | Tu-22M3       |           |
 |                           |                           |               | 5      | Tu-22M3R      |           |
 |                           |                           |               | 4      | Tu-22MP       |           |
@@ -60,7 +59,7 @@ command.
 |                           | 403<sup>rd</sup> RB OPLAP | Severomorsk-1 | 18     | Be-12         |           |
 |                           |                           |               | 24     | Mi-14         |           |
 
-![](/assets/images/warsaw/su/air/naval/image2.jpg)
+<img src="/assets\images\warsaw\su\air\naval\image2.jpg" style="width:11.11111in;height:7.375in" />
 
 [**Red Banner Pacific Fleet**](https://www.ww2.dk/new/navy/TOF.htm):
 
@@ -69,11 +68,10 @@ in the Navy, comprising of more than 725 aircraft of all types. Working
 closely with the PVO 11<sup>th</sup> Air Defence Army and the VVS
 1<sup>st</sup> Air Army these air forces protect the lengthy eastern
 coastline of the Soviet Union. Pacific Fleet keeps several long range
-aircraft at Cam Ranh Bay naval base in southern Viet
-Nam.
+aircraft at Cam Ranh Bay naval base in southern Viet Nam.
 
 | Division                     | Regiment                  | Location       | Number | Aircraft type | Remarks       |
-| ---------------------------- | ------------------------- | -------------- | ------ | ------------- | ------------- |
+|------------------------------|---------------------------|----------------|--------|---------------|---------------|
 | 25<sup>th</sup> Rananskaya   | 141<sup>st</sup> Gds MRAP | Khorol         | 24     | Tu-16K-10-26  |               |
 |                              |                           |                | 6      | Tu-16K-10-26P |               |
 |                              |                           |                | 8      | Tu-16P Buket  |               |
@@ -113,7 +111,7 @@ Nam.
 | VVS 33<sup>rd</sup> Ftr-Bmbr | 300<sup>th</sup> Ftr-Bmbr | Pereyaslavka-2 | 41     | Su-17M2       |               |
 |                              | 229<sup>th</sup> Ftr-Bmbr | Birofeld       | 42     | Su-17M3       |               |
 
-![](/assets/images/warsaw/su/air/naval/image3.jpeg)
+<img src="/assets\images\warsaw\su\air\naval\image3.jpeg" style="width:10in;height:5.50667in" />
 
 [**Twice Red Banner Baltic Fleet**](https://www.ww2.dk/new/navy/BF.htm):
 This is the smallest air command in the Navy and it is much less reliant
@@ -126,11 +124,10 @@ Defence Armies; this is a very complex air-space. Most of the
 coordination is done at the **High Command of the Western Direction**
 although the Baltic Fleets activities are mostly supporting the Army,
 they have a focus on ASW within the Baltic and supporting amphibious
-operations to allow surface forces to break out into the
-Atlantic.
+operations to allow surface forces to break out into the Atlantic.
 
 | Division                  | Regiment                    | Location      | Number | Aircraft type | Remarks |
-| ------------------------- | --------------------------- | ------------- | ------ | ------------- | ------- |
+|---------------------------|-----------------------------|---------------|--------|---------------|---------|
 | Baltic Fleet              | 15<sup>th</sup> OMDRAP      | Chkalovsk     | 6      | Su-24MR       |         |
 |                           |                             |               | 4      | Su-24MP       |         |
 |                           | 846<sup>th</sup> RB OMRAP   | Chkalovsk     | 32     | Su-24M        |         |
@@ -148,7 +145,7 @@ Atlantic.
 |                           | 321<sup>st</sup> Mar Aslt   | Suurkyul      | 29     | Su-24M        |         |
 |                           | 668<sup>th</sup> Mar Aslt   | Tukums        | 30     | Su-24M        |         |
 
-![](/assets/images/warsaw/su/air/naval/image4.jpg)
+<img src="/assets\images\warsaw\su\air\naval\image4.jpg" style="width:8.88889in;height:6.05556in" />
 
 [**Red Banner Black Sea Fleet**](https://www.ww2.dk/new/navy/CHF.htm):
 The naval aviation in the Black Sea Fleet have the difficult problem of
@@ -157,11 +154,10 @@ to break out of the Black Sea is the primary focus but providing
 reconnaissance and long range aviation to units in the Mediterranean is
 also a major task. In both cases close coordination is required with the
 PVO 19<sup>th</sup> Air Defence Army and the 34<sup>th</sup> Air Army of
-the
-VVS.
+the VVS.
 
 | Division                     | Regiment                 | Location     | Number | Aircraft type | Remarks |
-| ---------------------------- | ------------------------ | ------------ | ------ | ------------- | ------- |
+|------------------------------|--------------------------|--------------|--------|---------------|---------|
 | 2<sup>nd</sup> Guards        | 5<sup>th</sup> Guards    | Veseloye     | 24     | Tu-22M3       |         |
 |                              |                          |              | 16     | Tu-16SPS      |         |
 |                              | 124<sup>th</sup> MRAP    | Gvardeskoye  | 24     | Tu-16K-10-26  |         |
@@ -180,18 +176,17 @@ VVS.
 |                              |                          |              | 8      | An-26         |         |
 | VVS 29<sup>th</sup> Ftr-Bmbr | 43<sup>rd</sup> Ftr-Bmbr | Gvardeyskoye | 43     | Su-17M3       |         |
 
-![](/assets/images/warsaw/su/air/naval/image5.jpg)
+<img src="/assets\images\warsaw\su\air\naval\image5.jpg" style="width:7.92708in;height:5.28472in" />
 
 [**High Command of the Navy**](https://www.ww2.dk/new/navy/VMF.htm):
 Although Navy pilots and some technicians attend VVS schools, the
 primary responsibility for training, particularly for ASW and shipborne
 operations falls to the High Command of the Navy which operates many
 schools, academies and training centers. The establishments with
-aircraft are listed
-here.
+aircraft are listed here.
 
 | Division                  | Regiment                 | Location      | Number | Aircraft type | Remarks            |
-| ------------------------- | ------------------------ | ------------- | ------ | ------------- | ------------------ |
+|---------------------------|--------------------------|---------------|--------|---------------|--------------------|
 | 1063<sup>rd</sup> Trg Ctr | 299<sup>th</sup> IIShSAP | Saki          | 36     | Su-25         |                    |
 |                           |                          | Severomorsk-3 | 18     | Su-33         | Replacement        |
 |                           |                          |               | 36     | Yak-38U       |                    |
@@ -208,4 +203,4 @@ here.
 |                           |                          |               | 24     | An-12         |                    |
 |                           |                          |               | 4      | Il-76         |                    |
 
-![](/assets/images/warsaw/su/air/naval/image6.jpg)
+<img src="/assets\images\warsaw\su\air\naval\image6.jpg" style="width:10.66667in;height:7.11458in" />

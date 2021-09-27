@@ -1,9 +1,8 @@
-**Caribbean Fury 1: Hot Tamale\!**
+**Caribbean Fury 1: Hot Tamale!**
 
 13 Feb 1994, 1300 Zulu, 0800 Local (0700 in the Gulf)
 
-![A large ship in the ocean Description automatically generated with low
-confidence](/assets/images/aar/cf/cf1/image1.jpeg)
+<img src="/assets\images\aar\cf\cf1\image1.jpeg" style="width:6.5in;height:4.08819in" alt="A large ship in the ocean Description automatically generated with low confidence" />
 
 You’re commanding the ***USS John F. Kennedy***
 [CVBG](http://northernfury.us/nato/us/navy/carriers/jfk/) (Aircraft
@@ -24,19 +23,18 @@ past the Cayman Islands and Jamaica and take a look at Venezuela, which
 has also been flexing its muscles recently. Either way it should be a
 pleasant evening with perfect Caribbean weather.
 
-\----------------
+----------------
 
-**<span class="underline">Caribbean Fury \#1</span>** is a very intense
-scenario with significant action early on as Cuba, supported by Soviet
-advisors and visiting aircraft launch a surprise attack on Key West
-Florida. The frenetic first few hours will likely see Cubans
-successfully bombing the island base, but that will probably be their
-high-water mark. US forces quickly rally and the process of pounding
-Cuba into submission will commence on the following day.
+**<u>Caribbean Fury \#1</u>** is a very intense scenario with
+significant action early on as Cuba, supported by Soviet advisors and
+visiting aircraft launch a surprise attack on Key West Florida. The
+frenetic first few hours will likely see Cubans successfully bombing the
+island base, but that will probably be their high-water mark. US forces
+quickly rally and the process of pounding Cuba into submission will
+commence on the following day.
 
 Simultaneously key events are happening at sea, Guantanamo Bay and in
 Panama. The British are also hard pressed in Belize which comes under
 pressure from a Guatemalan sponsored uprising.
 
-![Cuban Air Force - Cuban
-Aviation](/assets/images/aar/cf/cf1/image2.jpeg)
+<img src="/assets\images\aar\cf\cf1\image2.jpeg" style="width:6.01177in;height:3.04167in" alt="Cuban Air Force - Cuban Aviation" />

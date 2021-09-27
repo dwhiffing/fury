@@ -17,7 +17,7 @@ build and retained ships. Unfortunately, not much of the new build
 production has reached the fleet, but readiness is high and capabilities
 have been moderately improved.
 
-![](/assets/images/nato/uk/navy/image1.jpg)
+<img src="/assets\images\nato\uk\navy\image1.jpg" style="width:6.5in;height:4.87014in" />
 
 Global commitments to support the vestiges of a colonial empire have the
 RN deployed in every corner of the planet, you are likely to see British

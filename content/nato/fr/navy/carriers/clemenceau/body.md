@@ -6,28 +6,28 @@ tasked to the Atlantic to work with the Royal Navy and re-take Vagar.
 She gathered her BG either in port of enroute through the western
 Mediterranean.
 
-![](/assets/images/nato/fr/navy/carriers/clemenceau/image1.jpg)
+<img src="/assets\images\nato\fr\navy\carriers\clemenceau\image1.jpg" style="width:6.5in;height:4.61875in" />
 
 Organization 17 Feb
 
-  - R 98 FS Clemenceau
+-   R 98 FS Clemenceau
 
-  - Aviation Wing
-    
-      - Flottille 12F – 16x Super Etendard Mod
-    
-      - Flottille 14F – 8x F-8P Crusader
-    
-      - Flottille 22F – 8x BR.1050 Alize ALM
-    
-      - Flottille 32F – 2x SA.321G Super Frelon
-    
-      - Flottille 34S – 2x SA.365F Dauphin 2
+-   Aviation Wing
 
-  - D 602 FS Suffren
+    -   Flottille 12F – 16x Super Etendard Mod
 
-  - D 615 Jean Bart
+    -   Flottille 14F – 8x F-8P Crusader
 
-  - D 642 Montcalm
+    -   Flottille 22F – 8x BR.1050 Alize ALM
 
-  - D 612 De Grasse
+    -   Flottille 32F – 2x SA.321G Super Frelon
+
+    -   Flottille 34S – 2x SA.365F Dauphin 2
+
+-   D 602 FS Suffren
+
+-   D 615 Jean Bart
+
+-   D 642 Montcalm
+
+-   D 612 De Grasse

@@ -27,10 +27,10 @@ waters working up its crew after her own overhaul. Ark Royal is
 departing South Africa for a tour up the east coast of Africa to rejoin
 the Anti-Piracy task force in the Gulf of Aden.
 
-![](/assets/images/nato/uk/navy/carriers/image1.jpg)
+<img src="/assets\images\nato\uk\navy\carriers\image1.jpg" style="width:6.5in;height:3.65972in" />
 
 | Pennant | Name        | Location           | Remarks         |
-| ------- | ----------- | ------------------ | --------------- |
+|---------|-------------|--------------------|-----------------|
 | R05     | Invincible  | South of Ireland   | Training        |
 | R06     | Illustrious | Eastern Med        | Returning to UK |
 | R07     | Ark Royal   | South Indian Ocean | Tour of IO      |

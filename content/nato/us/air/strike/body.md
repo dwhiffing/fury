@@ -7,23 +7,22 @@ Libya’s dictator Muammar Kaddafi in 1986. Alternatively, some references
 refer to these platforms as ‘Attack’ aircraft.
 
 [**F-117 Nighthawk**](https://fas.org/man/dod-101/sys/ac/f-117.htm)The
-‘Stealth Fighter’ had its combat debut in Panama, but came into its
-own during the Gulf war where 36 of them were deployed. These aircraft
-are the first to use low observable technology and rely on their stealth
-to penetrate deep into enemy territory and conduct precision strikes
-with laser guided bombs. Based at Holloman AFB in New Mexico the
+‘Stealth Fighter’ had its combat debut in Panama, but came into its own
+during the Gulf war where 36 of them were deployed. These aircraft are
+the first to use low observable technology and rely on their stealth to
+penetrate deep into enemy territory and conduct precision strikes with
+laser guided bombs. Based at Holloman AFB in New Mexico the
 49<sup>th</sup> Fighter Wing fields two operational squadrons and a
 conversion training squadron. In total 59 aircraft were produced but
-only 52 of them are
-operational.
+only 52 of them are operational.
 
 | Sqn  | Name             | Wing            | Location         | No. | Type   | Remarks      |
-| ---- | ---------------- | --------------- | ---------------- | --- | ------ | ------------ |
+|------|------------------|-----------------|------------------|-----|--------|--------------|
 | 7 FS | Screamin' Demons | 49<sup>th</sup> | Holloman AFB, NM | 12  | F-117A | Training Sqn |
 | 8 FS | The Black Sheep  | 49<sup>th</sup> | Holloman AFB, NM | 18  | F-117A |              |
 | 9 FS | Flying Knights   | 49<sup>th</sup> | Holloman AFB, NM | 18  | F-117A |              |
 
-![](/assets/images/nato/us/air/strike/image1.jpg)
+<img src="/assets\images\nato\us\air\strike\image1.jpg" style="width:6.5in;height:4.55347in" />
 
 [**F-111F Aardvark**](https://fas.org/man/dod-101/sys/ac/f-111.htm)
 
@@ -34,11 +33,10 @@ wing design with avionics that were very advanced when the ‘Varks’ were
 fielded in the 1960s. The FB-111 nuclear strike versions have been
 retired leaving two wings of tactical bombers, 38<sup>th</sup> Tactical
 Fighter Wing in the UK with the F-111E and the much improved F-111F in
-the 27<sup>th</sup> Tactical Fighter Wing at Cannon
-AFB.
+the 27<sup>th</sup> Tactical Fighter Wing at Cannon AFB.
 
 | Sqn    | Name                | Wing            | Location              | No. | Type     | Remarks      |
-| ------ | ------------------- | --------------- | --------------------- | --- | -------- | ------------ |
+|--------|---------------------|-----------------|-----------------------|-----|----------|--------------|
 | 77 FS  | All Aces, No Jokers | 38<sup>th</sup> | RAF Upper Heyford, UK | 24  | F-111E   | USAFE        |
 | 78 FS  | Bushmasters         | 38<sup>th</sup> | RAF Upper Heyford, UK | 24  | F-111E   | USAFE        |
 | 79 FS  | Tigers              | 38<sup>th</sup> | RAF Upper Heyford, UK | 24  | F-111E   | USAFE        |
@@ -47,7 +45,7 @@ AFB.
 | 523 FS | Crusaders           | 27<sup>th</sup> | Cannon AFB, MN        | 24  | F-111F   |              |
 | 524 FS | Hounds of Heaven    | 27<sup>th</sup> | Cannon AFB, MN        | 24  | F-111F   |              |
 
-![](/assets/images/nato/us/air/strike/image2.jpg)
+<img src="/assets\images\nato\us\air\strike\image2.jpg" style="width:6.5in;height:3.65625in" />
 
 [**A-10/OA-10 Thunderbolt
 II**](https://fas.org/man/dod-101/sys/ac/a-10.htm)
@@ -64,11 +62,10 @@ other aircraft onto targets, otherwise it has all the same capabilities
 as the A-10 and looks very similar. The ‘Hogs’ have seen extensive
 active service in the Balkans and the Gulf War. Some extensive
 reshuffling has occurred with these squadrons since the Gulf War but 21
-squadrons remain in service including 5 ANG and 2 Air
-Reserve.
+squadrons remain in service including 5 ANG and 2 Air Reserve.
 
 | Sqn    | Name             | Wing             | Location            | No. | Type    | Remarks     |
-| ------ | ---------------- | ---------------- | ------------------- | --- | ------- | ----------- |
+|--------|------------------|------------------|---------------------|-----|---------|-------------|
 | 21 FS  | Gamblers         | 363<sup>rd</sup> | Shaw AFB, SC        | 18  | A/OA-10 |             |
 | 25 FS  | Flying Elvises   | 51<sup>st</sup>  | Osan AB, S Korea    | 18  | A/OA-10 | PacAF       |
 | 45 FS  | Hoosier Hogs     | 930<sup>th</sup> | Grissom AFB, IN     | 18  | A/OA-10 |             |
@@ -91,7 +88,7 @@ Reserve.
 | 510 FS | Buzzards         | 10<sup>th</sup>  | RAF Bentwaters, UK  | 18  | A/OA-10 | USAFE       |
 | 511 FS | Hogs             | 10<sup>th</sup>  | RAF Alconbury, UK   | 18  | A/OA-10 | USAFE       |
 
-![](/assets/images/nato/us/air/strike/image3.jpg)
+<img src="/assets\images\nato\us\air\strike\image3.jpg" style="width:5.70972in;height:3.41667in" />
 
 [**A-7D Corsair II**](http://www.aircraftinformation.info/art_A7.htm)
 
@@ -108,9 +105,9 @@ Pave Penny laser targeting pods. (72 instead of the actual 47 were
 converted).
 
 | Sqn    | Name        | Wing             | Location   | No. | Type | Remarks |
-| ------ | ----------- | ---------------- | ---------- | --- | ---- | ------- |
+|--------|-------------|------------------|------------|-----|------|---------|
 | 148 FS | Kickin' Ass | 180<sup>th</sup> | Tucson, AZ | 18  | A-7D | ANG     |
 | 152 FS | Tigers      | 180<sup>th</sup> | Tucson, AZ | 18  | A-7D | ANG     |
 | 195 FS | Warhawks    | 180<sup>th</sup> | Tucson, AZ | 18  | A-7D | ANG     |
 
-![](/assets/images/nato/us/air/strike/image4.jpeg)
+<img src="/assets\images\nato\us\air\strike\image4.jpeg" style="width:6.5in;height:4.22014in" />

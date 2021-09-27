@@ -24,11 +24,10 @@ Gauntlet](https://en.wikipedia.org/wiki/Tor_missile_system) SAMs, and
 the [SA-N-11 Grison](https://en.wikipedia.org/wiki/Kashtan_CIWS) air
 defence gun/missile air defence system, these ships are a significant
 step forward in both technology and capability. These ships have a
-hangar and operate a Ka-27 ASW
-helicopter.
+hangar and operate a Ka-27 ASW helicopter.
 
 | Class         | Pennant | Name           | Status          | Remarks            |
-| ------------- | ------- | -------------- | --------------- | ------------------ |
+|---------------|---------|----------------|-----------------|--------------------|
 | Neustrashimyy | 772     | Neustrashimyy  | Northern Fleet  |                    |
 |               | 777     | Nepristupnyi   | Black Sea Fleet |                    |
 |               | 712     | Tuman          | Northern Fleet  |                    |
@@ -36,9 +35,9 @@ helicopter.
 |               | 691     | Yastreb        | Pacific Fleet   |                    |
 |               | 693     | Albatros       | Northern Fleet  | Commissioning 2/94 |
 
-![](/assets/images/warsaw/su/navy/frigates/image1.jpg)
+<img src="/assets\images\warsaw\su\navy\frigates\image1.jpg" style="width:6in;height:2.48in" />
 
-![](/assets/images/warsaw/su/navy/frigates/image2.jpeg)[**Krivak
+<img src="/assets\images\warsaw\su\navy\frigates\image2.jpeg" style="width:3.25in;height:1.625in" />[**Krivak
 Class**](https://en.wikipedia.org/wiki/Krivak-class_frigate)
 
 This was a highly successful class of ship has two primary users, 32
@@ -52,11 +51,10 @@ ECM equipment and are called Krivak IVs. The nine ships of the Krivak
 III sub-class are quite different, the SS-N-14 ASW missiles are removed,
 they only have a single 100mm gun which is move to the bow, and they
 have a helicopter deck and hangar, they were operated by the KGB
-Maritime Border
-Guard.
+Maritime Border Guard.
 
 | Class      | Pennant | Name                | Status          | Remarks    |
-| ---------- | ------- | ------------------- | --------------- | ---------- |
+|------------|---------|---------------------|-----------------|------------|
 | Krivak I   | 500     | Silnyy              | Baltic Fleet    |            |
 |            | 953     | Doblestnyy          | Northern Fleet  |            |
 |            | 663     | Storozhevoy         | Baltic Fleet    |            |

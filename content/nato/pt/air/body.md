@@ -22,7 +22,7 @@ National Guard ADF (Air Defence Fighter) used for NORAD tasks.
 Therefore, they have the ability to fire the Aim-7M Sparrow and Aim-9L
 Sidewinder missiles
 
-![](/assets/images/nato/pt/air/image1.jpeg)
+<img src="/assets\images\nato\pt\air\image1.jpeg" style="width:5.27083in;height:3.50016in" />
 
 **A-7 Corsair**
 
@@ -32,7 +32,7 @@ to the latest variant. Two Squadrons operate out of Monte Real. These
 30-year-old workhorses are rugged but well used and will eventually be
 replaced by F-16s.
 
-![](/assets/images/nato/pt/air/image2.jpeg)
+<img src="/assets\images\nato\pt\air\image2.jpeg" style="width:5.83333in;height:4.41571in" />
 
 **Alpha Jet**
 
@@ -44,7 +44,7 @@ and Spain convinced them to deliver. These aircraft replaced the aging
 Fiat G.91s in the close support role and the 1950’s era Cessna T-37
 Tweet in the attack training role.
 
-![](/assets/images/nato/pt/air/image3.jpeg)
+<img src="/assets\images\nato\pt\air\image3.jpeg" style="width:5in;height:3.38355in" />
 
 **C-130 Hercules**
 
@@ -52,7 +52,7 @@ The Portuguese operate 6 ‘H’ model Hercules, although 3 are the more
 modern H2 and H3 versions. Tactual transport and general duties keep
 them quite busy.
 
-![](/assets/images/nato/pt/air/image4.jpeg)
+<img src="/assets\images\nato\pt\air\image4.jpeg" style="width:5.13542in;height:3.42526in" />
 
 **C-212 Avocar**
 
@@ -63,7 +63,7 @@ a magnetic anomaly detector along the forward fuselage. Two Electronic
 Warfare (EW), two Photo Reconnaissance (PR) and 16 general transport
 variants are also used.
 
-![](/assets/images/nato/pt/air/image5.jpeg)
+<img src="/assets\images\nato\pt\air\image5.jpeg" style="width:5.48262in;height:3.65625in" />
 
 **P3P Orion**
 
@@ -76,14 +76,14 @@ with both American and Spanish P-3’s conducting ASW duties in the
 Eastern Atlantic and particularly on the approaches to the Mediterranean
 Sea.
 
-![](/assets/images/nato/pt/air/image6.jpg)
+<img src="/assets\images\nato\pt\air\image6.jpg" style="width:5.90625in;height:4.03171in" />
 
 **Falcon 20 & 50**
 
 Portugal operates three Falcon 20 and two Falcon 50 for general and VIP
 transport, medical emergencies and other high priority duties.
 
-![](/assets/images/nato/pt/air/image7.jpg)
+<img src="/assets\images\nato\pt\air\image7.jpg" style="width:5.66667in;height:3.7796in" />
 
 [**Alouette
 III**](https://en.wikipedia.org/wiki/Sud_Aviation_Alouette_III_in_Portuguese_service)
@@ -97,10 +97,10 @@ made or reversed. These helicopters are used for general transport,
 tactical support of the army and navy, flight instruction, and air
 demonstration team and coastal search and rescue.
 
-![](/assets/images/nato/pt/air/image8.jpg)
+<img src="/assets\images\nato\pt\air\image8.jpg" style="width:6.14583in;height:3.375in" />
 
 | Sqn | Name         | Location   | \# of AC | Type of AC          |
-| --- | ------------ | ---------- | -------- | ------------------- |
+|-----|--------------|------------|----------|---------------------|
 | 103 | Caracóis     | Beja       | 24       | Alpha Jet           |
 | 201 | Falcons      | Monte Real | 4        | F-16A               |
 | 301 | Jaguars      | Beja       | 24       | Alpha Jet           |

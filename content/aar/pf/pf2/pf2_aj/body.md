@@ -1,11 +1,11 @@
 **Pacific Fury \#2 – Bombeska on Hokkaido**
 
-**<span class="underline">Playtest Report by AndrewJ April 2021</span>**
+**<u>Playtest Report by AndrewJ April 2021</u>**
 
 **SITUATION**
 
 At long last, the Soviet Union will no longer tolerate the endless
-provocations and aggression of the West. In half an hour we strike\! Our
+provocations and aggression of the West. In half an hour we strike! Our
 specific mission here in the east is to hit the northern Japanese island
 of Hokkaido, including ELINT stations around the island and the
 important airport of Chitose, as well as taking control of the La
@@ -40,19 +40,19 @@ islands.
 
 For opposition, we can expect heavy fighter activity from Japanese F-15s
 operating out of Chitose, and American F-16s further south in Misawa.
-We’ve got two Japanese Nike sites plotted at the south end of
-Hokkaido, but the bases are sure to be heavily defended, and I expect
-more SAMs in that area. Most of the Japanese navy is probably further
-south, but we have warnings that a few of their ships may be operating
-in our area, and their submarines may try to control the straits
-(possibly with mines, though that might be counterproductive if they
-want to use the straits themselves. We have no indications of heavy
-American naval activity in our region. Hopefully that will remain true,
-at least for the moment.
+We’ve got two Japanese Nike sites plotted at the south end of Hokkaido,
+but the bases are sure to be heavily defended, and I expect more SAMs in
+that area. Most of the Japanese navy is probably further south, but we
+have warnings that a few of their ships may be operating in our area,
+and their submarines may try to control the straits (possibly with
+mines, though that might be counterproductive if they want to use the
+straits themselves. We have no indications of heavy American naval
+activity in our region. Hopefully that will remain true, at least for
+the moment.
 
 **THE PLAN**
 
-Our first order is to abandon the straits\! All boats are directed to
+Our first order is to abandon the straits! All boats are directed to
 head for the south tip of Sakhalin Island at flank speed, and shelter
 there under the protection of the nearby SA-10 battery. No aircraft are
 to conduct ASW operations in the straits until further notice. I am not
@@ -136,7 +136,8 @@ the casualty exchange. Every time I think I’m free and clear another
 AMRAAM seeker clicks on out of nowhere, and I’m forced to flee again.
 Still, numerical superiority does have its advantages, and a few of my
 fighters manage to break free of the scrum and murder a pair of MPA, one
-on each coast. ![](/assets/images/aar/pf/pf2/pf2_aj/image1.png)
+on each coast.
+<img src="/assets\images\aar\pf\pf2\pf2_aj\image1.png" style="width:6.5in;height:5.13125in" />
 
 The heavy fighting guards my Fencers effectively, and they close to
 within launch range without being engaged. The first launch of AS-9s
@@ -156,7 +157,7 @@ hampering my freedom of maneuver on the SW side of Chitose to a
 surprising degree. Unfortunately, I don’t really have /assets to spare
 for him at this time.)
 
-**INVADE JAPAN\!**
+**INVADE JAPAN!**
 
 As the aerial fighting rages above, my helicopters are conducting a much
 more discrete war below. Slipping in at wavetop height, the Hips deliver
@@ -177,7 +178,7 @@ land-based radar and ELINT stations on the main portion of the island.
 It will be several days before the troops in the ELINT bunkers can
 repair their antennae, while the radars are permanently destroyed.
 
-![](/assets/images/aar/pf/pf2/pf2_aj/image2.png)
+<img src="/assets\images\aar\pf\pf2\pf2_aj\image2.png" style="width:6.5in;height:4.85in" />
 
 **RETIRE**
 
@@ -235,11 +236,10 @@ At this point my air liaison officer announces that the MiG-29s at
 Yuzhno-Sakalinsk are coming on-line, and can now provide cover for
 operations in the La Perouse strait. My ships are ordered back into the
 straits, which they do a little timidly, with minesweepers leading.
-They’re also joined by minesweeping helicopters and ASW helicopters,
-and together they’ll hunt for any underwater intruders hanging out in
-the restricted waters. With AEW nearby and fighters overhead, I hope
-they’ll be able to withstand any pop-up Harpoon attacks from lurking
-SSKs.
+They’re also joined by minesweeping helicopters and ASW helicopters, and
+together they’ll hunt for any underwater intruders hanging out in the
+restricted waters. With AEW nearby and fighters overhead, I hope they’ll
+be able to withstand any pop-up Harpoon attacks from lurking SSKs.
 
 **HUNTING EAGLES**
 
@@ -257,7 +257,7 @@ reloads at their forward base. Congratulatory messages go out to all the
 pilots, since their efforts will have significantly cleared the way for
 the dawn strike.
 
-![](/assets/images/aar/pf/pf2/pf2_aj/image3.png)
+<img src="/assets\images\aar\pf\pf2\pf2_aj\image3.png" style="width:6.5in;height:4.35694in" />
 
 **COMING DAWN…**
 
@@ -267,7 +267,7 @@ are doing the final review of the strike timeline. Launches are expected
 to begin shortly. Do the Japanese have a spoiling attack in the works?
 Have we spotted all their defences? Dawn will tell.
 
-A weekend’s always more enjoyable with a little Command\!
+A weekend’s always more enjoyable with a little Command!
 
 **FINAL PREPARATIONS**
 
@@ -310,12 +310,12 @@ base.
 The last aircraft to launch have no pilots at all. The 451st independent
 Coastal Missile and Artillery Brigade turns its launch keys and fires
 the last four Sepal anti-ship missiles on bearing-only attacks at
-Chitose\! These massive 30-foot-long missiles will act like high-speed
+Chitose! These massive 30-foot-long missiles will act like high-speed
 decoys, hopefully prompting the SAM gunners in Chitose to open fire,
 without risking my aircrew to do so. That will give all those ARMs I’m
 carrying something to shoot at.
 
-**STRIKE\!**
+**STRIKE!**
 
 The first shots actually come from a pair of Fencers, firing a salvo of
 AS-17 ARMs at the Nike site at Yakumo, on the narrow south-western
@@ -323,7 +323,7 @@ AS-17 ARMs at the Nike site at Yakumo, on the narrow south-western
 it’s still dangerous enough to restrict maneuver on that flank, and it
 gives good radar coverage to the enemy. As my missiles roar in the Nike
 turns on its illuminators – and so does every single other SAM site in
-the Chitose area\! So much for my clever plan to trick them with Sepals…
+the Chitose area! So much for my clever plan to trick them with Sepals…
 
 I’m looking at four active HAWK sites, and two, no, three smaller SAM
 sites of some sort, all clustered around Chitose. My Fencers deliver a
@@ -337,7 +337,7 @@ for the Fitters to launch their short-ranged AS-12 ARMs.
 Most of the radars go down, and AS-10-armed Fitters start engaging from
 medium altitude, others come dashing in as low as they can to strike the
 battered defences with cluster bombs and rockets. But we’ve kicked the
-hornet’s nest, and now the air is full of Stingers\! It’s not a good day
+hornet’s nest, and now the air is full of Stingers! It’s not a good day
 to be a Fitter pilot, and swarms of the nasty little MANPADS start
 knocking planes out of the sky. I’m deeply regretting the choice not to
 load every AS-10 I could, but my brave pilots use what they have. Many
@@ -356,7 +356,7 @@ from safe altitude, while streams of lesser Fitters continue to pummel
 hangars, fuel tanks, and other structures, until the base is a flaming
 wreck.
 
-![](/assets/images/aar/pf/pf2/pf2_aj/image4.png)
+<img src="/assets\images\aar\pf\pf2\pf2_aj\image4.png" style="width:6.5in;height:3.68056in" />
 
 **FALL BACK**
 
@@ -432,7 +432,7 @@ repair itself, but that is the extent of our offensive action. Our ESM
 planes detect the emissions of patrolling F-16s from Misawa, but I’m
 reluctant to go so far south and tangle with them where they have the
 advantage. Instead, we patrol, monitor the situation, and let our pilots
-rest to prepare for the next stage of our glorious revolution\!
+rest to prepare for the next stage of our glorious revolution!
 
 **PLAY IMPRESSIONS**
 
@@ -446,14 +446,14 @@ wait for morning, and make a combined attack with the Fitters.
 
 (Out of curiosity I turned off the enemy fighters and ran a night
 attack, to see what would happen. The result was disastrous, and the
-SAMs ate me alive. My recommendation? Don’t\! Besides, the Fencers
-didn’t really have effective night-vision anyway. I tend to forget how
-limited night vision was for dedicated attack planes of that era. Coming
-out of the tail of the Cold War, if you weren’t American or British
-(F-111s, A-6s, Harriers, Buccaneers, pods) or carrying American IR
-munitions (Maverick, GBU-15, etc.) the odds were that you tended to bomb
-on radar, under flares, or not at all. The Soviets were rather low on
-the night-vision totem-pole.)
+SAMs ate me alive. My recommendation? Don’t! Besides, the Fencers didn’t
+really have effective night-vision anyway. I tend to forget how limited
+night vision was for dedicated attack planes of that era. Coming out of
+the tail of the Cold War, if you weren’t American or British (F-111s,
+A-6s, Harriers, Buccaneers, pods) or carrying American IR munitions
+(Maverick, GBU-15, etc.) the odds were that you tended to bomb on radar,
+under flares, or not at all. The Soviets were rather low on the
+night-vision totem-pole.)
 
 I was definitely tempted to shell out 100 points for those MiG-31s, but
 they were so expensive that in the end I made do without them. The other
@@ -477,4 +477,4 @@ I never saw any sign of the Japanese sub, which went to the SE corner of
 its zone, far out of my assigned area of operation in the straits.
 Still, I spent a lot of time cautiously cringing around at low speed,
 looking for mines and subs, worried that at any moment I might stumble
-on something. The mere risk of an SSK has that effect\!
+on something. The mere risk of an SSK has that effect!

@@ -1,5 +1,5 @@
 [**CVBG George Washington
-(CVN-73)**](https://en.wikipedia.org/wiki/USS_George_Washington_\(CVN-73\))
+(CVN-73)**](https://en.wikipedia.org/wiki/USS_George_Washington_(CVN-73))
 
 Because CVN-70 was kept in the Atlantic due to the increasingly
 aggressive stance of a resurgent Soviet Union, joining both *CVN-69
@@ -14,48 +14,47 @@ of the Indian Ocean and Persian Gulf in 93 and has been conducting
 routine maintenance and training since returning San Diego in October of
 93. She is currently the ready reaction carrier on the West Coast and
 when hostilities commence she will deploy on the 17<sup>th</sup> of Feb
-and head to the Philippines
-area.
+and head to the Philippines area.
 
-![](/assets/images/nato/us/navy/carriers/george-washington/image1.jpg)
+<img src="/assets\images\nato\us\navy\carriers\george-washington\image1.jpg" style="width:6.5in;height:3.65625in" />
 
 USS George Washington CVBG
 
-  - CVN-73 George Washington (FLAG)
-    
-      - CVW 10
-        
-          - VF-103 Sluggers F-14B
-        
-          - VF-142 Ghostriders F-14B
-        
-          - VFA-136 Knight Hawks F/A-18C (N)
-        
-          - VFA-161 Chargers F/A-18C (N)
-        
-          - VA-34 Blue Blasters A-6E SWIP (From 1 March)
-        
-          - VAW-111 Grey Berets E-2C
-        
-          - VS-35 Blue Wolves S-3B
-        
-          - HS-16 Nighthawks SH-60F, HH-60H
-        
-          - VQ-5(El) Sea Shadows ES-3A
-    
-      - CG-57 Lake Champlain
-    
-      - CG-59 Princeton
-    
-      - CG-65 Chosin
-    
-      - DDG-52 Berry
-    
-      - DD-966 Hewitt
-    
-      - FFG-36 Underwood
-    
-      - FFG-46 Rentz
+-   CVN-73 George Washington (FLAG)
+
+    -   CVW 10
+
+        -   VF-103 Sluggers F-14B
+
+        -   VF-142 Ghostriders F-14B
+
+        -   VFA-136 Knight Hawks F/A-18C (N)
+
+        -   VFA-161 Chargers F/A-18C (N)
+
+        -   VA-34 Blue Blasters A-6E SWIP (From 1 March)
+
+        -   VAW-111 Grey Berets E-2C
+
+        -   VS-35 Blue Wolves S-3B
+
+        -   HS-16 Nighthawks SH-60F, HH-60H
+
+        -   VQ-5(El) Sea Shadows ES-3A
+
+    -   CG-57 Lake Champlain
+
+    -   CG-59 Princeton
+
+    -   CG-65 Chosin
+
+    -   DDG-52 Berry
+
+    -   DD-966 Hewitt
+
+    -   FFG-36 Underwood
+
+    -   FFG-46 Rentz
 
 Notes
 

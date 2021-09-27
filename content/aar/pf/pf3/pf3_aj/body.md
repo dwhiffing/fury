@@ -1,6 +1,6 @@
-**<span class="underline">Pacific Fury \#3 – Caught Flat Footed</span>**
+**<u>Pacific Fury \#3 – Caught Flat Footed</u>**
 
-**<span class="underline">Playtest Report by AndrewJ May 2021</span>**
+**<u>Playtest Report by AndrewJ May 2021</u>**
 
 **SITUATION**
 
@@ -24,7 +24,7 @@ close to them, but they are already within range, according to our
 calculations, and the presence of a tattletale destroyer nearby and a
 Bear reconnaissance aircraft overhead mean they already know exactly
 where we are. Plus there are at least three Soviet subs in the region,
-probably more. All in all, not a pleasant situation to be in\!
+probably more. All in all, not a pleasant situation to be in!
 
 We've got another Spruance escorting a pair of oilers up the west coast
 of the Philippines, and we've been directed to meet up with them north
@@ -92,7 +92,7 @@ that this is where the storm is about to begin.
 
 **WAR IN THE PHILIPPINES**
 
-"Sir, gunfire ahead\!" yells the startled lookout, and the crew gapes at
+"Sir, gunfire ahead!" yells the startled lookout, and the crew gapes at
 the sight of rockets and guns being fired at the nearby airbase from a
 civilian ship in the harbour. "Flank speed" blurts the captain, and the
 little ship surges forward, and starts firing as quickly as she can at
@@ -121,20 +121,20 @@ base, to try and disperse the /assets until the situation stabilizes.
 
 Back in harbour, a fishing boat trying to flee the chaos vanishes in a
 violent explosion, and the warning call goes out that the enemy has
-mined the harbour\! The Antonio Luna is trapped in the kettle now. The
+mined the harbour! The Antonio Luna is trapped in the kettle now. The
 crew stare wide-eyed over their gunsights, wondering which of the
 seemingly innocuous civilian vessels will try and betray them next.
 
 **WAR AT SEA - HEAVY ASMs INBOUND**
 
 For the carrier group, the first indication of hostilities is the urgent
-alert from the E-2. "Vampires inbound\! SSGN\!" There's an Oscar out
-there somewhere to the NNW, and he's fired a salvo directly at the
-carrier group. Moments later there are more missile warnings: a huge
-salvo from their ships at the lone Vincennes, a second salvo from them
-at our carrier, and even some shots from what must be a distant Juliett.
-Our response is swift, and two Harpoons are fired at the Kanin, sinking
-it a few minutes later, while a SAM takes down its helicopter. Every
+alert from the E-2. "Vampires inbound! SSGN!" There's an Oscar out there
+somewhere to the NNW, and he's fired a salvo directly at the carrier
+group. Moments later there are more missile warnings: a huge salvo from
+their ships at the lone Vincennes, a second salvo from them at our
+carrier, and even some shots from what must be a distant Juliett. Our
+response is swift, and two Harpoons are fired at the Kanin, sinking it a
+few minutes later, while a SAM takes down its helicopter. Every
 available plane is being shot off the carrier, and helicopters scramble
 from the escorts to get away from the targeted ships.
 
@@ -181,7 +181,7 @@ another wave of incoming missiles, and once again the F-5s knock them
 down. The P-3, which was patrolling ahead of the replenishment group, is
 sent west to hunt for a sub, but doesn't really have a good place to
 start, until the next wave of missiles is spotted radiating out from a
-central launch point. Then the hunt is on\! The P-3 hurries in and
+central launch point. Then the hunt is on! The P-3 hurries in and
 quickly identifies and sinks a Yankee Notch near the predicted launch
 point, while the F-5s continue to pick off the last of the cruise
 missiles before they reach the shore.
@@ -235,7 +235,7 @@ P-3 manages to get away by the narrowest of margins, eventually
 returning to loiter at a more discrete distance.
 
 Just as I am completely confident that the enemy ships are not a threat,
-one of them starts firing more anti-shipping missiles\! But these head
+one of them starts firing more anti-shipping missiles! But these head
 south, not towards us, and hit a contact I had assumed was some sort of
 Russian snooper. Mayday calls reveal that it is actually a commercial
 tanker, and it's too far away for me to help it in any way. The retiring
@@ -250,7 +250,7 @@ resumes patrol.
 
 Well, the Russians can play the sub game too. The sonar-man on the
 Ingersoll, the Spruance located a few miles ahead of my carrier,
-suddenly starts yelling about incoming torpedoes\! As all my ships turn
+suddenly starts yelling about incoming torpedoes! As all my ships turn
 to run, two ASROCs go roaring down range, and a minute later there's a
 thump followed by breakup noises. My ships continue to flee the incoming
 torpedoes at flank speed, knowing that they're effectively blind now,
@@ -260,7 +260,7 @@ the carrier group re-organizes itself and gets back on course.
 
 Finally, as their sonobuoys are gradually expiring, the S-3 on the
 northern barrier line gets a signal from a passive buoy. Could it be?
-Yes\! Oscar\!\! He's heading north, going home for reloads, and now he's
+Yes! Oscar!! He's heading north, going home for reloads, and now he's
 mine. The S-3s swoop in and a series of torpedoes pummel the big sub
 until it sinks.
 
@@ -286,31 +286,30 @@ unless they turn back for some reason.
 
 Will we be able to bloody the nose of the wily Russians? Time will tell.
 
-Part two\!
+Part two!
 
-**REBELLION\!**
+**REBELLION!**
 
 As if a hostile Soviet Union isn't enough, it looks like they're
-fostering a rebellion in the southern Philippine islands too\! There's
-an encampment down there somewhere, and government asks us for help
-finding the targets, so one of our maritime patrol P-3s is sent south to
-look around. Its long endurance and FLIR sensor make it ideal for this
-sort of work. After some scouting around it finds the rebel encampment
-in the mountains of Leyte, and descends for a closer look, hoping to
-remain invisible in the dark. The flash of an SA-7 launch proves this is
-a risky business, but fortunately the long-ranged shot misses, and the
-P-3 ascends to loiter at a safe altitude. It'll stay on-station for
-hours, until Philippine attack planes can arrive during the day. (This
-feels very like the Middle-East, where P-3s are being used exactly this
-way.)
+fostering a rebellion in the southern Philippine islands too! There's an
+encampment down there somewhere, and government asks us for help finding
+the targets, so one of our maritime patrol P-3s is sent south to look
+around. Its long endurance and FLIR sensor make it ideal for this sort
+of work. After some scouting around it finds the rebel encampment in the
+mountains of Leyte, and descends for a closer look, hoping to remain
+invisible in the dark. The flash of an SA-7 launch proves this is a
+risky business, but fortunately the long-ranged shot misses, and the P-3
+ascends to loiter at a safe altitude. It'll stay on-station for hours,
+until Philippine attack planes can arrive during the day. (This feels
+very like the Middle-East, where P-3s are being used exactly this way.)
 
 **MOVEMENTS AT SEA**
 
 My ships continue hurrying through the dark waters towards the
 rendezvous, slowing from time to time to listen for subs, when the
 Ingersoll suddenly gets a hard contact on active sonar. Moments later
-torpedoes are inbound on the carrier group again\! It's the same drill
-as before, with ASROCs and Mk46s going downrange BOL, while the carrier
+torpedoes are inbound on the carrier group again! It's the same drill as
+before, with ASROCs and Mk46s going downrange BOL, while the carrier
 group turns away and scatters. Helicopters come clattering in at low
 altitude, and manage to find and kill an SSN that's fleeing the area
 where the ASROC-dropped torpedo landed. The enemy's torpedoes, deprived
@@ -413,7 +412,7 @@ fires at the designated time, and by 12:45 there are 64 Harpoons
 inbound, one third headed for the Kiev, and two thirds for the Kirov.
 How long before the Russians spot them?
 
-Longer than I expected\! The missiles are almost on top of them before
+Longer than I expected! The missiles are almost on top of them before
 they react, and by then it's too late. The Slava is in the path of the
 missiles headed for the Kirov, and vanishes immediately under multiple
 impacts. The bulk of the missiles fly on, and despite her best efforts
@@ -442,7 +441,7 @@ the enemy task group. The Slava and the Kirov are gone. One of the
 Udaloys is limping along at a sorry 6 knots, and the Kiev has drifted to
 a halt. It looks like one of the Sovremennys might be a little slowed
 too. And are they all coming to a stop, rallying around the striken
-Kiev, where my sub can pounce on them? Heck no\! The rotters are
+Kiev, where my sub can pounce on them? Heck no! The rotters are
 buggering off, leaving the Kiev behind.
 
 The Corpus Christi comes up to periscope depth for another update and
@@ -472,7 +471,7 @@ happening, and time is running out. The navigator and the captain
 confer, and agree that if they want to catch the task group and still
 have time to deal with the Kiev, then they will have to move faster.
 Courses are set, the sub descends, and accelerates to flank speed.
-Thirty-two knots, and deaf as a post\! Lord help us if they've got a
+Thirty-two knots, and deaf as a post! Lord help us if they've got a
 screening sub to cover their retreat.
 
 An anxious hour goes by, and the captain gives the order. Cutting to

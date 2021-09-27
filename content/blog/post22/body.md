@@ -19,9 +19,9 @@ American Bradley Fighting Vehicles, Romanian tanks (locally produced
 TR-85s, essentially T-55 knockoffs), and TAB-77s (BTR-70 knockoffs),
 with modern Italian Eurofighter Typhoons providing close air support.
 Soviet 1960s, let me introduce you to the American 1990s, and the
-European 2010s\!
+European 2010s!
 
-![](/assets/images/blog/post22/image1.jpeg)
+<img src="/assets\images\blog\post22\image1.jpeg" style="width:6.5in;height:4.87361in" />
 
 *American Bradleys lead Romanian tanks and PCs into the attack. Photo by
 Joel Radunzel.*
@@ -29,12 +29,12 @@ Joel Radunzel.*
 A couple of weeks later I was crossing our Abrams and Bradleys over the
 Danube River on a Romanian ribbon bridge, while Polish IFVs simulated
 suppressing the far bank, all under the direction of a Canadian officer.
-Talk about multi-national\! Having grown up in a Europe that was firmly
+Talk about multi-national! Having grown up in a Europe that was firmly
 divided between West and East by the Iron Curtain, I’ve had ample
 opportunity to feel that the world I’m living in is perhaps stranger
 than the one we write about.
 
-![](/assets/images/blog/post22/image2.jpeg)
+<img src="/assets\images\blog\post22\image2.jpeg" style="width:6.5in;height:4.28056in" />
 
 *American armor, Romanian bridge.*
 
@@ -52,12 +52,12 @@ aircraft form a powerful fist with which the player must subdue the
 Turks and their NATO allies. Today, the whole airbase is a major NATO
 outpost.
 
-![](/assets/images/blog/post22/image3.jpeg)
+<img src="/assets\images\blog\post22\image3.jpeg" style="width:6.5in;height:4.875in" />
 
 *A derelict MiG-29 and MiG-23 in their final resting place. Photo by
 Joel Radunzel.*
 
-![](/assets/images/blog/post22/image4.jpeg)
+<img src="/assets\images\blog\post22\image4.jpeg" style="width:6.5in;height:4.875in" />
 
 *MiGs that have seen better days. Photo by Joel Radunzel.*
 
@@ -65,9 +65,9 @@ All this to say, the time that I’ve spent in Eastern Europe has brought
 home to me how strange the outcomes of history can actually be. It’s
 been fun to explore one possible outcome in our novel and scenarios, and
 fun as well to explore the real (and strange) future that actually
-played out\!
+played out!
 
-![](/assets/images/blog/post22/image5.jpeg)
+<img src="/assets\images\blog\post22\image5.jpeg" style="width:6.5in;height:4.875in" />
 
 *Twin-seat MiG-29UB peeking through the bushes. Can you spot them in Med
 Fury 1? Photo by Joel Radunzel.*

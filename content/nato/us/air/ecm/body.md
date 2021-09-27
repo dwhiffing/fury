@@ -12,20 +12,18 @@ can intercept process and jam signals from radio and radar, as well as
 detect, identify and direction find those signals and provide signals
 intelligence (SIGINT), all of this either automatically or manually. The
 USAF converted 42 F-111A strike bombers to this role between 1981 and
-1983 and upgraded them with an Avionics Modernization Program (AMP)
-[by 1994](https://fas.org/man/dod-101/sys/ac/f-111.htm). Historically
-there was much shuffling the Spark-Varks about in 1993/94 but in
-Northern Fury the three Electronic Combat Squadrons (ECS) have remained
-in
-place.
+1983 and upgraded them with an Avionics Modernization Program (AMP) [by
+1994](https://fas.org/man/dod-101/sys/ac/f-111.htm). Historically there
+was much shuffling the Spark-Varks about in 1993/94 but in Northern Fury
+the three Electronic Combat Squadrons (ECS) have remained in place.
 
 | Sqn     | Name          | Wing            | Location              | No. | Type   | Remarks        |
-| ------- | ------------- | --------------- | --------------------- | --- | ------ | -------------- |
+|---------|---------------|-----------------|-----------------------|-----|--------|----------------|
 | 42 ECS  | Raptors       | 38<sup>th</sup> | RAF Upper Hayford, UK | 12  | EF-111 | USAFE          |
 | 429 ECS | Buccaneers    | 27<sup>th</sup> | Cannon AFB, MN        | 12  | EF-111 | USAFE or PacAF |
 | 430 ECS | Black Falcons | 27<sup>th</sup> | Cannon AFB, MN        | 12  | EF-111 | USAFE or Gulf  |
 
-![](/assets/images/nato/us/air/ecm/image1.jpg)
+<img src="/assets\images\nato\us\air\ecm\image1.jpg" style="width:6.5in;height:4.225in" />
 
 [**F-4G Wild Weasel**](http://www.ausairpower.net/TE-Weasel.html)
 
@@ -42,7 +40,7 @@ original ‘Wild Weasels’ and 190<sup>th</sup> ‘Skull Bangers’ ANG
 Squadron, each fly 24 aircraft and there are several dozen replacements
 available from reserve.
 
-![](/assets/images/nato/us/air/ecm/image2.jpeg)
+<img src="/assets\images\nato\us\air\ecm\image2.jpeg" style="width:6.36042in;height:4.18021in" />
 
 [**EC-130**](https://fas.org/man/dod-101/sys/ac/ec-130e.htm)
 
@@ -60,7 +58,7 @@ squadrons, three more are on order with one entering service in July 94.
 They are routinely deployed around the world in detachments of one or
 two to support specific operations.
 
-![](/assets/images/nato/us/air/ecm/image3.jpg)
+<img src="/assets\images\nato\us\air\ecm\image3.jpg" style="width:6.22801in;height:4.32035in" />
 
 [EC-130E
 ABCCC](http://www.airforcemag.com/MagazineArchive/Magazine%20Documents/1999/July%201999/0799abccc.pdf)
@@ -76,12 +74,12 @@ only seven of these aircraft remained in operation by 1994, operated by
 remained at Keesler AFB. In Northern Fury they did not move to Offutt
 AFB as their transition to the EC-135 does not occur.
 
-![](/assets/images/nato/us/air/ecm/image4.jpeg)
+<img src="/assets\images\nato\us\air\ecm\image4.jpeg" style="width:4.96875in;height:3.30973in" />
 
 [EC-135 Looking Glass](https://fas.org/nuke/guide/usa/c3i/ec-135.htm)
 
-Since February of 1961, these converted Boeing 707s have maintain
-[a 24/7 airborne
+Since February of 1961, these converted Boeing 707s have maintain [a
+24/7 airborne
 alert](https://seanmunger.com/2016/02/03/bird-of-doom-the-endless-nuclear-vigil-of-the-looking-glass/)
 with at least one aircraft in the air at all times, now 33 years later
 they still do so. They did not adopt a ground alert status in 1990 as
@@ -93,4 +91,4 @@ launching a retaliatory nuclear strike. Although over the three decades
 dedicated tankers; however, this role has been transferred to AMC for
 general tanker support.
 
-![](/assets/images/nato/us/air/ecm/image5.jpg)
+<img src="/assets\images\nato\us\air\ecm\image5.jpg" style="width:4.94878in;height:3.21875in" />

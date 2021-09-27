@@ -22,16 +22,16 @@ fleets has a NI Brigade, while the Pacific Fleet has a NI Division with
 an Air-Landing Regiment and two NI Regiments, one in cadre state but
 activated for Northern Fury:
 
-  - 55<sup>th</sup> NI Division at Vladivostok (Pacific Fleet)
+-   55<sup>th</sup> NI Division at Vladivostok (Pacific Fleet)
 
-  - 63rd Guards *Kirkenneskaya* Brigade at Pechenga (Northern Fleet)
+-   63rd Guards *Kirkenneskaya* Brigade at Pechenga (Northern Fleet)
 
-  - 175th Brigade, at Tumanny in the North (independent but affiliated
+-   175th Brigade, at Tumanny in the North (independent but affiliated
     with Northern Fleet)
 
-  - 336th Guards Brigade at Baltiysk (Baltic Fleet)
+-   336th Guards Brigade at Baltiysk (Baltic Fleet)
 
-  - 810th Brigade, at Sevastopol (Black Sea Fleet)
+-   810th Brigade, at Sevastopol (Black Sea Fleet)
 
 From an equipment standpoint the NI has retired most of its PT-76 light
 tanks in favour of T-62 and T-72 MBTs but about 1,500 (of 12,000
@@ -43,7 +43,7 @@ Area](http://www.ww2.dk/new/navy/1ur.htm) in the Vladivostok area, with
 five Machine Gun battalions and several fortified artillery and rocket
 launcher battalions.
 
-![](/assets/images/warsaw/su/navy/amphibious/image1.png)
+<img src="/assets\images\warsaw\su\navy\amphibious\image1.png" style="width:7.375in;height:5.66667in" />
 
 [**Ivan Rogov (Large Landing
 Ship)**](http://www.military-today.com/navy/ivan_rogov_class.htm)
@@ -70,17 +70,16 @@ and would form the corps of a Brigade assault force. Accommodation is
 provided for a 550-man battalion including up to 23 armored vehicles
 including up to ten MBT. Alternatively, if the landing craft are removed
 these ships can transport up to 46 tanks or 79 BTR type APCs or similar
-vehicles, or 120 trucks and 500 troops, or 1730 tons of
-cargo.
+vehicles, or 120 trucks and 500 troops, or 1730 tons of cargo.
 
 | Class      | Pennant | Name                | Fleet    | Status              |
-| ---------- | ------- | ------------------- | -------- | ------------------- |
+|------------|---------|---------------------|----------|---------------------|
 | Ivan Rogov | 057     | Ivan Rogov          | Pacific  |                     |
 |            | 084     | Aleksandr Nikolayev | Pacific  |                     |
 |            | 028     | Mitrofan Moskalenko | Northern |                     |
 |            | 020     | Vasiliy Trushin     | Baltic   | Originally scrapped |
 
-![](/assets/images/warsaw/su/navy/amphibious/image2.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image2.jpg" style="width:7.29167in;height:3.10417in" />
 
 [**Ropucha (Large Landing
 Ship)**](https://en.wikipedia.org/wiki/Ropucha-class_landing_ship)
@@ -99,11 +98,10 @@ battalion directly onto the beach, and in that configuration they carry
 other combinations of tanks, APCs, armored vehicles and trucks.
 Alternatively, BTRs and PT-76 light tanks (mostly retired by Northern
 Fury) can swim out of the bow doors and on to the beach. They can also
-be configured to carry 500 tons of cargo directly to the
-beach.
+be configured to carry 500 tons of cargo directly to the beach.
 
 | Class                  | Pennant | Name              | Fleet     | Status        |
-| ---------------------- | ------- | ----------------- | --------- | ------------- |
+|------------------------|---------|-------------------|-----------|---------------|
 | Ropucha (Pr 775)       | 134     | SDK-47            | Baltic    |               |
 |                        | 061     | SDK-48            | Pacific   |               |
 |                        | 088     | SDK-63            | Pacific   |               |
@@ -133,7 +131,7 @@ beach.
 |                        | 077     | BDK-11            | Pacific   |               |
 |                        | 130     | BDK-61            | Baltic    |               |
 
-![](/assets/images/warsaw/su/navy/amphibious/image3.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image3.jpg" style="width:15.0736in;height:10.04514in" />
 
 **[Alligator Class (Large Landing
 Ship)](https://en.wikipedia.org/wiki/Alligator-class_landing_ship)**
@@ -152,7 +150,7 @@ ships can either land directly on the beach or have amphibious vehicles
 swim from their open bow doors.
 
 | Class     | Pennant | Name               | Fleet     | Status |
-| --------- | ------- | ------------------ | --------- | ------ |
+|-----------|---------|--------------------|-----------|--------|
 | Alligator | 150     | BDK-10             | Black Sea |        |
 |           | 144     | BDK-6              | Black Sea |        |
 |           | 093     | BDK-13             | Pacific   |        |
@@ -169,10 +167,10 @@ swim from their open bow doors.
 |           | 152     | Nikolay Filchenkov | Black Sea |        |
 |           | 159     | Nikolay Golubkov   | Northern  |        |
 
-![](/assets/images/warsaw/su/navy/amphibious/image4.jpeg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image4.jpeg" style="width:6.90625in;height:3.98836in" />
 
-[**Polnocny Class (Medium Landing Ship) Project 770, 771,
-and 773**](https://en.wikipedia.org/wiki/Polnocny-class_landing_ship)
+[**Polnocny Class (Medium Landing Ship) Project 770, 771, and
+773**](https://en.wikipedia.org/wiki/Polnocny-class_landing_ship)
 
 These medium landing ships are deployed in large numbers, 68 for the
 Soviets alone. All were built in Poland and are equipped with a bow ramp
@@ -198,17 +196,15 @@ retired in the early 1990s but are still active in Northern Fury.
 eight more for India and four each for Iraq and Lybia. These ships can
 carry six MBT several more armored vehicles and about 200 troops.
 Historically some of these were retired in the early 1990s but are still
-active in Northern
-Fury.
+active in Northern Fury.
 
 | Class               | Northern | Pacific | Baltic | Black Sea | Remarks |
-| ------------------- | -------- | ------- | ------ | --------- | ------- |
+|---------------------|----------|---------|--------|-----------|---------|
 | Polnocny-A (Pr 770) |          |         | 8      | 12        |         |
 | Polnocny-B (Pr 771) | 2        | 10      | 4      | 4         |         |
 | Polnocny-C (Pr 773) | 1        |         | 2      | 5         |         |
 
-![A large ship in a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image5.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image5.jpg" style="width:11.11111in;height:7.40278in" alt="A large ship in a body of water Description automatically generated" />
 
 **Landing Craft**: Small beach landing craft which are capable of
 short-to-shore transport over short distances or ship-to-shore from an
@@ -217,34 +213,31 @@ and in some cases copies of World War Two designs; they generally carry
 one or two vehicles up to MBT size and varying number of troops with
 very little shelter.
 
-[**Ondatra Class:
-Project 1176**](https://en.wikipedia.org/wiki/Ondatra-class_landing_craft)
+[**Ondatra Class: Project
+1176**](https://en.wikipedia.org/wiki/Ondatra-class_landing_craft)
 
 These small landing craft can carry one MBT or two trucks and about 20
 troops. In all 36 were built in time for Northern Fury and one can be
 carried on the Ivan Rogov class ships.
 
-![A large ship in a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image6.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image6.jpg" style="width:10.0608in;height:6.71048in" alt="A large ship in a body of water Description automatically generated" />
 
-**[Vydra class:
-Project 106](http://weaponsystems.net/weaponsystem/GG08+-+Vydra+class.html)**
+**[Vydra class: Project
+106](http://weaponsystems.net/weaponsystem/GG08+-+Vydra+class.html)**
 
 The Vydra class can carry two, perhaps three MBT or other vehicles or up
 to 100 troops under some cover. The Soviet navy operates 56 of this
 class and the Bulgarian navy has 11 more.
 
-![A large ship in a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image7.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image7.jpg" style="width:10.66667in;height:6.66667in" alt="A large ship in a body of water Description automatically generated" />
 
 **Other**: there are several classes of older landing craft, mostly the
 Project 306, 450, 1785, and T-4, many have been scrapped or converted
 into tugs, lightships, service ships and other - but an estimate of
-about 100 remain in
-service.
+about 100 remain in service.
 
 | Class               | Northern | Pacific | Baltic | Black Sea | Remarks |
-| ------------------- | -------- | ------- | ------ | --------- | ------- |
+|---------------------|----------|---------|--------|-----------|---------|
 | Polnocny-A (Pr 770) |          |         | 8      | 12        |         |
 | Polnocny-B (Pr 771) | 2        | 10      | 4      | 4         |         |
 | Polnocny-C (Pr 773) | 1        |         | 2      | 5         |         |
@@ -257,8 +250,8 @@ mines, can use more rugged coastline and is suitable for shore-to-shore
 transport of troops. The main disadvantage is fuel use so operations
 must be planned carefully.
 
-**[Gus Class Assault Landing Hovercraft
-(Project 1205)](https://en.wikipedia.org/wiki/Gus-class_LCAC):** A small
+**[Gus Class Assault Landing Hovercraft (Project
+1205)](https://en.wikipedia.org/wiki/Gus-class_LCAC):** A small
 troop-carrying hovercraft with a limited range of 200 nautical miles
 traveling between 43 and 50 Knots. The capacity varies based on the
 range that needs to be achieved but is between 25 and 50 assault troops,
@@ -267,52 +260,47 @@ sources say 32) of this class built before production turned to the
 Lebed class. Three of these can be carried on the Ivan Rogov class
 ships.
 
-![A small boat in a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image8.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image8.jpg" style="width:10.66667in;height:6.33333in" alt="A small boat in a body of water Description automatically generated" />
 
-**[Lebed Class Air Cushion landing craft
-(Project 1206)](https://en.wikipedia.org/wiki/Lebed-class_LCAC):** Four
-times the displacement of the Gus Class, the 20 units built for the
-Soviet Navy are similar to the US Navy’s LCAC but were in service well
-before it was adopted. They can each carry 1 MBT or 2 armored vehicles
-or 120 troops or 37 tons of cargo – but only to a range of 100 nautical
-mines at 50 Knots. Two can be carried on the Ivan Rogov class ships.
+**[Lebed Class Air Cushion landing craft (Project
+1206)](https://en.wikipedia.org/wiki/Lebed-class_LCAC):** Four times the
+displacement of the Gus Class, the 20 units built for the Soviet Navy
+are similar to the US Navy’s LCAC but were in service well before it was
+adopted. They can each carry 1 MBT or 2 armored vehicles or 120 troops
+or 37 tons of cargo – but only to a range of 100 nautical mines at 50
+Knots. Two can be carried on the Ivan Rogov class ships.
 
-![A large ship in the background Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image9.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image9.jpg" style="width:7.8in;height:5.85in" alt="A large ship in the background Description automatically generated" />
 
-**[Tsaplya Class Air cushion landing craft
-(Project 12061)](https://en.wikipedia.org/wiki/Tsaplya-class_LCAC):** A
+**[Tsaplya Class Air cushion landing craft (Project
+12061)](https://en.wikipedia.org/wiki/Tsaplya-class_LCAC):** A
 lengthened version of the Lebed Class, 12 units were completed (as
 planned, construction of the last two was not terminated) and can carry
 1 MBT or 2-3 armored vehicles or 130 troops or 42 tons of cargo. All are
 in the Pacific Fleet and focused on the Amer River border with China.
 
-![A group of people in a boat on a body of water Description
-automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image10.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image10.jpg" style="width:8.33333in;height:5.58333in" alt="A group of people in a boat on a body of water Description automatically generated" />
 
-[**Utenok Class Air Cushion Landing Assault Boat
-(Project 1209)**](http://warshipsresearch.blogspot.com/2016/11/russian-air-cushion-landing-assault.html)
+[**Utenok Class Air Cushion Landing Assault Boat (Project
+1209)**](http://warshipsresearch.blogspot.com/2016/11/russian-air-cushion-landing-assault.html)
 These two assault hovercraft were used in the Baltic fleet and carry 60
 troops or 6 tons of cargo at a speed of 60 knots to a range of 200
 nautical miles. These were probably designed to provide high speed troop
 lift in accompaniment for the Lebed class.
 
-![A boat on a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image11.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image11.jpg" style="width:9.78147in;height:7.76649in" alt="A boat on a body of water Description automatically generated" />
 
-[**Aist Class Small Air Cushion Landing Ships
-(Project 12321)**](https://en.wikipedia.org/wiki/Aist-class_LCAC):
-Considered ships and not craft, the descriptor of ‘small’ is somewhat
-misleading. Although the number built is often 20, they were
-historically in serial production so in Northern Fury there are 24
-available. The Aist class can carry two T-72 type MBT or 4-5 armored
-vehicles or 80 troops or 73 tons of cargo and have a range of 120
-nautical miles at a speed of 50 knots, although they can travel at 70
-knots if needed this reduces their range significantly.
+[**Aist Class Small Air Cushion Landing Ships (Project
+12321)**](https://en.wikipedia.org/wiki/Aist-class_LCAC): Considered
+ships and not craft, the descriptor of ‘small’ is somewhat misleading.
+Although the number built is often 20, they were historically in serial
+production so in Northern Fury there are 24 available. The Aist class
+can carry two T-72 type MBT or 4-5 armored vehicles or 80 troops or 73
+tons of cargo and have a range of 120 nautical miles at a speed of 50
+knots, although they can travel at 70 knots if needed this reduces their
+range significantly.
 
-![](/assets/images/warsaw/su/navy/amphibious/image12.png)
+<img src="/assets\images\warsaw\su\navy\amphibious\image12.png" style="width:7.14783in;height:5.07496in" />
 
 **Zubr Class Small Air Cushion Landing Ships (Project 12322)**: These
 are the worlds largest hovercraft with a displacement of over 550 tons
@@ -323,11 +311,10 @@ capacity of three MBT or 8-10 armored vehicles or 360 troops or 150 tons
 of cargo. The range is 300 nautical miles at 55 knots although its top
 speed is 63 knots.
 
-![A large ship in a body of water Description automatically
-generated](/assets/images/warsaw/su/navy/amphibious/image13.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image13.jpg" style="width:9.257in;height:6.05683in" alt="A large ship in a body of water Description automatically generated" />
 
 | Class              | Northern | Pacific | Baltic | Black Sea | Remarks |
-| ------------------ | -------- | ------- | ------ | --------- | ------- |
+|--------------------|----------|---------|--------|-----------|---------|
 | Gus (Pr 1205)      |          | 13      | 8      | 8         |         |
 | Lebed (Pr 1206)    | 7        | 8       |        | 5         |         |
 | Tsaplya (Pr 12061) |          | 12      |        |           |         |
@@ -343,48 +330,48 @@ support, many will be at sea or unavailable in time of war but
 sufficient will be ready to assist military forces. Key amongst these
 ships are:
 
-  - Two (2) SeaBee barge carriers built by Finland in the late 1970s.
+-   Two (2) SeaBee barge carriers built by Finland in the late 1970s.
     The same Lighter Aboard Ship (LASH) system is used by the US Navy
     and the original designs were purchased from the US. These two
     ships; the [*Yulius
     Fuchik*](https://en.wikipedia.org/wiki/MV_Yulius_Fuchik) and *[Tibor
-    Szamueli](https://en.wikipedia.org/wiki/MV_Tibor_Szamueli) each
+    Szamueli](https://en.wikipedia.org/wiki/MV_Tibor_Szamueli)* each
     carried 26 Lighters (barges) each displacing 1,300 tons, an
     additional 56 LASH barges, two pusher tugs and 1,552 standard
     shipping containers. The ships were also configured for RO-RO (Roll
     on – Roll off) operations similar to ferries. Each of these ships
     can lift the equipment of a standard Motor Rifle Regiment (MRR) or
-    Tank Regiment (TR) and other supplies and equipment.*
+    Tank Regiment (TR) and other supplies and equipment.
 
-![](/assets/images/warsaw/su/navy/amphibious/image14.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image14.jpg" style="width:6.58333in;height:4.22251in" />
 
-  - *Thirty (30) RO-RO ships. These ships are critical for rapid
+-   Thirty (30) RO-RO ships. These ships are critical for rapid
     unloading in a beachhead area, they require some form of pier, or
     ferry dock to unload but can probably unload onto the rear of a
     Ropucha class for ship allowing the vehicles to drive through that
     ship onto a causeway or beach. It would take 3-4 of these ships to
-    transport a MRR or TR.*
+    transport a MRR or TR.
 
-![](/assets/images/warsaw/su/navy/amphibious/image15.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image15.jpg" style="width:9.02778in;height:6.40278in" />
 
-  - *Seventy (70) passenger ships with a capacity to carry 150-200,000
+-   Seventy (70) passenger ships with a capacity to carry 150-200,000
     troops under wartime conditions. To transport an MRR with about
     2,500 troops, one or two large passenger ferries or small liners
-    would likely be sufficient over short distances.*
+    would likely be sufficient over short distances.
 
-![](/assets/images/warsaw/su/navy/amphibious/image16.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image16.jpg" style="width:6.60417in;height:4.63943in" />
 
-  - *Six hundred (600) ships with heavy lift booms capable of lifting
+-   Six hundred (600) ships with heavy lift booms capable of lifting
     more than 40 tons. These ships are both self unloading but can also
     assist other ships in unloading in a small port, providing there is
     a pier available. These can also be augmented for speedier unloading
     by using port infrastructure but having ships that can self unload
-    provides significant flexibility to the amphibious force.*
+    provides significant flexibility to the amphibious force.
 
-![](/assets/images/warsaw/su/navy/amphibious/image17.jpeg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image17.jpeg" style="width:6.84375in;height:4.57248in" />
 
-  - *Six hundred (600) cargo ships with the speed, capacity and range to
+-   Six hundred (600) cargo ships with the speed, capacity and range to
     be useful for amphibious or support operations. Many have cranes but
-    less than 40 ton capacity.*
+    less than 40 ton capacity.
 
-![](/assets/images/warsaw/su/navy/amphibious/image18.jpg)
+<img src="/assets\images\warsaw\su\navy\amphibious\image18.jpg" style="width:6.63542in;height:4.537in" />

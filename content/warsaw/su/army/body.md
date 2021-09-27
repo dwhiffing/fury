@@ -32,16 +32,17 @@ Siberia, the Far East, and Mongolia.
 A more complete understanding of the late Cold War Soviet Ground forces
 can be obtained by studying these documents:
 
-  - US Army Field Manual: [FM100-2-1 - THE SOVIET ARMY: Operations and
+-   US Army Field Manual: [FM100-2-1 - THE SOVIET ARMY: Operations and
     Tactics](https://fas.org/irp/doddir/army/fm100-2-1.pdf)
 
-  - 
-  - [FM100-2-2 - THE SOVIET ARMY: Specialized Warfare and Rear Area
+-   
+
+-   [FM100-2-2 - THE SOVIET ARMY: Specialized Warfare and Rear Area
     Support](https://fas.org/irp/doddir/army/fm100-2-2.pdf) [FM100-2-3 -
     The Soviet Army: Troops, Organization, and
     Equipment](http://www.trngcmd.marines.mil/Portals/207/Docs/MCIS/ITEP/RITC-East/FM%20100-2-3.pdf)
 
-  - [Warsaw Pact Order of Battle
-    June 1989](http://suptg.thisisnotatrueending.com/graveyard/26912082/images/1377961541351.pdf)
+-   [Warsaw Pact Order of Battle June
+    1989](http://suptg.thisisnotatrueending.com/graveyard/26912082/images/1377961541351.pdf)
 
-![](/assets/images/warsaw/su/army/image1.jpg)
+<img src="/assets\images\warsaw\su\army\image1.jpg" style="width:6.5in;height:4.05694in" />

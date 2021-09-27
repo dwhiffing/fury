@@ -2,7 +2,7 @@
 
 14 Feb 1994, 1800 Zulu, 1900 Local
 
-![](/assets/images/aar/bf/bf2/image1.jpeg)
+<img src="/assets\images\aar\bf\bf2\image1.jpeg" style="width:6.5in;height:2.77083in" />
 
 In this scenario you are playing the Soviet side and are charged with
 conducting an airborne and amphibious landing on Bornholm. NATO is on
@@ -21,16 +21,13 @@ Air Defence Brigade. Combined with an Airborne Brigade you should have
 no difficulty overwhelming the Danish defences, once you get past their
 submarines.
 
-![A group of people standing on a submarine in the water Description
-automatically generated with medium
-confidence](/assets/images/aar/bf/bf2/image2.jpeg)
+<img src="/assets\images\aar\bf\bf2\image2.jpeg" style="width:5.76042in;height:3.74774in" alt="A group of people standing on a submarine in the water Description automatically generated with medium confidence" />
 
-**<span class="underline">Baltic Fury \#2</span>** is an interesting
-scenario in that your perspective is from the Soviet side and your
-amphibious forces are very different from the classic US Marine Corps
-force that has been portrayed in many scenarios. The size and scale
-would makes this a very manageable scenario while still posing some
-difficult challenges.
+**<u>Baltic Fury \#2</u>** is an interesting scenario in that your
+perspective is from the Soviet side and your amphibious forces are very
+different from the classic US Marine Corps force that has been portrayed
+in many scenarios. The size and scale would makes this a very manageable
+scenario while still posing some difficult challenges.
 
 Bornholm is an idyllic island with beautiful beaches in the south and
 rocky cliffs in the north. Although small, its placement directly in the
@@ -42,5 +39,4 @@ to play. Ground combat should be minimal as most targets on Bornholm
 should be located and neutralized by the player before Soviet boots hit
 the ground. If they are not, there could be trouble.
 
-![A group of ships in the ocean Description automatically generated with
-low confidence](/assets/images/aar/bf/bf2/image3.jpeg)
+<img src="/assets\images\aar\bf\bf2\image3.jpeg" style="width:5.72917in;height:4.0625in" alt="A group of ships in the ocean Description automatically generated with low confidence" />

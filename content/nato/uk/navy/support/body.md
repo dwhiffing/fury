@@ -17,15 +17,14 @@ as the AOR replaced three other ships; an Oiler (AO), a stores ship
 (AFS) and an ammunition replenishment ship (AFS or AE). These ships were
 both commissioned in 1993 because Fort Victory was bombed by the Irish
 Republican Army while under construction and nearly sunk. Repairs
-(although quicker then historic) delayed her commissioning by 18
-months.
+(although quicker then historic) delayed her commissioning by 18 months.
 
 | Pennant | Name              | Status                 | Location                         |
-| ------- | ----------------- | ---------------------- | -------------------------------- |
+|---------|-------------------|------------------------|----------------------------------|
 | A387    | RFA Fort Victoria | Active in Indian Ocean | Arabian Sea supporting Ark Royal |
 | A388    | RFA Fort George   | Active                 | Portsmouth                       |
 
-![](/assets/images/nato/uk/navy/support/image1.jpg)
+<img src="/assets\images\nato\uk\navy\support\image1.jpg" style="width:6.70833in;height:4.67847in" />
 
 [**Fort Grange Class
 AFS**](https://en.wikipedia.org/wiki/Fort_Rosalie-class_replenishment_ship)
@@ -36,15 +35,14 @@ AFS (Auxiliary, Fleet Stores) or Combat Stores Ship carrying 3,500 tons
 of stores including refrigerated goods. With large flight deck, an
 emergency landing deck on top of the hanger and the ability to house
 four Sea King helicopters they are often used for aviation training as a
-secondary
-task.
+secondary task.
 
 | Pennant | Name            | Status        | Location                           |
-| ------- | --------------- | ------------- | ---------------------------------- |
+|---------|-----------------|---------------|------------------------------------|
 | A385    | RFA Fort Grange | Active in Med | Western Med supporting Illustrious |
 | A386    | RFA Fort Austin | Active        | Portsmouth                         |
 
-![](/assets/images/nato/uk/navy/support/image2.jpg)
+<img src="/assets\images\nato\uk\navy\support\image2.jpg" style="width:5.33333in;height:3.69645in" />
 
 **Resource Class AFS (or AEFS)**
 
@@ -52,18 +50,16 @@ Designed as AFS for fleet replenishment, both of these ships were
 primarily used to replenish ammunition; although they could carry other
 dry goods, they had some temperature controlled holds but did not have
 bulk refrigeration. They could house helicopters but were not normally
-provided with an embarked air
-detachment.
+provided with an embarked air detachment.
 
-| Pennant | Name                                                                | Status                 | Location                           |
-| ------- | ------------------------------------------------------------------- | ---------------------- | ---------------------------------- |
-| A480    | [RFA Resource](https://en.wikipedia.org/wiki/RFA_Resource_\(A480\)) | Active in Med          | Western Med supporting Illustrious |
-| A486    | [RFA Regent](https://en.wikipedia.org/wiki/RFA_Regent_\(A486\))     | Active in Persian Gulf | Bahrain                            |
+| Pennant | Name                                                              | Status                 | Location                           |
+|---------|-------------------------------------------------------------------|------------------------|------------------------------------|
+| A480    | [RFA Resource](https://en.wikipedia.org/wiki/RFA_Resource_(A480)) | Active in Med          | Western Med supporting Illustrious |
+| A486    | [RFA Regent](https://en.wikipedia.org/wiki/RFA_Regent_(A486))     | Active in Persian Gulf | Bahrain                            |
 
-![](/assets/images/nato/uk/navy/support/image3.jpeg)
+<img src="/assets\images\nato\uk\navy\support\image3.jpeg" style="width:5.16667in;height:3.90195in" />
 
-[**Ol Class
-AO**](https://en.wikipedia.org/wiki/Ol-class_tanker_\(1965\))
+[**Ol Class AO**](https://en.wikipedia.org/wiki/Ol-class_tanker_(1965))
 
 The three ships of this class are large ‘Fast Fleet Tankers’ (AO) and
 were designed to provide fuel to task forces at sea. They have a much
@@ -71,33 +67,31 @@ larger liquid capacity than the Fort Victory class but only or very
 limited capacity to store dry goods. A fourth ship of this class was
 built and sold to Iran as the Kharg. Historically RFA Olmeda was
 scrapped in Jan 94 but she is retained in Northern Fury. They have a
-helicopter deck and hanger allowing them to house up to three Sea
-Kings.
+helicopter deck and hanger allowing them to house up to three Sea Kings.
 
 | Pennant | Name       | Status        | Location                           |
-| ------- | ---------- | ------------- | ---------------------------------- |
+|---------|------------|---------------|------------------------------------|
 | A122    | RFA Olwen  | Active        | Portsmouth                         |
 | A123    | RFA Olna   | Active in Med | Western Med supporting Illustrious |
 | A124    | RFA Olmeda | Active        | Glasgow                            |
 
-![](/assets/images/nato/uk/navy/support/image4.jpeg)
+<img src="/assets\images\nato\uk\navy\support\image4.jpeg" style="width:4.28125in;height:3.4218in" />
 
 [**Leaf Class AOT**](https://en.wikipedia.org/wiki/Leaf-class_tanker)
 
 The Leaf class is not a class in itself but a collection of similar
 vessels charged with the same role. The main task of an AOT (Support
 Tanker) is delivery of bulk fuel between bases, but they do have
-capability to conduct
-RAS.
+capability to conduct RAS.
 
 | Pennant | Name            | Status      | Location                              |
-| ------- | --------------- | ----------- | ------------------------------------- |
+|---------|-----------------|-------------|---------------------------------------|
 | A81     | RFA Brambleleaf | 40,200 tons | Returning from Gibraltar              |
 | A109    | RFA Bayleaf     | 37,700 tons | Toulon, Mediterranean                 |
 | A110    | RFA Orangeleaf  | 33,750 tons | Bahrain, Persian Gulf                 |
 | A111    | RFA Oakleaf     | 50,000 tons | Near Manila, returning from Hong Kong |
 
-![](/assets/images/nato/uk/navy/support/image5.jpg)
+<img src="/assets\images\nato\uk\navy\support\image5.jpg" style="width:6.5in;height:3.75139in" />
 
 [**Rover Class
 (AOL)**](https://en.wikipedia.org/wiki/Rover-class_tanker)
@@ -107,21 +101,20 @@ independent missions, while not tasking one of the larger replenishment
 ships. The five Rover class carried 3,000 m<sup>3</sup> of fuel and
 limited dry and refrigerated goods. A landing platform is provided for
 VERTREP (Vertical Replenishment) but there is no provision for embarking
-a
-helicopter.
+a helicopter.
 
 | Pennant | Name            | Status               | Location                         |
-| ------- | --------------- | -------------------- | -------------------------------- |
+|---------|-----------------|----------------------|----------------------------------|
 | A268    | RFA Green Rover | In Port under repair | Perth Australia                  |
 | A269    | RFA Grey Rover  | South Atlantic       | Operating near the Falklands     |
 | A270    | RFA Blue Rover  | Eastern Med          | Operating near Cyprus            |
 | A271    | RFA Gold Rover  | Atlantic             | Returning to Portsmouth from Med |
 | A273    | RFA Black Rover | Western Pacific      | Operating near Brunei            |
 
-![](/assets/images/nato/uk/navy/support/image6.jpg)
+<img src="/assets\images\nato\uk\navy\support\image6.jpg" style="width:6.5in;height:4.875in" />
 
 [**RFA Diligence
-AR**](https://en.wikipedia.org/wiki/RFA_Diligence_\(A132\))
+AR**](https://en.wikipedia.org/wiki/RFA_Diligence_(A132))
 
 The Diligence (A132) is the RN’s forward repair ship (AR). Beginning her
 life supporting North Sea oil rigs, the Diligence was contracted by the
@@ -138,9 +131,9 @@ has a ‘dynamic positioning’ system which keeps her stable and prevents
 drift in poor sea conditions. Currently she is in Perth Australia
 assisting the repair of RFA Green Rover after a major engine failure.
 
-![](/assets/images/nato/uk/navy/support/image7.jpeg)
+<img src="/assets\images\nato\uk\navy\support\image7.jpeg" style="width:5.89583in;height:4.28431in" />
 
-[**RFA Argus**](https://en.wikipedia.org/wiki/RFA_Argus_\(A135\))
+[**RFA Argus**](https://en.wikipedia.org/wiki/RFA_Argus_(A135))
 
 Although contracted for the Falklands as a container ship, the Argus
 (A135) was purchased in the late ‘80s as an Aviation Training Ship.
@@ -153,4 +146,4 @@ train pilots for landing both on the aircraft carriers and small deck
 ships, although she does not have a bow ramp needed to launch combat
 loaded Harriers. She is currently in port at Southampton.
 
-![](/assets/images/nato/uk/navy/support/image8.jpg)
+<img src="/assets\images\nato\uk\navy\support\image8.jpg" style="width:6.09179in;height:4.05208in" />

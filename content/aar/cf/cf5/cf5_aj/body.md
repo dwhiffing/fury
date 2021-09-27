@@ -1,6 +1,6 @@
 **Caribbean Fury \#5 – Caribbean Cruise, 1994**
 
-**<span class="underline">Playtest Report by AndrewJ Aug 2021</span>**
+**<u>Playtest Report by AndrewJ Aug 2021</u>**
 
 **SITUATION**  
   
@@ -62,8 +62,7 @@ Venezuelan navy, so we can better direct our forces. F-16s are sent out
 with tanker support to patrol about 150 miles from their coast, in case
 our recce planes need sudden support.
 
-![A map of the world Description automatically generated with low
-confidence](/assets/images/aar/cf/cf5/cf5_aj/image1.jpeg)
+<img src="/assets\images\aar\cf\cf5\cf5_aj\image1.jpeg" style="width:9.06093in;height:4.37267in" alt="A map of the world Description automatically generated with low confidence" />
 
 **INITIAL RECONNAISSANCE**  
   
@@ -119,7 +118,7 @@ before it gets into range, and stay out of the enemy missile envelope.
   
 It's infuriating. Here we are, the mighty US Navy, and we're outgunned
 and being pushed away from the islands we need to defend by the missile
-boats of the Venezuelan navy\! TG South Carolina does have effective SAM
+boats of the Venezuelan navy! TG South Carolina does have effective SAM
 defences, but she's still well over 200 miles away, and it will be a
 long time before we can hope for her assistance.  
   
@@ -133,8 +132,7 @@ hiding in harbour next door in Guiria, so after some debate TG Dale is
 turned around and sent west. That leaves Trinidad with no significant
 naval support, but that's probably an acceptable risk.
 
-![Map Description automatically
-generated](/assets/images/aar/cf/cf5/cf5_aj/image2.jpeg)
+<img src="/assets\images\aar\cf\cf5\cf5_aj\image2.jpeg" style="width:7.26573in;height:3.47917in" alt="Map Description automatically generated" />
 
 **SIGHTED SOMETHING, SANK SAME**  
   
@@ -159,18 +157,18 @@ Then it's the turn of the Greenling, which has a passive contact while
 approaching Curacao at full speed to intercept the LSTs. The captain
 immediately orders the throttles reduced to creep, and as the sub slows
 the sonarman suddenly calls out that it's fast and close: 16 knots, and
-less than two miles. "Snapshot\! Both tubes\! Cut the wires\!" orders
-the captain, and two Mk48s launch towards the target, before the
-Greenling turns away, dives, and runs at flank speed, certain that
-Soviet torpedoes will be closing on them at any moment. Their only hope
-is that the enemy will turn away to flee, lose contact with them, and
-then they can dodge the torpedo with a sudden course change. But at this
-range? Faint hope...  
+less than two miles. "Snapshot! Both tubes! Cut the wires!" orders the
+captain, and two Mk48s launch towards the target, before the Greenling
+turns away, dives, and runs at flank speed, certain that Soviet
+torpedoes will be closing on them at any moment. Their only hope is that
+the enemy will turn away to flee, lose contact with them, and then they
+can dodge the torpedo with a sudden course change. But at this range?
+Faint hope...  
   
 Then there's a thud of a distant explosion. A hit? The Greenling keeps
 running, before turning and slowing to listen. There are ongoing breakup
 noises, the distant sound of one Mk48 running off into the deep, and
-nothing else. No enemy torpedoes. They didn't fire\! As for what it was,
+nothing else. No enemy torpedoes. They didn't fire! As for what it was,
 we never did get a definitive ID. *(Postwar analysis shows that this was
 not a Soviet sub at all. This was one of the Venezualan Type 209s,
 presumably manoeuvring at high speed to try and close on the transiting
@@ -371,7 +369,7 @@ TG Albany, and this seems to be the best way to do it.
 Have my choices left the eastern cargo ships at the mercy of the enemy?
 Will any of these new decisions pay off? Time will tell...
 
-Next episode\!  
+Next episode!  
   
 **DANGER IN THE EAST**  
   
@@ -427,7 +425,7 @@ lurking in wait.
   
 Four Kfirs have flown overland from Columbia, hoping to get into the
 rear area unopposed, and catch aircraft landing at Jacinto Lara – like
-those helpless Tucanos\! They’re just a moment too late to catch the
+those helpless Tucanos! They’re just a moment too late to catch the
 returning F-5s, only shooting down the last damaged F-5 just before
 touchdown. Looking around, they head further east to snap up an ELINT
 plane, and then decide to make a run on the tanker, but they’re shooed
@@ -438,15 +436,14 @@ of our planes takes a missile hit and staggers away to base, and the
 remainder follow.  
   
 Which, of course, leaves Jacinto Lara completely open for the Tucanos,
-who land happily, pleasantly surprised about how easy the mission was\!
+who land happily, pleasantly surprised about how easy the mission was!
 
-![Map Description automatically
-generated](/assets/images/aar/cf/cf5/cf5_aj/image3.jpeg)
+<img src="/assets\images\aar\cf\cf5\cf5_aj\image3.jpeg" style="width:7.44979in;height:3.44792in" alt="Map Description automatically generated" />
 
-**FIGHT, ALBANY, FIGHT\!**  
+**FIGHT, ALBANY, FIGHT!**  
   
 Suddenly, radarmen on TG Albany start shouting about two incoming
-Vampires from the SW\! These have to be Otomats from the western pair of
+Vampires from the SW! These have to be Otomats from the western pair of
 missile boats, but how? We thought they were still a few miles out of
 range, but evidently one of them darted in closer when we were
 distracted. The Norfolk’s Sea Wolf knocks them down, one-two. We’ve
@@ -466,7 +463,7 @@ kill them. Eight left.
 Westminster has only 8 SAMs left, and no CIWS. Albany is completely
 defenceless against sea-skimmers. Staying to fight is no longer an
 option, and TG Albany turns WNW and flees at flank speed towards TG
-South Carolina, which is still 150 miles away. Run, Albany, run\! For a
+South Carolina, which is still 150 miles away. Run, Albany, run! For a
 few minutes it seems like we’re withdrawing unopposed. Then two Mirages
 suddenly appear on radar near the Albany, popping up homeward bound from
 low altitude, and the Albany hits them both with Talos missiles.
@@ -614,7 +611,7 @@ four miles. He’s not engaging all three, since he only has four torps
 left, and wants to save his last two for self defence.) Things are going
 well, with no sign the enemy has heard him, when suddenly there’s the
 sound of an active dipping sonar about a mile behind him. They’ve been
-had\! The Greenling dives at flank speed and runs for the depths, but
+had! The Greenling dives at flank speed and runs for the depths, but
 there’s a splash and a little torpedo bores in relentlessly, gets
 distracted by a noisemaker, wheels about, and charges again. It gets
 closer and closer, and then suddenly runs out of fuel. If it hadn’t been
@@ -670,7 +667,7 @@ the mountains, and into the base through the valley to the east, around
 20:30 local. Did they work? Nobody knows… *(Satellite BDA in the
 following days reveals impact holes in all four hangars, and eventually
 a scrap-heap including the tail sections of 7 Mirages. A very useful
-strike indeed\!)*  
+strike indeed!)*  
   
 The last group of three Lupos have been moving back and forth
 indecisively, and at one point they head NE towards TG Dale, which has
@@ -743,8 +740,7 @@ It’s worth a moment to consider the course of the Almirante Lynch. She’s
 a Chilean Leander, with ancient Sea Cat missiles, a four-pack of
 Exocets, one gun, and all the verve and flair of a Caribbean adventurer.
 
-![Map Description automatically
-generated](/assets/images/aar/cf/cf5/cf5_aj/image4.jpeg)
+<img src="/assets\images\aar\cf\cf5\cf5_aj\image4.jpeg" style="width:7.43477in;height:5.11458in" alt="Map Description automatically generated" />
 
 She starts off speeding down the west coast of Curacao alone, and using
 her Exocets to put an end to the pair of Venezuelan patrol boats in the
@@ -764,10 +760,10 @@ coast to the east headland of the Gulf of Venezuela, and bombards the
 suspected location of the SA-3 there. That doesn’t seem to do much, so
 Westminster’s Lynx comes over, and uses its FLIR to help spot the site,
 which the Almirante cheerfully bombards into oblivion. Three planes, two
-patrol boats, two SAM sites, and a surveillance radar. Not bad\!  
+patrol boats, two SAM sites, and a surveillance radar. Not bad!  
   
 *(Yes, the big ship formations do the serious work, but sometimes the
-little ships are more fun\! I really enjoy how Command lets you see both
+little ships are more fun! I really enjoy how Command lets you see both
 ends of the spectrum.)*  
   
 **LAST OF THE LUPOS**  
@@ -801,7 +797,7 @@ the exploits of the Almirante Lynch, and decide to see if they can find
 the SAM battery that’s on Isla da Margarita. They don’t manage to spot
 it, but the SAM site sees them easily, in the clear light of day, and
 calls a Mirage to investigate. My F-16s hurry to intercept, but then
-they’re fired on by the SA-3\! They manage to get the incoming attacker
+they’re fired on by the SA-3! They manage to get the incoming attacker
 with Sparrows, just as it’s passing over the island, and then dodge
 behind the hilltop to screen themselves from the SAMs. The foolish
 Buccoo Reef scurries away to safer waters.  
@@ -830,10 +826,10 @@ kept me on the back foot, and I was constantly being shoved around by
 the enemy ships. Despite my precautions, I very nearly lost the Albany
 to Exocet attack.  
   
-Thank heavens for the F-16 ADV\! Their Sparrow missiles were essential
-to my success, allowing me to hit most of their fighters with massive
-range advantage, and tackle the MiG-25s at parity. Without them, the
-situation would have been very different.  
+Thank heavens for the F-16 ADV! Their Sparrow missiles were essential to
+my success, allowing me to hit most of their fighters with massive range
+advantage, and tackle the MiG-25s at parity. Without them, the situation
+would have been very different.  
   
 The lack of AWACS made the scenario much more interesting. Normally I
 can see where everything is, and there’s no hope of sneaking up on me.

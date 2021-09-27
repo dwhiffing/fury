@@ -1,9 +1,9 @@
-**Mediterranean Fury 10: Convoy Ho\!**
+**Mediterranean Fury 10: Convoy Ho!**
 
 4 Mar 1994, Zulu, Local
 
 Major oil convoy from the Suez to France
 
-**<span class="underline">Mediterranean Fury \#10</span>**
+**<u>Mediterranean Fury \#10</u>**
 
 Scenario not yet completed.

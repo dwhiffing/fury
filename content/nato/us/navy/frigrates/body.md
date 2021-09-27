@@ -26,21 +26,20 @@ Brooke](http://destroyerhistory.org/coldwar/brookeclass/) (**FFG-1**) to
 Pakistan in 89 went forward and the USS Ramsey (**FFG-2**) was too far
 down the decommissioning process to maintain but the remaining 4 were
 retained until the new Oliver Hazard Perry class ships begin service
-later in 1994. The sale of **FFG-3, 4 and 5** to Pakistan was canceled.
-These ships are nearing the end of their useful life and are not
-suitable for front line tasks. Their Tartar missile launchers are
+later in 1994. The sale of **FFG-3, 4** and **5** to Pakistan was
+canceled. These ships are nearing the end of their useful life and are
+not suitable for front line tasks. Their Tartar missile launchers are
 capable of firing the RIM-66 Standard Surface to Air (SAM) missiles, but
-not quickly. They carry an SH-2 Seasprite ASW
-helicopter.
+not quickly. They carry an SH-2 Seasprite ASW helicopter.
 
-| Class  | Pennant | Name                                                                                                          | Historic | NF       | Home Port | Task           | Remarks |
-| ------ | ------- | ------------------------------------------------------------------------------------------------------------- | -------- | -------- | --------- | -------------- | ------- |
-| Brooke | FFG-3   | [<span class="underline">Schofield</span>](https://en.wikipedia.org/wiki/USS_Schofield_\(FFG-3\))             | Decom 88 | Decom 94 | Norfolk   | General patrol |         |
-|        | FFG-4   | [<span class="underline">Talbot</span>](https://en.wikipedia.org/wiki/USS_Talbot_\(FFG-4\))                   | Decom 88 | Decom 94 | Norfolk   | Tied up        |         |
-|        | FFG-5   | [<span class="underline">Richard L. Page</span>](https://en.wikipedia.org/wiki/USS_Richard_L._Page_\(FFG-5\)) | Decom 88 | Decom 94 | Norfolk   | Amphib Escort  |         |
-|        | FFG-6   | [<span class="underline">Julius A. Furer</span>](https://en.wikipedia.org/wiki/USS_Julius_A._Furer_\(FFG-6\)) | Decom 89 | Decom 94 | Norfolk   | Convoy         |         |
+| Class  | Pennant | Name                                                                                | Historic | NF       | Home Port | Task           | Remarks |
+|--------|---------|-------------------------------------------------------------------------------------|----------|----------|-----------|----------------|---------|
+| Brooke | FFG-3   | [<u>Schofield</u>](https://en.wikipedia.org/wiki/USS_Schofield_(FFG-3))             | Decom 88 | Decom 94 | Norfolk   | General patrol |         |
+|        | FFG-4   | [<u>Talbot</u>](https://en.wikipedia.org/wiki/USS_Talbot_(FFG-4))                   | Decom 88 | Decom 94 | Norfolk   | Tied up        |         |
+|        | FFG-5   | [<u>Richard L. Page</u>](https://en.wikipedia.org/wiki/USS_Richard_L._Page_(FFG-5)) | Decom 88 | Decom 94 | Norfolk   | Amphib Escort  |         |
+|        | FFG-6   | [<u>Julius A. Furer</u>](https://en.wikipedia.org/wiki/USS_Julius_A._Furer_(FFG-6)) | Decom 89 | Decom 94 | Norfolk   | Convoy         |         |
 
-![](/assets/images/nato/us/navy/frigrates/image1.png)
+<img src="/assets\images\nato\us\navy\frigrates\image1.png" style="width:5.65186in;height:3.95in" />
 
 [**Knox** Class
 FF](http://www.military-today.com/navy/knox_class.htm)There were 46
@@ -48,10 +47,10 @@ FF](http://www.military-today.com/navy/knox_class.htm)There were 46
 between 1965 and 1974.  Although there were very few variations when
 built, the weapons fit during their lifetime was quite diverse. By 1994
 however a fairly standard layout had been achieved again; along with a
-5” gun, each had a Mk 15 Phalanx Close in Weapons System (CIWS), a Mk
-16 Anti Submarine Rocket (ASROC) system that could also fire four
-Harpoon Anti-Ship Missiles (ASM). There were no Surface to Air (SAM)
-missiles but all carried an SH-2 Seasprite ASW helicopter.
+5” gun, each had a Mk 15 Phalanx Close in Weapons System (CIWS), a Mk 16
+Anti Submarine Rocket (ASROC) system that could also fire four Harpoon
+Anti-Ship Missiles (ASM). There were no Surface to Air (SAM) missiles
+but all carried an SH-2 Seasprite ASW helicopter.
 
 These ships are starting to show their age, only have one propeller
 shaft and are too slow to keep up with the Carrier Battle Groups, but
@@ -61,59 +60,58 @@ foreign sales to Taiwan and other countries did not occur in Northern
 fury. More details can be found
 [here](http://www.navyhistory.org/2016/07/our-introduction-to-the-knox-class-frigates-in-the-1970s/).
 In an effort to save manpower the USN has put 10 of these ships in
-reserve but the other 36 are
-active.
+reserve but the other 36 are active.
 
-| Class | Pennant | Name                                                                                                              | Historic | NF      | Home Port    | Task              | Remarks |
-| ----- | ------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------- | ------------ | ----------------- | ------- |
-| Knox  | FF-1052 | [<span class="underline">Knox</span>](https://en.wikipedia.org/wiki/USS_Knox_\(FF-1052\))                         | Decom 92 | Reserve |              |                   | Apr-94  |
-|       | FF-1053 | [<span class="underline">Roark</span>](https://en.wikipedia.org/wiki/USS_Roark_\(FF-1053\))                       | Decom 91 | Reserve |              |                   | Jun-94  |
-|       | FF-1054 | [<span class="underline">Gray</span>](https://en.wikipedia.org/wiki/USS_Gray_\(FF-1054\))                         | Decom 91 | Reserve |              |                   | Jun-94  |
-|       | FF-1055 | [<span class="underline">Hepburn</span>](https://en.wikipedia.org/wiki/USS_Hepburn_\(FF-1055\))                   | Decom 91 | Reserve |              |                   | May-94  |
-|       | FF-1056 | [<span class="underline">Connole</span>](https://en.wikipedia.org/wiki/USS_Connole_\(FF-1056\))                   | Decom 92 | Active  | Newport      | Tied up           |         |
-|       | FF-1057 | [<span class="underline">Rathburne</span>](https://en.wikipedia.org/wiki/USS_Rathburne_\(FF-1057\))               | Decom 92 | Active  | Long Beach   | Convoy            |         |
-|       | FF-1058 | [<span class="underline">Meyerkord</span>](https://en.wikipedia.org/wiki/USS_Meyerkord_\(FF-1058\))               | Decom 91 | Reserve |              |                   | Apr-94  |
-|       | FF-1059 | [<span class="underline">W. S. Sims</span>](https://en.wikipedia.org/wiki/USS_W._S._Sims_\(FF-1059\))             | Decom 91 | Reserve |              |                   | May-94  |
-|       | FF-1060 | [<span class="underline">Lang</span>](https://en.wikipedia.org/wiki/USS_Lang_\(FF-1060\))                         | Decom 91 | Reserve |              |                   | May-94  |
-|       | FF-1061 | [<span class="underline">Patterson</span>](https://en.wikipedia.org/wiki/USS_Patterson_\(FF-1061\))               | Decom 91 | Active  | Philadelphia | Convoy            |         |
-|       | FF-1062 | [<span class="underline">Whipple</span>](https://en.wikipedia.org/wiki/USS_Whipple_\(FF-1062\))                   | Decom 92 | Active  | Pearl Hbr    | Tied Up           |         |
-|       | FF-1063 | [<span class="underline">Reasoner</span>](https://en.wikipedia.org/wiki/USS_Reasoner_\(FF-1063\))                 | Decom 93 | Active  | Norfolk      | TG Mount Whitney  |         |
-|       | FF-1064 | [<span class="underline">Lockwood</span>](https://en.wikipedia.org/wiki/USS_Lockwood_\(FF-1064\))                 | Decom 93 | Active  | Long Beach   | Tied Up           |         |
-|       | FF-1065 | [<span class="underline">Stein</span>](https://en.wikipedia.org/wiki/USS_Stein_\(FF-1065\))                       | Decom 92 | Active  | San Diego    | Tied Up           |         |
-|       | FF-1066 | [<span class="underline">Marvin Shields</span>](https://en.wikipedia.org/wiki/USS_Marvin_Shields_\(FF-1066\))     | Decom 92 | Active  | San Diego    | Tied Up           |         |
-|       | FF-1067 | [<span class="underline">Francis Hammond</span>](https://en.wikipedia.org/wiki/USS_Francis_Hammond_\(FF-1067\))   | Decom 92 | Active  | Long Beach   | Tied Up           |         |
-|       | FF-1068 | [<span class="underline">Vreeland</span>](https://en.wikipedia.org/wiki/USS_Vreeland_\(FF-1068\))                 | Decom 92 | Active  | Norfolk      | Tied up           |         |
-|       | FF-1069 | [<span class="underline">Bagley</span>](https://en.wikipedia.org/wiki/USS_Bagley_\(FF-1069\))                     | Decom 91 | Reserve |              |                   | Apr-94  |
-|       | FF-1070 | [<span class="underline">Downes</span>](https://en.wikipedia.org/wiki/USS_Downes_\(FF-1070\))                     | Decom 92 | Active  | San Diego    | Tied Up           |         |
-|       | FF-1071 | [<span class="underline">Badger</span>](https://en.wikipedia.org/wiki/USS_Badger_\(FF-1071\))                     | Decom 91 | Reserve |              |                   | Jun-94  |
-|       | FF-1072 | [<span class="underline">Blakely</span>](https://en.wikipedia.org/wiki/USS_Blakely_\(FF-1072\))                   | Decom 91 | Reserve |              |                   | May-94  |
-|       | FF-1073 | [<span class="underline">Robert E. Peary</span>](https://en.wikipedia.org/wiki/USS_Robert_E._Peary_\(FF-1073\))   | Decom 92 | Active  | Newport      | Tied Up           |         |
-|       | FF-1074 | [<span class="underline">Harold E. Holt</span>](https://en.wikipedia.org/wiki/USS_Harold_E._Holt_\(FF-1074\))     | Decom 92 | Active  | Newport      | Tied Up           |         |
-|       | FF-1075 | [<span class="underline">Trippe</span>](https://en.wikipedia.org/wiki/USS_Trippe_\(FF-1075\))                     | Decom 92 | Active  | Newport      | Tied Up           |         |
-|       | FF-1076 | [<span class="underline">Fanning</span>](https://en.wikipedia.org/wiki/USS_Fanning_\(FF-1076\))                   | Decom 93 | Active  | San Diego    | Tied up           |         |
-|       | FF-1077 | [<span class="underline">Ouellet</span>](https://en.wikipedia.org/wiki/USS_Ouellet_\(FF-1077\))                   | Decom 93 | Active  | Charleston   | Carib             |         |
-|       | FF-1078 | [<span class="underline">Joseph Hewes</span>](https://en.wikipedia.org/wiki/USS_Joseph_Hewes_\(FF-1078\))         | Decom 94 | Active  | Charleston   | TG Missouri       |         |
-|       | FF-1079 | [<span class="underline">Bowen</span>](https://en.wikipedia.org/wiki/USS_Bowen_\(FF-1079\))                       | Decom 94 | Active  | Norfolk      | Med Amphibs       |         |
-|       | FF-1080 | [<span class="underline">Paul</span>](https://en.wikipedia.org/wiki/USS_Paul_\(FF-1080\))                         | Decom 92 | Active  | Mayport      | Tied up           |         |
-|       | FF-1081 | [<span class="underline">Aylwin</span>](https://en.wikipedia.org/wiki/USS_Aylwin_\(FF-1081\))                     | Decom 92 | Active  | Newport      | Tied Up           |         |
-|       | FF-1082 | [<span class="underline">Elmer Montgomery</span>](https://en.wikipedia.org/wiki/USS_Elmer_Montgomery_\(FF-1082\)) | Decom 93 | Active  | Yokosuka     | Independent in PG |         |
-|       | FF-1083 | [<span class="underline">Cook</span>](https://en.wikipedia.org/wiki/USS_Cook_\(FF-1083\))                         | Decom 92 | Active  | San Diego    | Tied up           |         |
-|       | FF-1084 | [<span class="underline">McCandless</span>](https://en.wikipedia.org/wiki/USS_McCandless_\(FF-1084\))             | Decom 94 | Active  | Norfolk      | Tied Up           |         |
-|       | FF-1085 | [<span class="underline">Donald B. Beary</span>](https://en.wikipedia.org/wiki/USS_Donald_B._Beary_\(FF-1085\))   | Decom 94 | Active  | Norfolk      | TG Wisconsin      |         |
-|       | FF-1086 | [<span class="underline">Brewton</span>](https://en.wikipedia.org/wiki/USS_Brewton_\(FF-1086\))                   | Decom 92 | Active  | Pearl Hbr    | Tied up           |         |
-|       | FF-1087 | [<span class="underline">Kirk</span>](https://en.wikipedia.org/wiki/USS_Kirk_\(FF-1087\))                         | Decom 93 | Active  | Long Beach   | TG New Jersey     |         |
-|       | FF-1088 | [<span class="underline">Barbey</span>](https://en.wikipedia.org/wiki/USS_Barbey_\(FF-1088\))                     | Decom 94 | Active  | San Diego    | Tied Up           |         |
-|       | FF-1089 | [<span class="underline">Jesse L. Brown</span>](https://en.wikipedia.org/wiki/USS_Jesse_L._Brown_\(FF-1089\))     | Decom 94 | Active  | Charleston   | Carib - Radford   |         |
-|       | FF-1090 | [<span class="underline">Ainsworth</span>](https://en.wikipedia.org/wiki/USS_Ainsworth_\(FF-1090\))               | Decom 94 | Active  | Norfolk      | Monongahela TG    |         |
-|       | FF-1091 | [<span class="underline">Miller</span>](https://en.wikipedia.org/wiki/USS_Miller_\(FF-1091\))                     | Decom 91 | Active  | Newport      | Tied Up           |         |
-|       | FF-1092 | [<span class="underline">Thomas C. Hart</span>](https://en.wikipedia.org/wiki/USS_Thomas_C._Hart_\(FF-1092\))     | Decom 93 | Active  | Norfolk      | South 2nd         |         |
-|       | FF-1093 | [<span class="underline">Capodanno</span>](https://en.wikipedia.org/wiki/USS_Capodanno_\(FF-1093\))               | Decom 93 | Active  | Newport      | Monongahela TG    |         |
-|       | FF-1094 | [<span class="underline">Pharris</span>](https://en.wikipedia.org/wiki/USS_Pharris_\(FF-1094\))                   | Decom 92 | Active  | Norfolk      | Tied Up           |         |
-|       | FF-1095 | [<span class="underline">Truett</span>](https://en.wikipedia.org/wiki/USS_Truett_\(FF-1095\))                     | Decom 94 | Active  | Norfolk      | Carib - Radford   |         |
-|       | FF-1096 | [<span class="underline">Valdez</span>](https://en.wikipedia.org/wiki/USS_Valdez_\(FF-1096\))                     | Decom 91 | Active  | Newport      | Tied Up           |         |
-|       | FF-1097 | [<span class="underline">Moinester</span>](https://en.wikipedia.org/wiki/USS_Moinester_\(FF-1097\))               | Decom 94 | Active  | Norfolk      | Med               |         |
+| Class | Pennant | Name                                                                                    | Historic | NF      | Home Port    | Task              | Remarks |
+|-------|---------|-----------------------------------------------------------------------------------------|----------|---------|--------------|-------------------|---------|
+| Knox  | FF-1052 | [<u>Knox</u>](https://en.wikipedia.org/wiki/USS_Knox_(FF-1052))                         | Decom 92 | Reserve |              |                   | Apr-94  |
+|       | FF-1053 | [<u>Roark</u>](https://en.wikipedia.org/wiki/USS_Roark_(FF-1053))                       | Decom 91 | Reserve |              |                   | Jun-94  |
+|       | FF-1054 | [<u>Gray</u>](https://en.wikipedia.org/wiki/USS_Gray_(FF-1054))                         | Decom 91 | Reserve |              |                   | Jun-94  |
+|       | FF-1055 | [<u>Hepburn</u>](https://en.wikipedia.org/wiki/USS_Hepburn_(FF-1055))                   | Decom 91 | Reserve |              |                   | May-94  |
+|       | FF-1056 | [<u>Connole</u>](https://en.wikipedia.org/wiki/USS_Connole_(FF-1056))                   | Decom 92 | Active  | Newport      | Tied up           |         |
+|       | FF-1057 | [<u>Rathburne</u>](https://en.wikipedia.org/wiki/USS_Rathburne_(FF-1057))               | Decom 92 | Active  | Long Beach   | Convoy            |         |
+|       | FF-1058 | [<u>Meyerkord</u>](https://en.wikipedia.org/wiki/USS_Meyerkord_(FF-1058))               | Decom 91 | Reserve |              |                   | Apr-94  |
+|       | FF-1059 | [<u>W. S. Sims</u>](https://en.wikipedia.org/wiki/USS_W._S._Sims_(FF-1059))             | Decom 91 | Reserve |              |                   | May-94  |
+|       | FF-1060 | [<u>Lang</u>](https://en.wikipedia.org/wiki/USS_Lang_(FF-1060))                         | Decom 91 | Reserve |              |                   | May-94  |
+|       | FF-1061 | [<u>Patterson</u>](https://en.wikipedia.org/wiki/USS_Patterson_(FF-1061))               | Decom 91 | Active  | Philadelphia | Convoy            |         |
+|       | FF-1062 | [<u>Whipple</u>](https://en.wikipedia.org/wiki/USS_Whipple_(FF-1062))                   | Decom 92 | Active  | Pearl Hbr    | Tied Up           |         |
+|       | FF-1063 | [<u>Reasoner</u>](https://en.wikipedia.org/wiki/USS_Reasoner_(FF-1063))                 | Decom 93 | Active  | Norfolk      | TG Mount Whitney  |         |
+|       | FF-1064 | [<u>Lockwood</u>](https://en.wikipedia.org/wiki/USS_Lockwood_(FF-1064))                 | Decom 93 | Active  | Long Beach   | Tied Up           |         |
+|       | FF-1065 | [<u>Stein</u>](https://en.wikipedia.org/wiki/USS_Stein_(FF-1065))                       | Decom 92 | Active  | San Diego    | Tied Up           |         |
+|       | FF-1066 | [<u>Marvin Shields</u>](https://en.wikipedia.org/wiki/USS_Marvin_Shields_(FF-1066))     | Decom 92 | Active  | San Diego    | Tied Up           |         |
+|       | FF-1067 | [<u>Francis Hammond</u>](https://en.wikipedia.org/wiki/USS_Francis_Hammond_(FF-1067))   | Decom 92 | Active  | Long Beach   | Tied Up           |         |
+|       | FF-1068 | [<u>Vreeland</u>](https://en.wikipedia.org/wiki/USS_Vreeland_(FF-1068))                 | Decom 92 | Active  | Norfolk      | Tied up           |         |
+|       | FF-1069 | [<u>Bagley</u>](https://en.wikipedia.org/wiki/USS_Bagley_(FF-1069))                     | Decom 91 | Reserve |              |                   | Apr-94  |
+|       | FF-1070 | [<u>Downes</u>](https://en.wikipedia.org/wiki/USS_Downes_(FF-1070))                     | Decom 92 | Active  | San Diego    | Tied Up           |         |
+|       | FF-1071 | [<u>Badger</u>](https://en.wikipedia.org/wiki/USS_Badger_(FF-1071))                     | Decom 91 | Reserve |              |                   | Jun-94  |
+|       | FF-1072 | [<u>Blakely</u>](https://en.wikipedia.org/wiki/USS_Blakely_(FF-1072))                   | Decom 91 | Reserve |              |                   | May-94  |
+|       | FF-1073 | [<u>Robert E. Peary</u>](https://en.wikipedia.org/wiki/USS_Robert_E._Peary_(FF-1073))   | Decom 92 | Active  | Newport      | Tied Up           |         |
+|       | FF-1074 | [<u>Harold E. Holt</u>](https://en.wikipedia.org/wiki/USS_Harold_E._Holt_(FF-1074))     | Decom 92 | Active  | Newport      | Tied Up           |         |
+|       | FF-1075 | [<u>Trippe</u>](https://en.wikipedia.org/wiki/USS_Trippe_(FF-1075))                     | Decom 92 | Active  | Newport      | Tied Up           |         |
+|       | FF-1076 | [<u>Fanning</u>](https://en.wikipedia.org/wiki/USS_Fanning_(FF-1076))                   | Decom 93 | Active  | San Diego    | Tied up           |         |
+|       | FF-1077 | [<u>Ouellet</u>](https://en.wikipedia.org/wiki/USS_Ouellet_(FF-1077))                   | Decom 93 | Active  | Charleston   | Carib             |         |
+|       | FF-1078 | [<u>Joseph Hewes</u>](https://en.wikipedia.org/wiki/USS_Joseph_Hewes_(FF-1078))         | Decom 94 | Active  | Charleston   | TG Missouri       |         |
+|       | FF-1079 | [<u>Bowen</u>](https://en.wikipedia.org/wiki/USS_Bowen_(FF-1079))                       | Decom 94 | Active  | Norfolk      | Med Amphibs       |         |
+|       | FF-1080 | [<u>Paul</u>](https://en.wikipedia.org/wiki/USS_Paul_(FF-1080))                         | Decom 92 | Active  | Mayport      | Tied up           |         |
+|       | FF-1081 | [<u>Aylwin</u>](https://en.wikipedia.org/wiki/USS_Aylwin_(FF-1081))                     | Decom 92 | Active  | Newport      | Tied Up           |         |
+|       | FF-1082 | [<u>Elmer Montgomery</u>](https://en.wikipedia.org/wiki/USS_Elmer_Montgomery_(FF-1082)) | Decom 93 | Active  | Yokosuka     | Independent in PG |         |
+|       | FF-1083 | [<u>Cook</u>](https://en.wikipedia.org/wiki/USS_Cook_(FF-1083))                         | Decom 92 | Active  | San Diego    | Tied up           |         |
+|       | FF-1084 | [<u>McCandless</u>](https://en.wikipedia.org/wiki/USS_McCandless_(FF-1084))             | Decom 94 | Active  | Norfolk      | Tied Up           |         |
+|       | FF-1085 | [<u>Donald B. Beary</u>](https://en.wikipedia.org/wiki/USS_Donald_B._Beary_(FF-1085))   | Decom 94 | Active  | Norfolk      | TG Wisconsin      |         |
+|       | FF-1086 | [<u>Brewton</u>](https://en.wikipedia.org/wiki/USS_Brewton_(FF-1086))                   | Decom 92 | Active  | Pearl Hbr    | Tied up           |         |
+|       | FF-1087 | [<u>Kirk</u>](https://en.wikipedia.org/wiki/USS_Kirk_(FF-1087))                         | Decom 93 | Active  | Long Beach   | TG New Jersey     |         |
+|       | FF-1088 | [<u>Barbey</u>](https://en.wikipedia.org/wiki/USS_Barbey_(FF-1088))                     | Decom 94 | Active  | San Diego    | Tied Up           |         |
+|       | FF-1089 | [<u>Jesse L. Brown</u>](https://en.wikipedia.org/wiki/USS_Jesse_L._Brown_(FF-1089))     | Decom 94 | Active  | Charleston   | Carib - Radford   |         |
+|       | FF-1090 | [<u>Ainsworth</u>](https://en.wikipedia.org/wiki/USS_Ainsworth_(FF-1090))               | Decom 94 | Active  | Norfolk      | Monongahela TG    |         |
+|       | FF-1091 | [<u>Miller</u>](https://en.wikipedia.org/wiki/USS_Miller_(FF-1091))                     | Decom 91 | Active  | Newport      | Tied Up           |         |
+|       | FF-1092 | [<u>Thomas C. Hart</u>](https://en.wikipedia.org/wiki/USS_Thomas_C._Hart_(FF-1092))     | Decom 93 | Active  | Norfolk      | South 2nd         |         |
+|       | FF-1093 | [<u>Capodanno</u>](https://en.wikipedia.org/wiki/USS_Capodanno_(FF-1093))               | Decom 93 | Active  | Newport      | Monongahela TG    |         |
+|       | FF-1094 | [<u>Pharris</u>](https://en.wikipedia.org/wiki/USS_Pharris_(FF-1094))                   | Decom 92 | Active  | Norfolk      | Tied Up           |         |
+|       | FF-1095 | [<u>Truett</u>](https://en.wikipedia.org/wiki/USS_Truett_(FF-1095))                     | Decom 94 | Active  | Norfolk      | Carib - Radford   |         |
+|       | FF-1096 | [<u>Valdez</u>](https://en.wikipedia.org/wiki/USS_Valdez_(FF-1096))                     | Decom 91 | Active  | Newport      | Tied Up           |         |
+|       | FF-1097 | [<u>Moinester</u>](https://en.wikipedia.org/wiki/USS_Moinester_(FF-1097))               | Decom 94 | Active  | Norfolk      | Med               |         |
 
-![](/assets/images/nato/us/navy/frigrates/image2.jpg)
+<img src="/assets\images\nato\us\navy\frigrates\image2.jpg" style="width:6.65625in;height:5.05064in" />
 
 [**Oliver Hazard Perry** (OHP) Class
 FFG](https://en.wikipedia.org/wiki/Oliver_Hazard_Perry-class_frigate)
@@ -137,63 +135,62 @@ company with an Anti Air Warfare (AAW) ship.
 In addition to the 51 American ships, Australia and Spain have six each
 and Taiwan operates eight of these ships. In Northern Fury, 12 more are
 building with the intent of retiring the 4 Brooke class later in 1994
-and putting another 10 Knox class in reserve by
-1996.
+and putting another 10 Knox class in reserve by 1996.
 
-![](/assets/images/nato/us/navy/frigrates/image3.jpg)
+<img src="/assets\images\nato\us\navy\frigrates\image3.jpg" style="width:8.9375in;height:2.6002in" />
 
-| Class     | Pennant | Name                                                                                                                     | Home Port | Task                | Remarks    |
-| --------- | ------- | ------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------- | ---------- |
-| OHP       | FFG-7   | [<span class="underline">Oliver Hazard Perry</span>](https://en.wikipedia.org/wiki/USS_Oliver_Hazard_Perry_\(FFG-7\))    | Norfolk   |                     | Short Hull |
-|           | FFG-8   | [<span class="underline">McInerney</span>](https://en.wikipedia.org/wiki/USS_McInerney_\(FFG-8\))                        | Norfolk   |                     | Long Hull  |
-|           | FFG-9   | [<span class="underline">Wadsworth</span>](https://en.wikipedia.org/wiki/USS_Wadsworth_\(FFG-9\))                        | San Diego | TG Iowa             | Short Hull |
-|           | FFG-10  | [<span class="underline">Duncan</span>](https://en.wikipedia.org/wiki/USS_Duncan_\(FFG-10\))                             | Norfolk   | Amphib Escort       | Short Hull |
-|           | FFG-11  | [<span class="underline">Clark</span>](https://en.wikipedia.org/wiki/USS_Clark_\(FFG-11\))                               | Norfolk   |                     | Short Hull |
-|           | FFG-12  | [<span class="underline">George Philip</span>](https://en.wikipedia.org/wiki/USS_George_Philip_\(FFG-12\))               | Bremerton |                     | Short Hull |
-|           | FFG-13  | [<span class="underline">Samuel Eliot Morison</span>](https://en.wikipedia.org/wiki/USS_Samuel_Eliot_Morison_\(FFG-13\)) | Norfolk   |                     | Short Hull |
-|           | FFG-14  | [<span class="underline">Sides</span>](https://en.wikipedia.org/wiki/USS_Sides_\(FFG-14\))                               | Norfolk   | Amphib Escort       | Short Hull |
-|           | FFG-15  | [<span class="underline">Estocin</span>](https://en.wikipedia.org/wiki/USS_Estocin_\(FFG-15\))                           | Norfolk   |                     | Short Hull |
-|           | FFG-16  | [<span class="underline">Clifton Sprague</span>](https://en.wikipedia.org/wiki/USS_Clifton_Sprague_\(FFG-16\))           | Norfolk   |                     | Short Hull |
-|           | FFG-19  | [<span class="underline">John A. Moore</span>](https://en.wikipedia.org/wiki/USS_John_A._Moore_\(FFG-19\))               | Mayport   |                     | Short Hull |
-|           | FFG-20  | [<span class="underline">Antrim</span>](https://en.wikipedia.org/wiki/USS_Antrim_\(FFG-20\))                             | Norfolk   | TG Missouri         | Short Hull |
-|           | FFG-21  | [<span class="underline">Flatley</span>](https://en.wikipedia.org/wiki/USS_Flatley_\(FFG-21\))                           | Norfolk   | TG 84/Amphib Escort | Short Hull |
-|           | FFG-22  | [<span class="underline">Fahrion</span>](https://en.wikipedia.org/wiki/USS_Fahrion_\(FFG-22\))                           | San Diego | TG New Jersey       | Short Hull |
-|           | FFG-23  | [<span class="underline">Lewis B. Puller</span>](https://en.wikipedia.org/wiki/USS_Lewis_B._Puller_\(FFG-23\))           | San Diego |                     | Short Hull |
-|           | FFG-24  | [<span class="underline">Jack Williams</span>](https://en.wikipedia.org/wiki/USS_Jack_Williams_\(FFG-24\))               | Mayport   |                     | Short Hull |
-|           | FFG-25  | [<span class="underline">Copeland</span>](https://en.wikipedia.org/wiki/USS_Copeland_\(FFG-25\))                         | Mayport   |                     | Short Hull |
-|           | FFG-26  | [<span class="underline">Gallery</span>](https://en.wikipedia.org/wiki/USS_Gallery_\(FFG-26\))                           | San Diego | Independent in PG   | Short Hull |
-|           | FFG-27  | [<span class="underline">Mahlon S. Tisdale</span>](https://en.wikipedia.org/wiki/USS_Mahlon_S._Tisdale_\(FFG-27\))       | San Diego | Constellation CVBG  | Short Hull |
-|           | FFG-28  | [<span class="underline">Boone</span>](https://en.wikipedia.org/wiki/USS_Boone_\(FFG-28\))                               | Norfolk   | TG 84/TG Wisconsin  | Long Hull  |
-|           | FFG-29  | [<span class="underline">Stephen W. Groves</span>](https://en.wikipedia.org/wiki/USS_Stephen_W._Groves_\(FFG-29\))       | San Diego | Nimitz CVBG         | Long Hull  |
-|           | FFG-30  | [<span class="underline">Reid</span>](https://en.wikipedia.org/wiki/USS_Reid_\(FFG-30\))                                 | Yokosuka  |                     | Short Hull |
-|           | FFG-31  | [<span class="underline">Stark</span>](https://en.wikipedia.org/wiki/USS_Stark_\(FFG-31\))                               | San Diego | Kitty Hawk CVBG     | Short Hull |
-|           | FFG-32  | [<span class="underline">John L. Hall</span>](https://en.wikipedia.org/wiki/USS_John_L._Hall_\(FFG-32\))                 | San Diego | Lincoln CVBG        | Long Hull  |
-|           | FFG-33  | [<span class="underline">Jarrett</span>](https://en.wikipedia.org/wiki/USS_Jarrett_\(FFG-33\))                           | Yokosuka  |                     | Long Hull  |
-|           | FFG-34  | [<span class="underline">Aubrey Fitch</span>](https://en.wikipedia.org/wiki/USS_Aubrey_Fitch_\(FFG-34\))                 | San Diego | Kitty Hawk CVBG     | Short Hull |
-| Underwood | FFG-36  | [<span class="underline">Underwood</span>](https://en.wikipedia.org/wiki/USS_Underwood_\(FFG-36\))                       | San Diego | Washington CVBG     | Long Hull  |
-|           | FFG-37  | [<span class="underline">Crommelin</span>](https://en.wikipedia.org/wiki/USS_Crommelin_\(FFG-37\))                       | Yokosuka  | Independent in PG   | Long Hull  |
-|           | FFG-38  | [<span class="underline">Curts</span>](https://en.wikipedia.org/wiki/USS_Curts_\(FFG-38\))                               | Norfolk   | Enterprise CVBG     | Long Hull  |
-|           | FFG-39  | [<span class="underline">Doyle</span>](https://en.wikipedia.org/wiki/USS_Doyle_\(FFG-39\))                               | Norfolk   | Convoy              | Long Hull  |
-|           | FFG-40  | [<span class="underline">Halyburton</span>](https://en.wikipedia.org/wiki/USS_Halyburton_\(FFG-40\))                     | Norfolk   | Eisenhower CVBG     | Long Hull  |
-|           | FFG-41  | [<span class="underline">McClusky</span>](https://en.wikipedia.org/wiki/USS_McClusky_\(FFG-41\))                         | San Diego | Nimitz CVBG         | Long Hull  |
-|           | FFG-42  | [<span class="underline">Klakring</span>](https://en.wikipedia.org/wiki/USS_Klakring_\(FFG-42\))                         | Norfolk   | Convoy/Stennis      | Long Hull  |
-|           | FFG-43  | [<span class="underline">Thach</span>](https://en.wikipedia.org/wiki/USS_Thach_\(FFG-43\))                               | San Diego |                     | Long Hull  |
-|           | FFG-45  | [<span class="underline">De Wert</span>](https://en.wikipedia.org/wiki/USS_De_Wert_\(FFG-45\))                           | Norfolk   | Eisenhower CVBG     | Long Hull  |
-|           | FFG-46  | [<span class="underline">Rentz</span>](https://en.wikipedia.org/wiki/USS_Rentz_\(FFG-46\))                               | San Diego | Washington CVBG     | Long Hull  |
-|           | FFG-47  | [<span class="underline">Nicholas</span>](https://en.wikipedia.org/wiki/USS_Nicholas_\(FFG-47\))                         | Norfolk   | Carl Vinson CVBG    | Long Hull  |
-|           | FFG-48  | [<span class="underline">Vandegrift</span>](https://en.wikipedia.org/wiki/USS_Vandegrift_\(FFG-48\))                     | Yokosuka  | Independence CVBG   | Long Hull  |
-|           | FFG-49  | [<span class="underline">Robert G. Bradley</span>](https://en.wikipedia.org/wiki/USS_Robert_G._Bradley_\(FFG-49\))       | Mayport   |                     | Long Hull  |
-|           | FFG-50  | [<span class="underline">Taylor</span>](https://en.wikipedia.org/wiki/USS_Taylor_\(FFG-50\))                             | Norfolk   | Roosevelt CVBG      | Long Hull  |
-|           | FFG-51  | [<span class="underline">Gary</span>](https://en.wikipedia.org/wiki/USS_Gary_\(FFG-51\))                                 | San Diego | Lincoln CVBG        | Long Hull  |
-|           | FFG-52  | [<span class="underline">Carr</span>](https://en.wikipedia.org/wiki/USS_Carr_\(FFG-52\))                                 | Norfolk   | Kennedy CVBG        | Long Hull  |
-|           | FFG-53  | [<span class="underline">Hawes</span>](https://en.wikipedia.org/wiki/USS_Hawes_\(FFG-53\))                               | San Diego | Saratoga CVBG       | Long Hull  |
-|           | FFG-54  | [<span class="underline">Ford</span>](https://en.wikipedia.org/wiki/USS_Ford_\(FFG-54\))                                 | Norfolk   | Amphibs/Stennis     | Long Hull  |
-|           | FFG-55  | [<span class="underline">Elrod</span>](https://en.wikipedia.org/wiki/USS_Elrod_\(FFG-55\))                               | Norfolk   |                     | Long Hull  |
-|           | FFG-56  | [<span class="underline">Simpson</span>](https://en.wikipedia.org/wiki/USS_Simpson_\(FFG-56\))                           | Norfolk   | Enterprise CVBG     | Long Hull  |
-|           | FFG-57  | [<span class="underline">Reuben James</span>](https://en.wikipedia.org/wiki/USS_Reuben_James_\(FFG-57\))                 | Norfolk   | Kennedy CVBG        | Long Hull  |
-|           | FFG-58  | [<span class="underline">Samuel B. Roberts</span>](https://en.wikipedia.org/wiki/USS_Samuel_B._Roberts_\(FFG-58\))       | Norfolk   | Roosevelt CVBG      | Long Hull  |
-|           | FFG-59  | [<span class="underline">Kauffman</span>](https://en.wikipedia.org/wiki/USS_Kauffman_\(FFG-59\))                         | Norfolk   | Carl Vinson CVBG    | Long Hull  |
-|           | FFG-60  | [<span class="underline">Rodney M. Davis</span>](https://en.wikipedia.org/wiki/USS_Rodney_M._Davis_\(FFG-60\))           | San Diego |                     | Long Hull  |
-|           | FFG-61  | [<span class="underline">Ingraham</span>](https://en.wikipedia.org/wiki/USS_Ingraham_\(FFG-61\))                         | Yokosuka  |                     | Long Hull  |
+| Class     | Pennant | Name                                                                                           | Home Port | Task                | Remarks    |
+|-----------|---------|------------------------------------------------------------------------------------------------|-----------|---------------------|------------|
+| OHP       | FFG-7   | [<u>Oliver Hazard Perry</u>](https://en.wikipedia.org/wiki/USS_Oliver_Hazard_Perry_(FFG-7))    | Norfolk   |                     | Short Hull |
+|           | FFG-8   | [<u>McInerney</u>](https://en.wikipedia.org/wiki/USS_McInerney_(FFG-8))                        | Norfolk   |                     | Long Hull  |
+|           | FFG-9   | [<u>Wadsworth</u>](https://en.wikipedia.org/wiki/USS_Wadsworth_(FFG-9))                        | San Diego | TG Iowa             | Short Hull |
+|           | FFG-10  | [<u>Duncan</u>](https://en.wikipedia.org/wiki/USS_Duncan_(FFG-10))                             | Norfolk   | Amphib Escort       | Short Hull |
+|           | FFG-11  | [<u>Clark</u>](https://en.wikipedia.org/wiki/USS_Clark_(FFG-11))                               | Norfolk   |                     | Short Hull |
+|           | FFG-12  | [<u>George Philip</u>](https://en.wikipedia.org/wiki/USS_George_Philip_(FFG-12))               | Bremerton |                     | Short Hull |
+|           | FFG-13  | [<u>Samuel Eliot Morison</u>](https://en.wikipedia.org/wiki/USS_Samuel_Eliot_Morison_(FFG-13)) | Norfolk   |                     | Short Hull |
+|           | FFG-14  | [<u>Sides</u>](https://en.wikipedia.org/wiki/USS_Sides_(FFG-14))                               | Norfolk   | Amphib Escort       | Short Hull |
+|           | FFG-15  | [<u>Estocin</u>](https://en.wikipedia.org/wiki/USS_Estocin_(FFG-15))                           | Norfolk   |                     | Short Hull |
+|           | FFG-16  | [<u>Clifton Sprague</u>](https://en.wikipedia.org/wiki/USS_Clifton_Sprague_(FFG-16))           | Norfolk   |                     | Short Hull |
+|           | FFG-19  | [<u>John A. Moore</u>](https://en.wikipedia.org/wiki/USS_John_A._Moore_(FFG-19))               | Mayport   |                     | Short Hull |
+|           | FFG-20  | [<u>Antrim</u>](https://en.wikipedia.org/wiki/USS_Antrim_(FFG-20))                             | Norfolk   | TG Missouri         | Short Hull |
+|           | FFG-21  | [<u>Flatley</u>](https://en.wikipedia.org/wiki/USS_Flatley_(FFG-21))                           | Norfolk   | TG 84/Amphib Escort | Short Hull |
+|           | FFG-22  | [<u>Fahrion</u>](https://en.wikipedia.org/wiki/USS_Fahrion_(FFG-22))                           | San Diego | TG New Jersey       | Short Hull |
+|           | FFG-23  | [<u>Lewis B. Puller</u>](https://en.wikipedia.org/wiki/USS_Lewis_B._Puller_(FFG-23))           | San Diego |                     | Short Hull |
+|           | FFG-24  | [<u>Jack Williams</u>](https://en.wikipedia.org/wiki/USS_Jack_Williams_(FFG-24))               | Mayport   |                     | Short Hull |
+|           | FFG-25  | [<u>Copeland</u>](https://en.wikipedia.org/wiki/USS_Copeland_(FFG-25))                         | Mayport   |                     | Short Hull |
+|           | FFG-26  | [<u>Gallery</u>](https://en.wikipedia.org/wiki/USS_Gallery_(FFG-26))                           | San Diego | Independent in PG   | Short Hull |
+|           | FFG-27  | [<u>Mahlon S. Tisdale</u>](https://en.wikipedia.org/wiki/USS_Mahlon_S._Tisdale_(FFG-27))       | San Diego | Constellation CVBG  | Short Hull |
+|           | FFG-28  | [<u>Boone</u>](https://en.wikipedia.org/wiki/USS_Boone_(FFG-28))                               | Norfolk   | TG 84/TG Wisconsin  | Long Hull  |
+|           | FFG-29  | [<u>Stephen W. Groves</u>](https://en.wikipedia.org/wiki/USS_Stephen_W._Groves_(FFG-29))       | San Diego | Nimitz CVBG         | Long Hull  |
+|           | FFG-30  | [<u>Reid</u>](https://en.wikipedia.org/wiki/USS_Reid_(FFG-30))                                 | Yokosuka  |                     | Short Hull |
+|           | FFG-31  | [<u>Stark</u>](https://en.wikipedia.org/wiki/USS_Stark_(FFG-31))                               | San Diego | Kitty Hawk CVBG     | Short Hull |
+|           | FFG-32  | [<u>John L. Hall</u>](https://en.wikipedia.org/wiki/USS_John_L._Hall_(FFG-32))                 | San Diego | Lincoln CVBG        | Long Hull  |
+|           | FFG-33  | [<u>Jarrett</u>](https://en.wikipedia.org/wiki/USS_Jarrett_(FFG-33))                           | Yokosuka  |                     | Long Hull  |
+|           | FFG-34  | [<u>Aubrey Fitch</u>](https://en.wikipedia.org/wiki/USS_Aubrey_Fitch_(FFG-34))                 | San Diego | Kitty Hawk CVBG     | Short Hull |
+| Underwood | FFG-36  | [<u>Underwood</u>](https://en.wikipedia.org/wiki/USS_Underwood_(FFG-36))                       | San Diego | Washington CVBG     | Long Hull  |
+|           | FFG-37  | [<u>Crommelin</u>](https://en.wikipedia.org/wiki/USS_Crommelin_(FFG-37))                       | Yokosuka  | Independent in PG   | Long Hull  |
+|           | FFG-38  | [<u>Curts</u>](https://en.wikipedia.org/wiki/USS_Curts_(FFG-38))                               | Norfolk   | Enterprise CVBG     | Long Hull  |
+|           | FFG-39  | [<u>Doyle</u>](https://en.wikipedia.org/wiki/USS_Doyle_(FFG-39))                               | Norfolk   | Convoy              | Long Hull  |
+|           | FFG-40  | [<u>Halyburton</u>](https://en.wikipedia.org/wiki/USS_Halyburton_(FFG-40))                     | Norfolk   | Eisenhower CVBG     | Long Hull  |
+|           | FFG-41  | [<u>McClusky</u>](https://en.wikipedia.org/wiki/USS_McClusky_(FFG-41))                         | San Diego | Nimitz CVBG         | Long Hull  |
+|           | FFG-42  | [<u>Klakring</u>](https://en.wikipedia.org/wiki/USS_Klakring_(FFG-42))                         | Norfolk   | Convoy/Stennis      | Long Hull  |
+|           | FFG-43  | [<u>Thach</u>](https://en.wikipedia.org/wiki/USS_Thach_(FFG-43))                               | San Diego |                     | Long Hull  |
+|           | FFG-45  | [<u>De Wert</u>](https://en.wikipedia.org/wiki/USS_De_Wert_(FFG-45))                           | Norfolk   | Eisenhower CVBG     | Long Hull  |
+|           | FFG-46  | [<u>Rentz</u>](https://en.wikipedia.org/wiki/USS_Rentz_(FFG-46))                               | San Diego | Washington CVBG     | Long Hull  |
+|           | FFG-47  | [<u>Nicholas</u>](https://en.wikipedia.org/wiki/USS_Nicholas_(FFG-47))                         | Norfolk   | Carl Vinson CVBG    | Long Hull  |
+|           | FFG-48  | [<u>Vandegrift</u>](https://en.wikipedia.org/wiki/USS_Vandegrift_(FFG-48))                     | Yokosuka  | Independence CVBG   | Long Hull  |
+|           | FFG-49  | [<u>Robert G. Bradley</u>](https://en.wikipedia.org/wiki/USS_Robert_G._Bradley_(FFG-49))       | Mayport   |                     | Long Hull  |
+|           | FFG-50  | [<u>Taylor</u>](https://en.wikipedia.org/wiki/USS_Taylor_(FFG-50))                             | Norfolk   | Roosevelt CVBG      | Long Hull  |
+|           | FFG-51  | [<u>Gary</u>](https://en.wikipedia.org/wiki/USS_Gary_(FFG-51))                                 | San Diego | Lincoln CVBG        | Long Hull  |
+|           | FFG-52  | [<u>Carr</u>](https://en.wikipedia.org/wiki/USS_Carr_(FFG-52))                                 | Norfolk   | Kennedy CVBG        | Long Hull  |
+|           | FFG-53  | [<u>Hawes</u>](https://en.wikipedia.org/wiki/USS_Hawes_(FFG-53))                               | San Diego | Saratoga CVBG       | Long Hull  |
+|           | FFG-54  | [<u>Ford</u>](https://en.wikipedia.org/wiki/USS_Ford_(FFG-54))                                 | Norfolk   | Amphibs/Stennis     | Long Hull  |
+|           | FFG-55  | [<u>Elrod</u>](https://en.wikipedia.org/wiki/USS_Elrod_(FFG-55))                               | Norfolk   |                     | Long Hull  |
+|           | FFG-56  | [<u>Simpson</u>](https://en.wikipedia.org/wiki/USS_Simpson_(FFG-56))                           | Norfolk   | Enterprise CVBG     | Long Hull  |
+|           | FFG-57  | [<u>Reuben James</u>](https://en.wikipedia.org/wiki/USS_Reuben_James_(FFG-57))                 | Norfolk   | Kennedy CVBG        | Long Hull  |
+|           | FFG-58  | [<u>Samuel B. Roberts</u>](https://en.wikipedia.org/wiki/USS_Samuel_B._Roberts_(FFG-58))       | Norfolk   | Roosevelt CVBG      | Long Hull  |
+|           | FFG-59  | [<u>Kauffman</u>](https://en.wikipedia.org/wiki/USS_Kauffman_(FFG-59))                         | Norfolk   | Carl Vinson CVBG    | Long Hull  |
+|           | FFG-60  | [<u>Rodney M. Davis</u>](https://en.wikipedia.org/wiki/USS_Rodney_M._Davis_(FFG-60))           | San Diego |                     | Long Hull  |
+|           | FFG-61  | [<u>Ingraham</u>](https://en.wikipedia.org/wiki/USS_Ingraham_(FFG-61))                         | Yokosuka  |                     | Long Hull  |
 
-![](/assets/images/nato/us/navy/frigrates/image4.jpeg)
+<img src="/assets\images\nato\us\navy\frigrates\image4.jpeg" style="width:9in;height:5.98958in" />

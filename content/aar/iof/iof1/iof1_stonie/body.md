@@ -1,13 +1,12 @@
-**<span class="underline">Indian Ocean Fury \#1 – Persian
-Pounce</span>**
+**<u>Indian Ocean Fury \#1 – Persian Pounce</u>**
 
-**<span class="underline">AAR by stonie, Nov 2020</span>**
+**<u>AAR by stonie, Nov 2020</u>**
 
 This is a CLASSIFIED: TOP SECRET On Going Action Report (OGAR) from the
 Persian Gulf. It is the 13th of February 1994 18:00:00 local time. We
 have just arrived to support the command group overseeing the Gulf given
 the current circumstance. It looks like the next 2 days might be
-historic. God forbid not\! Or 'Inshallah - God willing' as the locals
+historic. God forbid not! Or 'Inshallah - God willing' as the locals
 say. For war seems to have broken out in Europe where the Warsaw Pact
 has initiated hostilities and there have been attacks reported in the
 US. Until now things have been quiet in the Gulf, unusually so even.
@@ -25,17 +24,17 @@ entire Gulf. To wrap up this SITREP we have been given orders by command
 as follows.
 
 > 1\. Maintain readiness and vigilance
-> 
+>
 > 2\. Maintain one Frigate or larger vessel in each of the 12 Patrol
 > Zones marked ALPHA to LIMA
-> 
+>
 > 3\. Patrol the Straights of Hormuz for mines and any other
 > obstructions to navigation
-> 
+>
 > 4\. Exit USNS Sgt W.R. Button out of the Gulf (past the Gulf Exit RPS)
-> 
+>
 > 5\. Protect civilian shipping in the region
-> 
+>
 > 6\. Maintain diplomatic stability with our Gulf Allies.
 
 Furthermore. If something happens in the Gulf and the Soviets utilize
@@ -49,7 +48,7 @@ Let's look at the situation.
 
 This is the Gulf outlook right now.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image1.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image1.png" style="width:6.5in;height:3.63056in" />
 
 1\. Our ally Saudi Arabia is providing AEW support from the North west.
 
@@ -71,7 +70,7 @@ remain on current missions tasked from the previous shift.
 6\. We have two clusters of unknown air contacts in the vicinity of Al
 Basrah and Shiraz.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image2.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image2.png" style="width:6.5in;height:3.26875in" />
 
 1\. Two clusters of unidentified, possibly Iranian warships have been
 detected in and Southwest of the strait of Hormuz.
@@ -90,7 +89,7 @@ Gulf but could potentially need to be strengthened in the middle in
 Qatar if hostilities grow. Our current weakness is that we do not have
 complete intelligence over potentially hostile /assets in the Gulf and an
 utter lack of air patrols already in the air bordering negligence from
-the previous shift. Europe is already at war for Christ's sake\!
+the previous shift. Europe is already at war for Christ's sake!
 
 **Command Tasking**
 
@@ -145,7 +144,7 @@ from a safe distance.
 
 Air tasking is further visualized here.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image3.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image3.png" style="width:6.5in;height:4.08819in" />
 
 **Naval Tasking**
 
@@ -163,10 +162,10 @@ the Hormuz Strait. They have threatened to do it before.
 4\. CVG Saratoga will patrol the Gulf exit and provide support as needed
 to /assets in the Gulf.
 
-\---
+---
 
 Its 18:10:00 local time. Intel reports an increasing number of unknown
-contacts converging on the gulf. Something might be happening\!
+contacts converging on the gulf. Something might be happening!
 
 Command is going on high alert and has allowed tasking of an immediate
 response as a precautionary counter stance.
@@ -174,51 +173,51 @@ response as a precautionary counter stance.
 The air tasking order is being modified. In light of the number of
 contacts and uncertainty of intent two air superiority flights are being
 added to PZ Bravo and Delta. Across the gulf reserve non fitted A/C are
-instructed to load up as alarm levels are being raised\! We have around
-30 unknown contacts converging across the entire gulf\! Many of the
+instructed to load up as alarm levels are being raised! We have around
+30 unknown contacts converging across the entire gulf! Many of the
 contacts are indicative of being SU-24 strike craft but a few do not
 seem to be emitting radar signatures. As a precaution two sections are
 F-15c eagles have been ordered to support patrols in the gulf.
 
-\-A 2 ship flight from F-15C Eagle squadron 27 FS 'Fighting Eagles' will
+-A 2 ship flight from F-15C Eagle squadron 27 FS 'Fighting Eagles' will
 take off from Al Jaber and patrol PZ bravo
 
-\-A 2 ship flight from F-15C Eagle squadron 53 FS 'Tigers' will take off
+-A 2 ship flight from F-15C Eagle squadron 53 FS 'Tigers' will take off
 from Sheik Isa and patrol PZ Delta.
 
-\-A EC-130H from squadron "ECS" from Thumrait Oman is take take off and
+-A EC-130H from squadron "ECS" from Thumrait Oman is take take off and
 link up with AWACS in the south and provide offensive ECM in the gulf
 
 No navigation zone has been established by the Iranian coastline to
 prevent possible mistakes of NATO aircraft triggering an accidental
 confrontation.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image4.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image4.png" style="width:6.5in;height:3.70069in" />
 
-MAXIMUM ALERT\! Standoff weapons have been detected from contacts in
-Iranian airspace\! If its the Iranians or Warsaw is currently unknown.
+MAXIMUM ALERT! Standoff weapons have been detected from contacts in
+Iranian airspace! If its the Iranians or Warsaw is currently unknown.
 Iranian surface contacts in the gulf have shown no signs of hostilities.
 All squadrons are now to go to maximum alertness and air superiority
-fighters are to take off immediedly and head into the patrol zones\!
+fighters are to take off immediedly and head into the patrol zones!
 
 The Corvette P 402 ITS Libra is reported hit and sinking in the strait
-of Hormuz\!
+of Hormuz!
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image5.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image5.png" style="width:6.5in;height:5.92222in" />
 
-F783 FS Drogou is sinking\!\!\!
+F783 FS Drogou is sinking!!!
 
-FFG 26 USS Gallery is sinking\!\!\!
+FFG 26 USS Gallery is sinking!!!
 
-This is a disaster\! Multiple Warsaw attack craft are launching standoff
+This is a disaster! Multiple Warsaw attack craft are launching standoff
 weapons against ships in the gulf and the Iranians seem to have joined
-the conflict\!
+the conflict!
 
-An all out war is breaking out\! Our allies have started offensive
+An all out war is breaking out! Our allies have started offensive
 operations against Iran and missiles are flying across the gulf in both
 directions.
 
-Enemy SAM have activated\! The SEAD flights are too take off immediately
+Enemy SAM have activated! The SEAD flights are too take off immediately
 to deal with Bushehr and Abbas SA-5c 'Gammons'. Air /assets in the
 vicinity may need to retreat back after initial engagements with attack
 craft until SEAD flights are able to engage.
@@ -227,7 +226,7 @@ Message has been sent to SSN 700 Dallas Los Angeles to strike radar
 infrastructure in Iran with TLAMs and Saratoga task group is to lay out
 plans for follow up strikes and strike packages.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image6.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image6.png" style="width:6.5in;height:4.62778in" />
 
 The situation is grim but we are holding as is. Enemy fire of standoff
 weapons has seized for now. We currently have been having a lack of
@@ -288,4 +287,4 @@ strikes against Iranian airports hosting A/C. Saratoga CVBG is
 scrambling fighters and attack craft to gain military superiority in the
 gulf entrance.
 
-![](/assets/images/aar/iof/iof1/iof1_stonie/image7.png)
+<img src="/assets\images\aar\iof\iof1\iof1_stonie\image7.png" style="width:6.5in;height:3.88958in" />

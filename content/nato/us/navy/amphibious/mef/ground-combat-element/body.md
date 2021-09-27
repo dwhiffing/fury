@@ -1,4 +1,4 @@
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image1.png)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image1.png" style="width:1.57222in;height:2.29167in" />
 
 **2<sup>nd</sup> Marine Division**
 
@@ -9,10 +9,9 @@ one Battalion (2/8 Marines) in the Mediterranean as 22<sup>nd</sup> MEU
 who will remain there until re-tasked, and one Battalion (1/8 Marines)
 acting as the II MEF reserve pre-positioned in Gander Newfoundland,
 while the remaining Battalion (3/8 Marines) secures the three airbases
-in
-Greenland.
+in Greenland.
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image2.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image2.jpg" style="width:4.69792in;height:4.07153in" />
 
 Commander 2<sup>nd</sup> Marine Division has grouped his forces into two
 powerful Regimental Landing Teams (RLT); reinforcement by 4<sup>th</sup>
@@ -23,12 +22,11 @@ Service Support elements will support both RLTs but remain under
 Divisional control. For Artillery support, two M198 Batteries of
 1/10<sup>th</sup> (a Bty is with the MEU in the Med) and the entire
 5/10<sup>th</sup> (24 x M109) will be in General Support (GS) to the
-Division with the main task of Counter
-Battery.
+Division with the main task of Counter Battery.
 
 **Artillery**
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image3.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image3.jpg" style="width:6.25in;height:4.16667in" />
 
 10<sup>th</sup> Marine Regiment has four Battalions of artillery. Three
 of the Battalions are designated as ‘Close Support’ to the three Marine
@@ -44,12 +42,11 @@ historically retired in 90/91 but retained in Northern Fury, they are
 the A-3 variant and not the semi-autonomous A-6 Paladin used by the US
 Army.
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image4.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image4.jpg" style="width:6.21875in;height:4.14178in" />
 
-**Light Armored Vehicle
-(LAV-25)**
+**Light Armored Vehicle (LAV-25)**
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image5.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image5.jpg" style="width:6.63542in;height:4.98294in" />
 
 A new and evolving organization in the Division is the Light Armored
 Infantry Battalion with around 100 LAV-25 variants. 56 of them are the
@@ -61,19 +58,17 @@ adopting its current name in 1988. It is due to change again to the
 Light Armored Reconnaissance (LAR) Battalion later in 1994. The unit has
 4 infantry companies with 56 Infantry LAVs, a TOW platoon with 16
 LAV-TOW, 8 LAV-Mortar, 8 LAV Command posts, 6 LAV wreckers and 16
-Logistics LAV
-variants.
+Logistics LAV variants.
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image6.png)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image6.png" style="width:5.39583in;height:3.02167in" />
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image7.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image7.jpg" style="width:3.9375in;height:3.37969in" />
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image8.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image8.jpeg" style="width:4.26042in;height:2.4272in" />
 
-**Marine
-Armor**
+**Marine Armor**
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image9.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image9.jpg" style="width:6.25in;height:4.10417in" />
 
 Both 2<sup>nd</sup> and 4<sup>th</sup> Tank Battalions are equipped with
 70 M1A1 tanks and 72 TOW missile systems providing some heavy punch to
@@ -92,7 +87,6 @@ new Motto. The current Motto ’53 Days’ represents the time from
 activation to combat in the Korean war. In the Gulf War they were in
 action only 32 days after activation. In this war they were activated as
 a precaution on the 10<sup>th</sup> of Feb and will see combat on the
-27<sup>th</sup>, a mere 17
-days.
+27<sup>th</sup>, a mere 17 days.
 
-![](/assets/images/nato/us/navy/amphibious/mef/ground-combat-element/image10.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\mef\ground-combat-element\image10.jpeg" style="width:5.84375in;height:3.28711in" />

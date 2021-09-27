@@ -16,7 +16,7 @@ when needed. Each has the capacity for 333 passengers, but are not meant
 for amphibious operations, although they could be used for follow up
 forces.
 
-![](/assets/images/warsaw/su/navy/support/image1.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image1.jpg" style="width:3.976in;height:2.75375in" />
 
 [**Altay Class Medium
 Tanker**](https://en.wikipedia.org/wiki/Altay-class_oiler): Only six
@@ -27,7 +27,7 @@ can conduct Replenishment at Sea (RAS) with one ship at a time either
 over the side or from the stern.
 
 | Class | Name    | Fleet     | Status |
-| ----- | ------- | --------- | ------ |
+|-------|---------|-----------|--------|
 | Altay | Kola    | Northern  |        |
 |       | Elnya   | Black Sea |        |
 |       | Egorlyk | Pacific   |        |
@@ -35,7 +35,7 @@ over the side or from the stern.
 |       | Prut    | Northern  |        |
 |       | Ilim    | Pacific   |        |
 
-![](/assets/images/warsaw/su/navy/support/image2.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image2.jpeg" style="width:5.53633in;height:2.87197in" />
 
 **Project 119**: Degaussing ships – 17 built
 
@@ -55,7 +55,7 @@ Base’ (Pr 1798), ‘Cruise missile Transport’ (Pr 2001) and ‘Ammunition
 Transport’ (Pr 323V)
 
 | Class        | Name             | Fleet     | Status                 |
-| ------------ | ---------------- | --------- | ---------------------- |
+|--------------|------------------|-----------|------------------------|
 | Pr 1798      | PRTB-13          | Black Sea | Floating Base          |
 | Pr 323, 323A | PRTB-15          | Northern  | Missile Technical Base |
 | Pr 323, 323A | PRTB-20          | Pacific   | Missile Technical Base |
@@ -64,7 +64,7 @@ Transport’ (Pr 323V)
 | Pr 323, 323A | General Ryabikov | Black Sea | Missile Technical Base |
 | Pr 323B      | PRTB-43          | Pacific   | Ballistic Missile Tpt  |
 
-![](/assets/images/warsaw/su/navy/support/image3.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image3.jpg" style="width:4.8in;height:2.79184in" />
 
 [**Khobi Class
 Tanker**](https://en.wikipedia.org/wiki/Khobi-class_tanker): The Soviet
@@ -74,7 +74,7 @@ more was paid off. The remaining 15 are able to refuel one other ship at
 a time but not at sea.
 
 | Class | Name       | Fleet     | Status            |
-| ----- | ---------- | --------- | ----------------- |
+|-------|------------|-----------|-------------------|
 | Khobi | Alazan     | Northern  |                   |
 |       | Tartu      |           | Scrapped 1970     |
 |       | Goryn\`    |           | Scrapped 1974     |
@@ -108,13 +108,13 @@ replenishment equipment as the Altay class; able to refuel one ship at a
 time over the side or from astern.
 
 | Class  | Name     | Fleet     | Status |
-| ------ | -------- | --------- | ------ |
+|--------|----------|-----------|--------|
 | Kazbek | Volkhov  | Northern  |        |
 |        | Alatyr\` | Pacific   |        |
 |        | Desna    | Black Sea |        |
 |        | SKh-334  | Black Sea |        |
 
-![](/assets/images/warsaw/su/navy/support/image4.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image4.jpeg" style="width:5.65371in;height:3.77739in" />
 
 **Project 567K**: Large dry cargo transport – 22,250 tons – 3 built
 (Samara, Kandalaksha, Kolkhida)
@@ -129,7 +129,7 @@ similar to American or British ships, they can also replenish ships over
 the stern. There are 9 of these Project 577 class ships in operation.
 
 | Class | Name    | Fleet     | Status |
-| ----- | ------- | --------- | ------ |
+|-------|---------|-----------|--------|
 | Uda   | Terek   | Northern  |        |
 |       | Sheksna | Baltic    |        |
 |       | Don     | Baltic    |        |
@@ -140,7 +140,7 @@ the stern. There are 9 of these Project 577 class ships in operation.
 |       | Lena    | Baltic    |        |
 |       | Vishera | Pacific   |        |
 
-![](/assets/images/warsaw/su/navy/support/image5.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image5.jpg" style="width:5.048in;height:3.786in" />
 
 [**Telnovsk
 Class**](http://www.wesworld.jk-clan.de/index.php?page=Thread&threadID=10573):
@@ -155,7 +155,7 @@ ship. The four remaining are in service to supply garrisons and ships
 abroad.
 
 | Class    | Name           | Fleet     | Status                  |
-| -------- | -------------- | --------- | ----------------------- |
+|----------|----------------|-----------|-------------------------|
 | Telnovsk | OS-21          | Black Sea | Hydroacoustics research |
 |          | Ulyana Gromova | Pacific   | Hydrographic survey     |
 |          | Oleg Koshevoy  | Pacific   | Hydrographic survey     |
@@ -177,12 +177,12 @@ abroad.
 |          | Manometr       | Northern  | Hydrographic survey     |
 |          | Umba           | Pacific   | Cable Ship              |
 
-![](/assets/images/warsaw/su/navy/support/image6.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image6.jpg" style="width:6.5in;height:4.03542in" />
 
 **Kaliningradneft Class**, Project REF-675: - 8,900 tons, 2 built
 (Argun, Vyazma)
 
-![](/assets/images/warsaw/su/navy/support/image7.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image7.jpg" style="width:4.44444in;height:3.21667in" />
 
 **Project 725**: Floating workshop – 4,700 Ton, 5 Built. (PM-17, 22, 30,
 130, 135)
@@ -209,7 +209,7 @@ able to replenish large ships at sea. They carry bunker fuel for ships,
 diesel, aviation fuel, water, refrigerated goods and dry goods.
 
 | Class          | Name                  | Fleet           | Status |
-| -------------- | --------------------- | --------------- | ------ |
+|----------------|-----------------------|-----------------|--------|
 | Boris Chilikin | Boris Chilikin        | Black Sea Fleet |        |
 |                | Vladimir Kolechitskiy | Pacific Fleet   |        |
 |                | Dnestr                | Northern Fleet  |        |
@@ -217,26 +217,26 @@ diesel, aviation fuel, water, refrigerated goods and dry goods.
 |                | Genrikh Gasanov       | Northern Fleet  |        |
 |                | Boris Butoma          | Pacific Fleet   |        |
 
-![](/assets/images/warsaw/su/navy/support/image8.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image8.jpeg" style="width:5.86081in;height:4.03663in" />
 
 **Dubna Class**: Replenishment Tankers – 12,900 tons. Converted from
 civilian tankers these four ships can refuel from either side
 simultaneously or astern.
 
 | Class | Name     | Fleet           | Status |
-| ----- | -------- | --------------- | ------ |
+|-------|----------|-----------------|--------|
 | Dubna | Dubna    | Northern Fleet  |        |
 |       | Irkut    | Pacific Fleet   |        |
 |       | Pechenga | Pacific Fleet   |        |
 |       | Sventa   | Black Sea Fleet |        |
 
-![](/assets/images/warsaw/su/navy/support/image9.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image9.jpeg" style="width:5.53633in;height:2.62976in" />
 
 **Polyarnik Class**: Replenishment Tanker – 12,500 tons, the oldest
 naval tanker in the Soviet fleet and based in the Northern Fleet this
 ship can refuel from either side simultaneously or astern.
 
-![](/assets/images/warsaw/su/navy/support/image10.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image10.jpeg" style="width:5.33333in;height:3.21333in" />
 
 **Project 1818A**: Armament Transport – 1,900 tons, 4 built (Ural, Urmi)
 
@@ -246,20 +246,20 @@ ship can refuel from either side simultaneously or astern.
 **Muna Class**: A widely used class of small ship with between 40 and 50
 built in total.
 
-  - Pr 1823, 1823B, 1823V: Armament Transport – 5-800 tons, 14+2+4
+-   Pr 1823, 1823B, 1823V: Armament Transport – 5-800 tons, 14+2+4
     built: 20 ships total
 
-  - Pr 1823R: Refrigerated Transport – 715 tons, 1 built (MRT-148)
+-   Pr 1823R: Refrigerated Transport – 715 tons, 1 built (MRT-148)
 
-  - Pr 1823A: Small Transport – 700 tons, several, probably 4-6 built.
+-   Pr 1823A: Small Transport – 700 tons, several, probably 4-6 built.
 
-  - Pr 1824, 1858: Trials ship – 750 tons, 7+1 built: 8 ships total
+-   Pr 1824, 1858: Trials ship – 750 tons, 7+1 built: 8 ships total
 
-  - Pr 1824B: Small Intelligence Ship (AGI) – 750 tons, 7 built.
+-   Pr 1824B: Small Intelligence Ship (AGI) – 750 tons, 7 built.
 
-  - Pr 18236: Border Patrol Ship – 455 tons, 4 built.
+-   Pr 18236: Border Patrol Ship – 455 tons, 4 built.
 
-![](/assets/images/warsaw/su/navy/support/image11.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image11.jpeg" style="width:4.864in;height:3.59328in" />
 
 [**Berezina Class Supply
 Ship**](http://www.ww2.dk/new/navy/berezina.htm): Only one of this class
@@ -268,7 +268,7 @@ ammunition, dry goods, rations and other stores to ships off either side
 simultaneously. Although attached to the Black Sea Fleet this ship saw
 extensive service in the Atlantic and Mediterranean.
 
-![](/assets/images/warsaw/su/navy/support/image12.jpeg)
+<img src="/assets\images\warsaw\su\navy\support\image12.jpeg" style="width:6.5in;height:1.30139in" />
 
 **Toplivo Class**, Project 1844, 18444: Small Tanker – 1,125 tons or
 1,300 tons, 44+3 built: 47 ships total, 8 transferred to Egypt, 2 to
@@ -283,7 +283,7 @@ carry fuel, petrol or oil.
 Kolyshkin, Borodino, Gangut). Volga is the Flagship of the
 5<sup>th</sup> Operational Squadron in the Mediterranean.
 
-![](/assets/images/warsaw/su/navy/support/image13.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image13.jpg" style="width:11.11111in;height:7.25in" />
 
 **Nyryat II Class**, Project 1896: Large Hydrographic Survey Boats – 125
 Tons, 96 built (GPB-69 up to GPB-1659 with gaps, PSKA-518, KSV-409,
@@ -292,15 +292,15 @@ UK-231 & 644)
 **Malina Class**, Project 2020: Nuclear Fuel Transport – 13,900 tons, 5
 built (PTB-5 to 9) all completed.
 
-![](/assets/images/warsaw/su/navy/support/image14.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image14.jpg" style="width:5.875in;height:3.92891in" />
 
 **Olekma Class**, Project 6504: Medium Tanker – 6,500 tons, 3 built
 (Olekma, Iman, Zolotoy Rog)
 
-![](/assets/images/warsaw/su/navy/support/image15.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image15.jpg" style="width:10.4386in;height:4.95833in" />
 
 **Aleksandr Brykin**, Project 11570: Armament Transport – 11,450 tons, 2
 built (Alexandre Brykin, one other that was historically canceled in
 1991).
 
-![](/assets/images/warsaw/su/navy/support/image16.jpg)
+<img src="/assets\images\warsaw\su\navy\support\image16.jpg" style="width:8.55615in;height:8.12299in" />

@@ -1,6 +1,6 @@
 **USN Submarines**
 
-![](/assets/images/nato/us/navy/subs/image1.jpg)
+<img src="/assets\images\nato\us\navy\subs\image1.jpg" style="width:6.5in;height:4.01528in" />
 
 US submarines deploy globally on a myriad of tasks, running silent and
 deep. Whatever they are asked to do they are very capable weapon and
@@ -40,7 +40,7 @@ the US lacks in numbers however they gain in technology, only the very
 latest generation of Soviet submarine can challenge the bulk of the US
 fleet in capability.
 
-![](/assets/images/nato/us/navy/subs/image2.jpeg)
+<img src="/assets\images\nato\us\navy\subs\image2.jpeg" style="width:6.5in;height:4.33333in" />
 
 On a rough scale of capacity to survive confrontation, the oldest boats
 in the US inventory, the Permit class should compare favorably to Soviet
@@ -62,4 +62,4 @@ escape to hide some more. The Ohio class SSBNs are world class, operate
 independent of any other element and remain at sea for a significant
 period of their lifespan.
 
-![](/assets/images/nato/us/navy/subs/image3.jpg)
+<img src="/assets\images\nato\us\navy\subs\image3.jpg" style="width:6.5in;height:3.65625in" />

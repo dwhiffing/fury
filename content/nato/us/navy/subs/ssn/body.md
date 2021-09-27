@@ -3,25 +3,25 @@
 An SSN at its core it is simply a nuclear powered general purpose
 submarine, they many names; Americans call them ‘Attack Submarines’, the
 Royal Navy knows them as ‘Fleet Submarines’, the Soviets call them
-‘Cruisers’ and in many ways they have replaced that traditional
-surface class in key roles. It is sometimes easier to classify an SSN by
-what it isn’t; it is not able to fire ballistic missiles, this is
-reserved for SSBNs; it’s primary weapon is not a missile, that would be
-an SSGN (none in US service in 1994); and it is not commonly used as a
-research vessel, although testing new equipment is routine. Another
-distinction that is mere semantics is the term ‘Hunter Killer’ which, is
-a popular phrase but more properly reserved for small diesel powered
-boats classified as SSK. Since the USN doesn’t operate SSKs and its
-entire submarine fleet is nuclear powered that distinction is not
-useful. In Northern Fury the US Navy has 97 of the 100 attack boats
-called for in the Reagan ‘600 ship navy’ plan, but has also retained 12
-specialist submarines based on SSN hulls. Two key decisions have been
-made specific to the Northern Fury world: 1) Older subs will be
-maintained to balance the fleet at 100 Attack boats plus 8-10 specialist
-hulls; and 2) The Seawolf class will not be canceled and will build out
-to the 29 hulls as projected, perhaps beyond. Seawolf will replace older
-boats over time and the special mission roles will transfer to the older
-Los Angelis class.
+‘Cruisers’ and in many ways they have replaced that traditional surface
+class in key roles. It is sometimes easier to classify an SSN by what it
+isn’t; it is not able to fire ballistic missiles, this is reserved for
+SSBNs; it’s primary weapon is not a missile, that would be an SSGN (none
+in US service in 1994); and it is not commonly used as a research
+vessel, although testing new equipment is routine. Another distinction
+that is mere semantics is the term ‘Hunter Killer’ which, is a popular
+phrase but more properly reserved for small diesel powered boats
+classified as SSK. Since the USN doesn’t operate SSKs and its entire
+submarine fleet is nuclear powered that distinction is not useful. In
+Northern Fury the US Navy has 97 of the 100 attack boats called for in
+the Reagan ‘600 ship navy’ plan, but has also retained 12 specialist
+submarines based on SSN hulls. Two key decisions have been made specific
+to the Northern Fury world: 1) Older subs will be maintained to balance
+the fleet at 100 Attack boats plus 8-10 specialist hulls; and 2) The
+Seawolf class will not be canceled and will build out to the 29 hulls as
+projected, perhaps beyond. Seawolf will replace older boats over time
+and the special mission roles will transfer to the older Los Angelis
+class.
 
 In many ways the unique derivatives of the fleet submarine; Special
 Forces delivery, communications eavesdropping and gathering electronic
@@ -52,13 +52,12 @@ confronted with most other situations however, they are still very
 valuable /assets. It’s worth noting that the only ‘Style 4’ boat, *USS
 Jack* was older than the five remaining boats and was used as an
 experimental testbed with a direct drive, twin screw propulsion system,
-she was retired in
-1990.
+she was retired in 1990.
 
-![](/assets/images/nato/us/navy/subs/ssn/image1.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image1.jpg" style="width:4.21319in;height:2.87014in" />
 
 | Class  | Pennant | Name      | Historic   | Flt      | Home Port  | Remarks            |
-| ------ | ------- | --------- | ---------- | -------- | ---------- | ------------------ |
+|--------|---------|-----------|------------|----------|------------|--------------------|
 | Permit | SSN-612 | Guardfish | Retired 92 | Pacific  | San Diego  |                    |
 |        | SSN-613 | Flasher   | Retired 92 | Pacific  | San Diego  | Patrol Philippians |
 |        | SSN-614 | Greenling | Retired 94 | Atlantic | Portsmouth | Patrol Caribbean   |
@@ -81,13 +80,12 @@ towed array sonar as well as many other electronics upgrades.
 Historically this class started to retire in 1991 while some continued
 to serve until 2000, many with less than 30 years service; in Northern
 Fury an optimal life of 30 years will be aimed for and they will start
-to retire in 1997 as more Seawolf come
-online.
+to retire in 1997 as more Seawolf come online.
 
-![](/assets/images/nato/us/navy/subs/ssn/image2.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image2.jpg" style="width:4.06692in;height:1.9375in" />
 
 | Class    | Pennant | Name        | Historic   | Flt      | Home Port    | Remarks               |
-| -------- | ------- | ----------- | ---------- | -------- | ------------ | --------------------- |
+|----------|---------|-------------|------------|----------|--------------|-----------------------|
 | Sturgeon | SSN-637 | Sturgeon    | Retired 94 | Atlantic | Charleston   |                       |
 |          | SSN-638 | Whale       |            | Atlantic | Groton       |                       |
 |          | SSN-639 | Tautog      |            | Pacific  | Pearl Harbor | Patrol South Pacific  |
@@ -117,21 +115,21 @@ online.
 |          | SSN 676 | Billfish    |            | Atlantic | Groton       | Patrol Scotland       |
 |          | SSN-677 | Drum        |            | Pacific  | San Diego    |                       |
 
-**[USS Narwal
-(SSN 671)](https://fas.org/man/dod-101/sys/ship/ssn-671.htm):** The
-Narwal was a testbed for an advanced propulsion system designed to
-minimize or hide noise from water circulation, a constant requirement in
-nuclear power plants. The new design made her the quietest submarine of
-her time and proved the system for employment on the forthcoming Los
-Angeles and Ohio class boats. More important for the Northern Fury
-campaign however, was her role in the fleet as a Special Mission
-electronic intelligence gathering platform, a task she performs
-throughout the campaign. At the start of the war she is resident at her
-homeport of Charleston South Carolina, but will spend most of her time
-lurking along the edge of the polar icecap collecting intelligence and
-playing hide & seek with Soviet patrols.
+**[USS Narwal (SSN
+671)](https://fas.org/man/dod-101/sys/ship/ssn-671.htm):** The Narwal
+was a testbed for an advanced propulsion system designed to minimize or
+hide noise from water circulation, a constant requirement in nuclear
+power plants. The new design made her the quietest submarine of her time
+and proved the system for employment on the forthcoming Los Angeles and
+Ohio class boats. More important for the Northern Fury campaign however,
+was her role in the fleet as a Special Mission electronic intelligence
+gathering platform, a task she performs throughout the campaign. At the
+start of the war she is resident at her homeport of Charleston South
+Carolina, but will spend most of her time lurking along the edge of the
+polar icecap collecting intelligence and playing hide & seek with Soviet
+patrols.
 
-![](/assets/images/nato/us/navy/subs/ssn/image3.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image3.jpg" style="width:8.91667in;height:5.95229in" />
 
 [**Archerfish
 Class**](https://en.wikipedia.org/wiki/Sturgeon-class_submarine): The
@@ -147,7 +145,7 @@ was also used for other purposes. Although the remaining boats were used
 for several missions, and they underwent some unique overhauls, two main
 functions emerged:
 
-  - [Cable Tap](https://en.wikipedia.org/wiki/Operation_Ivy_Bells):
+-   [Cable Tap](https://en.wikipedia.org/wiki/Operation_Ivy_Bells):
     [*Parche*](http://www.hisutton.com/USS_Parche.html) in the Pacific
     and *L. Mendel Rivers* in the Atlantic were extended by 100 feet,
     and outfitted for deep water research and recovery using [saturation
@@ -161,18 +159,17 @@ functions emerged:
     submarine and there is a good chance that *Richard B. Russell* was
     equipped this way, but she is on the wrong coast for our story.
 
-  - [DDS](https://fas.org/man/dod-101/sys/ship/docs/990100-drydeck.htm):
+-   [DDS](https://fas.org/man/dod-101/sys/ship/docs/990100-drydeck.htm):
     [Dry Deck Shelters](https://fas.org/man/dod-101/sys/ship/dds.htm)
     are installable chambers that allow Special Forces personnel and
     equipment to easily depart from the submarine while submerged. These
     have the capacity to hold an underwater
-    ‘[SDV’](https://en.wikipedia.org/wiki/SEAL_Delivery_Vehicle)
-    Swimmer Delivery Vehicle and up to 20 divers able to conduct a mass
-    swimmer exit from the
-sub.
+    ‘[SDV’](https://en.wikipedia.org/wiki/SEAL_Delivery_Vehicle) Swimmer
+    Delivery Vehicle and up to 20 divers able to conduct a mass swimmer
+    exit from the sub.
 
 | Class      | Pennant | Name               | Historic   | Flt      | Home Port    | Task            | Remarks |
-| ---------- | ------- | ------------------ | ---------- | -------- | ------------ | --------------- | ------- |
+|------------|---------|--------------------|------------|----------|--------------|-----------------|---------|
 | Archerfish | SSN-678 | Archerfish         |            | Atlantic | Groton       | DDS             |         |
 |            | SSN-679 | Silversides        | Retired 94 | Pacific  | Bremerton    | DDS             |         |
 |            | SSN-680 | William H. Bates   |            | Pacific  | Pearl Harbor | DDS             |         |
@@ -183,39 +180,38 @@ sub.
 |            | SSN 686 | L. Mendel Rivers   |            | Atlantic | Norfolk      | Cable Tap       |         |
 |            | SSN-687 | Richard B. Russell | Retired 94 | Pacific  | Vallejo      | DDS             |         |
 
-![](/assets/images/nato/us/navy/subs/ssn/image4.jpeg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image4.jpeg" style="width:9in;height:6.03125in" />
 
 [**Benjamin Franklin Class
 SSN**](https://fas.org/man/dod-101/sys/ship/ssn-640.htm): These two
 former SSBNs were converted into Special Mission SSNs in the early
 1990s. Large, quiet and equipped with plenty of space for mission
 planning and Special Forces accommodation these boats have twin DDS and
-a capacity for about 50-70 Special Forces
-personnel.
+a capacity for about 50-70 Special Forces personnel.
 
 | Class             | Pennant | Name                                                                                       | Flt      | Home Port   | Task  | Remarks                                |
-| ----------------- | ------- | ------------------------------------------------------------------------------------------ | -------- | ----------- | ----- | -------------------------------------- |
+|-------------------|---------|--------------------------------------------------------------------------------------------|----------|-------------|-------|----------------------------------------|
 | Benjamin Franklin | SSN-645 | [James K Polk](https://www.ussjameskpolk.org/history-of-the-uss-james-k-polk-ssbnssn-645/) | Atlantic | Norfolk     | 2xDDS | Conversion completed Feb 94 vice March |
 |                   | SSN-642 | [Kamehameha](https://www.navysite.de/ssbn/ssbn642.htm)                                     | Pacific  | Pear Harbor | 2xDDS |                                        |
 
-![](/assets/images/nato/us/navy/subs/ssn/image5.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image5.jpg" style="width:6.91667in;height:5.1875in" />
 
-**[Los Angeles
-(Type 688)](https://fas.org/man/dod-101/sys/ship/ssn-688.htm):** All 62
-of the Los Angeles or ‘688’ class are in service for Northern Fury, this
-is about two years faster than real life but the assumption is that a
+**[Los Angeles (Type
+688)](https://fas.org/man/dod-101/sys/ship/ssn-688.htm):** All 62 of the
+Los Angeles or ‘688’ class are in service for Northern Fury, this is
+about two years faster than real life but the assumption is that a
 somewhat accelerated program would have been adopted for the last five
 years of production. There are at least three distinct sub-classes and
 several variations within the production of this series:
 
-  - SSNs 688-718 - Original Los Angeles class – 31 boats, usually called
+-   SSNs 688-718 - Original Los Angeles class – 31 boats, usually called
     ‘Flight I’.
 
-  - SSNs 719-725 and 750 - Have 12 vertical launch tubes (VLS) for the
+-   SSNs 719-725 and 750 - Have 12 vertical launch tubes (VLS) for the
     Tomahawk cruise missile, and an upgraded reactor core. Called
     ‘Flight II’ or Providence Class.
 
-  - SSNs 751-773 - The final 23 hulls are referred to as "688I" (for
+-   SSNs 751-773 - The final 23 hulls are referred to as "688I" (for
     improved) with better sonar and under ice capability and the 12 VLS
     tubes. These are the ‘Flight III’ or San Juan Class.
 
@@ -225,45 +221,44 @@ understanding of the real measurements exists so a general statement
 that these are fast and capable boats with very few rivals will have to
 suffice. In Northern Fury, these boats are the workhorses of the
 campaign, they are only rivalled by the very latest Soviet boats and
-certainly the Flight III sub-class far outmatches even
-these.
+certainly the Flight III sub-class far outmatches even these.
 
-![](/assets/images/nato/us/navy/subs/ssn/image6.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image6.jpg" style="width:6.71875in;height:3.49955in" />
 
-![](/assets/images/nato/us/navy/subs/ssn/image7.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image7.jpg" style="width:9in;height:4.57222in" />
 
 | Class           | Pennant | Name                   | Flt      | Home Port    | Task      | Remarks                      |
-| --------------- | ------- | ---------------------- | -------- | ------------ | --------- | ---------------------------- |
-| Los Angeles     | SSN 688 | Los Angeles            | Pacific  | Pearl Harbor |           |                              |
+|-----------------|---------|------------------------|----------|--------------|-----------|------------------------------|
+| Los Angeles     | SSN 688 | Los Angeles            | Pacific  | Pearl Harbor |           |                              |
 |                 | SSN-689 | Baton Rouge            | Atlantic | Norfolk      |           | Repaired after collision     |
-|                 | SSN 690 | Philadelphia           | Atlantic | Groton       |           |                              |
-|                 | SSN 691 | Memphis                | Atlantic | Groton       | Med       |                              |
-|                 | SSN-692 | Omaha                  | Pacific  | Pearl Harbor |           |                              |
-|                 | SSN-693 | Cincinnati             | Atlantic | Norfolk      |           |                              |
-|                 | SSN-694 | Groton                 | Atlantic | Groton       |           |                              |
-|                 | SSN-695 | Birmingham             | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN 690 | Philadelphia           | Atlantic | Groton       |           |                              |
+|                 | SSN 691 | Memphis                | Atlantic | Groton       | Med       |                              |
+|                 | SSN-692 | Omaha                  | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN-693 | Cincinnati             | Atlantic | Norfolk      |           |                              |
+|                 | SSN-694 | Groton                 | Atlantic | Groton       |           |                              |
+|                 | SSN-695 | Birmingham             | Pacific  | Pearl Harbor |           |                              |
 |                 | SSN-696 | New York City          | Atlantic | Norfolk      | X-Ray Stn | Change of historic home port |
 |                 | SSN 697 | Indianapolis           | Pacific  | Pearl Harbor | Refueling | In dry dock                  |
-|                 | SSN 698 | Bremerton              | Pacific  | Pearl Harbor |           |                              |
-|                 | SSN 699 | Jacksonville           | Atlantic | Norfolk      |           |                              |
-|                 | SSN 700 | Dallas                 | Atlantic | Groton       |           |                              |
-|                 | SSN 701 | La Jolla               | Pacific  | Pearl Harbor |           |                              |
-|                 | SSN-702 | Phoenix                | Atlantic | Norfolk      |           |                              |
-|                 | SSN 703 | Boston                 | Atlantic | Groton       |           |                              |
-|                 | SSN 704 | Baltimore              | Atlantic | Groton       | X-Ray Stn |                              |
-|                 | SSN 705 | City Of Corpus Christi | Pacific  | Guam         |           |                              |
-|                 | SSN 706 | Albuquerque            | Atlantic | Groton       |           |                              |
+|                 | SSN 698 | Bremerton              | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN 699 | Jacksonville           | Atlantic | Norfolk      |           |                              |
+|                 | SSN 700 | Dallas                 | Atlantic | Groton       |           |                              |
+|                 | SSN 701 | La Jolla               | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN-702 | Phoenix                | Atlantic | Norfolk      |           |                              |
+|                 | SSN 703 | Boston                 | Atlantic | Groton       |           |                              |
+|                 | SSN 704 | Baltimore              | Atlantic |  Groton      | X-Ray Stn |                              |
+|                 | SSN 705 | City Of Corpus Christi | Pacific  | Guam         |           |                              |
+|                 | SSN 706 | Albuquerque            | Atlantic | Groton       |           |                              |
 |                 | SSN 707 | Portsmouth             | Atlantic | San Diego    |           | Change of historic home port |
 |                 | SSN 708 | Minneapolis-St. Paul   | Pacific  | Pearl Harbor |           | Change of historic home port |
 |                 | SSN 709 | Hyman G. Rickover      | Atlantic | Norfolk      |           |                              |
-|                 | SSN 710 | Augusta                | Atlantic | Groton       |           |                              |
+|                 | SSN 710 | Augusta                | Atlantic | Groton       |           |                              |
 |                 | SSN 711 | San Francisco          | Pacific  | Guam         |           |                              |
-|                 | SSN 712 | Atlanta                | Atlantic | Norfolk      | Scotland  |                              |
-|                 | SSN 713 | Houston                | Pacific  | San Diego    |           |                              |
-|                 | SSN 714 | Norfolk                | Atlantic | Norfolk      | Med       |                              |
-|                 | SSN 715 | Buffalo                | Pacific  | Pearl Harbor |           |                              |
-|                 | SSN 716 | Salt Lake City         | Pacific  | San Diego    |           |                              |
-|                 | SSN 717 | Olympia                | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN 712 | Atlanta                | Atlantic | Norfolk      | Scotland  |                              |
+|                 | SSN 713 | Houston                | Pacific  | San Diego    |           |                              |
+|                 | SSN 714 | Norfolk                | Atlantic | Norfolk      | Med       |                              |
+|                 | SSN 715 | Buffalo                | Pacific  | Pearl Harbor |           |                              |
+|                 | SSN 716 | Salt Lake City         | Pacific  | San Diego    |           |                              |
+|                 | SSN 717 | Olympia                | Pacific  | Pearl Harbor |           |                              |
 |                 | SSN 718 | Honolulu               | Pacific  | Pearl Harbor |           |                              |
 | Providence VLS  | SSN 719 | Providence             | Atlantic | Groton       |           |                              |
 |                 | SSN 720 | Pittsburgh             | Atlantic | Groton       |           |                              |
@@ -315,14 +310,13 @@ commissioning later in the year. The plan to build all 29 is being
 carried forward and there is discussion of even more. Note that the
 3<sup>rd</sup> of the class *USS Jimmy Carter* was completed as an SSN
 and not as the redesigned as a Special Mission boat as she was
-historically. The Virginia class was not designed or
-constructed.
+historically. The Virginia class was not designed or constructed.
 
 | Class   | Pennant | Name         | Historic | Flt      | Home Port | Task      | Remarks           |
-| ------- | ------- | ------------ | -------- | -------- | --------- | --------- | ----------------- |
+|---------|---------|--------------|----------|----------|-----------|-----------|-------------------|
 | Seawolf | SSN-21  | Seawolf      | 1997     | Atlantic | Groton    |           | Commissioned 1993 |
 |         | SSN-22  | Connecticut  | 1998     | Atlantic | Groton    | X-Ray Stn | Commissioned 1993 |
 |         | SSN-23  | Jimmy Carter | 2001     | Atlantic | Bangor    |           | Aug 1994          |
 |         | SSN-24  | Virginia     | Canceled | Atlantic | Bangor    |           | Dec 1994          |
 
-![](/assets/images/nato/us/navy/subs/ssn/image8.jpg)
+<img src="/assets\images\nato\us\navy\subs\ssn\image8.jpg" style="width:8.97487in;height:3.16667in" />

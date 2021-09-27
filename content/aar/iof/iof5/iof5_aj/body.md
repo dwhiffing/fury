@@ -1,13 +1,13 @@
 **Indian Ocean Fury \#5 – Hormuz Hoedown**
 
-**<span class="underline">Playtest Report by AndrewJ July 2018</span>**
+**<u>Playtest Report by AndrewJ July 2018</u>**
 
 India and Pakistan both on the map. Uh-oh...
 
 Edit: And the Sara's 90 miles away from its closest Tico. Never a good
 feeling.
 
-Edit 2: French heavy ASCM helicopters - neat\!
+Edit 2: French heavy ASCM helicopters - neat!
 
 Here's a bit of AAR, midway through the first morning...
 
@@ -138,12 +138,12 @@ greatly reduce the risks of air strikes on incoming tankers.
 Shortly before dawn I start getting numerous airborne contacts deep in
 central Iran, roughly in the Isfahan area. There are a dozen of them,
 loitering in a tight orbit at very low speed. This can only mean one
-thing: tankers\!
+thing: tankers!
 
 At first, I’m baffled about how I can even see that far, since none of
 my radars can reach there. Looking around I see the alarming sight of
 the Saudi E-3 almost half way across the Persian Gulf, en-route to my
-tankers over the Gulf of Oman\! High command immediately directs the
+tankers over the Gulf of Oman! High command immediately directs the
 Saudis to turn back, rather than make a one-plane overflight of Bandar
 Abbas, and clarifies that they are not, repeat not, to seek further
 refuelling from us.
@@ -153,7 +153,7 @@ target to ignore. It probably means an incoming bomber strike from
 distant airfields is in the making, so I need to move quickly. A decent
 force of my F-15s and F-16s launch out of Kuwait, intending to brush
 aside the two fighters on CAP near Omidiyeh and proceed on a direct path
-to the tankers. Mistake\! The two planes on CAP die as expected, but
+to the tankers. Mistake! The two planes on CAP die as expected, but
 swarms and swarms of Mig-29s come boiling up out of Omidiyeh, and the
 north end of the Gulf soon becomes a massive dogfight. I’m outnumbered,
 and I have to launch more and more planes from Kuwait to try and rescue
@@ -165,7 +165,7 @@ I eventually win the fight, but most of my planes are heading home
 Winchester, and the few that proceed don’t have full missile loadouts
 any more. The first pilot to reach the tanker area gapes in amazement at
 the large planes silhouetted against the bright horizon. They aren’t
-tankers. They’re Bears\! Engaging as quickly as they can, my pilots
+tankers. They’re Bears! Engaging as quickly as they can, my pilots
 manage to achieve gun and missile hits, but the Bears are extremely
 (some would say absurdly) tough, and many of them take multiple missile
 hits and keep flying. The majority are shot down, but some manage to
@@ -173,7 +173,7 @@ make their escape despite gaping holes in their fuselage, and they fly
 away deeper into north-east Iran.
 
 Remember that bit about preserving precious missiles? Engaging as
-cheaply as possible? Not here\! This engagement totally blew that plan
+cheaply as possible? Not here! This engagement totally blew that plan
 away. There are only 17 AMRAAMs left in all of Kuwait, and most of those
 are on aircraft already. My F-16s are loaded Sidewinder heavy, and the
 F-15 pilots are trying to remember how to use Sparrows. Any further
@@ -193,7 +193,7 @@ suspicious. Did something briefly run its engines? Was that a launch
 transient? After several minutes of indecision, hoping for the contact
 to re-emerge, my paranoia gets the best of me and I send a torpedo
 downrange below the layer popping it up when it gets closer to the
-contact. That gets a response\! The SSK tries to flee, but does not
+contact. That gets a response! The SSK tries to flee, but does not
 escape.
 
 My ships have all consolidated in their groups by now, and with them
@@ -239,7 +239,7 @@ near Kuwait start picking up more airborne surface search radars where
 we saw the bombers before. Is it an actual incoming raid this time? The
 F-15s launch out of Kuwait (going around the Omidiyeh CAP this time),
 the F-16s with Sparrows are pulled away from the Hormuz fight before
-they can get there (sorry Mirages\!), and a precious pair of F-16s with
+they can get there (sorry Mirages!), and a precious pair of F-16s with
 AMRAAM are also launched as backup to guard a tanker, in the event of
 emergencies. Fortunately, the skies are clear en-route to the bombers
 (which turn out to be Blinders this time), and my fighters batter them
@@ -336,13 +336,13 @@ home. The whole operation is a bust.
 
 Meanwhile my SSN, patrolling E of the straits, picks up another very
 quiet slow-moving target at close range, creeping along at 1 knot at the
-standard 40 m shallow depth. Another SSK, proclaims the captain\! My sub
+standard 40 m shallow depth. Another SSK, proclaims the captain! My sub
 ducks under the layer, fires a torp, and then brings it up through the
 layer as it approaches the target. Which is gone… Baffled (and a little
 alarmed) the sub rises up above the layer to listen again. Still no
 contact. Worried they made a dreadful mistake, and the reported contact
 position was wrong, the captain orders an active sonar search. Still
-nothing\! It takes several more minutes (as the torp runs out of fuel)
+nothing! It takes several more minutes (as the torp runs out of fuel)
 before contact is finally re-established, and the embarrassed captain
 records the school of fish in his log.
 
@@ -411,7 +411,7 @@ reloaded and ready for me again. I can’t simply ignore the airfield,
 since the SSM batteries are sheltering under the SAMs there, and they
 must be destroyed. This time I won’t have a 45 missile TLAM strike to
 ‘prime the pump’, and I’ve used up many of my ARMs, so I’ll probably
-have to take it in stages. We shall see\!
+have to take it in stages. We shall see!
 
 Next stages…
 
@@ -592,17 +592,17 @@ sneaking in underwater to lay new ones.) We shall see how it goes.
 THE REST... DAY 4 and 5
 
 As the tankers proceed through the straits, it suddenly occurs to me
-that I need to take care of them after they come out of the straits
-too\! The first westbound tanker is making a beeline for Kish Island,
-which is still occupied by flack defence troops. A hastily organized
-strike bombs the defences, and then recce runs are sent up and down the
-coast looking for any more enemy units. They find and destroy a cluster
-of radars (sitting quietly without emitting), but nothing else of note.
+that I need to take care of them after they come out of the straits too!
+The first westbound tanker is making a beeline for Kish Island, which is
+still occupied by flack defence troops. A hastily organized strike bombs
+the defences, and then recce runs are sent up and down the coast looking
+for any more enemy units. They find and destroy a cluster of radars
+(sitting quietly without emitting), but nothing else of note.
 
 As the clock ticks down, the tankers continue to transit. As dusk falls
 on the last day, and I think all is well, I suddenly get the report of
-Bear radars again\! Have I let down my guard too much? Is this attack
-for real? The spread-out tankers would be very vulnerable to attack, and
+Bear radars again! Have I let down my guard too much? Is this attack for
+real? The spread-out tankers would be very vulnerable to attack, and
 most of them are beyond any CAP. F-15s race in to intercept from Kuwait,
 but fortunately the Bears (just 3 of them, sporting fresh patches over
 battle damage from the first day) are still in their holding pattern,

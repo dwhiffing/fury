@@ -1,6 +1,6 @@
 **USMC Deployment grouping**
 
-![](/assets/images/nato/us/navy/amphibious/deployment/image1.jpg)
+<img src="/assets\images\nato\us\navy\amphibious\deployment\image1.jpg" style="width:6.5in;height:4.10694in" />
 
 The US Navy has a very flexible system of providing credible power
 projection anywhere on the globe by using a combination of its Aircraft
@@ -20,81 +20,81 @@ A MAGTF is completely scalable from as small as a few hundred Marines to
 as large as a 32,000-man Marine Expeditionary Force (MEF). Whatever the
 size however, there are always four elements to a MAGTF:
 
-  - **Command Element (CE)** to provide command, control,
+-   **Command Element (CE)** to provide command, control,
     communications, intelligence and to coordinate joint effects in
     support of the mission.
 
-  - **Ground Combat Element (GCE)** providing the combined arms effects
+-   **Ground Combat Element (GCE)** providing the combined arms effects
     needed for the mission.
 
-  - **Aviation Combat Element (ACE)** which is task tailored to provide
+-   **Aviation Combat Element (ACE)** which is task tailored to provide
     all air effects necessary for the accomplishment of the mission.
 
-  - **Logistics Combat Element (LCE)** organized to provide all logistic
+-   **Logistics Combat Element (LCE)** organized to provide all logistic
     functions to both the ground and aviation combat elements.
 
 In 1994 there were three main sizes of MAGTF’s which roughly correspond
 to Army unit sizes; but are much more powerful and flexible due to the
 integration of the ACE.
 
-  - **Marine Expeditionary Unit** **(MEU):** Based on a Battalion sized
+-   **Marine Expeditionary Unit** **(MEU):** Based on a Battalion sized
     GCE with a combined arms complement of approximately 2,200 marines.
-    
-      - **CE** is small but able to coordinate the effects of all combat
+
+    -   **CE** is small but able to coordinate the effects of all combat
         elements of the MEU. A MEU is commanded by a Colonel.
-    
-      - **GCE** is based on a Battalion with attached artillery, armor,
+
+    -   **GCE** is based on a Battalion with attached artillery, armor,
         combat engineer, both armored and light reconnaissance and
         amphibious vehicles. The GCE represents about half of the MEU’s
         personnel.
-    
-      - **ACE** is based on a composite squadron of transport
+
+    -   **ACE** is based on a composite squadron of transport
         helicopters, Attack helicopters and Harriers.
-    
-      - **LCE** provides all combat service support required to sustain
+
+    -   **LCE** provides all combat service support required to sustain
         the MEU for approximately 15 days.
 
-  - **Marine Expeditionary Brigade (MEB):** Based on a Regimental size
+-   **Marine Expeditionary Brigade (MEB):** Based on a Regimental size
     GCE with significant augmentation and a powerful ACE. A MEB will
     normally consist of about 14-15,000 Marines.
-    
-      - **CE** is capable of commanding and coordinating all joint
+
+    -   **CE** is capable of commanding and coordinating all joint
         effects available. A MEB is commanded by a Brigadier General and
         is augmented by a Communications Battalion, Intelligence
         Battalion, Military Police, Psychological Operations, Naval
         Gunfire and Reconnaissance elements.
-    
-      - **GCE** is based on a Marine Infantry Regiment with attached
+
+    -   **GCE** is based on a Marine Infantry Regiment with attached
         artillery, armor, combat engineer, both armored and light
         reconnaissance and amphibious vehicles. The GCE represents about
         40% of the MEU’s personnel.
-    
-      - **ACE** is based on a Marine Air Group (MAG) with representation
+
+    -   **ACE** is based on a Marine Air Group (MAG) with representation
         from every marine aircraft type including at least two F/A-18
         Squadrons, 2-3 Harrier Squadrons, at least one Attack Helicopter
         Squadron, Medium and Heavy Transport Squadrons, air logistics,
         and air command and control facilities.
-    
-      - **LCE** is based on a Combat Logistics Regiment and provides all
+
+    -   **LCE** is based on a Combat Logistics Regiment and provides all
         combat service support required to sustain the MEB for
         approximately 15-30 days.
 
-  - **Marine Expeditionary Force (MEF):** Based on a Divisional size GCE
+-   **Marine Expeditionary Force (MEF):** Based on a Divisional size GCE
     reinforced as required, and a powerful ACE. A MEF will normally
     consist of about 32,000 or more Marines.
-    
-      - **CE** is capable of commanding and coordinating all joint
+
+    -   **CE** is capable of commanding and coordinating all joint
         effects available. A MEF is commanded by a Major General and has
         significant augmentation.
-    
-      - **GCE** is based on a Marine Division with all of its combat
+
+    -   **GCE** is based on a Marine Division with all of its combat
         enablers.
-    
-      - **ACE** is based on a Marine Air Wing (Wing) consisting of
+
+    -   **ACE** is based on a Marine Air Wing (Wing) consisting of
         significant numbers of combat and combat support squadrons, air
         logistics, and air command and control facilities.
-    
-      - **LCE** is based on a Combat Logistics Group and provides all
+
+    -   **LCE** is based on a Combat Logistics Group and provides all
         combat service support required to sustain the MEB for
         approximately 15-30 days.
 
@@ -104,12 +104,12 @@ history. There are only two types of standing amphibious groups, which
 are designed to deliver an MEU, anything more than that requires a task
 tailored organization designed for the operation.
 
-  - **Amphibious Ready Group (ARG)** consists of enough amphibious
+-   **Amphibious Ready Group (ARG)** consists of enough amphibious
     capacity to move and deliver a complete MEU. The standard
     composition of an ARG is one LHD or LHA, one LPD, one LSD and one or
     possibly two LSTs
 
-  - **Expeditionary Strike Group (ESG)** consist of an ARG plus an
+-   **Expeditionary Strike Group (ESG)** consist of an ARG plus an
     escort of one or two CG/CGN, one or two DD or FFG and possibly an
     SSN.
 
@@ -124,16 +124,16 @@ rotating their force in or out of a potential conflict area.
 
 In Northern Fury there are two ESGs at sea:
 
-  - USS Peleliu ESG with 13<sup>th</sup> MEU embarked in the Indian
+-   USS Peleliu ESG with 13<sup>th</sup> MEU embarked in the Indian
     Ocean
 
-  - USS Kersarge ESG with 22<sup>nd</sup> MEU embarked in the eastern
+-   USS Kersarge ESG with 22<sup>nd</sup> MEU embarked in the eastern
     Mediterranean
 
-![](/assets/images/nato/us/navy/amphibious/deployment/image2.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\deployment\image2.jpeg" style="width:7.15695in;height:4.86458in" />
 
 USS Peleiliu ARG
 
-![](/assets/images/nato/us/navy/amphibious/deployment/image3.jpeg)
+<img src="/assets\images\nato\us\navy\amphibious\deployment\image3.jpeg" style="width:6.92679in;height:4.94792in" />
 
 Expeditionary Strike Group (ESG)

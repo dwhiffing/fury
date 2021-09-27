@@ -22,11 +22,11 @@ Africa) and forces overseas in former colonies throughout Africa,
 Djbouti, Reunion Islands, the French Polynesia, New Caledonia, Caribbean
 and supporting Coalition operations in the Persian Gulf.
 
-![](/assets/images/nato/fr/army/image1.png)
+<img src="/assets\images\nato\fr\army\image1.png" style="width:6.71389in;height:5.30694in" />
 
 **Leclerc**
 
-**The French Army was in the initial stages of re-equipping its forces
+The French Army was in the initial stages of re-equipping its forces
 with this new Main Battle Tank (MBT) when Northern Fury occurs. This
 tank with very modern fire control, advanced armour and a 120mm gun was
 easily the equivalent of the M1A2 or the Leopard 2 in many respects,
@@ -35,9 +35,9 @@ Soviet forces had available at the time. Production commenced in 1992,
 with the first unit equipped by the end of 1993. Within 2e Régiment de
 Chasseurs, part of 10<sup>th</sup> Armoured Division is equipped with 80
 of these new tanks, while further production continues at an increased
-pace.**
+pace.
 
-![](/assets/images/nato/fr/army/image2.jpg)
+<img src="/assets\images\nato\fr\army\image2.jpg" style="width:6.5in;height:4.325in" />
 
 **AMX 30**
 
@@ -52,11 +52,11 @@ competitors. Many variants were produced, including an Air Defence
 version with Roland missiles, a Self Propelled Gun, engineering variants
 and even 44 ‘Pluton’ tactical nuclear missile launchers.
 
-![](/assets/images/nato/fr/army/image3.jpg)
+<img src="/assets\images\nato\fr\army\image3.jpg" style="width:6.5in;height:4.09653in" />
 
 **Armoured Cars**
 
-![](/assets/images/nato/fr/army/image4.jpg)
+<img src="/assets\images\nato\fr\army\image4.jpg" style="width:3.09853in;height:2.42917in" />
 
 The French Army had various armoured cars for divers usage, mostly in
 the Light Armoured Divisions and reconnaissance roles. Over 425 AML-60
@@ -67,7 +67,7 @@ provided the basis of a complete family of vehicles with many
 variations. The French Gendarmerie also use over one hundred examples of
 this vehicle.
 
-![](/assets/images/nato/fr/army/image5.jpeg)
+<img src="/assets\images\nato\fr\army\image5.jpeg" style="width:3.64573in;height:2.42153in" />
 
 One of the more prolific variants of the AML was the AML-90 with a 90mm
 low velocity gun (short recoil). The Army uses 210 of these variants in
@@ -75,7 +75,7 @@ the Light Armoured Divisions, reconnaissance units and for specialized
 units in other divisions. The Gendarmerie and Foreign Legion also uses
 this type.
 
-![](/assets/images/nato/fr/army/image6.jpg)
+<img src="/assets\images\nato\fr\army\image6.jpg" style="width:3.81181in;height:2.48333in" />
 
 A more modern vehicle was needed to replace the AML-90 and in the early
 80’s the ERC-90 was produced. Also with a 90mm gun but this was a
@@ -86,7 +86,7 @@ other armoured vehicles out to a range of 2000 meters. Only 192 of these
 armoured cars entered service with the Marines, Airborne and Alpine
 divisions.
 
-![](/assets/images/nato/fr/army/image7.jpg)
+<img src="/assets\images\nato\fr\army\image7.jpg" style="width:3.83819in;height:2.55833in" />
 
 A more effective vehicle to support light forces is found in the
 AMX-10RC, which is a heavier 6-wheeled armoured car with a 105mm medium
@@ -108,7 +108,7 @@ variants from a riot control vehicle to Milan and HOT ATGM (Anti-Tank
 Guided Missile) launcher. All examples of these two vehicle families had
 NBC (Nuclear, Biological, Chemical) protection and were amphibious.
 
-![](/assets/images/nato/fr/army/image8.jpg)
+<img src="/assets\images\nato\fr\army\image8.jpg" style="width:3.77083in;height:2.51389in" />
 
 The tracked AMX-10P was used primarily in the mechanized infantry units
 of the heavy armoured divisions and their supporting artillery
@@ -116,7 +116,7 @@ observers. Over 1500 of the base model with a 20mm autocannon were
 delivered as well as ambulance, recovery, ATGM, artillery observer,
 radar, mortar and mortar tractors, command, and cargo variants.
 
-![](/assets/images/nato/fr/army/image9.jpg)
+<img src="/assets\images\nato\fr\army\image9.jpg" style="width:4.26042in;height:2.83637in" />
 
 The wheeled counterpart to the AMX-10 is the VAB (Véhicule de l’Avant
 Blindé or Vanguard Armoured Vehicle). This was the most numerous APC in
@@ -128,13 +128,13 @@ armed and extremely versatile. Every division has at least one unit
 equipped with the VAB and dozens of variants are in use throughout the
 force.
 
-![](/assets/images/nato/fr/army/image10.jpg)
+<img src="/assets\images\nato\fr\army\image10.jpg" style="width:4.33in;height:3.15in" />
 
 VAB firing a HOT Anti-Tank Guided Missile.
 
 **Artillery**
 
-![](/assets/images/nato/fr/army/image11.jpg)
+<img src="/assets\images\nato\fr\army\image11.jpg" style="width:4.90625in;height:2.57738in" />
 
 The French produced GCT was a 155mm howitzer built on an AMX 30 chassis.
 The gun provided NBC protection, and auto-loader enabling a rate of fire

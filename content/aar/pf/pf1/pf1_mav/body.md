@@ -1,7 +1,6 @@
 **Pacific Fury \#1 – Bolt from the Blue**
 
-**<span class="underline">Playtest Report by maverick3320, Sept
-2021</span>**
+**<u>Playtest Report by maverick3320, Sept 2021</u>**
 
 Ouch.  
   
@@ -12,7 +11,7 @@ that pretty much everything will go wrong, but wow. Not too far into the
 scenario I lost my first carrier, and it wasn't even close. the CV (and
 the rest of the TF) was obliterated, so soon that I was still receiving
 scenario messages for the Indy after she was already at the bottom of
-the Sea of Japan\!  
+the Sea of Japan!  
   
 The scenario starts with the *Independence *on the west side of Japan,
 with the CGN *California *and a DD/FFG escort. A *Leahy *CG is running

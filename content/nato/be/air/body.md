@@ -10,7 +10,7 @@ Soviet Union heightened in 91/92, training increased and new weapons
 were purchased. The Belgian Air Force was committed to **2<sup>nd</sup>
 Allied Tactical Air Force (2 ATAF)** on the Central front over Germany.
 
-![](/assets/images/nato/be/air/image1.jpeg)
+<img src="/assets\images\nato\be\air\image1.jpeg" style="width:3.125in;height:2.08333in" />
 
 **F-16**
 
@@ -27,7 +27,7 @@ in 1995. Northern Fury has them acquiring these munitions in 1993, and
 the quantities increased to 140 AMRAAM and 36 Mavericks.
 
 | Sqn | Name     | Location      | A/C | Type   |
-| --- | -------- | ------------- | --- | ------ |
+|-----|----------|---------------|-----|--------|
 | 1   | Stingers | Florennes     | 20  | F-16A+ |
 | 2   | Comet    | Florennes     | 20  | F-16A+ |
 | 23  | Devils   | Kleine Brogel | 24  | F-16A  |
@@ -36,7 +36,7 @@ the quantities increased to 140 AMRAAM and 36 Mavericks.
 | 350 | Ambiorix | Beauvechain   | 24  | F-16A  |
 | OCU | Vulture  | Beauvechain   | 24  | F-16B  |
 
-![](/assets/images/nato/be/air/image2.jpg)
+<img src="/assets\images\nato\be\air\image2.jpg" style="width:3.28542in;height:2.27014in" />
 
 **Mirage 5**
 
@@ -44,12 +44,12 @@ Two squadrons of Dassault Mirage 5’s remain active in the Belgian Air
 Force, one in the attack role and the other focused on reconnaissance.
 
 | Sqn | Name         | Location | A/C | Type       |
-| --- | ------------ | -------- | --- | ---------- |
+|-----|--------------|----------|-----|------------|
 | 8   | Blue Cocotte | Bierset  | 36  | Mirage 5BA |
 | 42  | Mephisto     | Bierset  | 22  | Mirage 5BR |
 | OCU |              | Bierset  | 16  | Mirage 5BD |
 
-![](/assets/images/nato/be/air/image3.jpg)
+<img src="/assets\images\nato\be\air\image3.jpg" style="width:3.51319in;height:2.32222in" />
 
 **Alpha Jet**
 
@@ -58,7 +58,7 @@ is conducted in the Alpha Jets of 7<sup>th</sup> and 33<sup>rd</sup>
 Squadrons. These units can also be put forward into combat if required.
 
 | Sqn | Name   | Location   | A/C | Type      |
-| --- | ------ | ---------- | --- | --------- |
+|-----|--------|------------|-----|-----------|
 | 7   | Wolves | St Truiden | 16  | Alpha Jet |
 | 33  | Bats   | St Truiden | 16  | Alpha Jet |
 
@@ -75,4 +75,4 @@ Dassault Falcon 20E (x2), Swearingen Merlin (x6), and Hawker Siddeley HS
 40<sup>th</sup> Squadron operates five Sea King Mk.48 out of Koksijde
 Air Base in the Search and Rescue role.
 
-![](/assets/images/nato/be/air/image4.jpg)
+<img src="/assets\images\nato\be\air\image4.jpg" style="width:6.5in;height:3.25in" />
