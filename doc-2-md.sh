@@ -34,7 +34,7 @@ ENDOFFILE
   fi
 
   pandoc $file -f docx -t gfm > $assetsdir/"$filename.md" --extract-media $assetsdir
-  sed -E "s/(assets)/\/\1/g;s/(media\/)//g;s/(\.\/docs\/)//g" $assetsdir/$filename.md > $markdowndir/body.md
+  sed -E "s@(assets)@\/\1@g;s@(media\\\)@@g;s@(media/)@@g" $assetsdir/$filename.md > $markdowndir/body.md
 
   if [ -d $assetsdir/media ]; then
     mv $assetsdir/media/* $assetsdir
