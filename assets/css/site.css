@@ -42,6 +42,8 @@ main {
   display: -moz-box;
   display: -ms-box;
   display: box;
+  /* max-width: 1800px;
+  margin: 0 auto; */
 
   -ms-flex-direction: row;
   -webkit-box-orient: horizontal;

@@ -21,7 +21,7 @@ const Page = ({ nav, label, main, _relativeURL, _nav, _ID, _pages }) => {
         <main>
           {_ID !== 'index' && (
             <aside>
-              {['nato', 'warsaw'].includes(pathArray[0]) && (
+              {['nato', 'warsaw', 'aar'].includes(pathArray[0]) && (
                 <Aside nav={_nav} pages={_pages} pathArray={pathArray} />
               )}
             </aside>

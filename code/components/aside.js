@@ -1,19 +1,20 @@
 import React, { Fragment } from 'react'
 import { Link } from './link'
 
-const Aside = ({ nav, pages, pathArray }) => {
+const Aside = ({ nav, pages = [], pathArray }) => {
   const [name, pathCountry] = pathArray
   const links = nav.index[name]
 
-  const renderDeepLinks = data =>
+  const renderDeepLinks = (data) =>
     typeof data === 'object' && (
       <ul>
         {Object.keys(data)
           .sort(sortLinksByPosition(pages))
-          .map(key => {
+          .map((key) => {
             const keyArray = key.split('/')
             const lastKey = keyArray.length - 1
 
+            if (!pages[key]) return null
             return (
               <Fragment key={`link-${key}`}>
                 <Link
@@ -32,15 +33,17 @@ const Aside = ({ nav, pages, pathArray }) => {
 
   const render = Object.keys(links)
     .sort(sortLinksByLabel(pages))
-    .map(linkKey => {
+    .map((linkKey) => {
       const isActiveCountry = linkKey.split('/')[1] === pathCountry
 
+      if (!pages[linkKey]) return null
       return (
         <Link
           key={`link-${linkKey}`}
           linkKey={linkKey}
           isActive={isActiveCountry}
-          label={pages[linkKey].label}>
+          label={pages[linkKey].label}
+        >
           {isActiveCountry && renderDeepLinks(nav.index[name][linkKey])}
         </Link>
       )
@@ -71,16 +74,16 @@ const getShouldRenderDeepLinks = (currentPath, keyPath) => {
   return pathCountry === keyCountry
 }
 
-const sortLinksByLabel = pages => (a, b) => {
-  const pageALabel = pages[a].label.replace('The ', '')
-  const pageBLabel = pages[b].label.replace('The ', '')
+const sortLinksByLabel = (pages) => (a, b) => {
+  const pageALabel = pages[a]?.label.replace('The ', '') || ''
+  const pageBLabel = pages[b]?.label.replace('The ', '') || ''
   return pageALabel[0] > pageBLabel[0] ? 1 : -1
 }
 
-const sortLinksByPosition = pages => (a, b) => {
+const sortLinksByPosition = (pages) => (a, b) => {
   const pageAPosition =
-    typeof pages[a].position === 'number' ? pages[a].position : 0
+    typeof pages[a]?.position === 'number' ? pages[a].position : 0
   const pageBPosition =
-    typeof pages[b].position === 'number' ? pages[b].position : 0
+    typeof pages[b]?.position === 'number' ? pages[b].position : 0
   return pageAPosition > pageBPosition ? 1 : -1
 }
