@@ -1,5 +1,6 @@
-label: pf1_chm
+label: Playtest by CHM
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3

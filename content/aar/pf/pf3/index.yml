@@ -1,5 +1,6 @@
-label: Caught Flat Footed
+label: PF 3 Caught Flat Footed
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3

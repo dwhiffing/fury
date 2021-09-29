@@ -1,5 +1,6 @@
-label: PF 8 We've got Ourselves a Convoy
+label: PF 8 We've got a Convoy
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 8

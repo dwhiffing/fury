@@ -1,5 +1,6 @@
-label: pf3_i78
+label: Playtest by Ilya78
 nav:
   - /_shared/nav.md
 
 main: body.md
+position: 3
