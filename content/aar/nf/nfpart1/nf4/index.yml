@@ -1,0 +1,6 @@
+label: NF 4 Cold & Lonely Place
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 4

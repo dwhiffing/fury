@@ -1,0 +1,6 @@
+label: NF 26 Land of Fire & Ice
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 15

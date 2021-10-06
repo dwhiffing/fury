@@ -1,0 +1,6 @@
+label: NF 9 Hold the Line
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 9

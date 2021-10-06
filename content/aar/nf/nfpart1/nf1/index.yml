@@ -1,0 +1,6 @@
+label: NF 1 H-Hour
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 1

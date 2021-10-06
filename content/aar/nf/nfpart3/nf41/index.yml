@@ -1,0 +1,6 @@
+label: NF 41 Tour de Force
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 14

@@ -1,0 +1,6 @@
+label: NF 45 Rock on the Beach
+nav:
+  - /_shared/nav.md
+
+main: body.md
+position: 3
