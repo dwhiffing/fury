@@ -12,11 +12,11 @@ ports of North West Europe clear of mines.
 
 **Frigates**
 
-The four Anti Submarine Warfare (ASW) Frigates of the [<u>Wielingen
+The four Anti-Submarine Warfare (ASW) Frigates of the [<u>Wielingen
 class</u>](http://www.seaforces.org/marint/Belgian-Navy/Frigate/Wielingen-class.htm)
 are quite modest in size and armament. At 2,200 tons with a single 100mm
 gun, a single Sea Sparrow air defence missile launcher (eight missiles),
-four Exocet anti ship missiles and ASW weapons, these ships have limited
+four Exocet anti-ship missiles and ASW weapons, these ships have limited
 employability in a high threat area. All are base at Zeebrugge. F 913
 Ran aground in 1988 while on an exercise in Norway, as a result she was
 repaired in dry dock and deployed again in 1992, but was the first to

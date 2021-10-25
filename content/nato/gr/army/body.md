@@ -12,38 +12,38 @@ Cyprus (a small regiment) plus about 100 Home Guard battalions.
 
 The main role of the Greek Army is to defend against any threats from
 the north with ‘D Corps’ to the northeast, ‘B Corps’ to the northwest
-and 20<sup>th</sup> Armored Division at Thessaloniki to respond quickly
-in either direction. Interestingly, this deployment could serve to
-defend a threat from Turkey just as well as a threat from Bulgaria. The
-rugged and mountainous terrain lends itself to a lighter force and the
-Hellenic Army is focused along those lines.
+with 20<sup>th</sup> (XX)Armored Division at Thessaloniki to respond
+quickly in either direction. Interestingly, this deployment could serve
+to defend a threat from Turkey just as well as a threat from Bulgaria.
+The rugged and mountainous terrain lends itself to a lighter force and
+the Hellenic Army is focused along those lines.
 
 **MBT**
 
-Greece fields about 1750 Main Battle Tanks (MBT), although they are
+Greece fields about 1750 Main Battle Tanks (MBT), although there is
 quite a mix and most are getting old. The initial purchase of 104
 Leopard 1 tanks was made by Greece in 1984 but since then, no more have
 been obtained. The historic purchases from the Netherlands and Germany
 in 1993 did not occur as those counties held onto their tanks.
 Replacement M60’s are available and if needed would have been acquired.
-It is uncertain how these various tanks were or would be used but my
-assumption is that the 20<sup>th</sup> Armored Division would be
-equipped with the AMX-30s, one of the Armored Brigades would use the
-Leopards while 2<sup>nd</sup> Mechanized Division would use M60s, as
-would the tank battalions in all other formations. The M47 and M48 MBT
-are probably in reserve.
+It is uncertain how these various tanks would be used but my assumption
+is that the 20<sup>th</sup> Armored Division was equipped with the
+AMX-30s, one of the Armored Brigades would use the Leopards while
+2<sup>nd</sup> Mechanized Division would use M60s, as would the tank
+battalions in all other formations. The M47 and M48 MBT are probably in
+reserve.
 
--   396 M47 Patton
-
--   390 M48A5 MOLF
-
--   357 M60A1 RISE
-
--   312 M60A3 TTS
+-   190 AMX-30
 
 -   104 Leopard 1A3
 
--   190 AMX-30
+-   312 M60A3 TTS
+
+-   357 M60A1 RISE
+
+-   390 M48A5 MOLF
+
+-   396 M47 Patton
 
 <img src="/assets\images\nato\gr\army\image2.jpg" style="width:6.5in;height:4.33056in" />
 
@@ -110,7 +110,7 @@ conducted by 155mm and heavy artillery.
 **Air Defence**
 
 The air defence systems, as many other elements in the Hellenic Army are
-dated. The I-Hawk is focused on defencing major infrastructure while the
+dated. The I-Hawk is focused on defending major infrastructure while the
 remainder is used for defence of the field force
 
 -   101 RH-202 twin 20mm

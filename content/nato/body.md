@@ -5,7 +5,8 @@ threat posed by the Soviet Union and the Warsaw Pact (WP)countries. The
 basis of the alliance is the collective defence codified in [<u>Article
 Five</u>](https://www.nato.int/cps/ic/natohq/topics_110496.htm) of the
 treaty which states: “…that an attack against one Ally is considered as
-an attack against all Allies.’
+an attack against all Allies.’ Note that some dates and details are
+modified to fit the Northern Fury storyline.
 
 The 12 founding members of NATO are:
 

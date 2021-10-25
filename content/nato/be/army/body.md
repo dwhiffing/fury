@@ -15,9 +15,9 @@ expected to deploy to North Norway in an emergency.
 
 The main battle tank of the Belgian Army is the Leopard I, and eight
 tank regiments (battalions) were each equipped with 40 (3x Coy of 13 + 1
-Command). Each Mechanized Brigade had one unit, 17<sup>th</sup> Armoured
-Brigade had two and the eighth was the ‘2<sup>nd</sup> Jaagers te
-Paard’, a reconnaissance unit.
+Command) of these versatile tanks. Each Mechanized Brigade had one unit,
+while 17<sup>th</sup> Armoured Brigade had two and the eighth battalion
+was the ‘2<sup>nd</sup> Jaagers te Paard’, a reconnaissance unit.
 
 <img src="/assets\images\nato\be\army\image2.jpeg" style="width:3.93542in;height:2.625in" />
 

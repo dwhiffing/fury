@@ -25,15 +25,14 @@ Plan) positions within 24 hours and full mobilization of reserves and
 territorials would happen within 3-4 days.
 
 After unification the *Heer* merged with the *Nationale Volksarmee* of
-the former East Germany, forming a IV Corps headquartered in Potsdam,
+the former East Germany, forming the IV Corps headquartered in Potsdam,
 starting in 1990. Between 1990 and 1994 this fourth Corps was reduced in
 size until it was replaced in the Berlin/Potsdam area by III Corps. Very
 little former East German equipment was held, most of it was sold to
 finance unification. Since the bulk of both armies were conscripts,
 reduction of the total strength was simply a management issue.
-Historically however, over this time the structure and size of the
-*Heer* changed significantly between 1993 and 1996 – these changes did
-not happen.
+Historically, the structure and size of the *Heer* changed significantly
+between 1993 and 1996 – however these changes did not happen.
 
 [**Leopard
 II**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
@@ -42,17 +41,18 @@ II**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-2.php)
 by many to be the finest tank in the world with a 120mm L44 smoothbore
 gun, a speed of 68 KPH, an operational range of 550Km with internal fuel
 and excellent armor protection. This tank is at least on par with the
-British Challenger 2, French Leclerc or the American Abrams. By 1994 the
-full production run of 2,125 was complete, and retained by the *Heer*.
-None of the engineering variants of the Leopard 2 had reached production
-but the Armored recovery vehicle variant was starting to arrive in units
-by 1994. Leopard I specialist variants were used instead.
+British Challenger 2, French Leclerc or the American Abrams M1A2. By
+1994 the full production run of 2,125 was complete and retained by the
+*Heer*. None of the engineering variants of the Leopard 2 had reached
+production but the Armored recovery vehicle variant was starting to
+arrive in units by 1994. Leopard I specialist variants were used
+instead.
 
 [**Leopard
 I**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php)
 
-<img src="/assets\images\nato\de\army\image3.jpg" style="width:3.51042in;height:2.34375in" />
-The Leopard I was used widely throughout Europe and Canada as well. The
+<img src="/assets\images\nato\de\army\image3.jpg" style="width:3.51042in;height:2.34375in" />The
+Leopard I was used widely throughout Europe and Canada as well. The
 German Army operated a total of 2,437 of them. With the introduction of
 the Leopard II, some were put into storage but most replaced M48s in
 reserve units. 1,225 tanks were upgraded to the ultimate ‘A5’ standard,
@@ -61,15 +61,15 @@ remainder were upgraded to the improved Leopard 1 A1A1 standard. In
 addition to the original production were large numbers of specialist
 vehicles such as:
 
--   377x Gepard Anti-Aircraft variants;
+-   377x Gepard Anti-Aircraft variants.
 
--   105x Biber Bridge Layers;
+-   105x Biber Bridge Layers.
 
--   444x Bergepanzer 2 Armored Recovery Vehicles (ARV);
+-   444x Bergepanzer 2 Armored Recovery Vehicles (ARV).
 
--   36x Bergepanzer 2A1 ARV for engineer vehicles;
+-   36x Bergepanzer 2A1 ARV for engineer vehicles.
 
--   140x Badger Engineering vehicles;
+-   140x Badger Engineering vehicles.
 
 <img src="/assets\images\nato\de\army\image4.jpeg" style="width:4.89583in;height:3.31653in" />
 
@@ -94,16 +94,16 @@ Vehicle**](http://www.military-today.com/apc/luchs.htm)
 
 The German Army used 408 of these 8-wheeled amphibious vehicles in their
 reconnaissance battalions. With 8-wheel drive and all wheel steering,
-being equipped with thermal sites, a 20mm cannon and long range radios,
-it was ideal for the job it was tasked for. It had two driving positions
-for rapid reverse.
+being equipped with thermal sites, a 20mm cannon and long-range radios,
+it was ideal for the job it was tasked for. It had two driving
+positions, one at each end of the vehicle for rapid reverse.
 
 [**Marder IFV**](http://www.military-today.com/apc/marder.htm)
 
 <img src="/assets\images\nato\de\army\image9.jpg" style="width:6.25in;height:3.92708in" />
 
 Germany was the first NATO country to adopt the IFV (Infantry Fighting
-Vehicle) concept with the Marder. 2,133 of these vehicles were used in
+Vehicle) concept with the Marder, with 2,133 of these vehicles used in
 Panzergrenadiere units. In addition to the 20mm Cannon and the Milan
 ATGM (Anti Tank Guided Missile), the soldiers in the passenger
 compartment can engage targets from inside the vehicle or quickly
@@ -114,31 +114,31 @@ carried a crew of 3 with 7 dismountable soldiers as passengers.
 
 <img src="/assets\images\nato\de\army\image10.jpg" style="width:5.09375in;height:3.39512in" />
 
-More than 4,000 of the ubiquitous M113 were in use, in addition to
+More than 4,000 of the ubiquitous M113 were in use. In addition to
 thousands used as infantry carriers’ numerous variants are found in the
 German Army, including:
 
--   +220x M577 Command Post;
+-   +220x M577 Command Post.
 
--   +500x Panzermorser 120 – 120mm Self Propelled Mortar;
+-   +500x Panzermorser 120 – 120mm Self Propelled Mortar.
 
--   154x Artillery Fire Control variants;
+-   154x Artillery Fire Control variants.
 
--   320x Beobachtungs Panzer Artillery observation vehicles;
+-   320x Beobachtungs Panzer Artillery observation vehicles.
 
--   301x M548G Skorpion Minenwerfer, mobile mine dispenser;
+-   301x M548G Skorpion Minenwerfer, mobile mine dispenser.
 
--   Forward Air Controller variant;
+-   Forward Air Controller variant.
 
--   Electronic Direction Finding variant;
+-   Electronic Direction-Finding variant.
 
--   Signals vehicle;
+-   Signals vehicle.
 
--   Ambulances;
+-   Ambulances.
 
--   Radar carriers;
+-   Radar carriers.
 
--   Artillery locating Radar carrier;
+-   Artillery locating Radar carrier.
 
 [**Fuchs
 Series**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/TPZ-Fuchs.php)
@@ -147,31 +147,31 @@ Series**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/TPZ-Fuchs.php)
 
 The Fuchs is a Six-wheeled Armored Personnel Carrier (APC). The German
 *Heer* operated 1,040 of these vehicles in several variants. The basic
-vehicle was an amphibious and designed to carry a crew of 2 with 10
+vehicle was amphibious and designed to carry a crew of 2 with 10
 passengers. Variants include:
 
--   550x Standard Fuchs 1;
+-   550x Standard Fuchs 1.
 
--   87x Non amphibious versions with larger payload;
+-   87x Non amphibious versions with larger payload.
 
--   265x fitted with various mission kits;
+-   265x fitted with various mission kits.
 
--   140x NBC reconnaissance vehicles;
+-   140x NBC reconnaissance vehicles.
 
 **Tank Destroyers**
 
 Three types of tank destroyers were used by the German Army. The idea
 was that these had the firepower of a tank but neither the
-maneuverability nor the protection. By 1994 they didn’t have the
-firepower either.
+maneuverability nor the protection. By 1994 the firepower was also less
+impressive.
 
 -   607x
     [Kanonenjagdpanzer](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Kanonenjagdpanzer-90.php),
-    with a 90mm gun;
+    with a 90mm gun.
 
 -   316x [Jaguar
     1](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Raketenjagdpanzer-I.php),
-    a similar chassis with a HOT ATGM;
+    a similar chassis with a HOT ATGM.
 
 -   162x Jaguar 2, a Kanonenjagdpanzer with the gun replaced by a TOW2
     ATGM

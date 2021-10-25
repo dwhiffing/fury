@@ -94,7 +94,7 @@ The Spanish Navy has a small Marine Brigade (Tercio de Armada) of two
 battalions, two artillery batteries, a tank company with M48 Patton
 tanks, amphibious tractors and various other elements. Unfortunately,
 there is very little in the way of amphibious landing capability; two
-Dock Landing Ships are being designed, and the two ‘Newport’ class LSTs
+Dock Landing Ships are being designed, but the two ‘Newport’ class LSTs
 destined for Spain were retained by the US. Spain has the following
 amphibious ships, all based at Rota:
 

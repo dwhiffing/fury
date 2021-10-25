@@ -1,11 +1,11 @@
 **French Destroyers**
 
 France classifies its escort ships by size and not function, therefore
-each class is assigned a role, either ASW or Missile which are primarily
-Air Defence (AD), the later classes are more universal in capability.
-The terms Destroyer and Frigate are also used interchangeably with the
-title of Frigate belonging to what other navies would term Offshore
-Patrol Vessels.
+each class is assigned a role, either Anti-Submarine Warfare (ASW) or
+Missile which are primarily Air Defence (AD), the later classes are more
+universal in capability. The terms Destroyer and Frigate are also used
+interchangeably with the title of Frigate belonging to what other navies
+would term Offshore Patrol Vessels.
 
 <img src="/assets\images\nato\fr\navy\destroyers\image1.jpg" style="width:6.5in;height:4.56528in" />
 
@@ -16,7 +16,7 @@ role of these two large ships is to protect the Clemenceau class
 aircraft carriers. Both were modernized between 1989 and 1991 and carry
 48 MASURCA Surface to Air Missiles (SAM), these are medium range French
 designed and produced missiles that are unique to this class of ship.
-(They were retrofitted onto the cruiser *Colbert* which retired in
+(They were also retrofitted onto the cruiser *Colbert* which retired in
 1991).
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Role** | **Task** |
@@ -32,9 +32,9 @@ around two evolving technologies in the late 1960s; a Towed Array sonar
 and the MALAFON ASW missile. Unfortunately, she took 5 years to build
 and did not have helicopter facilities so the program was terminated.
 She was upgraded in the mid-80s and received Exocet Anti-Ship Missiles
-(ASM) and again in 1992 with a new Towed Array, some point defences
-against missile and air attack. She is smaller than her successors but
-works to augment ASW Task Groups.
+(ASM) and again in 1992 with a new Towed Array as well as some point
+defences against missile and air attack. She is smaller than her
+successors but works to augment ASW Task Groups.
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Role** | **Task** |
 |-------------|-----------|----------|------------|--------------|----------|----------|

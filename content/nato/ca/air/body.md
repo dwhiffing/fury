@@ -1,10 +1,11 @@
-**Canadian Air Force**
+**Royal Canadian Air Force (RCAF)**
 
-The Canadian Air Force conducts a wide range of operations from Defence
-of North America under the NORAD (North American Air Defence) treaty and
-NATO tasks with a wing of CF-18s in Germany, to maritime patrol, Anti
-Submarine Warfare (ASW) and search and rescue working with the Canadian
-Navy, to providing the Army with its tactical aviation.
+The Royal Canadian Air Force (RCAF) conducts a wide range of operations
+from Defence of North America under the NORAD (North American Air
+Defence) treaty and NATO tasks with a wing of CF-18s in Germany, to
+maritime patrol, Anti-Submarine Warfare (ASW) and search and rescue
+working with the Royal Canadian Navy (RCN), to providing the Army with
+its tactical aviation.
 
 <img src="/assets\images\nato\ca\air\image1.jpeg" style="width:4.925in;height:2.77083in" />
 
@@ -137,7 +138,7 @@ Anti-Submarine Warfare (ASW) role. In total 41 aircraft were in
 operation all of them upgraded in the mid 1980’s. Historically six were
 fitted with a Magnetic Anomaly Detection (MAD) system for deployment to
 the Gulf war, this was designated as the CH-124B and in Northern Fury 12
-have been converted.
+have been converted with this upgrade.
 
 | Sqn | Name      | A/C | Type    | Base       | Remarks          |
 |-----|-----------|-----|---------|------------|------------------|

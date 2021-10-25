@@ -1,6 +1,6 @@
 **Greek Air Force**
 
-The Hellenic Air Force (HAF) maintains a large but mixed inventory; some
+The Hellenic Air Force (HAF) maintains a large and mixed inventory; some
 very capable modern aircraft are entering service but many less capable
 and almost obsolete aircraft remain.
 
@@ -112,10 +112,10 @@ the Italian F-104 ASM is being entertained.
 
 One veteran aircraft the Greek air force has no intention of retiring is
 the A-7H Corsair II. The SLUF (Short Little Ugly Fellow) is a venerable
-bomb truck with a massive range. Greece was the only country to receive
-new production Corsairs and the first foreign country to operate them in
-1975. There were 60 newly built plus an additional 36 surplus A-7Es in
-service by the early ‘90s.
+bomb truck with a massive range. Greece was the only non US country to
+receive new production Corsairs and the first foreign country to operate
+them in 1975. There were 60 newly built plus an additional 36 surplus
+A-7Es in service by the early ‘90s.
 
 | Sqn      | Name    | Wing          | Location | AC  | Type | Remarks |
 |----------|---------|---------------|----------|-----|------|---------|

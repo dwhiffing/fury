@@ -1,16 +1,16 @@
 **German Navy**
 
-The Bundesmarine is primarily a focused on control of the western Baltic
-sea, although they have interests in the North Sea and routinely send
-units to exercise and patrol with NATO forces. Maintaining Naval bases
-on both sides of the Jutland peninsula; Kiel on the Baltic in the east
-and Wilhelmshaven on the North Sea in the West joined by the Kiel canal
-for the exact purpose of transferring naval power form one coast to the
-other adds significant flexibility. As a rule, the larger ships, except
-the Lutjens Class Destroyers are based at Wilhelmshaven with easy access
-to the North Sea and Atlantic while the submarines, patrol boats, mine
-warfare craft and missile boats are at Kiel ready to join the Danes in
-defending the Baltic Approaches.
+The Bundesmarine is primarily focused on control of the western Baltic,
+although they have interests in the North Sea and routinely send units
+to exercise and patrol with NATO forces. Maintaining Naval bases on both
+sides of the Jutland peninsula; Kiel on the Baltic and Wilhelmshaven on
+the North Sea joined by the Kiel canal for the exact purpose of
+transferring naval power form one coast to the other adds significant
+flexibility. As a rule, the larger ships, except the Lutjens Class
+Destroyers are based at Wilhelmshaven with easy access to the North Sea
+and Atlantic while the submarines, patrol boats, mine warfare craft and
+missile boats are at Kiel ready to join the Danes in defending the
+Baltic Approaches.
 
 **Destroyers**
 
@@ -42,10 +42,10 @@ remain active.
 Class**: These three ships were derived from the US Charles F. Adams
 Class of DDGs, although the differences between the two were not
 operationally significant. The primary role of this class was air
-defence and had been upgraded over time to field both the Standard
+defence which had been upgraded over time to field both the Standard
 SM-1MR medium range Surface to Air Missiles (SAM) and the RAM (Rolling
 Airframe Missile) short range SAM. Considering that they were built in
-1969/70, their air defense capabilities were quite good.
+1969/70, their air defense capabilities was quite good.
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Task** |
 |-------------|-----------|----------|------------|--------------|----------|
@@ -201,9 +201,9 @@ waters of the Baltic Sea.
 Only four boats remain active in this class, although two were supposed
 to retire in 1993, they did not. At a displacement of 450 tonnes
 submerged and with a crew of 22, these are very small, but also very
-quiet subs. The Type 205 had a single hull, the Type 205A had a double
-hull, neither were non-magnetic but had hulls made of a much better and
-less magnetic steel than earlier designs.
+quiet subs. The Type 205 has a single hull, the Type 205A has a double
+hull, neither were non-magnetic but were made of a much better and less
+magnetic steel than earlier designs.
 
 | **Pennant** | **Class** | **Ship** | **Status** | **Location** | **Task**  |
 |-------------|-----------|----------|------------|--------------|-----------|

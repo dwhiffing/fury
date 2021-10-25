@@ -1,4 +1,4 @@
-**Danish Air Force**
+**Royal Danish Air Force**
 
 The Royal Danish Air Force (RDAF) is primarily focused on defence of the
 Baltic Approaches and will be largely detached to under command of

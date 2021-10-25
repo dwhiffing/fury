@@ -47,12 +47,12 @@ any situation.
 
 [***D'Estienne
 d'Orves*-class**](https://en.wikipedia.org/wiki/D%27Estienne_d%27Orves-class_aviso):
-Known as they A69 Type ship are small and economical, primarily designed
-for coastal ASW patrol, they can also fulfill the overseas patrols. Many
-Navies would consider the A69 class to be a Corvette due to its small
-displacement of less than 1200 Tons. There are 17 ships of this class in
-service, the last seven having an improved weapons fit with 2x Exocet
-ASMs.
+Known as the A69 Type ship they are small and economical, primarily
+designed for coastal ASW patrol, they can also fulfill the overseas
+patrols. Many Navies would consider the A69 class to be a Corvette due
+to its small displacement of less than 1200 Tons. There are 17 ships of
+this class in service, the last seven having an improved weapons fit
+with 2x Exocet ASMs.
 
 | **Pennant** | **Class** | **Ship**                         | **Status** | **Location**  | **Role** | **Task** |
 |-------------|-----------|----------------------------------|------------|---------------|----------|----------|

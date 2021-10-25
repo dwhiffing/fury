@@ -16,7 +16,7 @@ Hornet**](https://www.plane-encyclopedia.com/modern/ef-18-hornet-in-spanish-serv
 
 The fighting core of the Spanish Airforce is the EF-18A, with four
 operational Squadrons plus a training group. Spain obtained 60 ‘A+’ and
-12 ‘B+ versions of the aircraft, prefixed as EF these aircraft are very
+12 ‘B+’ versions of the aircraft, prefixed as EF these aircraft are very
 close to the ‘C/D’ standard allowing them to employ a modern suite of
 precision ground attack munitions, however they are limited to the
 Aim-7F Sparrow missile for air to air combat. An attempt (historically

@@ -1,7 +1,7 @@
 **Spanish Army**
 
 With a strength of 201,000 and 142,000 ready reserves, the Spanish Army
-was quite a large force but somewhat under equipped in comparison to
+was quite a large force but somewhat poorly equipped in comparison to
 other armies in NATO. Most formations were designed to be light, some
 would say under-equipped, with only 300 tanks that could be considered
 modern in 1994 (AMX-30). Structurally Spain would provide a Corps HQ

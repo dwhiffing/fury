@@ -16,8 +16,8 @@ Denmark initially acquired 120 Leopard 1A3 in the 70’s and upgraded them
 to the ‘A5’ level as well as purchasing a further 110 to replace its
 aging Centurions in 1992. Historically the second order was filled from
 surplus German Army stock as that force downsized – in Northern Fury
-these were still required and not available from surplus so they are new
-build tanks.
+these were still required and not available from surplus, so they are
+new build tanks.
 
 <img src="/assets\images\nato\dk\army\image2.jpg" style="width:5in;height:3.75in" />
 

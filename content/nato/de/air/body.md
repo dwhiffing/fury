@@ -5,10 +5,10 @@ War Two does not draw any continuity earlier than 1956. Although
 struggling after unification and some internal strife, the Germans
 retain over 500 front line combat aircraft. Some like the modernized F-4
 ICE are nearing the end of their lifespan but with the troubled
-Eurofighter program not yet producing a replacement, the Tornado is
-carrying a heavy load in the Luftwaffe. Organizationally air units were
-grouped in wings, geschwader or Marineflieger with two squadrons
-(staffel) each.
+Eurofighter program not yet producing a replacement, more modern
+aircraft such as the Tornado are carrying a heavy load in the Luftwaffe.
+Organizationally air units were grouped in wings, geschwader or
+Marineflieger with two squadrons (staffel) each.
 
 Upon reunification of Germany in 1990 a significant reorganization took
 place. Most of the aircraft of the former German Democratic Republic
@@ -46,10 +46,10 @@ early 90’s. This was a highly successful endeavour with almost 1000
 aircraft produced in three variants. The Luftwaffe procured 160 Tornado
 IDS (Interdiction/Strike) and 34 Tornado ECR (Electronic
 Combat/Reconnaissance), while the German Navy (Bundesmarine) acquired
-112 IDS variants which will be included here. No Air Defence Variants
-(ADV) were purchased by Germany who were banking on the Eurofighter
-Typhoon for the air superiority role. That aircraft was yet to make its
-first flight (March 1994). The intention was that the IDS version would
+112 IDS variants which are included here. No Air Defence Variants (ADV)
+were purchased by Germany who were banking on the Eurofighter Typhoon
+for the air superiority role. That aircraft was yet to make its first
+flight (March 1994). The intention was that the IDS version would
 replace all Alpha Jets an F-4F Phantoms in the Fighter Bomber role,
 however due to increased tensions one wing of Phantoms was retained and
 two wings of Alpha Jets were kept in front line service. Fighter bomber
@@ -160,10 +160,10 @@ based at Lechfeld.
 
 This twin engine tactical transport produced by France and Germany.
 Carrying almost as much as a C-130 Hercules, but over much shorter
-ranges, it was perfectly suited the intra-theater transport tasks it was
-designed for. The Luftwaffe acquired 90 of the ‘D’ models (another 20
-went to Turkey) in the late 60’s and grouped them in three transport
-wings (Lufttransportgeschwader, or LTG).
+ranges, the Transall was perfectly suited the intra-theater transport
+tasks it was designed for. The Luftwaffe acquired 90 of the ‘D’ models
+(another 20 went to Turkey) in the late 60’s and grouped them in three
+transport wings (Lufttransportgeschwader, or LTG).
 
 | Wing   | Location | No. | Type  |
 |--------|----------|-----|-------|

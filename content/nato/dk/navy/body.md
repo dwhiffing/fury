@@ -41,7 +41,7 @@ Class**](http://www.navalhistory.dk/English/TheShips/Classes/Thetis_Class(1991).
 These four ships are all newly commissioned (between 1991 and 1993) and
 have excellent modern sensors and communications capabilities.
 Displacing twice as much as the Niels Juel Class but with 30% fewer
-crew, theyare double hulled to protect against ice damage and can break
+crew, they are double hulled to protect against ice damage and can break
 through 30 inches of solid ice.
 
 | **Pennant** | **Ship**    | **Status** | **Location** | **Task** |

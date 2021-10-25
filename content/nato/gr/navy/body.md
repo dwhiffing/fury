@@ -48,10 +48,10 @@ gun for air defence but no flight deck.
 **Frigates**
 
 **Elli Class**: The two Elli Class were new build Kortenaer class ships
-which Greece received in the early 1980s. These were excellent ships of
-Dutch design but the eight sister ships were kept in Dutch service and
-not transferred to Greece beginning in 1993. These ships have a very
-modern propulsion system, aircraft facilities for two AB-212 ASW
+which Greece received in the early 1980s. These are excellent ships of
+Dutch design but the eight sister ships, which historically transferred
+to Greece beginning 1993, were kept in Dutch service. These ships have a
+very modern propulsion system, aircraft facilities for two AB-212 ASW
 helicopters, 8x Harpoon missiles, Sea Sparrow air defence missiles, an
 Oto-Melara 76mm gun and Phalanx Close In Weapons System (CIWS).
 
@@ -95,9 +95,9 @@ military /assets, Greece did not receive six cast-off Combattant IIa
 class ships. Beginning in the 1970s Greece began operating La Combattant
 FACs in the Aegean Sea as an inexpensive and effective way of countering
 any threat in those confined and busy waters. Over the years more boats
-were added; 14 boats in service in 1994, the six from Germany would have
-allowed retirement of some of the older craft but the numbers would have
-remained stable.
+were added; 14 boats were in service in 1994, the six from Germany would
+have allowed retirement of some of the older craft but the numbers would
+have remained stable.
 
 | Class               | Pennant | Name          | Status | Remarks           |
 |---------------------|---------|---------------|--------|-------------------|
@@ -142,7 +142,7 @@ Osprey types are simply gunboats.
 
 **Amphibious vessels**
 
-<img src="/assets\images\nato\gr\navy\image7.JPG" style="width:3.51319in;height:2.5in" />**Kos
+<img src="/assets\images\nato\gr\navy\image7.jpeg" style="width:3.51319in;height:2.5in" />**Kos
 Class LST**: These two ‘Landing Ship Tank’ of the World War Two
 ‘Terrebonne Parish-class’ were transferred to Greece in the early 1970s
 after many years of service for the USN in both Korea and Viet Nam as

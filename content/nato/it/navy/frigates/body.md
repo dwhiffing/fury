@@ -18,8 +18,7 @@ air defense they have the Italian designed Aspide short range surface to
 air missiles (SAM) augmented by 20mm and 40mm cannon. In addition to the
 127mm gun, these ships use four Italian designed Otomat Mk2 Surface to
 Surface Missiles (SSM) for anti-ship targeting. ASW work is carried out
-by two AB-212 Anti-Submarine Warfare (ASW) helicopters backed up by
-onboard torpedos and sonar.
+by two AB-212 ASW helicopters backed up by onboard torpedoes and sonar.
 
 | Class     | Pennant | Name      | Task         | Remarks |
 |-----------|---------|-----------|--------------|---------|
@@ -32,22 +31,22 @@ onboard torpedos and sonar.
 |           | F 576   | Espero    |              |         |
 |           | F 577   | Zeffiro   |              |         |
 
-<img src="/assets\images\nato\it\navy\frigates\image1.jpg" style="width:7.29167in;height:4.88542in" />
+<img src="/assets\images\nato\it\navy\frigates\image1.jpg" style="width:6.70087in;height:4.48958in" />
 
 [**Lupo/Artigliere
-Class**:](https://en.wikipedia.org/wiki/Lupo-class_frigate) The Lupo was
+Class**:](https://en.wikipedia.org/wiki/Lupo-class_frigate) The Lupo is
 a general purpose ASW frigate commissioned into the Italian Navy in the
 late ‘80s, it enjoyed some commercial success, Peru acquiring four and
 Venezuela purchasing another six. The Artigliere class were originally
-destined for Iraq as the Soldati class but they were seized during the
-Gulf war and outfitted as OPVs with all ASW equipment removed.
-Historically this seizure happened in 93 with the ships commissioning in
-94-96, for Northern Fury the seizure happened in 1991 and they were all
+destined for Iraq as the Soldati class but were seized aftter the Gulf
+war and outfitted as OPVs with all ASW equipment removed. Historically
+this seizure happened in 93 with the ships commissioning in 94-96, for
+Northern Fury the seizure happened in 1991 and they were all
 commissioned by the end of 1993. For air defense they have the Aspide
 short range SAMs augmented by 40mm cannon. For anti-ship targeting there
 are eight Otomat Mk2 SSM and a the 127mm gun. ASW work on the Lupo ships
 is carried out by an AB-212 Anti-Submarine Warfare (ASW) helicopters
-backed up by onboard torpedos and sonar. The Artigliere ships have
+backed up by onboard torpedoes and sonar. The Artigliere ships have
 double the number of Aspide SAMs but no sonar or onboard torpedoes, they
 do have a helicopter which can carry out ASW work but it is primarily
 for maritime patrolling.
@@ -70,8 +69,8 @@ Although these are the oldest of the ASW Frigates in the Italian Navy
 they were both modernized in the 1980s with updated sonar and electronic
 warfare equipment. The class introduced variable depth sonar and on
 board helicopters to the Italian Navy but they are severely lacking in
-air defense or anti shipping capability, having only Oto-Melara 76mm
-guns.
+air defense or anti shipping capability, having six 76mm guns but no
+missiles.
 
 | Class  | Pennant | Name        | Task | Remarks |
 |--------|---------|-------------|------|---------|
@@ -97,7 +96,7 @@ launcher and the other four carry six Otomat Mk2 SSM
 |                     | F 557   | Fenice  |      |         |
 |                     | F 558   | Sibilla |      |         |
 
-<img src="/assets\images\nato\it\navy\frigates\image4.jpg" style="width:4.53646in;height:3.02431in" />
+<img src="/assets\images\nato\it\navy\frigates\image4.jpg" style="width:5.69792in;height:3.79861in" />
 
 [**Cassiopea Class
 OPV**](https://www.militaryfactory.com/ships/detail.asp?ship_id=cassiopea-class-patrol-vessel-italian-navy):

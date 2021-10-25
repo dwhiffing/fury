@@ -21,12 +21,12 @@ Italy form and prepare for offensive or further defensive tasks.
 [**Leopard
 1**](http://www.tanks-encyclopedia.com/coldwar/West_Germany/Leopard-I.php):
 Italy purchased 200 of these tanks from Germany and produced another
-520, most were of the A2 standard but 120 were of the A5 variant. Italy
-also operated 136 ARV (Armored Recovery Vehicles), 40 AEV (Armored
-Engineer Vehicles), and 64 AVLB (Armored Vehicle Launched Bridges).
-Besides Germany, Italy was the largest user of this tank which was
-employed in all formations except the *Ariete* and *Mameli* armored and
-*Garibaldi* mechanized Brigades.
+520, most were of the A2 standard but 120 were of the very modern A5
+variant. Italy also operated 136 ARV (Armored Recovery Vehicles), 40 AEV
+(Armored Engineer Vehicles), and 64 AVLB (Armored Vehicle Launched
+Bridges). Besides Germany, Italy was the largest user of this tank which
+was employed in all formations except the *Ariete* and *Mameli* armored
+and *Garibaldi* mechanized Brigades.
 
 <img src="/assets\images\nato\it\army\image2.jpg" style="width:6.5in;height:4.05903in" />
 
@@ -140,7 +140,7 @@ to have the older towed 155 systems
 
 **Air Defence**
 
-Italy is in the midst of upgrading many of its air defence systems the
+Italy is in the midst of upgrading many of its air defence systems, the
 OTO-Breda SIDAM-25 is a good example of innovation. Both the Mistral and
 SPADA systems are European based and very modern. Although the [Nike
 Hercules](https://theaviationist.com/2010/06/09/the-nike-hercules-of-the-italian-air-force-museum/)

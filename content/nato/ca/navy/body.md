@@ -1,4 +1,4 @@
-**Canadian Navy**
+**Royal Canadian Navy (RCN)**
 
 Canada’s Navy was primarily focused on ASW work in the North Atlantic,
 although a Squadron was always available in the Pacific to patrol the
@@ -19,7 +19,7 @@ task groups or within the ASW escort of a US CVBG.
 
 <img src="/assets\images\nato\ca\navy\image2.jpg" style="width:6.5in;height:4.325in" />
 
-**Halifax (City) Class Frigates** represented a long awaited infusion of
+**Halifax (City) Class Frigates** represented a long-awaited infusion of
 modern capabilities into the RCN. In Northern Fury, four (of 12) members
 of this class are available, with three more being commissioned three
 months early and arriving for operations during the campaign. The
@@ -42,12 +42,12 @@ remaining five will be commissioned beyond the scope of Northern Fury.
 
 <img src="/assets\images\nato\ca\navy\image3.jpg" style="width:3.21181in;height:2.49444in" />
 
-**The Steamers:** The ships the Halifax class was replacing were all
+**The Steamers**: The ships the Halifax class was replacing were all
 commissioned in the late ‘50s or early ‘60s and were of marginal
 capability at best. Representing four different classes these 14 ships
 were all due for retirement after over 30 years of hard use in the North
 Atlantic or North Pacific. Essentially they remained active as life
-support systems for very effective towed array variable depth sonars
+support systems for very effective towed variable depth sonar array
 (VDS) and the Sea King Helicopter carried on Annapolis and St Laurent
 classes (6 Ships).
 

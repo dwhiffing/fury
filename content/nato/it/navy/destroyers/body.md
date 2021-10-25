@@ -2,7 +2,7 @@
 
 Italy operates four destroyers and uses them to provide air defence to
 the carriers, lead independent task forces or operate independently.
-They are potent and modern ships that exhibit excellent sea keeping
+These are potent and modern ships that exhibit excellent sea keeping
 characteristics
 
 [**Audace**
@@ -12,11 +12,11 @@ between 1988 and 1991. In their current form they represent a hybrid of
 American and Italian systems with Aspide short range and Standard SM-1
 missiles for medium range air defense. In addition to the 127mm gun,
 these ships use eight Italian designed Otomat Surface to Surface
-Missiles (SSM) for anti-ship targeting. These are good missiles with a
-110 nautical mile range but suffer from needing mid-course guidance and
-are limited to ship launched systems only. A single 127mm and four
-OTO-Melara 76mm rapid fire guns augment both the air defense and
-anti-surface batteries. Two AB-212 Anti-Submarine Warfare (ASW)
+Missiles (SSM) for anti-ship targeting. The Otomats are good missiles
+with a range of 110 nautical miles but suffer from needing mid-course
+guidance and are limited to ship launched systems only. A single 127mm
+and four OTO-Melara 76mm rapid fire guns augment both the air defense
+and anti-surface batteries. Two AB-212 Anti-Submarine Warfare (ASW)
 helicopters round out the armament making these very potent well rounded
 ships.
 
@@ -27,10 +27,12 @@ Class**:](http://www.military-today.com/navy/de_la_penne_class.htm) Both
 of these brand new ships (launched in March and October 1993) were
 designed as improved versions of the very successful Audace class. They
 have essentially the same armament but with more modern sensors and
-control systems than their predecessors but with only three 76mm guns
-vice four. These are well rounded world class ships
+control systems than their predecessors and only three 76mm guns vice
+four, considering most other modern ships have one gun (5” or 76mm),
+this arrangement is quite powerful. These are well rounded world class
+ships
 
-<img src="/assets\images\nato\it\navy\destroyers\image2.png" style="width:4.85347in;height:3.64028in" />
+<img src="/assets\images\nato\it\navy\destroyers\image2.png" style="width:5.95833in;height:4.46896in" />
 
 | Class       | Pennant | Name               | Task         | Remarks |
 |-------------|---------|--------------------|--------------|---------|
