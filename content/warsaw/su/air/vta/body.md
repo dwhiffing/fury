@@ -16,7 +16,7 @@ mix of ***An-12 Cub*** and ***Mi-8 Hip*** but often have strategic
 transport and VIP aircraft as well. The Navy also operates several
 transport units as does the Air Defence forces.
 
-<img src="/assets\images\warsaw\su\air\vta\image1.jpg" style="width:7.63889in;height:5.41667in" />
+<img src="/assets\images\warsaw\su\air\vta\image1.jpg" style="width:6.08681in;height:4.3161in" />
 
 Although VTA formations are not assigned to subordinate areas, they are
 affiliated and based on location, meant to support. 3<sup>rd</sup> Gds
@@ -28,7 +28,7 @@ Division is equipped to support global strategic cargo lift. The large
 number of independent regiments reflects the diverse nature of the fleet
 and the expansive area that needs to be covered.
 
-<img src="/assets\images\warsaw\su\air\vta\image2.jpg" style="width:22.00069in;height:14.67014in" />
+<img src="/assets\images\warsaw\su\air\vta\image2.jpeg" style="width:6.08239in;height:4.05575in" />
 
 Although detailed load tables are required, a rule of thumb for
 para-dropping Soviet Desantniki or Airborne Forces is one regiment of
@@ -49,7 +49,7 @@ a large independent Il-76 regiment (192<sup>nd</sup>) located in the Far
 East, these two organizations are available to reinforce any mass
 para-drops.
 
-<img src="/assets\images\warsaw\su\air\vta\image3.jpg" style="width:9.16667in;height:13.33333in" />
+<img src="/assets\images\warsaw\su\air\vta\image3.jpg" style="width:5.65755in;height:8.22917in" />
 
 An interesting aspect of Soviet para-drops, they parachute armored
 vehicles with the troops inside; this [quick
@@ -58,7 +58,7 @@ the technique.
 
 <img src="/assets\images\warsaw\su\air\vta\image4.jpg" style="width:6.27083in;height:9.05208in" />
 
-<img src="/assets\images\warsaw\su\air\vta\image5.jpg" style="width:10.41667in;height:4.86111in" />
+<img src="/assets\images\warsaw\su\air\vta\image5.jpg" style="width:6.86458in;height:3.20347in" />
 
 | Corps/Army | Division          | Regiment         | Location    | Number | Aircraft type | Remarks          |
 |------------|-------------------|------------------|-------------|--------|---------------|------------------|

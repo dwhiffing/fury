@@ -1,6 +1,6 @@
 **Long Range Aviation**
 
-<img src="/assets\images\warsaw\su\air\vgk\image1.jpg" style="width:13.125in;height:9.84375in" />
+<img src="/assets\images\warsaw\su\air\vgk\image1.jpg" style="width:6.125in;height:4.59375in" />
 
 The long range bomber force is almost an air force of its own right,
 they exist as the part of the Armed Forces (VA) of the Supreme High
@@ -42,7 +42,7 @@ of the Pacific Fleet.
 |                 |                           |               | 12     | Tu-22PD       |         |
 |                 |                           |               | 8      | Tu-16 Elka    |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\image2.jpg" style="width:7.96875in;height:4.04863in" />
+<img src="/assets\images\warsaw\su\air\vgk\image2.jpg" style="width:6.32288in;height:3.21242in" />
 
 **37<sup>th</sup> Air Army:** Centrally located in proximity to Moscow
 this force is postured to strike either north over the Arctic or into
@@ -69,7 +69,7 @@ the Mediterranean or Indian Ocean area.
 | Army Units       | 230<sup>th</sup> Tanker | Engels   | 36     | M-4 Bison     |         |
 |                  | 43<sup>rd</sup> Tpt     | Ostafevo | 25     | An-24         |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\image3.jpeg" style="width:9.98069in;height:7.07336in" />
+<img src="/assets\images\warsaw\su\air\vgk\image3.jpeg" style="width:6.40715in;height:4.54078in" />
 
 **46<sup>th</sup> Red Banner Air Army:** Located in the Smolensk area
 west of Moscow has the most modern Soviet bomber – the Tu-160 Blackjack
@@ -109,7 +109,7 @@ Armies.
 |                     |                           |              | 12     | Tu-22PD       |         |
 |                     | 103<sup>rd</sup> Tpt R    | Smolensk     | 25     | An-12         |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\image4.jpg" style="width:8.33333in;height:5.20833in" />
+<img src="/assets\images\warsaw\su\air\vgk\image4.jpg" style="width:6.10417in;height:3.8151in" />
 
 **6<sup>th</sup> Independent Heavy Bomber Aviation Corps:** Formed the
 46<sup>th</sup> Air Army in 1980 and moved into reserve status. Early
@@ -152,4 +152,4 @@ there was little or no reaction.
 |                      |                       |             | 8      | Tu-16 Elka    |         |
 |                      |                       |             | 12     | Tu-16R        |         |
 
-<img src="/assets\images\warsaw\su\air\vgk\image5.jpg" style="width:6.80208in;height:4.81378in" />
+<img src="/assets\images\warsaw\su\air\vgk\image5.jpg" style="width:5.81167in;height:4.11287in" />

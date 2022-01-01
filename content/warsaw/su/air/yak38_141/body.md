@@ -5,7 +5,7 @@ Soviet VTOL aircraft designs closely parallel experimentation in the
 west, particularly British development of the technology. The original
 Harrier Jump Jet developing about the same time as the Yak-38 Forger
 
-<img src="/assets\images\warsaw\su\air\yak38_141\image1.jpg" style="width:6.5in;height:3.99028in" />
+<img src="/assets\images\warsaw\su\air\yak38_141\image1.jpg" style="width:6in;height:3.68333in" />
 
 [**Yak-38 Forger**](https://en.wikipedia.org/wiki/Yakovlev_Yak-38)
 
@@ -19,7 +19,7 @@ remains are 48 Yak-38M airframes with an improved engine with marginally
 better performance, and 38 Yak-38U twin seat trainers. Each of the Kiev
 class carriers has an air group with 12 Forgers.
 
-<img src="/assets\images\warsaw\su\air\yak38_141\image2.png" style="width:6.5in;height:2.27014in" />
+<img src="/assets\images\warsaw\su\air\yak38_141\image2.png" style="width:6.26042in;height:2.18646in" />
 
 [**Yak-141 Freestyle**](https://en.wikipedia.org/wiki/Yakovlev_Yak-141)
 
@@ -36,4 +36,4 @@ supersonic flight.
 In Northern Fury, each of the Kiev class carriers operates between 4 and
 7 Freestyles while the remainder are make operationally ready.
 
-<img src="/assets\images\warsaw\su\air\yak38_141\image3.jpg" style="width:6.5in;height:3.87847in" />
+<img src="/assets\images\warsaw\su\air\yak38_141\image3.jpg" style="width:6.11458in;height:3.6485in" />

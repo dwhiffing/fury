@@ -54,7 +54,7 @@ transport. The project was canceled due to the fall of the Soviet Union
 and only 3 were built, but in Northern Fury there are 24 of these
 aircraft available.
 
-<img src="/assets\images\warsaw\su\air\support\image5.jpg" style="width:8.58506in;height:4.5in" />
+<img src="/assets\images\warsaw\su\air\support\image5.jpg" style="width:6.32431in;height:3.31499in" />
 
 ***the Air Force was divided into three aircraft based groups of units.
 They were the VVS-DA (Voenno-Vozdushnye Sily Dal'naya Aviatsiya) or Long
@@ -77,7 +77,7 @@ and limited transport duties. For Northern Fury there are 60 Be-12s
 available, mostly supporting the Northern and Pacific fleets but it can
 also be found in the Baltic and Black Sea fleets.
 
-<img src="/assets\images\warsaw\su\air\support\image6.jpg" style="width:11.26181in;height:7.57753in" />
+<img src="/assets\images\warsaw\su\air\support\image6.jpg" style="width:6.33407in;height:4.26189in" />
 
 [**Il-80 Maxdome**](https://en.wikipedia.org/wiki/Ilyushin_Il-80): Based
 on the Il-86 airliner, these four aircraft have been heavily converted
@@ -88,7 +88,7 @@ times of high tension one of these aircraft is always airborne and if
 nuclear war is imminent the President and other high level officials
 will be on board one of these aircraft.
 
-<img src="/assets\images\warsaw\su\air\support\image7.jpg" style="width:12.25863in;height:6.79659in" />
+<img src="/assets\images\warsaw\su\air\support\image7.jpg" style="width:6.63333in;height:3.67774in" />
 
 **Electronic Countermeasures Aircraft**
 
@@ -100,7 +100,7 @@ service the longest. Of the 1,100 aircraft of this type built about 300
 were converted to the ECM role and about 100 remain in service for
 Northern Fury although the remainder are in ready reserve.
 
-<img src="/assets\images\warsaw\su\air\support\image8.jpg" style="width:11.68056in;height:5.70833in" />
+<img src="/assets\images\warsaw\su\air\support\image8.jpg" style="width:6.54514in;height:3.19864in" />
 
 **[An-12
 Cub](https://en.wikipedia.org/wiki/List_of_Antonov_An-12_variants)
@@ -114,7 +114,7 @@ An-12PP (27) and the follow on An-12BK-PPS (20). In total almost 200
 An-12 aircraft had various forms of ECM and EW systems, identifiable by
 various antennae and bulges along the fuselage.
 
-<img src="/assets\images\warsaw\su\air\support\image9.jpg" style="width:12.8in;height:9.6in" />
+<img src="/assets\images\warsaw\su\air\support\image9.jpg" style="width:6.72708in;height:5.04531in" />
 
 **[Mi-8
 Hip](https://en.wikipedia.org/wiki/Mil_Mi-8#Command_and_electronic_warfare)
@@ -125,4 +125,4 @@ Mi-8PP and the upgraded ‘PPA’ is the primary airborne jamming platform
 for the Hip and well over 100 were built, the improved Mi-8SMV came
 later and about 50 were built.
 
-<img src="/assets\images\warsaw\su\air\support\image10.jpg" style="width:16.66667in;height:11.11111in" />
+<img src="/assets\images\warsaw\su\air\support\image10.jpg" style="width:6.90625in;height:4.60417in" />

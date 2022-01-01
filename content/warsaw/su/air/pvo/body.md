@@ -19,7 +19,7 @@ interceptors and the remainder being support, training and transport
 aircraft; additionally, almost 12,000 SAM systems are in use as well as
 hundreds of radar and EW sites.
 
-<img src="/assets\images\warsaw\su\air\pvo\image1.png" style="width:10.70833in;height:7.67708in" />
+<img src="/assets\images\warsaw\su\air\pvo\image1.png" style="width:6.74175in;height:4.83333in" />
 
 Organizationally each AD Army and the two districts are tailored to its
 specific task and the threats situation it faced.
@@ -48,7 +48,7 @@ would be replaced by Su-27 but that will not happen for several years.
 |                          |                             |              |        |               | 1x EW Bde          |
 | Army Units               | 25<sup>th</sup> Ind Tpt Sqn | Machulischi  |        | Mixed Tpt     |                    |
 
-<img src="/assets\images\warsaw\su\air\pvo\image2.jpg" style="width:13.875in;height:8.85417in" />
+<img src="/assets\images\warsaw\su\air\pvo\image2.jpg" style="width:6.66667in;height:4.25425in" />
 
 **[4<sup>th</sup> Independent Red Banner AD
 Army](https://www.ww2.dk/new/pvo/4oapvo.htm):** Mostly responsible for
@@ -107,7 +107,7 @@ outfitted with the antiquated Su-15s.
 |                          |                    |                        |             |        |               | 4x AA Missile Regt |
 |                          |                    |                        |             |        |               | 2x Tech Bds        |
 
-<img src="/assets\images\warsaw\su\air\pvo\image4.jpg" style="width:10.66667in;height:5.60417in" />
+<img src="/assets\images\warsaw\su\air\pvo\image4.jpg" style="width:6.70833in;height:3.5245in" />
 
 [**8<sup>th</sup> Independent AD
 Army**](https://www.ww2.dk/new/pvo/8oapvo.htm): Covering the south
@@ -135,7 +135,7 @@ Su-15s which will offer very limited capability against a modern threat.
 | Army Units               | 498<sup>th</sup> Trg Msl Bde | Opotchka       |        |               |                    |
 |                          |                              |                |        |               |                    |
 
-<img src="/assets\images\warsaw\su\air\pvo\image5.jpg" style="width:13.45877in;height:8.94972in" />
+<img src="/assets\images\warsaw\su\air\pvo\image5.jpg" style="width:6.92691in;height:4.6062in" />
 
 [**10<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/10oapvo.htm): The AD Army with the
@@ -174,7 +174,7 @@ the most modern types and concentrated on the Kola Peninsula.
 |                             |                       |                      |                 |        |               | 1x Tech Bde        |
 |                             |                       |                      |                 |        |               | 1x Tech Regt       |
 
-<img src="/assets\images\warsaw\su\air\pvo\image6.jpg" style="width:13.67917in;height:7.69453in" />
+<img src="/assets\images\warsaw\su\air\pvo\image6.jpg" style="width:6.78318in;height:3.81554in" />
 
 [**11<sup>th</sup> Independent Red Banner AD
 Army**](http://www.ww2.dk/new/pvo/11oapvo.htm): The largest AD Army, the
@@ -217,7 +217,7 @@ little better as fighters than the Su-15s are as interceptors.
 |                            |                        |                            |                 |        |               | 1x Tech Regt       |
 |                            |                        | 167<sup>th</sup> Mixed Avn | Khabarovsk      |        |               |                    |
 
-<img src="/assets\images\warsaw\su\air\pvo\image7.jpg" style="width:7.625in;height:4.06822in" />
+<img src="/assets\images\warsaw\su\air\pvo\image7.jpg" style="width:6.76012in;height:3.60677in" />
 
 [**12<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/12oapvo.htm): Concentrated in the
@@ -245,7 +245,7 @@ mountains. The SAM forces in this army are mostly older types.
 |                          |                        |                      |                   |        |               | 4x AA Missile Regt |
 |                          |                        |                      |                   |        |               | 2x Tech Bde        |
 
-<img src="/assets\images\warsaw\su\air\pvo\image8.jpg" style="width:11.11111in;height:9.08333in" />
+<img src="/assets\images\warsaw\su\air\pvo\image8.jpg" style="width:6.39653in;height:5.22917in" />
 
 [**14<sup>th</sup> Independent AD
 Army**](http://www.ww2.dk/new/pvo/14oapvo.htm): Patrolling the Siberian
@@ -282,7 +282,7 @@ dispersal bases to the north.
 |                              |                        |                          |               |        |               | 2x Tech Regt       |
 |                              |                        | 197<sup>th</sup> Ind Tpt | Novosibirsk   |        |               |                    |
 
-<img src="/assets\images\warsaw\su\air\pvo\image9.jpg" style="width:10.11111in;height:6.91667in" />
+<img src="/assets\images\warsaw\su\air\pvo\image9.jpg" style="width:6.65278in;height:4.55094in" />
 
 **[19<sup>th</sup> Independent Red Banner AD
 Army](http://www.ww2.dk/new/pvo/19oapvo.htm):** Concentrated in the
@@ -316,7 +316,7 @@ be a problem.
 |                          |                           |                      |               |        |               | 1x AA Missile Regt |
 |                          |                           |                      |               |        |               | 1x Tech Bde        |
 
-<img src="/assets\images\warsaw\su\air\pvo\image10.jpg" style="width:14.30729in;height:9.53819in" />
+<img src="/assets\images\warsaw\su\air\pvo\image10.jpg" style="width:6.77569in;height:4.51713in" />
 
 [**Leningrad Military District**](http://www.ww2.dk/new/pvo/18kpvo.htm):
 The Leningrad Military District is not part of the PVO, however, the

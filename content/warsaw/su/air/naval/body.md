@@ -12,7 +12,7 @@ for the expected tasks of that fleet, using the Air Division as a common
 basis, but the groupings within Regiments of that Division would often
 contain a mix of airframes.
 
-<img src="/assets\images\warsaw\su\air\naval\image1.jpg" style="width:18.05556in;height:11.90278in" />
+<img src="/assets\images\warsaw\su\air\naval\image1.jpg" style="width:6.19001in;height:4.08065in" />
 
 [**Red Banner Northern Fleet**](https://www.ww2.dk/new/navy/SF.htm):
 
@@ -59,7 +59,7 @@ Military District air command.
 |                           | 403<sup>rd</sup> RB OPLAP | Severomorsk-1 | 18     | Be-12         |           |
 |                           |                           |               | 24     | Mi-14         |           |
 
-<img src="/assets\images\warsaw\su\air\naval\image2.jpg" style="width:11.11111in;height:7.375in" />
+<img src="/assets\images\warsaw\su\air\naval\image2.jpg" style="width:6.67361in;height:4.42961in" />
 
 [**Red Banner Pacific Fleet**](https://www.ww2.dk/new/navy/TOF.htm):
 
@@ -111,7 +111,7 @@ aircraft at Cam Ranh Bay naval base in southern Viet Nam.
 | VVS 33<sup>rd</sup> Ftr-Bmbr | 300<sup>th</sup> Ftr-Bmbr | Pereyaslavka-2 | 41     | Su-17M2       |               |
 |                              | 229<sup>th</sup> Ftr-Bmbr | Birofeld       | 42     | Su-17M3       |               |
 
-<img src="/assets\images\warsaw\su\air\naval\image3.jpeg" style="width:10in;height:5.50667in" />
+<img src="/assets\images\warsaw\su\air\naval\image3.jpeg" style="width:6.24924in;height:3.44125in" />
 
 [**Twice Red Banner Baltic Fleet**](https://www.ww2.dk/new/navy/BF.htm):
 This is the smallest air command in the Navy and it is much less reliant
@@ -145,7 +145,7 @@ operations to allow surface forces to break out into the Atlantic.
 |                           | 321<sup>st</sup> Mar Aslt   | Suurkyul      | 29     | Su-24M        |         |
 |                           | 668<sup>th</sup> Mar Aslt   | Tukums        | 30     | Su-24M        |         |
 
-<img src="/assets\images\warsaw\su\air\naval\image4.jpg" style="width:8.88889in;height:6.05556in" />
+<img src="/assets\images\warsaw\su\air\naval\image4.jpg" style="width:6.38889in;height:4.35243in" />
 
 [**Red Banner Black Sea Fleet**](https://www.ww2.dk/new/navy/CHF.htm):
 The naval aviation in the Black Sea Fleet have the difficult problem of
@@ -176,7 +176,7 @@ the VVS.
 |                              |                          |              | 8      | An-26         |         |
 | VVS 29<sup>th</sup> Ftr-Bmbr | 43<sup>rd</sup> Ftr-Bmbr | Gvardeyskoye | 43     | Su-17M3       |         |
 
-<img src="/assets\images\warsaw\su\air\naval\image5.jpg" style="width:7.92708in;height:5.28472in" />
+<img src="/assets\images\warsaw\su\air\naval\image5.jpg" style="width:6.76042in;height:4.50694in" />
 
 [**High Command of the Navy**](https://www.ww2.dk/new/navy/VMF.htm):
 Although Navy pilots and some technicians attend VVS schools, the
@@ -203,4 +203,4 @@ aircraft are listed here.
 |                           |                          |               | 24     | An-12         |                    |
 |                           |                          |               | 4      | Il-76         |                    |
 
-<img src="/assets\images\warsaw\su\air\naval\image6.jpg" style="width:10.66667in;height:7.11458in" />
+<img src="/assets\images\warsaw\su\air\naval\image6.jpg" style="width:6.78125in;height:4.52304in" />

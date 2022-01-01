@@ -83,7 +83,7 @@ a mobilization HQ for activating reserve elements.
 |            |                          | 112<sup>th</sup> Mix Sqn     | Odessa      |        | Various       |               |
 |            |                          | 208<sup>th</sup> Ind EW Sqn  | Buyalyk     | 14     | Mi-8PPA       |               |
 
-<img src="/assets\images\warsaw\su\air\vvs\image3.jpg" style="width:9.02778in;height:5.40278in" />
+<img src="/assets\images\warsaw\su\air\vvs\image3.jpg" style="width:6.51736in;height:3.90039in" />
 
 **14<sup>th</sup> Air Army:** The primary responsibility of this force
 is to reinforce the South Western Military Direction and very likely the
@@ -107,7 +107,7 @@ west fighting NATO forces over the Balkans.
 |            |                       | 234<sup>th</sup> Ind Mix    | Lvov            |        | Various       |         |
 |            |                       | 209<sup>th</sup> Ind EW Sqn |                 | 11     | Mi-8PPA       |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image4.jpg" style="width:8.88889in;height:6in" />
+<img src="/assets\images\warsaw\su\air\vvs\image4.jpg" style="width:6.82639in;height:4.60781in" />
 
 **15<sup>th</sup> Air Army**: Based in the Baltics this army will work
 closely with Baltic Fleet and 26<sup>th</sup> Air Army units along the
@@ -131,7 +131,7 @@ long way to fixing that issue.
 |            |                          |                              | Riga-Skulte  |        | Var Tpt         |         |
 |            |                          | 285<sup>th</sup> Ind EW Sqn  |              | 19     | Mi-8PPA         |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image5.jpg" style="width:8in;height:5.33333in" />
+<img src="/assets\images\warsaw\su\air\vvs\image5.jpg" style="width:6.69792in;height:4.46528in" />
 
 **16<sup>th</sup> Air Army**: Formerly based in East Germany, this Air
 Army re-deployed to Czechoslovakia with the exception of a few units
@@ -169,7 +169,7 @@ training as well.
 |            |                            | 292<sup>nd</sup> Ind EW Sqn   | Kbely        | 11     | Mi-8PPA       |             |
 |            |                            | 39<sup>th</sup> Ind Recon Sqn | Brataslava   | 8      | Su-17M3R      |             |
 
-<img src="/assets\images\warsaw\su\air\vvs\image6.jpg" style="width:14.20833in;height:9.48611in" />
+<img src="/assets\images\warsaw\su\air\vvs\image6.jpg" style="width:6.47917in;height:4.32578in" />
 
 **17<sup>th</sup> Air Army**: Primarily focused on basic and advanced
 training for the entire VVS, this Army is under command of the Kiev
@@ -197,7 +197,7 @@ Military District and produces thousands of trained pilots every year.
 |            |                  | 228<sup>th</sup> Trg        | Bagerovo       | 120    | MiG-21bis     |         |
 |            |                  |                             |                | 20     | L-29          |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image7.jpg" style="width:13.33333in;height:12.07292in" />
+<img src="/assets\images\warsaw\su\air\vvs\image7.jpg" style="width:6.23526in;height:5.64583in" />
 
 **23<sup>rd</sup> Air Army**: A relatively small Air Army located in the
 Trans Baikal region. Primarily situated to support action in China, if
@@ -219,7 +219,7 @@ Military District and the Pacific Fleet.
 |            |                      | 36<sup>th</sup> Ind Mixed    | Chita    |        | Various       |           |
 |            |                      | 150<sup>th</sup> Ind Mixed   | Ulan-Ude |        | Various       |           |
 
-<img src="/assets\images\warsaw\su\air\vvs\image8.jpg" style="width:7.63889in;height:5.44444in" />
+<img src="/assets\images\warsaw\su\air\vvs\image8.jpg" style="width:6.26389in;height:4.46444in" />
 
 **24<sup>rd</sup> Air Army (VKG ON)**: Located in western Ukraine and
 Belarus, this force has been tasked with nuclear strike in the past and
@@ -242,7 +242,7 @@ reinforcement to any Front.
 |            |                         |                            |                   | 37     | Yak-28PP      |         |
 |            |                         | 511<sup>th</sup> Ind Recon | Buyalyk           | 6      | Su-24MR       |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image9.jpg" style="width:11.58333in;height:8.68056in" />
+<img src="/assets\images\warsaw\su\air\vvs\image9.jpg" style="width:6.11458in;height:4.58227in" />
 
 **26<sup>th</sup> Air Army**: Based in Belorussia, the primary task of
 this force is to back up any fight in Europe. Equipped with many of the
@@ -284,7 +284,7 @@ latest fighter forces.
 |            |                         |                              |                 | 15     | MiG-21R       |         |
 |            |                         | 302<sup>nd</sup> Ind EW Sqn  |                 | 13     | Mi-8PPA       |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image10.jpg" style="width:12.5in;height:8.33333in" />
+<img src="/assets\images\warsaw\su\air\vvs\image10.jpg" style="width:6.42708in;height:4.28472in" />
 
 **34<sup>th</sup> Air Army**: Located in the Transcaucian region and
 primarily responsible for eastern Turkey and Iran, in Northern Fury, a
@@ -315,7 +315,7 @@ Iran.
 |            |                         | 300<sup>th</sup> Ind Mix Sqn | Kala            |        | Various       |           |
 |            |                         | 286<sup>th</sup> Ind EW Sqn  | Dallyar         | 17     | Mi-8PPA       |           |
 
-<img src="/assets\images\warsaw\su\air\vvs\image11.jpg" style="width:6.66667in;height:3.78125in" />
+<img src="/assets\images\warsaw\su\air\vvs\image11.jpg" style="width:6.34375in;height:3.5981in" />
 
 **36<sup>th</sup> Air Army**: Reinforcing the Army units’ based in
 Hungary, this Air Army, although small has some of the most advanced
@@ -335,7 +335,7 @@ Italy.
 |            |                            | 201<sup>st</sup> Ind Mixed  | Tököl         |        | Various       |              |
 |            |                            | 294<sup>th</sup> Ind EW Sqn | Debrecen      | 17     | Mi-8PPA       |              |
 
-<img src="/assets\images\warsaw\su\air\vvs\image12.jpg" style="width:5in;height:3.33333in" />
+<img src="/assets\images\warsaw\su\air\vvs\image12.jpg" style="width:5.85938in;height:3.90625in" />
 
 **49<sup>th</sup> Air Army**: Located in Turkestan the main role of this
 Air Army is to reinforce into the Persian Gulf or Turkey, whichever
@@ -352,7 +352,7 @@ requires more effort.
 |            |                          |                              |                 | 24     | Su-17M2R      |         |
 |            |                          | 47<sup>th</sup> Ind Mix      | Ak-Tepe         |        | Various       |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image13.jpeg" style="width:4.66667in;height:2.9in" />
+<img src="/assets\images\warsaw\su\air\vvs\image13.jpeg" style="width:5.86686in;height:3.64583in" />
 
 **73<sup>rd</sup> Air Army**: Equipped with second line aircraft this
 Air Army conducts some advanced training as well as reinforcing forces
@@ -372,7 +372,7 @@ in either Central Asia, Turkey or the Persian Gulf.
 |            |                          | 381<sup>st</sup> Ind Recon | Chimkent     |        | Su-17M3R      |         |
 |            |                          | 218<sup>th</sup> Ind Mix   | Alma-Ata     |        | Various       |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image14.jpg" style="width:13.125in;height:8.57292in" />
+<img src="/assets\images\warsaw\su\air\vvs\image14.jpg" style="width:6.55208in;height:4.27965in" />
 
 **76<sup>th</sup> Air Army**: Although headquartered in Leningrad, the
 primary focus of this Air Army is power projection in the north into
@@ -454,7 +454,7 @@ combat units.
 |                |                      | 652<sup>nd</sup> Trg         | Tambov         | 96     | L-29          |               |
 |                |                      |                              |                |        | Tu-134UBL     |               |
 
-<img src="/assets\images\warsaw\su\air\vvs\image16.jpeg" style="width:10.58056in;height:7.93542in" />
+<img src="/assets\images\warsaw\su\air\vvs\image16.jpeg" style="width:6.47639in;height:4.85729in" />
 
 **North Caucasus Military District:** Almost exclusively devoted to
 training of Fighter Bomber units, this Air Command also conducts a
@@ -488,7 +488,7 @@ significant amount of basic flight training as well.
 |            |                |                            |             | 70     | Su-22         |             |
 |            |                | 960<sup>th</sup> Trg       | Primorsko   | 120    | L-39          |             |
 
-<img src="/assets\images\warsaw\su\air\vvs\image17.jpg" style="width:10.66667in;height:8in" />
+<img src="/assets\images\warsaw\su\air\vvs\image17.jpg" style="width:6.46875in;height:4.85156in" />
 
 **Siberian Military District:** Focused entirely on basic flight and
 basic fighter/interceptor training.
@@ -500,7 +500,7 @@ basic fighter/interceptor training.
 |                |          | 59<sup>th</sup> Trg | Slavgorod   | 120    | MiG-21bis     |         |
 |                |          | 96<sup>th</sup> Trg | Kamen-na-Ob | 120    | MiG-21bis     |         |
 
-<img src="/assets\images\warsaw\su\air\vvs\image18.jpg" style="width:9.375in;height:7.29167in" />
+<img src="/assets\images\warsaw\su\air\vvs\image18.jpg" style="width:6.85417in;height:5.33102in" />
 
 **Volga Military District:** The Volga Military District conducts both
 transport and helicopter training in addition to basic flight training
@@ -533,4 +533,4 @@ for its students.
 |            |                 | 605<sup>th</sup> Trg      | Kamensk-Uralskiy |        | Tu-134Sh      |                |
 |            |                 | 607<sup>th</sup> Trg      | Yuzhno-Uralskiy  |        | Tu-134Sh      |                |
 
-<img src="/assets\images\warsaw\su\air\vvs\image19.jpg" style="width:7.29167in;height:4.86111in" />
+<img src="/assets\images\warsaw\su\air\vvs\image19.jpg" style="width:6.59375in;height:4.39583in" />

@@ -1,4 +1,4 @@
-**<u>Northern Fury \#14 – Hear Comes the Cavalry</u>**
+**<u>Northern Fury \#14 – Here Comes the Cavalry</u>**
 
 **<u>AAR by fitzpatv, Oct 2021</u>**
 

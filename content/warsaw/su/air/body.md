@@ -1,6 +1,6 @@
 **Soviet Union Air Force**
 
-<img src="/assets\images\warsaw\su\air\image1.jpeg" style="width:6.5in;height:4.32708in" />
+<img src="/assets\images\warsaw\su\air\image1.jpeg" style="width:6.17708in;height:4.11212in" />
 
 The USSR is a vast geographic country and naturally gravitated to air
 transport in its early days. The history of [Soviet
@@ -75,6 +75,6 @@ even 2003 will be available in 1994 – in small numbers.
 A stylistic depiction of Soviet Aviation formations in Northern fury
 follows on these two grapics:
 
-<img src="/assets\images\warsaw\su\air\image2.png" style="width:10.76042in;height:7.69792in" />
+<img src="/assets\images\warsaw\su\air\image2.png" style="width:7.14583in;height:5.11207in" />
 
-<img src="/assets\images\warsaw\su\air\image3.png" style="width:11.60417in;height:7.63542in" />
+<img src="/assets\images\warsaw\su\air\image3.png" style="width:7.04167in;height:4.63334in" />
