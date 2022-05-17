@@ -8,7 +8,7 @@ layout:  home
 
 #### **Listen to an [Interview](/assets/audio/993interview_gauvin.mp3) on County 99.3 FM**
 
-### Watch a scenario play through and listen to an interviw on [Twitch](https://www.twitch.tv/videos/427260603)
+### Watch a scenario play through and listen to an interview on [Twitch](https://www.twitch.tv/videos/427260603)
 
 ##### Scenario Play for Modern Air/Naval Operations
 
