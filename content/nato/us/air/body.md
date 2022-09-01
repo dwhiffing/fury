@@ -30,9 +30,9 @@ reconnaissance, rescue and Battle management forces for rapid deployment
 and employment. This is a large command with over 230,000 regular and
 reserve personnel and over 1,000 aircraft.
 
-<img src="/assets\images\nato\us\air\image4.png" style="width:8.51042in;height:4.87297in" />
+<img src="/assets\images\nato\us\air\image4.png" style="width:7.44783in;height:4.26454in" />
 
-<img src="/assets\images\nato\us\air\image5.jpg" style="width:10.18082in;height:4.92708in" />
+<img src="/assets\images\nato\us\air\image5.jpg" style="width:7.28472in;height:3.52549in" />
 
 **Air Mobility Command**
 
@@ -58,9 +58,9 @@ deterrence, is to train with Asian and Australian Air Forces as a way of
 leveraging the combat power of those nations toward a unified command
 system.
 
-<img src="/assets\images\nato\us\air\image8.png" style="width:8.17991in;height:3.90625in" />
+<img src="/assets\images\nato\us\air\image8.png" style="width:7.27361in;height:3.47345in" />
 
-<img src="/assets\images\nato\us\air\image9.jpg" style="width:15.98444in;height:9.18608in" />
+<img src="/assets\images\nato\us\air\image9.jpg" style="width:7.3062in;height:4.19879in" />
 
 **US Air Force in Europe**
 
@@ -89,7 +89,7 @@ than double this number.
 
 <img src="/assets\images\nato\us\air\image11.png" style="width:7.56875in;height:1.47132in" />
 
-<img src="/assets\images\nato\us\air\image12.jpg" style="width:9.88333in;height:4.84in" />
+<img src="/assets\images\nato\us\air\image12.jpeg" style="width:6.88248in;height:3.37044in" />
 
 **Air Force Special Operation Command**
 
@@ -133,7 +133,7 @@ short notice.
 
 <img src="/assets\images\nato\us\air\image13.png" style="width:5.59375in;height:2.14653in" />
 
-<img src="/assets\images\nato\us\air\image14.jpg" style="width:13.40663in;height:8.73264in" />
+<img src="/assets\images\nato\us\air\image14.jpg" style="width:6.26042in;height:4.07783in" />
 
 **Air Force Space Command**
 
@@ -157,7 +157,7 @@ reconnaissance have gone through numerous changes over time)
 
 <img src="/assets\images\nato\us\air\image15.png" style="width:5.58681in;height:6.20694in" />
 
-<img src="/assets\images\nato\us\air\image16.jpeg" style="width:10in;height:6.67in" />
+<img src="/assets\images\nato\us\air\image16.jpeg" style="width:6.99917in;height:4.66844in" />
 
 **Air Force Reserve**
 
@@ -174,7 +174,7 @@ but nothing significant. Not all detail is shown in the diagram below:
 
 <img src="/assets\images\nato\us\air\image17.png" style="width:5.66736in;height:4.16042in" />
 
-<img src="/assets\images\nato\us\air\image18.jpg" style="width:13.43501in;height:7.11111in" />
+<img src="/assets\images\nato\us\air\image18.jpg" style="width:7.34097in;height:3.88555in" />
 
 **Air Force National Guard**
 
@@ -256,9 +256,9 @@ Although flight training is only one of many functions of ATEC, it
 operates over 1,500 aircraft in two numbered air forces, including over
 350 front line aircraft!
 
-<img src="/assets\images\nato\us\air\image20.png" style="width:9.22183in;height:3.3125in" />
+<img src="/assets\images\nato\us\air\image20.png" style="width:7.61736in;height:2.73617in" />
 
-<img src="/assets\images\nato\us\air\image21.jpg" style="width:10.41667in;height:6.9375in" />
+<img src="/assets\images\nato\us\air\image21.jpg" style="width:6.95833in;height:4.63425in" />
 
 **Air Force Materiel Command**
 
@@ -268,7 +268,7 @@ personnel and operating 40 different types of aircraft, this is a large
 command. AFMC also operates the ‘Test Pilot’ school and works with
 industry to develop and evolve aircraft.
 
-<img src="/assets\images\nato\us\air\image22.jpg" style="width:12.53426in;height:5.59028in" />
+<img src="/assets\images\nato\us\air\image22.jpg" style="width:6.85694in;height:3.0582in" />
 
 **Northern Fury**
 
@@ -334,4 +334,4 @@ undertaken to stem the decline of combat power within the air force:
         retiring many F-16ADF, and canceling several foreign sales a net
         increase of 15x F-16 Squadrons are available to the USAF.
 
-<img src="/assets\images\nato\us\air\image23.jpg" style="width:11.20833in;height:8.43056in" />
+<img src="/assets\images\nato\us\air\image23.jpg" style="width:7.125in;height:5.3592in" />

@@ -7,7 +7,7 @@ Phantoms lingered on in the Air National Guard (ANG).
 
 [**F-15A/C Eagle**](https://fas.org/man/dod-101/sys/ac/f-15.htm)
 
-<img src="/assets\images\nato\us\air\fighter\image1.png" style="width:4.85261in;height:3.16042in" />
+<img src="/assets\images\nato\us\air\fighter\image1.png" style="width:5.96875in;height:3.88734in" />
 
 The F-15 is an all weather, highly maneuverable air superiority fighter.
 Arguably the best air superiority aircraft in the world, none have been
@@ -122,7 +122,7 @@ the conversion training unit into mid 1994.
 | 494 FS | Panthers        | 48th  | Lakenheath AB, UK       | 24  | F-15E | USAFE        |
 | 550 FS | Silver Eagles   | 56th  | Luke AFB, AZ            | 24  | F-15E | Deactivating |
 
-<img src="/assets\images\nato\us\air\fighter\image2.jpeg" style="width:6.8737in;height:4.57292in" />
+<img src="/assets\images\nato\us\air\fighter\image2.jpg" style="width:4.73958in;height:2.6296in" alt="A group of military jets flying in the sky Description automatically generated with low confidence" />
 
 [**F-16 Falcon**](https://fas.org/man/dod-101/sys/ac/f-16.htm)The F-16
 is the most numerous and versatile fighter in the USAF inventory. First
@@ -200,8 +200,8 @@ are:
     of Enemy Air Defence (SEAD) role. Production began in late 1991 and
     continues at an increased pace. By the start of Northern Fury there
     are 304 available after removing 33 due to attrition. There are none
-    in the training system but 11 front line squadrons are equipped with
-    this version.
+    in the training system, but 11 front line squadrons are equipped
+    with this version.
 
 | Sqn    | Name                  | Wing             | Location             | No. | Type          | Remarks          |
 |--------|-----------------------|------------------|----------------------|-----|---------------|------------------|

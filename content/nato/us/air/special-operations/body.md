@@ -89,7 +89,7 @@ and messages on radio, television, shortwave and military frequencies.
 There are six aircraft operated by 193<sup>rd</sup> Special Operations
 Squadron (SOS) of the Pennsylvania Air Guard.
 
-<img src="/assets\images\nato\us\air\special-operations\image4.jpeg" style="width:4.02083in;height:2.59311in" />
+<img src="/assets\images\nato\us\air\special-operations\image4.jpeg" style="width:5.625in;height:3.62766in" />
 
 [**MH-53J Pave Low
 III**](http://www.americanspecialops.com/usaf-special-operations/aircraft/mh-53-pavelow/)

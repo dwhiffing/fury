@@ -19,7 +19,7 @@ break an aircrafts probe causing a scrubbed mission.
 
 <img src="/assets\images\nato\us\air\tankers-transports\image1.jpg" style="width:5.95833in;height:3.35143in" />
 
-<img src="/assets\images\nato\us\air\tankers-transports\image2.jpg" style="width:12.5in;height:6.5625in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image2.jpg" style="width:6.375in;height:3.34688in" />
 
 Probe refueling of an F-16
 
@@ -39,7 +39,7 @@ fueling on the same mission and change methods in flight. The Extender
 is operated by 12 Squadrons, all within AMC with a mix of regular and
 reserve crews.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image3.jpg" style="width:9.29167in;height:6.29277in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image3.jpg" style="width:6.6869in;height:4.52869in" />
 
 [KC-135 Stratotanker](https://fas.org/nuke/guide/usa/bomber/kc-135r.htm)
 
@@ -63,7 +63,7 @@ operational demand. There were about 10 C-135 and seven C-137, which
 were a pure cargo version of the 707, these were used as the bases for
 modification to create specialty aircraft such as J-STARS.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image4.jpg" style="width:7.29167in;height:4.38715in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image4.jpg" style="width:6.72859in;height:4.04837in" />
 
 [**C-5
 Galaxy**](http://www.military-today.com/aircraft/lockheed_c_5_galaxy.htm)
@@ -82,7 +82,7 @@ reliability. By 1994, there had been seven crashes leaving a total of
 120 airframes operated by 13 AMC/ANG/Air Reserve squadrons, all are
 upgraded to the ‘B’ standard.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image5.jpg" style="width:6.5in;height:4.33681in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image5.jpg" style="width:6.28142in;height:4.19097in" />
 
 [**C-141B Starlifter**](https://fas.org/man/dod-101/sys/ac/c-141.htm)A
 companion heavy lifter to the C-5, the more numerous Starlifters tended
@@ -100,7 +100,7 @@ effectively adding 90 aircraft worth of carrying capacity to the fleet.
 The 270 aircraft are operated by 30 squadrons, half of them in the Air
 Force Reserve.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image6.jpg" style="width:6.28125in;height:4.05268in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image6.jpg" style="width:6.02201in;height:3.88542in" />
 
 [**C-17 Globemaster
 III**](http://www.military-today.com/aircraft/boeing_globemaster_III.htm)
@@ -122,7 +122,7 @@ passengers of the Starlifter but will fit bulkier cargo. Where the
 Globemaster shines however is on small runways where its reversible
 engines add a high degree of flexibility.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image7.jpg" style="width:6.5in;height:3.65625in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image7.jpg" style="width:6.08333in;height:3.42188in" />
 
 [**C-130 Hercules**](https://fas.org/man/dod-101/sys/ac/c-130.htm)
 
@@ -140,7 +140,7 @@ production line at Lockheed still produce the Hercules for use in over
 60 different countries. Specialty versions will be discussed in other
 areas.
 
-<img src="/assets\images\nato\us\air\tankers-transports\image8.jpg" style="width:6.5in;height:4.36597in" />
+<img src="/assets\images\nato\us\air\tankers-transports\image8.jpg" style="width:6.125in;height:4.11409in" />
 
 [**C-9A Nightingale**](https://fas.org/man/dod-101/sys/ac/c-9.htm)
 

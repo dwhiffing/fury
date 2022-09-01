@@ -17,7 +17,7 @@ over the next few days. It would be unwise to consider failure.
 <img src="/assets\images\aar\bf\bf4\image2.jpeg" style="width:6.5in;height:4.05417in" alt="Bunker 7 - Finderup - ACE-High-Journal" />
 
 **<u>Baltic Fury \#4</u>** is a challenging scenario as the list of
-tasks is long, resources are short and somewhat limited and you must
+tasks is long, resources are short and somewhat limited, and you must
 complete the entire operation in 16 hours. Although you control between
 375 and 400 aircraft, they are of different capabilities and with some
 variance in pilot quality.
