@@ -1,0 +1,15 @@
+layout: blog
+
+main:
+  - body.md
+
+nav:
+  - /_shared/nav.md
+
+title: Gorbachev's Legacy
+
+date: August 31, 2022
+
+category: General News
+
+tag: The World
