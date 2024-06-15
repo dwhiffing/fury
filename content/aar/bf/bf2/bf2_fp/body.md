@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 **<u>Baltic Fury 2 – Borscht on Bornholm</u>**
 
 **<u>Summary by fitzpatv, Dec 2022</u>**
+=======
+**<span class="underline">Baltic Fury 2 – Borscht on Bornholm</span>**
+
+**<span class="underline">Summary by fitzpatv, Dec 2022</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 The Soviets (under my control for the first time) move to capture
 Bornholm and use it as an advanced air and SAM base. NATO decides not to
@@ -193,7 +199,11 @@ began looking for mines. Though none are listed on Scenario Platforms,
 trust me, there are plenty there…
 
 01:00: Intel suggested that NATO planned a major air operation after
+<<<<<<< HEAD
 daybreak – what a surprise!. It was possible to request extra Floggers
+=======
+daybreak – what a surprise\!. It was possible to request extra Floggers
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 from the base at Pyarnu, Estonia (a city I’ve visited) but this costs
 lots of VP on a sliding scale, depending on how many squadrons you ask
 for, so I didn’t bother. You can also request air support from the Poles
@@ -215,7 +225,11 @@ Scenario Platforms…
 activity got underway.
 
 Enemy PCFGs began to appear in the approaches to Kiel and Copenhagen.
+<<<<<<< HEAD
 Thankfully, they weren’t as close as initial indications suggested!.
+=======
+Thankfully, they weren’t as close as initial indications suggested\!.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 Contacts resolved as 6 Danish Willemoes boats to the NW and 6 German
 Gepards leading 4 Danish Flyvefisken to the W. The Danes carried
 Harpoons, while the Gepards only had shorter-ranged Exocets, but made-up
@@ -265,7 +279,11 @@ plenty of time, I could wait-out the air strike there.
 04:00: Another four Sepals sank two more Willemoes. The score of +502
 was still only Average.
 
+<<<<<<< HEAD
 B-224 ambushed and sank all six Gepards!. That took the sub’s score to
+=======
+B-224 ambushed and sank all six Gepards\!. That took the sub’s score to
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 eight ships and was helped by the AI mindlessly sailing on into the
 torpedoes, which were fired as near as I could manage. That got rid of
 the enemy SAM cover, exposing the Flyvefisken. Kilos can be really
@@ -345,8 +363,13 @@ can, of course, work both ways. Personally, I feel the loss of control.
 
 I mostly kept my Flankers out of trouble by having them withdraw at
 Afterburner before getting enmeshed in the melee, but this policy
+<<<<<<< HEAD
 couldn’t be absolute due to the need to combat the blizzard of HARMs and
 Kormorans. Thankfully, the SAMs managed to get the vast majority of
+=======
+couldn’t be absolute due to the need to combat the blizzard of HARMs
+and Kormorans. Thankfully, the SAMs managed to get the vast majority of
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 them.
 
 As the attack abated, I sent-out my SAR planes in the vain hope that it
@@ -469,7 +492,11 @@ planes, a UAV, 4 radars, 200 ground elements, 6 MANPAD elements and 33
 mines.
 
 Overall, another long and challenging scenario, despite the emphatic
+<<<<<<< HEAD
 win. The NATO air strike was truly scary stuff! As expected, it was
+=======
+win. The NATO air strike was truly scary stuff\! As expected, it was
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 interesting running the Soviet side and it gave me extra insight into
 the capabilities of some of the units I’ve been fighting for so long (I
 hadn’t realised that a Foxtrot’s sonar can’t identify a fish at three

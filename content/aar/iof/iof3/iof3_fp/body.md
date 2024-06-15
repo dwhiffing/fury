@@ -1,6 +1,10 @@
 **Indian Ocean Fury \#3 – Socotra Scramble**
 
+<<<<<<< HEAD
 **<u>AAR by fitzpatv, July 2023</u>**
+=======
+**<span class="underline">AAR by fitzpatv, July 2023</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 As war breaks out, the Soviets and their regional allies (Yemen,
 Ethiopia, Eritrea and Sudan) have closed the Bab-al-Mandeb strait at the
@@ -9,10 +13,17 @@ towards and from the Suez Canal. USS Nimitz is urgently needed to
 reinforce NATO in the Mediterranean, but is currently in the approaches
 to the Gulf of Aden and has to get through the Red Sea in the next few
 days. Guarding the E end of the Gulf of Aden is the Soviet base on the
+<<<<<<< HEAD
 ‘waterless isle of Socotra’ (as it was first described to me), which has
 to be neutralised en route, along with another base on Dahlak Island in
 the Southern Red Sea and as many Warsaw Pact-aligned forces as possible.
 You can only play the NATO side.
+=======
+‘waterless isle of Socotra’ (as it was first described to me), which
+has to be neutralised en route, along with another base on Dahlak Island
+in the Southern Red Sea and as many Warsaw Pact-aligned forces as
+possible. You can only play the NATO side.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 Nimitz is escorted by the cruiser Worden, the destroyers John Paul Jones
 and Briscoe and the frigate Stephen W Groves. She has a large air group,
@@ -92,7 +103,11 @@ importance of the target.
 
 02:00Z: A follow-up wave of 6 TLAMs finished off the naval base and
 accounted for no less than 20 more Osas. They could reflect on the old
+<<<<<<< HEAD
 adage that ‘dulce et decorum est pro patria mori’! I was pretty glad
+=======
+adage that ‘dulce et decorum est pro patria mori’\! I was pretty glad
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 that this lot never got to sea and that the resident Fencers would stay
 grounded. Socotra was neutralised.
 
@@ -158,7 +173,11 @@ eliminating 11 dhows and 66 other craft for a nice haul of points. At
 monitor activity at all Yemeni bases. In this way, I learned that there
 were still Soviet aircraft operating from Sana’a. Looking more closely
 at the photo recon, I realised that the base had a runway-grade taxiway
+<<<<<<< HEAD
 as well as a runway!.
+=======
+as well as a runway\!.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 17:00Z: I launched 10 more TLAMs at the taxiway. To distract the
 defenders, a Mirage took-off from Djibouti, engaged and destroyed a
@@ -413,7 +432,11 @@ picked-off two more over the Nile.
 
 16:00Z: A lone F-15 with our last Paveways made another visit to Socotra
 and wrote-off another 18 enemy aircraft. I was glad I’d prevented that
+<<<<<<< HEAD
 lot from getting airborne early-on!
+=======
+lot from getting airborne early-on\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 17:00Z: Shot down two more Sudanese Fishbeds to take the score to +650
 and a theoretical Major Victory before winding-down the clock. Deducting

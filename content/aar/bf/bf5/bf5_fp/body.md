@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 **<u>Baltic Fury 5 – Ivan’s March Across the Belts</u>**
 
 **<u>Summary by fitzpatv, Feb 2023</u>**
+=======
+**<span class="underline">Baltic Fury 5 – Ivan’s March Across the
+Belts</span>**
+
+**<span class="underline">Summary by fitzpatv, Feb 2023</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 By February 25th, the advancing Soviets have cut-off Jutland from the
 rest of Europe by land. Their 38th Guards Airborne Corps now aims to
@@ -223,6 +230,7 @@ any use.
 Two pairs of Flankers were lost over North Jutland as more NATO fighters
 appeared. This was mainly because their Mission doctrine allowed them to
 investigate unknown contacts within weapon range (even though they
+<<<<<<< HEAD
 weren’t). As a result, they flew N towards Aarhus while I wasn’t looking
 and got themselves outnumbered and handicapped by their malfunctioning
 Alamos (NATO maintains some otherwise redundant fighters up there all
@@ -230,6 +238,15 @@ scenario). Unfortunately, I had to have this setting earlier to prevent
 fighters ignoring NATO CAP that was heading for the transports. With the
 paradrop over, I was able to reverse it out, but too late to save four
 planes and 8VP.
+=======
+weren’t). As a result, they flew N towards Aarhus while I wasn’t
+looking and got themselves outnumbered and handicapped by their
+malfunctioning Alamos (NATO maintains some otherwise redundant fighters
+up there all scenario). Unfortunately, I had to have this setting
+earlier to prevent fighters ignoring NATO CAP that was heading for the
+transports. With the paradrop over, I was able to reverse it out, but
+too late to save four planes and 8VP.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 Danish infantry materialised around Vordingborg, at Nyborg, on Bogo By
 island and at Korsor, the latter supported by four Pattons. All of these
@@ -258,7 +275,11 @@ got anywhere dangerous.
 
 Despite securing all objectives and inflicting far more losses than I
 took, I was only awarded a Minor Victory, with a score of +695. Goodness
+<<<<<<< HEAD
 knows what you have to do for a Triumph!. Some of the victory point
+=======
+knows what you have to do for a Triumph\!. Some of the victory point
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 schedules in the series are frankly hard to take seriously.
 
 The Warsaw Pact lost 11 fighters, 9 Fencers, 5 Cubs, a Mail, a chopper

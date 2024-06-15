@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 **<u>Baltic Fury 3 – Warsaw uprising</u>**
 
 **<u>Summary by fitzpatv, Jan 2023</u>**
+=======
+**<span class="underline">Baltic Fury 3 – Warsaw uprising</span>**
+
+**<span class="underline">Summary by fitzpatv, Jan 2023</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 As NATO once more, the player has to neutralise the newly-established
 Soviet base on Bornholm. Specifically, there is a need to destroy
@@ -63,6 +69,7 @@ hugging the Swedish coast as far as possible once there.
 
 Tornado F.3s and Fulcrums were told to follow missiles straight-in
 during BVR engagements instead of cranking. This helped a bit with the
+<<<<<<< HEAD
 ‘missiles going blind’ issue, but was no panacea. The requesite pair of
 MiG-29s were sent to the designated patrol area near the border, keeping
 as low as the game would allow. This wasn’t great for fuel economy, but
@@ -72,6 +79,18 @@ An immediate issue was having the planes go Engaged Offensive at the
 AI’s behest, which was suicidal under the circumstances. After dodging
 Guidelines the first time it happened, I cured this by Unassigning them
 from the pre-set Mission and managing patrols manually.
+=======
+‘missiles going blind’ issue, but was no panacea. The requesite pair
+of MiG-29s were sent to the designated patrol area near the border,
+keeping as low as the game would allow. This wasn’t great for fuel
+economy, but kept the SAMs off their back. It proved possible to recycle
+the Fulcrums to maintain this patrol, more or less continuously,
+throughout the game. An immediate issue was having the planes go Engaged
+Offensive at the AI’s behest, which was suicidal under the
+circumstances. After dodging Guidelines the first time it happened, I
+cured this by Unassigning them from the pre-set Mission and managing
+patrols manually.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 I sent a Danish F-16 from Skrydstrup to tease the Gammons into
 squandering ammo at their maximum range, but they weren’t buying it.
@@ -159,7 +178,11 @@ there in time to intercept some of the missiles, while others sailed by,
 failing to lock-on. Yet more missiles, this time standard Styxes from
 Bornholm, fell short. In the middle of all this, I received a ridiculous
 message telling me that I was out of time deciding whether to accept the
+<<<<<<< HEAD
 defection and had no choice but to sink the Warszawa! Happily, this was
+=======
+defection and had no choice but to sink the Warszawa\! Happily, this was
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 rubbish and had no effect on things. The Soviets then went all-out
 against the fugitive DDG, with more Improved Styxes and waves of
 escorted MiG-27s from Bornholm and the mainland zooming in on her.
@@ -168,7 +191,11 @@ save her. It cost the Soviets 16 planes, but the sinking hit us for a
 savage 100VP penalty, exacerbated by the loss of two Tornadoes and three
 Phantoms for 25 more. Things were back to a Major Defeat.
 
+<<<<<<< HEAD
 20:00Z: Don’t get mad (though I did!), get even. With enemy aircraft
+=======
+20:00Z: Don’t get mad (though I did\!), get even. With enemy aircraft
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 absorbed in hunting the Warszawa, their CAP near Bornholm let its guard
 down. Our PCFGs retaliated with a volley of Harpoons at the NW ASW
 Group. Despite several more Floggers showing-up, this sank the Krivak
@@ -250,6 +277,7 @@ find that it was no longer radiating.
 An F-16 flushed-out two Gainfuls and a Gecko and her HARMs dealt with
 the first two, but the Gecko was saved by a malfunction, just as an
 unidentified aircraft took-off from Ronne. While this was going on, the
+<<<<<<< HEAD
 Gammon lit-up again, took one shot at an RTB’ing Tornado, 40%, BANG!.
 Two more Geckoes were located and damaged, but they were being very
 lucky with malfunctioning HARMs. A problem with Geckoes is that they
@@ -257,6 +285,16 @@ don’t have a discrete radar component (like the Gainful), so they don’t
 get disabled by ARM hits. Instead, you have to take-out both components
 to silence them. The mystery plane turned-out to be a Cub transport, but
 an F-16 apparently couldn’t see it from 846m away, so it escaped !!
+=======
+Gammon lit-up again, took one shot at an RTB’ing Tornado, 40%, BANG\!.
+Two more Geckoes were located and damaged, but they were being very
+lucky with malfunctioning HARMs. A problem with Geckoes is that they
+don’t have a discrete radar component (like the Gainful), so they
+don’t get disabled by ARM hits. Instead, you have to take-out both
+components to silence them. The mystery plane turned-out to be a Cub
+transport, but an F-16 apparently couldn’t see it from 846m away, so it
+escaped \!\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 04:00Z: Two F-16s used their sensors to help some Tornadoes find the
 Geckoes. It was risky and frustrating and a light-armed Falcon was lost,
@@ -266,7 +304,11 @@ out of Floggers), but this was unwise of them and the RAF Tornadoes put
 them away. The Brits then took a toll of the Soviet support aircraft and
 dove to avoid the Gammon when it woke-up. One was then lost to a Cub
 transport’s 23mm tail-gun, having repeatedly failed to hit it. It
+<<<<<<< HEAD
 doesn’t come more ignominious than that!
+=======
+doesn’t come more ignominious than that\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 05:00Z: Three HARM Tornadoes failed to finish-off the last pair of
 Geckoes due to wretched luck, one site being missed four times. One did,
@@ -316,7 +358,11 @@ to Aakirkeby, the score reached 400, but was still only Average.
 
 09:00Z: Two Cub transports were added to the bag. Meanwhile Unicorn
 reached her designated withdrawal zone. I expected to get around 100VP
+<<<<<<< HEAD
 for this, but got precisely NONE!.
+=======
+for this, but got precisely NONE\!.
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 Took-out my frustration on a Foxtrot, which was found and torpedoed by
 U-13, scoring 15VP.
@@ -349,7 +395,11 @@ problems with ambiguous targets. The barrage of Grouse was ridiculous,
 with 47 fired during this raid alone. We lost two planes, but destroyed
 4 air defence installations and a heliport hangar to finish 15VP ahead
 on the strike. A score of +501 was STILL Average – what did I have to do
+<<<<<<< HEAD
 to win?!
+=======
+to win?\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 A Tornado downed the second Bryza, while a Breguet found and sank the
 Polish SSK Orzel (a Kilo). At 1,000’, the patrol planes seemed
@@ -369,7 +419,11 @@ no losses. Score +592, still Average.
 
 15:00Z: Two US F-16s were sent to snipe Polish Fishbeds near
 Neubrandenburg. Just as they approached striking distance, the MiG-21s
+<<<<<<< HEAD
 went RTB and flew off!. Two replacements soon arrived and were disposed
+=======
+went RTB and flew off\!. Two replacements soon arrived and were disposed
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 of, with the Americans dodging retaliatory SAMs.
 
 16:00Z: Four rocket-firing Drakens and two F-16s returned to Bornholm,
@@ -396,4 +450,8 @@ Overall, this was a very enjoyable scenario to play, but the scoring
 system is badly awry. As it stands, it’s almost impossible to ‘win’.
 
 It was hard enough closing one airport runway in this scenario. In the
+<<<<<<< HEAD
 next one, I have to close about twenty as the Soviets. Not optimistic!
+=======
+next one, I have to close about twenty as the Soviets. Not optimistic\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0

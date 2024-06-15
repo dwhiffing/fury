@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 **<u>Indian Ocean Fury \#1 – Persian Pounce</u>**
 
 **<u>AAR by fitzpatv, Feb 2023</u>**
+=======
+**<span class="underline">Indian Ocean Fury \#1 – Persian
+Pounce</span>**
+
+**<span class="underline">AAR by fitzpatv, Feb 2023</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 So, the intention is to alternate Indian Ocean Fury with the four NFZ
 scenarios, with the latter replacing my abandoned Chains of War series.
@@ -220,7 +227,11 @@ to make-up the huge deficit.
 
 Having read other AARs, lessons are as follows:
 
+<<<<<<< HEAD
 1\. Ensure that all ships have SAMs loaded!
+=======
+1\. Ensure that all ships have SAMs loaded\!
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 2\. Ensure that all surface ships are on Weapons Tight.
 
@@ -257,7 +268,11 @@ runways after they have landed.
 AARs where the player always wins are boring, aren't they?. I’ll give
 this another go in the next few days and report back.
 
+<<<<<<< HEAD
 **<u>Second Attempt</u>**
+=======
+**<span class="underline">Second Attempt</span>**
+>>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 So I tried again, implementing the measures listed above. The action
 unfolded much as before, but with all of our available fighters arriving
