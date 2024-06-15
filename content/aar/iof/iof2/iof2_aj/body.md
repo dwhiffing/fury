@@ -1,4 +1,4 @@
-**Indian Ocean Fury \#2 – Madagascar Madness**
+**Indian Ocean Fury \#2 – Mozambique Madness**
 
 **<u>Playtest Report by AndrewJ July 2017</u>**
 

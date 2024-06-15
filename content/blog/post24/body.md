@@ -130,7 +130,7 @@ Gorshkov](http://northernfury.us/warsaw/su/navy/cuisers/)*** escorted by
 two modern destroyers of the
 [Sovremennyy](http://northernfury.us/warsaw/su/navy/destroyers/) class.
 
-<img src="/assets\images\blog\post24\image8.jpg" style="width:22.00069in;height:8.40903in" />
+<img src="/assets\images\blog\post24\image8.jpeg" style="width:6.69488in;height:2.55889in" />
 
 Two other KUGs provide escort but these consist of much older ships led
 by [Kara and Kresta](http://northernfury.us/warsaw/su/navy/cuisers/)
@@ -141,7 +141,7 @@ frigates. In addition to providing ASW escort these older ships will
 from the ‘Gun Line’ to suppress targets ashore while the amphibious
 operation is underway.
 
-<img src="/assets\images\blog\post24\image9.jpg" style="width:8.36458in;height:5.61832in" />9
+<img src="/assets\images\blog\post24\image9.jpg" style="width:6.3481in;height:4.26389in" />
 
 **<u>Missile Boats</u>**
 
@@ -157,7 +157,7 @@ ground-effects ekranoplan of the [Lun
 class](http://northernfury.us/warsaw/su/navy/fac/) carrying six SS-N-22
 Sunburn missiles each.
 
-<img src="/assets\images\blog\post24\image10.jpg" style="width:16.66667in;height:10.22917in" />
+<img src="/assets\images\blog\post24\image10.jpg" style="width:6.53315in;height:4.00972in" />
 
 **<u>ASW Forces</u>**
 
@@ -167,7 +167,7 @@ about 20 smaller [ASW craft](http://northernfury.us/warsaw/su/navy/asw/)
 of the Shershen, Matka, Petya, Stenka and Grisha classes are sweeping
 ahead and to the flanks of the main formation.
 
-<img src="/assets\images\blog\post24\image11.jpg" style="width:6.85417in;height:4.51843in" />
+<img src="/assets\images\blog\post24\image11.jpg" style="width:6.20573in;height:4.09097in" />
 
 **<u>Submarine forces</u>**
 
@@ -176,7 +176,7 @@ mostly in the Black Sea but also in the Aegean and Sea of Marmara are
 supporting this operation. Some are the very old Whiskey and Foxtrot
 class but three are modern Kilo class boats.
 
-<img src="/assets\images\blog\post24\image12.jpg" style="width:12.80556in;height:6.95833in" />
+<img src="/assets\images\blog\post24\image12.jpg" style="width:6.58681in;height:3.57916in" />
 
 **<u>Amphibious forces</u>**
 
@@ -190,4 +190,4 @@ various smaller types. Key to an early lodgment are the numerous fast
 amphibious air cushion landing ships, seven Aist and three Zubr class
 lead this force but several smaller craft are also involved.
 
-<img src="/assets\images\blog\post24\image13.jpg" style="width:12.84722in;height:8.56944in" />
+<img src="/assets\images\blog\post24\image13.jpg" style="width:6.10034in;height:4.06909in" />

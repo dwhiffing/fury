@@ -40,10 +40,10 @@ Soviet side while the remainder are from a NATO perspective.
 5.  Serbia-right, The Balkans become a scene of confused and intense
     conflict
 
-6.  Revisit the Stone Age, A bid to knock Syria out of the war
+6.  Hammer to Fall, A bid to knock Syria out of the war
 
-7.  Push Back, Operations to stabilize the fighting near the Turkish
-    Straits
+7.  Under Pressure, Operations to stabilize the fighting near the
+    Turkish Straits
 
 8.  Regime Change, Old scores are settled with Libya
 

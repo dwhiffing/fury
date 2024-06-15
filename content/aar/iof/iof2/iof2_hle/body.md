@@ -1,4 +1,4 @@
-**Indian Ocean Fury \#2 – Madagascar Madness**
+**Indian Ocean Fury \#2 – Mozambique Madness**
 
 **<u>AAR by HLE Oct 2021</u>**
 
