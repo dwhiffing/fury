@@ -1,4 +1,4 @@
-**Mediterranean Fury 7: Under Pressure**
+**Mediterranean Fury 7: Push Back**
 
 22 Feb 1994, Zulu, Local
 

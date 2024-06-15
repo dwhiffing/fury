@@ -4,7 +4,7 @@ layout:  home
 
 ## Book on Sale now! **Get it on [Amazon](https://www.amazon.com/dp/B07R7BVQ31?ref_=pe_3052080_276849420)**
 
-## Audiobook Available now! **Get it on [Audible](https://www.audible.com/pd/B087C9824B/?source_code=AUDFPWS0223189MWT-BK-ACX0-192718&ref=acx_bty_BK_ACX0_192718_rh_us), iTunes and Amazon**
+## The Nordkapp Affair - a Northern Fury novella! **Release date set at 28 June 2024**
 
 #### **Listen to an [Interview](/assets/audio/993interview_gauvin.mp3) on County 99.3 FM**
 
