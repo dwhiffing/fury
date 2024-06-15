@@ -6,7 +6,7 @@ layout:  home
 
 ## The Nordkapp Affair - a Northern Fury novella! **Release date set at 28 June 2024**
 
-#### **Listen to an [Interview](/assets/audio/993interview_gauvin.mp3) on County 99.3 FM**
+#### **Listen to an [podcast](https://www.youtube.com/watch?v=Pqi5yLevjV4) from Alex and the WarPorn group**
 
 ### Watch a scenario play through and listen to an interviw on [Twitch](https://www.twitch.tv/videos/427260603)
 

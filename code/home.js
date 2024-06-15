@@ -17,6 +17,7 @@ const Home = ({ _body }) => (
 
       <div style={{ flex: '1', justifyContent: 'center', padding: '0 20' }}>
         <img src={`${PREFIX}/assets/images/cover.jpg`} alt="Cover" />
+      <div style={{ flex: '1', justifyContent: 'center', padding: '0 20' }}></div>
         <img src={`${PREFIX}/assets/images/nordkapp.jpg`} alt="Nordkapp" />
         <p className="sponsors">
           More information on COMMAND Modern Air/Naval Operations can be found
