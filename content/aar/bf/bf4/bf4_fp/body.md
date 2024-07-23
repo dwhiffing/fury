@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 **<u>Baltic Fury 4 – Ride of the Valkyries</u>**
 
 **<u>Summary by fitzpatv, Jan 2023</u>**
-=======
-**<span class="underline">Baltic Fury 4 – Ride of the Valkyries</span>**
-
-**<span class="underline">Summary by fitzpatv, Jan 2023</span>**
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 Not sure how suitable the scenario title is here, since valkyries are
 associated with Scandinavian and German mythology and the player has to
@@ -104,12 +98,7 @@ than its share of lakes and marshes and, as the software seems not to
 recognise the presence of roads, it is very easy for land units to drive
 into these and come to an irretrievable halt. Only a couple of batteries
 got far enough to make themselves useful late in the game but then, if
-<<<<<<< HEAD
 I’d left them where they started, they would have played no role at all.
-=======
-I’d left them where they started, they would have played no role at
-all.
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 25/2/94 03:00Z: Pre-dawn strike options were limited to SEAD (but NATO
 radars were turned off) or hitting the ports and Vaerlose airbase in the
@@ -173,11 +162,7 @@ Grumbled.
 06:00: With the airspace temporarily clearing a bit, time for some
 tentative strikes. A Polish Fitter ineptly failed to take-out the Rodvig
 OECM station with Karens when one hit was needed. Another repeated the
-<<<<<<< HEAD
 fiasco – three malfunctions in succession on chances of 15%!. Two
-=======
-fiasco – three malfunctions in succession on chances of 15%\!. Two
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 Tornadoes intervened and were disposed-of by escorts at a cost of one
 Flanker. A third Fitter finally did the job, but failed to clobber the
 nearby Holmen OECM station with its second Karen and scored no VP into
@@ -233,11 +218,7 @@ crossing to Ebeltoft on Jutland. Given its 40 knot speed, there wasn’t
 much time in which to sink it. As it happened, I had a Fitter just about
 to hit the Holmen OECM station with Karens, so I diverted it. Almost
 immediately, the Polish pilot defected, baling-out and letting his plane
-<<<<<<< HEAD
 crash. Either the events were linked or this was just horrible luck!.
-=======
-crash. Either the events were linked or this was just horrible luck\!.
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 10:00: I sent two Soviet Mig-27s with Kedges after the catamaran. With
 fighters absent for once, they arrived in time and did the job for a
@@ -252,11 +233,7 @@ Jutland, where a traffic logjam included some Danish logistical
 vehicles. However, it transpired that the Backstop CAP was very bad
 news, as swarms of fighters began to appear and centred their patrol
 over the bridge. There were about 30 of them and they included planes
-<<<<<<< HEAD
 from the Dutch bases. We weren’t doing this anytime soon!
-=======
-from the Dutch bases. We weren’t doing this anytime soon\!
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 I decided that the port defences at Holmen, Copenhagen were weak enough
 that I could mount a strike at them. As the ten piers constitute the

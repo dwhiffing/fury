@@ -1,10 +1,6 @@
 **Indian Ocean Fury \#2 – Mozambique Madness**
 
-<<<<<<< HEAD
 **<u>AAR by fitzpatv, Feb 2023</u>**
-=======
-**<span class="underline">AAR by fitzpatv, Feb 2023</span>**
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 In the unlikely event that anyone has missed me, apologies for the delay
 since my last AAR. Though I’ve suspended my Chains of War series, I’ve
@@ -458,11 +454,7 @@ the complexion of the game. I kept her in the bottom right corner of the
 zone to avoid enemy sub detection as best I could.
 
 23:00: Jeanne d’Arc joined Ark Royal for another 250VP. Suddenly, it was
-<<<<<<< HEAD
 a Major Victory!.
-=======
-a Major Victory\!.
->>>>>>> f32eacaab95d742dbe089682d4170b77360282d0
 
 17/2/94 01:00: Peleliu reached Zone Sierra for another 250VP, taking me
 dizzyingly into Triumph territory. It was now a matter of holding our
